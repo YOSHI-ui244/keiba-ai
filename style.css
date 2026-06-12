@@ -262,6 +262,15 @@ body {
   background: var(--gold); color: #20243f;
   border-radius: 6px; padding: 4px 10px; font-weight: 700;
 }
+/* 成績検証ページの日付タブ(月の行+日の行) */
+#date-tabs { display: block; }
+#date-tabs .tab-row {
+  display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+  margin-bottom: 8px;
+}
+#date-tabs .day-row a, #date-tabs .day-row .date-current {
+  font-size: 13px; padding: 3px 9px;
+}
 .bets-total { border-top: 1px solid var(--line); margin-top: 4px; padding-top: 10px !important; }
 .bets-empty { color: var(--text-dim); font-size: 14px; }
 .value-plan { border-color: #3d6cd9; }

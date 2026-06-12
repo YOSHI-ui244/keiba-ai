@@ -206,13 +206,36 @@
           "検証データがまだありません。過去日のデータを fetch_data.py で取得してください。";
         return;
       }
+      // 日付が多いので「月タブ + その月の日付」の2段で表示する
       let current = dates[0];
+      let curMonth = current.slice(0, 6);
+      const months = [...new Set(dates.map((d) => d.slice(0, 6)))]; // 新しい月が先頭
       const renderTabs = () => {
-        tabs.innerHTML = dates.map((d) =>
-          d === current
-            ? `<span class="date-current">${fmt(d)}</span>`
-            : `<a href="#" data-date="${d}">${fmt(d)}</a>`
-        ).join("");
+        const monthHtml = months.map((m) => {
+          const label = `${parseInt(m.slice(0, 4), 10)}年${parseInt(m.slice(4, 6), 10)}月`;
+          return m === curMonth
+            ? `<span class="date-current">${label}</span>`
+            : `<a href="#" data-month="${m}">${label}</a>`;
+        }).join("");
+        const W = "日月火水木金土";
+        const dayHtml = dates.filter((d) => d.startsWith(curMonth)).map((d) => {
+          const dt = new Date(+d.slice(0, 4), +d.slice(4, 6) - 1, +d.slice(6, 8));
+          const label = `${parseInt(d.slice(6, 8), 10)}日(${W[dt.getDay()]})`;
+          return d === current
+            ? `<span class="date-current">${label}</span>`
+            : `<a href="#" data-date="${d}" class="day-chip">${label}</a>`;
+        }).join("");
+        tabs.innerHTML =
+          `<div class="tab-row">${monthHtml}</div><div class="tab-row day-row">${dayHtml}</div>`;
+        tabs.querySelectorAll("a[data-month]").forEach((a) => {
+          a.addEventListener("click", (ev) => {
+            ev.preventDefault();
+            curMonth = a.dataset.month;
+            current = dates.find((d) => d.startsWith(curMonth)); // その月の最新日
+            renderTabs();
+            loadDate(current, available);
+          });
+        });
         tabs.querySelectorAll("a[data-date]").forEach((a) => {
           a.addEventListener("click", (ev) => {
             ev.preventDefault();
