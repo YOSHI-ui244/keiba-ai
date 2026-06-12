@@ -1,0 +1,1 @@
+window.ARCHIVE_DATES = ["20260602", "20260601"];
