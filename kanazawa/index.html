@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>金沢競馬 | 回収率100%超えを目指し学習するAIの予想</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1 class="logo"><a href="../" class="logo-link" title="レース場一覧へ">🏇 回収率100%超えを目指し学習するAIの予想</a> <span class="logo-accent">金沢</span></h1>
+      <div class="kaisai-info" id="kaisai-info"></div>
+    </div>
+    <div class="header-inner">
+      <a href="../" class="back-link">← レース場一覧にもどる</a>
+    </div>
+  </header>
+
+  <div class="archive-links" id="archive-links" style="display:none"></div>
+
+  <nav class="race-tabs" id="race-tabs"></nav>
+
+  <main class="main" id="main">
+    <section class="race-header" id="race-header"></section>
+
+    <section class="card">
+      <h2 class="card-title">出馬表・予想印</h2>
+      <div class="table-wrap">
+        <table class="shutsuba" id="shutsuba-table">
+          <thead>
+            <tr>
+              <th>印</th><th>枠</th><th>馬番</th><th>馬名</th><th>性齢</th>
+              <th>斤量</th><th>騎手</th><th>近走</th><th>単勝</th>
+              <th>AIスコア</th><th>勝率</th><th>妙味</th>
+            </tr>
+          </thead>
+          <tbody id="shutsuba-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <div class="two-col">
+      <section class="card value-plan">
+        <h2 class="card-title">EV単勝プラン 🎯</h2>
+        <p class="comment-note odds-status-slot"></p>
+        <ul class="bets" id="value-bets-list"></ul>
+        <p class="comment-note">
+          モデルの期待値(予測勝率×オッズ)が1.0以上かつ単勝5〜20倍の馬の単勝だけを買う攻めのプラン。
+          該当馬がいないレースは見送ります。検証成績(TCK・2026/6/8〜11): 16点4的中・回収率259%(サンプル小のため継続検証中)。
+        </p>
+      </section>
+      <section class="card value-plan">
+        <h2 class="card-title">EV複勝プラン 🛡</h2>
+        <p class="comment-note odds-status-slot"></p>
+        <ul class="bets" id="place-bets-list"></ul>
+        <p class="comment-note">
+          同じ該当馬を複勝で買う堅実版。当たりやすい分、配当は低めです。
+          検証成績(TCK・2026/6/8〜11): 16点5的中・回収率80%(=控除率どおり。現時点でエッジは単勝側のみ)。
+        </p>
+      </section>
+    </div>
+
+    <section class="card sanrentan-plan">
+      <h2 class="card-title">三連単プラン 🎲</h2>
+      <p class="comment-note odds-status-slot"></p>
+      <ul class="bets" id="sanrentan-list"></ul>
+      <p class="comment-note">
+        ◎○の2頭を1着軸に、2・3着は印のついた5頭(◎○▲△☆)へ流すフォーメーション(印5頭で24点=2,400円)。
+        点数が多く控除率も高い券種のため、高配当狙いの参考プランです。
+      </p>
+    </section>
+
+    <div class="two-col">
+      <section class="card">
+        <h2 class="card-title">予想コメント</h2>
+        <p class="comment" id="race-comment"></p>
+        <p class="comment-note" id="comment-note"></p>
+      </section>
+      <section class="card">
+        <h2 class="card-title">プランの考え方</h2>
+        <p class="comment">
+          競馬は券種ごとに控除率が決まっており、単勝・複勝(約80%)が最も有利、三連単(約72.5%)が最も不利です。
+          どんな買い方でも平均すれば払戻率に収束するため、回収率100%を超える唯一の道は
+          「市場(オッズ)より正確な確率予測で、期待値が1を超える馬だけ買う」こと。
+          当サイトのEVプランはこの考え方に基づき、控除率が最小の単勝・複勝のみを使っています。
+          詳しくは<a href="../#kaisetsu" style="color:var(--gold)">トップページの解説(図つき)</a>へ。
+        </p>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>※ 出馬表・オッズ・払戻は公開されている競馬情報をもとに作成しています(サンプルデータ表示の場合あり)。オッズはヘッダーの「オッズ更新」時点のもので、開催時間中は発走直前まで10分間隔で自動更新されます(最終オッズとは異なる場合があります)。</p>
+    <p>※ 予想印・買い目は簡易アルゴリズムによる参考情報であり、的中を保証するものではありません。</p>
+    <p>馬券の購入は20歳から。無理のない範囲でお楽しみください。</p>
+  </footer>
+
+  <!-- ../data.sample.js: サンプルデータ / data.js: fetch_data.py が生成する実データ(あれば上書き) -->
+  <!-- URLに ?date=YYYYMMDD が付いていたら過去日アーカイブ(data-YYYYMMDD.js)を読み込む -->
+  <script src="../data.sample.js"></script>
+  <script>
+    (function () {
+      var m = location.search.match(/date=(\d{8})/);
+      document.write('<script src="' + (m ? "data-" + m[1] + ".js" : "data.js") + '"><\/script>');
+    })();
+  </script>
+  <script src="archive.js"></script>
+  <script src="../engine.js"></script>
+  <script src="../app.js"></script>
+</body>
+</html>

@@ -1,0 +1,232 @@
+﻿<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>予想成績・回収率 | 回収率100%超えを目指し学習するAIの予想</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1 class="logo"><a href="./" class="logo-link" title="レース場一覧へ">🏇 回収率100%超えを目指し学習するAIの予想</a> <span class="logo-accent">成績検証</span></h1>
+      <div class="kaisai-info"><span>予想印・推奨買い目を各100円購入した場合の検証です</span></div>
+    </div>
+    <div class="header-inner">
+      <a href="./" class="back-link">← レース場一覧にもどる</a>
+    </div>
+  </header>
+
+  <div class="archive-links" id="date-tabs"></div>
+
+  <main class="main" id="results-main">
+    <p class="comment" id="loading-msg">集計中...</p>
+  </main>
+
+  <footer class="site-footer">
+    <p>※ 検証の予想は当該日より前のデータのみで算出しています。払戻金は公営競馬の確定値(100円あたり)です。</p>
+    <p>※ 簡易アルゴリズムによる参考情報であり、将来の的中・回収を保証するものではありません。</p>
+  </footer>
+
+  <script src="engine.js"></script>
+  <script>
+  (function () {
+    "use strict";
+    const E = window.Engine;
+    const VENUES = [
+      ["monbetsu", "門別"], ["morioka", "盛岡"], ["mizusawa", "水沢"],
+      ["urawa", "浦和"], ["funabashi", "船橋"], ["oi", "大井"], ["kawasaki", "川崎"],
+      ["kanazawa", "金沢"], ["kasamatsu", "笠松"], ["nagoya", "名古屋"],
+      ["sonoda", "園田"], ["himeji", "姫路"], ["kochi", "高知"], ["saga", "佐賀"]
+    ];
+    const fmt = (d) => `${parseInt(d.slice(4, 6), 10)}月${parseInt(d.slice(6, 8), 10)}日`;
+    const yen = (n) => n.toLocaleString() + "円";
+
+    async function fetchText(url) {
+      const res = await fetch(url, { cache: "no-store" });
+      if (!res.ok) throw new Error(url);
+      return res.text();
+    }
+
+    // data-YYYYMMDD.js のテキストからJSONを取り出す(scriptとして実行しない)
+    function parseDataJs(txt) {
+      return JSON.parse(txt.slice(txt.indexOf("{"), txt.lastIndexOf("}") + 1));
+    }
+
+    // 1場1日分を集計(基本プラン+回収率重視プラン)
+    function summarizeVenue(data) {
+      const races = [];
+      let invested = 0, returned = 0, honmeiWin = 0, honmeiTop3 = 0, judgedRaces = 0;
+      let vInv = 0, vRet = 0, vBets = 0, vHits = 0;
+      let fInv = 0, fRet = 0, fBets = 0, fHits = 0;
+      data.races.forEach((race) => {
+        if (E.isNoDataRace(race)) return; // 新馬戦は予想対象外
+        const { rows, ranked, star } = E.analyzeRace(race);
+        const bets = E.suggestBets(ranked, star);
+        const order = race.result && race.result.order;
+        if (!order) return;
+        judgedRaces++;
+        let rInv = 0, rRet = 0;
+        const hits = [];
+        bets.forEach((b) => {
+          const ret = E.betReturn(b, race.result);
+          rInv += ret.cost;
+          rRet += ret.payout || 0;
+          if (ret.hit) hits.push(`${b.kind}${ret.payout != null ? " " + yen(ret.payout) : ""}`);
+        });
+        invested += rInv; returned += rRet;
+        // EV単勝プラン
+        E.suggestValueBets(rows).forEach((b) => {
+          const ret = E.betReturn(b, race.result);
+          vInv += ret.cost; vRet += ret.payout || 0; vBets++;
+          if (ret.hit) vHits++;
+        });
+        // EV複勝プラン
+        E.suggestPlaceBets(rows).forEach((b) => {
+          const ret = E.betReturn(b, race.result);
+          fInv += ret.cost; fRet += ret.payout || 0; fBets++;
+          if (ret.hit) fHits++;
+        });
+        const honmei = ranked[0];
+        const fin = order.indexOf(honmei.horse.num) + 1 || 99;
+        if (fin === 1) honmeiWin++;
+        if (fin <= 3) honmeiTop3++;
+        races.push({
+          raceNo: race.raceNo, name: race.name,
+          honmei: honmei.horse.name, fin: fin === 99 ? "着外" : fin + "着",
+          hits, diff: rRet - rInv
+        });
+      });
+      return { races, invested, returned, honmeiWin, honmeiTop3, judgedRaces,
+               vInv, vRet, vBets, vHits, fInv, fRet, fBets, fHits };
+    }
+
+    function ratePill(inv, ret) {
+      const rate = inv ? Math.round((ret / inv) * 100) : 0;
+      return `<span class="rate ${rate >= 100 ? "plus" : "minus"}">回収率 ${rate}%</span>`;
+    }
+
+    function venueHtml(name, s) {
+      const valueLine = s.vBets
+        ? `EV単勝プラン🎯: ${s.vBets}点${s.vHits}的中 投資 <b>${yen(s.vInv)}</b> → 払戻 <b>${yen(s.vRet)}</b> ${ratePill(s.vInv, s.vRet)}`
+        : `EV単勝プラン🎯: 該当馬なし(全レース見送り)`;
+      const placeLine = s.fBets
+        ? `EV複勝プラン🛡: ${s.fBets}点${s.fHits}的中 投資 <b>${yen(s.fInv)}</b> → 払戻 <b>${yen(s.fRet)}</b> ${ratePill(s.fInv, s.fRet)}`
+        : `EV複勝プラン🛡: 該当馬なし(全レース見送り)`;
+      const rows = s.races.map((r) => `
+        <tr>
+          <td>${r.raceNo}R</td>
+          <td class="r-name">${r.name}</td>
+          <td>${r.honmei} <span class="${/^[123]着$/.test(r.fin) ? "fin-ok" : "fin-ng"}">${r.fin}</span></td>
+          <td class="r-hits">${r.hits.length ? r.hits.join(" / ") : "—"}</td>
+          <td class="${r.diff >= 0 ? "plus" : "minus"}">${r.diff >= 0 ? "+" : ""}${r.diff.toLocaleString()}円</td>
+        </tr>`).join("");
+      return `
+      <section class="card">
+        <h2 class="card-title">${name}競馬場</h2>
+        <p class="venue-summary">
+          ${valueLine}<br>
+          ${placeLine}<br>
+          <span class="ref-plan">三連単プラン🎲(◎○2頭軸F): 投資 ${yen(s.invested)} → 払戻 ${yen(s.returned)}
+          ${ratePill(s.invested, s.returned)}
+          / ◎本命: ${s.honmeiWin}勝・複勝圏${s.honmeiTop3}回(${s.judgedRaces}R)</span>
+        </p>
+        <div class="table-wrap">
+          <table class="results-table">
+            <thead><tr><th>R</th><th>レース</th><th>◎本命(着順)</th><th>的中買い目(払戻)</th><th>収支</th></tr></thead>
+            <tbody>${rows}</tbody>
+          </table>
+        </div>
+      </section>`;
+    }
+
+    async function loadDate(dateStr, available) {
+      const main = document.getElementById("results-main");
+      main.innerHTML = `<p class="comment">集計中...</p>`;
+      let total = { inv: 0, ret: 0, win: 0, top3: 0, races: 0,
+                    vInv: 0, vRet: 0, vBets: 0, vHits: 0,
+                    fInv: 0, fRet: 0, fBets: 0, fHits: 0 };
+      const sections = [];
+      for (const [slug, name] of VENUES) {
+        if (!available[dateStr] || !available[dateStr].has(slug)) continue;
+        try {
+          const data = parseDataJs(await fetchText(`${slug}/data-${dateStr}.js`));
+          const s = summarizeVenue(data);
+          if (!s.judgedRaces) continue;
+          total.inv += s.invested; total.ret += s.returned;
+          total.win += s.honmeiWin; total.top3 += s.honmeiTop3; total.races += s.judgedRaces;
+          total.vInv += s.vInv; total.vRet += s.vRet; total.vBets += s.vBets; total.vHits += s.vHits;
+          total.fInv += s.fInv; total.fRet += s.fRet; total.fBets += s.fBets; total.fHits += s.fHits;
+          sections.push(venueHtml(name, s));
+        } catch (e) { /* この場のデータなし */ }
+      }
+      const valueTotalLine = total.vBets
+        ? `EV単勝プラン🎯: ${total.vBets}点${total.vHits}的中 投資 <b>${yen(total.vInv)}</b> → 払戻 <b>${yen(total.vRet)}</b> ${ratePill(total.vInv, total.vRet)}`
+        : `EV単勝プラン🎯: 該当馬なし`;
+      const placeTotalLine = total.fBets
+        ? `EV複勝プラン🛡: ${total.fBets}点${total.fHits}的中 投資 <b>${yen(total.fInv)}</b> → 払戻 <b>${yen(total.fRet)}</b> ${ratePill(total.fInv, total.fRet)}`
+        : `EV複勝プラン🛡: 該当馬なし`;
+      const banner = total.races
+        ? `<section class="card total-banner">
+             <h2 class="card-title">${fmt(dateStr)} 全場合計</h2>
+             <p class="venue-summary big">
+               ${valueTotalLine}<br>
+               ${placeTotalLine}<br>
+               <span class="ref-plan">三連単プラン🎲(◎○2頭軸F): 投資 ${yen(total.inv)} → 払戻 ${yen(total.ret)}
+               ${ratePill(total.inv, total.ret)}
+               / ◎本命: ${total.win}勝・複勝圏${total.top3}回(全${total.races}R)</span>
+             </p>
+           </section>`
+        : `<p class="comment">この日の検証データはありません。</p>`;
+      main.innerHTML = banner + sections.join("");
+    }
+
+    async function init() {
+      // 各場のアーカイブ一覧から日付の集合を作る
+      const available = {}; // date -> Set(slug)
+      await Promise.all(VENUES.map(async ([slug]) => {
+        try {
+          const txt = await fetchText(`${slug}/archive.js`);
+          const m = txt.match(/\[(.*?)\]/s);
+          if (!m) return;
+          JSON.parse(`[${m[1]}]`).forEach((d) => {
+            (available[d] = available[d] || new Set()).add(slug);
+          });
+        } catch (e) { /* アーカイブなしの場 */ }
+      }));
+      // 未来日(前日公開のプレビュー)は結果がないため除外
+      const todayStr = (() => {
+        const n = new Date();
+        return n.getFullYear() * 10000 + (n.getMonth() + 1) * 100 + n.getDate() + "";
+      })();
+      const dates = Object.keys(available).filter((d) => d <= todayStr).sort().reverse();
+      const tabs = document.getElementById("date-tabs");
+      if (!dates.length) {
+        document.getElementById("loading-msg").textContent =
+          "検証データがまだありません。過去日のデータを fetch_data.py で取得してください。";
+        return;
+      }
+      let current = dates[0];
+      const renderTabs = () => {
+        tabs.innerHTML = dates.map((d) =>
+          d === current
+            ? `<span class="date-current">${fmt(d)}</span>`
+            : `<a href="#" data-date="${d}">${fmt(d)}</a>`
+        ).join("");
+        tabs.querySelectorAll("a[data-date]").forEach((a) => {
+          a.addEventListener("click", (ev) => {
+            ev.preventDefault();
+            current = a.dataset.date;
+            renderTabs();
+            loadDate(current, available);
+          });
+        });
+      };
+      renderTabs();
+      loadDate(current, available);
+    }
+    init();
+  })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>回収率100%超えを目指し学習するAIの予想 | 地方競馬</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1 class="logo">🏇 回収率100%超えを目指し学習する<span class="logo-accent">AIの予想</span></h1>
+      <div class="kaisai-info">
+        <span>レース場を選択してください</span>
+        <a href="results.html" class="results-link">📊 予想成績(回収率)</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="main">
+    <!--
+      カードは全場分を置いておき、<slug>/data.js が存在する場だけ
+      ページ下部のスクリプトが「予想公開中」として自動で有効化する。
+      新しい場のデータを fetch_data.py で生成するだけでカードが開く。
+    -->
+    <section class="venue-section" id="hits-section" style="display:none">
+      <h2 class="venue-region">🎯 EVプランの的中実績(直近)</h2>
+      <div class="hits-grid" id="hits-grid"></div>
+      <p class="comment-note">※ 各100円購入・確定オッズでの検証結果(回収率=払戻額÷100円)。詳細は<a href="results.html" style="color:var(--gold)">予想成績ページ</a>へ。</p>
+    </section>
+
+    <section class="venue-section" id="stats-section" style="display:none">
+      <h2 class="venue-region">📈 直近2週間の成績(EVプラン・全場)</h2>
+      <div class="card">
+        <p class="venue-summary big" id="stats-total"></p>
+        <div class="table-wrap">
+          <table class="results-table" id="stats-table">
+            <thead><tr><th>場</th><th>EV単勝 🎯</th><th>EV複勝 🛡</th></tr></thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p class="comment-note" id="stats-note"></p>
+      </div>
+    </section>
+
+    <section class="venue-section">
+      <h2 class="venue-region">南関東</h2>
+      <div class="venue-grid">
+        <a class="venue-card disabled" data-venue="urawa"><span class="venue-name">浦和</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+        <a class="venue-card disabled" data-venue="funabashi"><span class="venue-name">船橋</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+        <a class="venue-card disabled" data-venue="oi"><span class="venue-name">大井</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+        <a class="venue-card disabled" data-venue="kawasaki"><span class="venue-name">川崎</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+      </div>
+    </section>
+
+    <section class="venue-section">
+      <h2 class="venue-region">北海道・東北</h2>
+      <div class="venue-grid">
+        <div class="venue-card disabled"><span class="venue-name">帯広(ばんえい)</span><span class="venue-status">非対応</span></div>
+        <a class="venue-card disabled" data-venue="monbetsu"><span class="venue-name">門別</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+        <a class="venue-card disabled" data-venue="morioka"><span class="venue-name">盛岡</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+        <a class="venue-card disabled" data-venue="mizusawa"><span class="venue-name">水沢</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+      </div>
+    </section>
+
+    <section class="venue-section">
+      <h2 class="venue-region">東海・北陸</h2>
+      <div class="venue-grid">
+        <a class="venue-card disabled" data-venue="kanazawa"><span class="venue-name">金沢</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+        <a class="venue-card disabled" data-venue="kasamatsu"><span class="venue-name">笠松</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+        <a class="venue-card disabled" data-venue="nagoya"><span class="venue-name">名古屋</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+      </div>
+    </section>
+
+    <section class="venue-section">
+      <h2 class="venue-region">近畿・四国・九州</h2>
+      <div class="venue-grid">
+        <a class="venue-card disabled" data-venue="sonoda"><span class="venue-name">園田</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+        <a class="venue-card disabled" data-venue="himeji"><span class="venue-name">姫路</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+        <a class="venue-card disabled" data-venue="kochi"><span class="venue-name">高知</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+        <a class="venue-card disabled" data-venue="saga"><span class="venue-name">佐賀</span><span class="venue-status">準備中</span><span class="venue-date"></span></a>
+      </div>
+    </section>
+    <section class="venue-section" id="kaisetsu">
+      <h2 class="venue-region">回収率の考え方 — なぜ「EV単勝・EV複勝」だけなのか</h2>
+
+      <div class="card explain-card">
+        <h3 class="explain-title">① 馬券は買った瞬間に2〜3割引かれている(控除率)</h3>
+        <p class="comment">
+          競馬は購入総額から主催者の取り分を引いた残りを、当たった人で分け合う仕組みです。
+          つまり<b>何も考えずに買い続けた場合の回収率は、券種ごとに最初から決まっています</b>。
+          100円が平均していくらになって返ってくるかを券種別に見ると:
+        </p>
+        <svg viewBox="0 0 640 210" xmlns="http://www.w3.org/2000/svg" class="explain-fig" role="img" aria-label="券種別の払戻率">
+          <g font-size="13" fill="var(--text)">
+            <text x="0" y="36">単勝・複勝</text>
+            <text x="0" y="84">馬連・ワイド</text>
+            <text x="0" y="132">馬単・三連複</text>
+            <text x="0" y="180">三連単</text>
+          </g>
+          <!-- 戻ってくる分(金) / 控除される分(暗赤) : 幅 = 480 × 率 -->
+          <g>
+            <rect x="120" y="20" width="384" height="26" rx="4" fill="var(--gold)"/>
+            <rect x="504" y="20" width="96"  height="26" rx="4" fill="#5a2734"/>
+            <rect x="120" y="68" width="372" height="26" rx="4" fill="#c9a23e"/>
+            <rect x="492" y="68" width="108" height="26" rx="4" fill="#5a2734"/>
+            <rect x="120" y="116" width="360" height="26" rx="4" fill="#a8862e"/>
+            <rect x="480" y="116" width="120" height="26" rx="4" fill="#5a2734"/>
+            <rect x="120" y="164" width="348" height="26" rx="4" fill="#86691f"/>
+            <rect x="468" y="164" width="132" height="26" rx="4" fill="#5a2734"/>
+          </g>
+          <g font-size="13" font-weight="bold" fill="#20243f">
+            <text x="130" y="38">100円 → 80円</text>
+            <text x="130" y="86">100円 → 77.5円</text>
+            <text x="130" y="134">100円 → 75円</text>
+            <text x="130" y="182" fill="#fff">100円 → 72.5円</text>
+          </g>
+          <g font-size="11" fill="#ff9c9c">
+            <text x="512" y="38">-20円</text>
+            <text x="500" y="86">-22.5円</text>
+            <text x="488" y="134">-25円</text>
+            <text x="476" y="182">-27.5円</text>
+          </g>
+        </svg>
+        <p class="comment-note">金色=平均して戻ってくる分 / 赤=主催者の取り分。当サイトが使うのは最も有利な単勝・複勝だけです。</p>
+      </div>
+
+      <div class="card explain-card">
+        <h3 class="explain-title">② 大穴は「実力以上に買われている」(本命・大穴バイアス)</h3>
+        <p class="comment">
+          世界中の競馬データで確認されている偏りとして、一発の夢を求めて<b>大穴は過剰に買われ、
+          人気馬は実力より売れない</b>傾向があります。オッズ帯ごとに単勝を買い続けた場合の平均回収率は:
+        </p>
+        <svg viewBox="0 0 640 240" xmlns="http://www.w3.org/2000/svg" class="explain-fig" role="img" aria-label="オッズ帯別の平均回収率(概念図)">
+          <!-- 100%ライン -->
+          <line x1="60" y1="50" x2="620" y2="50" stroke="#5dd39e" stroke-dasharray="6 4" stroke-width="1.5"/>
+          <text x="64" y="44" font-size="11" fill="#5dd39e">回収率100%(損益分岐)ここを超える券種・オッズ帯は存在しない</text>
+          <!-- 軸 -->
+          <line x1="60" y1="200" x2="620" y2="200" stroke="#2c3a6e" stroke-width="1.5"/>
+          <!-- 棒: 値% → 高さ=値*1.5, y=200-高さ -->
+          <g fill="var(--gold)">
+            <rect x="90"  y="73"  width="70" height="127" rx="4"/>
+            <rect x="200" y="77"  width="70" height="123" rx="4"/>
+            <rect x="310" y="80"  width="70" height="120" rx="4"/>
+            <rect x="420" y="91"  width="70" height="109" rx="4" fill="#a8862e"/>
+            <rect x="530" y="110" width="70" height="90"  rx="4" fill="#86691f"/>
+          </g>
+          <g font-size="13" font-weight="bold" fill="var(--text)" text-anchor="middle">
+            <text x="125" y="66">約85%</text>
+            <text x="235" y="70">約82%</text>
+            <text x="345" y="73">約80%</text>
+            <text x="455" y="84">約73%</text>
+            <text x="565" y="103">約60%</text>
+          </g>
+          <g font-size="12" fill="var(--text-dim)" text-anchor="middle">
+            <text x="125" y="220">〜2倍</text>
+            <text x="235" y="220">2〜5倍</text>
+            <text x="345" y="220">5〜10倍</text>
+            <text x="455" y="220">10〜50倍</text>
+            <text x="565" y="220">50倍〜</text>
+          </g>
+        </svg>
+        <p class="comment-note">※ 概念図(各国の実証研究で繰り返し確認されている平均的な傾向)。「穴を買えば儲かる」は統計的には逆で、買うほど損が大きくなります。</p>
+      </div>
+
+      <div class="card explain-card">
+        <h3 class="explain-title">③ 100%を超える唯一の道 = 期待値(EV)で買う</h3>
+        <p class="comment">
+          どんな買い方を固定しても平均回収率は払戻率(約80%)に収束します。
+          統計的に100%超えが実証されている唯一の方法は、<b>市場(オッズ)より正確な勝率予測を持ち、
+          「予測勝率×オッズ=期待値」が1を超える馬だけを買い、いなければ見送る</b>ことです
+          (香港競馬で長期的に勝ち続けたビル・ベンターのモデルが有名)。
+        </p>
+        <svg viewBox="0 0 640 260" xmlns="http://www.w3.org/2000/svg" class="explain-fig" role="img" aria-label="期待値買いの流れ">
+          <!-- 入力ボックス -->
+          <rect x="10" y="20" width="170" height="54" rx="8" fill="#1c2552" stroke="#3d6cd9"/>
+          <text x="95" y="42" font-size="13" fill="#7ec8ff" text-anchor="middle">AIモデルの予測勝率</text>
+          <text x="95" y="62" font-size="12" fill="var(--text)" text-anchor="middle">(近走・馬場・市場から算出)</text>
+          <rect x="10" y="100" width="170" height="54" rx="8" fill="#1c2552" stroke="var(--gold-dim)"/>
+          <text x="95" y="122" font-size="13" fill="var(--gold)" text-anchor="middle">単勝オッズ</text>
+          <text x="95" y="142" font-size="12" fill="var(--text)" text-anchor="middle">(市場=みんなの予想)</text>
+          <!-- × → 期待値 -->
+          <text x="205" y="93" font-size="22" fill="var(--text)">×</text>
+          <line x1="180" y1="47" x2="250" y2="80" stroke="#2c3a6e" stroke-width="1.5"/>
+          <line x1="180" y1="127" x2="250" y2="94" stroke="#2c3a6e" stroke-width="1.5"/>
+          <rect x="250" y="60" width="130" height="54" rx="8" fill="#1c2552" stroke="var(--gold)"/>
+          <text x="315" y="83" font-size="14" font-weight="bold" fill="var(--gold)" text-anchor="middle">期待値(EV)</text>
+          <text x="315" y="103" font-size="12" fill="var(--text)" text-anchor="middle">= 勝率 × オッズ</text>
+          <!-- 分岐 -->
+          <line x1="380" y1="87" x2="430" y2="87" stroke="#2c3a6e" stroke-width="1.5"/>
+          <rect x="430" y="20" width="200" height="54" rx="8" fill="#173a2a" stroke="#5dd39e"/>
+          <text x="530" y="42" font-size="13" font-weight="bold" fill="#5dd39e" text-anchor="middle">EV 1.0以上 → 買う🎯</text>
+          <text x="530" y="62" font-size="12" fill="var(--text)" text-anchor="middle">例: 勝率15% × 8倍 = 1.2</text>
+          <rect x="430" y="100" width="200" height="54" rx="8" fill="#251b2e" stroke="#6b5a78"/>
+          <text x="530" y="122" font-size="13" font-weight="bold" fill="var(--text-dim)" text-anchor="middle">EV 1.0未満 → 見送る</text>
+          <text x="530" y="142" font-size="12" fill="var(--text-dim)" text-anchor="middle">例: 勝率5% × 8倍 = 0.4</text>
+          <line x1="430" y1="47" x2="380" y2="80" stroke="#5dd39e" stroke-width="1.5"/>
+          <line x1="430" y1="127" x2="380" y2="94" stroke="#6b5a78" stroke-width="1.5"/>
+          <!-- 注記 -->
+          <text x="10" y="200" font-size="13" fill="var(--text)">「予想が当たるか」ではなく「オッズに対して勝率が割安か」で買うのがポイント。</text>
+          <text x="10" y="222" font-size="13" fill="var(--text)">該当馬がいない日は全レース見送り=買わないことも戦略のうち。</text>
+          <text x="10" y="248" font-size="12" fill="var(--text-dim)">当サイトはさらに「単勝オッズ5〜20倍」(バイアスの影響が小さい中穴ゾーン)に絞っています。</text>
+        </svg>
+        <p class="comment">
+          当サイトの<b>EV単勝プラン🎯</b>はこの考え方そのもので、控除率が最小の単勝を使い、
+          期待値1.0以上かつ5〜20倍の馬だけを狙います(該当なしの日は全レース見送り)。
+          <b>EV複勝プラン🛡</b>は同じ馬を複勝で買う堅実版です。
+          成績は<a href="results.html" style="color:var(--gold)">予想成績ページ</a>で毎日検証・公開しています。
+        </p>
+        <p class="comment-note">
+          ※ 検証はまだ少数サンプルであり、将来の回収率を保証するものではありません。馬券は20歳から、余裕資金の範囲で。
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>※ 予想は簡易アルゴリズムによる参考情報であり、的中を保証するものではありません。</p>
+    <p>馬券の購入は20歳から。無理のない範囲でお楽しみください。</p>
+  </footer>
+
+  <script>
+    // stats.js(report.pyが毎朝生成する成績サマリー)から
+    // 的中実績と直近成績を表示する
+    (async function () {
+      let stats = null;
+      try {
+        const res = await fetch("stats.js", { cache: "no-store" });
+        if (!res.ok) return;
+        const txt = await res.text();
+        stats = JSON.parse(txt.slice(txt.indexOf("{"), txt.lastIndexOf("}") + 1));
+      } catch (e) { return; }
+
+      const fmtD = (d) => `${parseInt(d.slice(4, 6), 10)}/${parseInt(d.slice(6, 8), 10)}`;
+      const yen = (n) => n.toLocaleString() + "円";
+      const roi = (a) => a.inv ? Math.round(a.ret / a.inv * 100) : 0;
+      const pill = (a) => {
+        const r = roi(a);
+        return `<span class="rate ${r >= 100 ? "plus" : "minus"}">回収率 ${r}%</span>`;
+      };
+      const line = (a) => a.bets
+        ? `${a.bets}点${a.hits}的中 ${yen(a.inv)}→<b>${yen(a.ret)}</b> ${pill(a)}`
+        : "—";
+
+      // 的中実績カード(回収率の大きさで色分け)
+      if (stats.hits && stats.hits.length) {
+        const cls = (p) => p >= 1000 ? "hit-mega" : p >= 500 ? "hit-big" : p >= 300 ? "hit-mid" : "hit-low";
+        document.getElementById("hits-grid").innerHTML = stats.hits.map((h) => `
+          <div class="hit-item">
+            <span class="hit-head">${fmtD(h.date)} ${h.venue}${h.raceNo}R・${h.kind}</span>
+            <span class="hit-name">${h.memo}</span>
+            <span class="hit-rate ${cls(h.payout)}">回収率 ${h.payout.toLocaleString()}%</span>
+          </div>`).join("");
+        document.getElementById("hits-section").style.display = "";
+      }
+
+      // 直近成績サマリー(全場合計+場別)
+      if (stats.tansho && stats.tansho.bets) {
+        document.getElementById("stats-total").innerHTML =
+          `EV単勝プラン🎯: ${line(stats.tansho)}<br>EV複勝プラン🛡: ${line(stats.fukusho)}`;
+        const tbody = document.querySelector("#stats-table tbody");
+        tbody.innerHTML = (stats.venues || [])
+          .sort((a, b) => roi(b.tansho) - roi(a.tansho))
+          .map((v) => `<tr><td>${v.name}</td><td>${line(v.tansho)}</td><td>${line(v.fukusho)}</td></tr>`)
+          .join("");
+        document.getElementById("stats-note").textContent =
+          `集計期間: ${fmtD(stats.from)}〜${fmtD(stats.to)}(各100円購入・確定オッズで検証/新馬戦は対象外)。毎朝の結果取得後に自動更新されます。`;
+        document.getElementById("stats-section").style.display = "";
+      }
+    })();
+
+    // data.js が存在する場のカードを有効化し、データ日付を表示する
+    // 翌日プレビュー(data-<明日>.js)があれば「明日の予想公開中」も付ける
+    const tomorrowYmd = (() => {
+      const n = new Date(); n.setDate(n.getDate() + 1);
+      return n.getFullYear() * 10000 + (n.getMonth() + 1) * 100 + n.getDate() + "";
+    })();
+    const todayYmd = (() => {
+      const n = new Date();
+      return n.getFullYear() * 10000 + (n.getMonth() + 1) * 100 + n.getDate() + "";
+    })();
+    document.querySelectorAll(".venue-card[data-venue]").forEach(async (card) => {
+      const slug = card.dataset.venue;
+      let active = false;
+      try {
+        const res = await fetch(slug + "/data.js", { cache: "no-store" });
+        if (res.ok) {
+          const txt = await res.text();
+          const date = txt.match(/"date": "([^"]+)"/);
+          const races = (txt.match(/"raceNo"/g) || []).length;
+          // data.jsが本日分のときだけ「予想公開中」扱い(開催終了した場は検証リンクへ)
+          const rid = txt.match(/"raceId": "(\d{12})"/);
+          const isToday = rid && rid[1].slice(0, 4) + rid[1].slice(6, 10) === todayYmd;
+          if (date && isToday) {
+            active = true;
+            card.classList.remove("disabled");
+            card.classList.add("active");
+            card.href = slug + "/";
+            const status = card.querySelector(".venue-status");
+            status.textContent = "予想公開中";
+            status.classList.add("venue-open");
+            card.querySelector(".venue-date").textContent = `${date[1]} ${races}R分`;
+          }
+        }
+      } catch (e) { /* data.js 未生成の場は「準備中」のまま */ }
+      try {
+        const res = await fetch(`${slug}/data-${tomorrowYmd}.js`, { cache: "no-store" });
+        if (res.ok && (await res.text()).includes('"raceNo"')) {
+          if (!active) {
+            active = true;
+            card.classList.remove("disabled");
+            card.classList.add("active");
+            card.href = `${slug}/?date=${tomorrowYmd}`;
+            card.querySelector(".venue-status").textContent = "";
+          }
+          card.querySelector(".venue-date").insertAdjacentHTML(
+            "afterend", `<span class="venue-tomorrow">⭐ 明日の予想 公開中</span>`
+          );
+        }
+      } catch (e) { /* プレビューなし */ }
+      // 本日開催も明日の予想もない場: 過去の検証アーカイブがあればそこへリンク
+      if (!active) {
+        try {
+          const res = await fetch(`${slug}/archive.js`, { cache: "no-store" });
+          if (res.ok) {
+            const m = (await res.text()).match(/\[(.*?)\]/s);
+            const todayStr = tomorrowYmd; // 明日より前=今日以前のみ対象
+            const dates = m ? JSON.parse("[" + m[1] + "]").filter((d) => d < todayStr) : [];
+            if (dates.length) {
+              const latest = dates.sort().reverse()[0];
+              card.classList.remove("disabled");
+              card.classList.add("active", "archive-card");
+              card.href = `${slug}/?date=${latest}`;
+              const status = card.querySelector(".venue-status");
+              status.textContent = "予想の検証を公開中";
+              status.classList.add("venue-archive");
+              card.querySelector(".venue-date").textContent =
+                `${parseInt(latest.slice(4, 6), 10)}月${parseInt(latest.slice(6, 8), 10)}日分の予想・結果`;
+            }
+          }
+        } catch (e) { /* アーカイブなし → 準備中のまま */ }
+      }
+    });
+  </script>
+</body>
+</html>
