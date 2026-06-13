@@ -80,6 +80,17 @@
             ? `<span class="fin-badge fin-${fin}">${fin}着</span>`
             : (r.mark ? `<span class="fin-plain">${fin}着</span>` : ""))
         : "";
+      // 便利指標: 中央/転入バッジ・脚質・スピード指数
+      const centralBadge = h.transfer
+        ? `<span class="badge-jra badge-transfer" title="JRA(中央)から転入">転入</span>`
+        : h.central
+          ? `<span class="badge-jra" title="JRA(中央)出走経験あり">中央</span>`
+          : "";
+      const styleHtml = h.style
+        ? `<span class="style-${h.style}">${h.style}</span>` : "—";
+      const spdHtml = h.spd != null
+        ? `<span class="spd-idx${h.spd >= 110 ? " spd-hi" : ""}">${h.spd}</span>` : "—";
+
       const tr = document.createElement("tr");
       if (!noData && r.mark === "◎") tr.className = "row-honmei";
       // 新馬戦などデータ不足レースでは印・スコア・勝率・妙味を出さない
@@ -92,10 +103,12 @@
         <td class="mark${r.mark === "☆" ? " mark-star" : ""}">${noData ? "" : r.mark}</td>
         <td><span class="waku" style="background:${wc.bg};color:${wc.fg}">${h.waku}</span></td>
         <td class="uma-num">${h.num}</td>
-        <td class="uma-name">${h.name}${finHtml}<span class="horse-weight">${h.horseWeight != null ? h.horseWeight + "kg" : ""}</span></td>
+        <td class="uma-name">${h.name}${centralBadge}${finHtml}<span class="horse-weight">${h.horseWeight != null ? h.horseWeight + "kg" : ""}</span></td>
         <td>${h.sexAge}</td>
         <td>${h.weight != null ? h.weight : "—"}</td>
         <td>${h.jockey}</td>
+        <td class="style-cell">${styleHtml}</td>
+        <td class="spd-cell">${spdHtml}</td>
         <td class="recent">${recentHtml}</td>
         <td class="odds">${h.odds != null ? h.odds.toFixed(1) : "—"}</td>
         ${predCells}`;

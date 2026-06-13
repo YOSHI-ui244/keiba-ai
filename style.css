@@ -117,6 +117,21 @@ body {
 .uma-name { text-align: left; font-weight: 600; }
 .horse-weight { font-size: 12px; color: var(--text-dim); margin-left: 6px; font-weight: 400; }
 .recent { color: var(--text-dim); letter-spacing: 1px; }
+
+/* 便利指標: 中央/転入バッジ・脚質・スピード指数 */
+.badge-jra {
+  display: inline-block; margin-left: 6px; padding: 1px 6px;
+  border-radius: 4px; font-size: 11px; font-weight: 700;
+  background: #2b62c4; color: #fff;
+}
+.badge-transfer { background: #e8332a; }
+.style-cell, .spd-cell { text-align: center; }
+.style-逃 { color: #e8332a; font-weight: 700; }
+.style-先 { color: #f08c1d; font-weight: 700; }
+.style-差 { color: #3d8bff; font-weight: 700; }
+.style-追 { color: #5dd39e; font-weight: 700; }
+.spd-idx { font-weight: 600; }
+.spd-hi { color: var(--gold); font-weight: 800; }
 .recent .same-baba { color: var(--gold); font-weight: 700; } /* 本日と同じ馬場での着順 */
 .odds { color: var(--gold); font-weight: 700; }
 
