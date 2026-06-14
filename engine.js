@@ -242,6 +242,6 @@
     MARKS, VENUE_LIST, babaLevel, normRuns, scoreHorse, winProbs,
     analyzeRace, evLabel, isNoDataRace,
     suggestBets, suggestValueBets, suggestPlaceBets,
-    judgeBet, betReturn
+    judgeBet, betReturn, settleBet
   };
 })();
