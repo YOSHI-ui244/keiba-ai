@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ポイント競馬 | 回収率100%超えを目指し学習するAIの予想</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .play-bal {
+      display: flex; align-items: baseline; gap: 8px;
+      font-size: 15px; color: var(--text-dim);
+    }
+    .play-pt { font-size: 28px; font-weight: 800; color: var(--gold); }
+    .okawari {
+      font-size: 13px; padding: 4px 12px; border-radius: 6px;
+      background: var(--bg-card2); border: 1px solid var(--gold-dim);
+      color: var(--gold); cursor: pointer;
+    }
+    .sel-row { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; align-items: center; }
+    .sel-row select, .sel-row input {
+      background: var(--bg-card2); color: var(--text);
+      border: 1px solid var(--line); border-radius: 6px; padding: 6px 10px; font-size: 15px;
+    }
+    .kind-tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 12px; }
+    .kind-tab {
+      background: var(--bg-card); color: var(--text-dim);
+      border: 1px solid var(--line); border-radius: 8px; padding: 6px 12px; cursor: pointer; font-size: 14px;
+    }
+    .kind-tab.active { background: var(--gold); color: #20243f; font-weight: 700; border-color: var(--gold); }
+    .pick-hint { font-size: 13px; color: var(--text-dim); margin-bottom: 8px; }
+    .horse-pick {
+      display: flex; align-items: center; gap: 10px; padding: 8px 10px;
+      border-bottom: 1px solid #232e5c; cursor: pointer;
+    }
+    .horse-pick:hover { background: rgba(242,193,78,.06); }
+    .horse-pick.on { background: rgba(242,193,78,.14); }
+    .pick-badge {
+      width: 26px; height: 26px; line-height: 26px; text-align: center;
+      border-radius: 50%; border: 2px solid var(--line); font-weight: 700; flex: 0 0 auto;
+    }
+    .horse-pick.on .pick-badge { background: var(--gold); color: #20243f; border-color: var(--gold); }
+    .pick-num { font-weight: 700; width: 22px; text-align: center; }
+    .pick-name { flex: 1; }
+    .pick-odds { color: var(--gold); font-weight: 700; }
+    .buy-bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 12px; }
+    .buy-btn {
+      background: linear-gradient(180deg,#f2c14e,#d9a531); color: #20243f;
+      font-weight: 800; border: none; border-radius: 8px; padding: 10px 22px; font-size: 15px; cursor: pointer;
+    }
+    .buy-btn:disabled { opacity: .4; cursor: not-allowed; }
+    .bet-row {
+      display: flex; flex-wrap: wrap; gap: 8px; align-items: center;
+      padding: 10px; border-bottom: 1px solid #232e5c; font-size: 14px;
+    }
+    .bet-status { font-size: 12px; padding: 2px 8px; border-radius: 4px; font-weight: 700; }
+    .st-pending { background: var(--bg-card2); color: var(--text-dim); }
+    .st-hit { background: var(--green); color: #20243f; }
+    .st-miss { background: #3a2430; color: var(--red); }
+    .totalbar { font-size: 15px; margin-bottom: 10px; }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <h1 class="logo"><a href="./" class="logo-link" title="トップへ">🏇 回収率100%超えを目指し学習するAIの予想</a> <span class="logo-accent">ポイント競馬</span></h1>
+      <div class="play-bal">所持<span class="play-pt" id="pt">0</span>pt <button class="okawari" id="okawari">おかわり+1000</button></div>
+    </div>
+    <div class="header-inner"><a href="./" class="back-link">← レース場一覧にもどる</a></div>
+  </header>
+
+  <div class="date-strip" id="date-strip"></div>
+
+  <main class="main">
+    <section class="card">
+      <h2 class="card-title">馬券を買う(お金は一切かかりません・ポイント遊び)</h2>
+      <div class="sel-row">
+        <select id="sel-venue"></select>
+        <select id="sel-race"></select>
+        <button class="okawari" id="reload-result">結果を反映</button>
+      </div>
+      <div id="race-info" class="race-meta"></div>
+      <div class="kind-tabs" id="kind-tabs"></div>
+      <p class="pick-hint" id="pick-hint"></p>
+      <div id="horse-list"></div>
+      <div class="buy-bar">
+        <span>賭けpt:</span>
+        <input type="number" id="stake" value="100" min="100" step="100" style="width:110px">
+        <span id="payout-hint" class="pick-odds"></span>
+        <button class="buy-btn" id="buy" disabled>購入する</button>
+      </div>
+    </section>
+
+    <div class="two-col">
+      <section class="card">
+        <h2 class="card-title">購入中(結果待ち)</h2>
+        <div id="pending-list"></div>
+      </section>
+      <section class="card">
+        <h2 class="card-title">成績・履歴</h2>
+        <p class="totalbar" id="totalbar"></p>
+        <div id="history-list"></div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>※ ポイント競馬は実際の競馬の出馬表・オッズ・確定払戻と連動した「遊び」です。現金は一切かかりません。</p>
+    <p>※ ポイントはこのブラウザ内にのみ保存されます。</p>
+  </footer>
+
+  <script src="engine.js"></script>
+  <script>
+  (function () {
+    "use strict";
+    const E = window.Engine;
+    const VENUE = E.VENUE_LIST;
+    const KINDS = [
+      ["tansho", "単勝", 1, false], ["fukusho", "複勝", 1, false],
+      ["umaren", "馬連", 2, false], ["wide", "ワイド", 2, false],
+      ["umatan", "馬単", 2, true], ["sanrenpuku", "三連複", 3, false],
+      ["sanrentan", "三連単", 3, true],
+    ];
+    const KEY = "keiba_play_v1";
+    const $ = (id) => document.getElementById(id);
+
+    let store = load();
+    let dataCache = {};      // slug -> data.js
+    let openVenues = [];     // [[slug,name,data]]
+    let cur = { slug: null, raceNo: null, kind: "tansho", picks: [] };
+
+    function load() {
+      try {
+        const s = JSON.parse(localStorage.getItem(KEY));
+        if (s && typeof s.points === "number") return s;
+      } catch (e) {}
+      return { points: 1000, bets: [] };
+    }
+    function save() { localStorage.setItem(KEY, JSON.stringify(store)); }
+
+    async function fetchData(slug) {
+      if (dataCache[slug] !== undefined) return dataCache[slug];
+      const today = todayStr();
+      // 本日分を優先(promote前の早朝は data-本日.js、それ以降は data.js)
+      for (const path of [`${slug}/data-${today}.js`, `${slug}/data.js`]) {
+        try {
+          const res = await fetch(path, { cache: "no-store" });
+          if (!res.ok) continue;
+          const txt = await res.text();
+          const d = JSON.parse(txt.slice(txt.indexOf("{"), txt.lastIndexOf("}") + 1));
+          const rid = "" + ((d.races[0] || {}).raceId || "");
+          if (rid.slice(0, 4) + rid.slice(6, 10) === today) { dataCache[slug] = d; return d; }
+        } catch (e) {}
+      }
+      dataCache[slug] = null; return null;
+    }
+
+    function todayStr() {
+      const n = new Date();
+      return "" + n.getFullYear() + String(n.getMonth() + 1).padStart(2, "0") + String(n.getDate()).padStart(2, "0");
+    }
+
+    function raceOf(slug, raceNo) {
+      const d = dataCache[slug];
+      return d && d.races.find((r) => r.raceNo === raceNo);
+    }
+
+    // ---- 精算: pending betで該当レースに結果が出ていれば確定 ----
+    function settleAll() {
+      let changed = false;
+      store.bets.forEach((b) => {
+        if (b.status !== "pending") return;
+        const d = dataCache[b.slug];
+        if (!d) return;
+        const race = d.races.find((r) => r.raceId === b.raceId);
+        if (!race || !race.result) return;
+        const per100 = E.settleBet(b.kind, b.nums, race.result);
+        b.ret = Math.round(b.stake * per100 / 100);
+        b.payPer100 = per100;
+        b.status = per100 > 0 ? "hit" : "miss";
+        store.points += b.ret;
+        changed = true;
+      });
+      if (changed) save();
+    }
+
+    // ---- 画面描画 ----
+    function renderBalance() { $("pt").textContent = store.points.toLocaleString(); }
+
+    function renderVenues() {
+      const sel = $("sel-venue");
+      sel.innerHTML = openVenues.map(([s, n]) => `<option value="${s}">${n}</option>`).join("");
+      if (openVenues.length) { cur.slug = openVenues[0][0]; renderRaces(); }
+      else { $("race-info").textContent = "本日開催のデータがありません。"; }
+    }
+    function renderRaces() {
+      const d = dataCache[cur.slug];
+      $("sel-race").innerHTML = d.races.map((r) =>
+        `<option value="${r.raceNo}">${r.raceNo}R ${r.startTime}</option>`).join("");
+      cur.raceNo = d.races[0].raceNo;
+      renderKinds(); renderRaceArea();
+    }
+    function renderKinds() {
+      $("kind-tabs").innerHTML = KINDS.map(([k, name]) =>
+        `<span class="kind-tab${k === cur.kind ? " active" : ""}" data-k="${k}">${name}</span>`).join("");
+      $("kind-tabs").querySelectorAll(".kind-tab").forEach((el) =>
+        el.addEventListener("click", () => { cur.kind = el.dataset.k; cur.picks = []; renderKinds(); renderRaceArea(); }));
+    }
+    function kindMeta() { return KINDS.find((k) => k[0] === cur.kind); }
+
+    function renderRaceArea() {
+      const race = raceOf(cur.slug, cur.raceNo);
+      if (!race) return;
+      const done = !!race.result;
+      $("race-info").innerHTML = `${race.name} / ダ${race.distance}m / 発走${race.startTime}` +
+        (done ? ` <b style="color:var(--gold)">【確定】1着${race.result.order[0]}番</b>` : " <span style='color:var(--green)'>受付中</span>");
+      const [k, name, need, ordered] = kindMeta();
+      $("pick-hint").textContent = ordered
+        ? `${name}: 馬を ${need}頭、着順どおりに選ぶ(選んだ順=1着→)`
+        : `${name}: 馬を ${need}頭選ぶ`;
+      $("horse-list").innerHTML = race.horses.map((h) => {
+        const idx = cur.picks.indexOf(h.num);
+        const on = idx >= 0;
+        const badge = on ? (ordered ? idx + 1 : "✓") : "";
+        return `<div class="horse-pick${on ? " on" : ""}" data-num="${h.num}">
+          <span class="pick-badge">${badge}</span>
+          <span class="pick-num">${h.num}</span>
+          <span class="pick-name">${h.name}</span>
+          <span class="pick-odds">${h.odds != null ? "単" + h.odds.toFixed(1) : "—"}</span>
+        </div>`;
+      }).join("");
+      $("horse-list").querySelectorAll(".horse-pick").forEach((el) =>
+        el.addEventListener("click", () => togglePick(parseInt(el.dataset.num, 10))));
+      updateBuy();
+    }
+
+    function togglePick(num) {
+      const [, , need] = kindMeta();
+      const i = cur.picks.indexOf(num);
+      if (i >= 0) cur.picks.splice(i, 1);
+      else { if (cur.picks.length >= need) cur.picks.shift(); cur.picks.push(num); }
+      renderRaceArea();
+    }
+
+    function updateBuy() {
+      const [k, name, need] = kindMeta();
+      const race = raceOf(cur.slug, cur.raceNo);
+      const stake = parseInt($("stake").value, 10) || 0;
+      const ok = cur.picks.length === need && stake >= 100 && stake <= store.points && race && !race.result;
+      $("buy").disabled = !ok;
+      // 単勝の予想配当だけ目安表示
+      if (k === "tansho" && cur.picks.length === 1) {
+        const h = race.horses.find((x) => x.num === cur.picks[0]);
+        $("payout-hint").textContent = h && h.odds ? `的中なら約${Math.round(stake * h.odds).toLocaleString()}pt` : "";
+      } else { $("payout-hint").textContent = ""; }
+    }
+
+    function buy() {
+      const [k, name, need, ordered] = kindMeta();
+      const race = raceOf(cur.slug, cur.raceNo);
+      const stake = parseInt($("stake").value, 10) || 0;
+      if (cur.picks.length !== need || stake < 100 || stake > store.points || !race || race.result) return;
+      const nums = ordered ? [...cur.picks] : [...cur.picks].sort((a, b) => a - b);
+      const venue = openVenues.find((v) => v[0] === cur.slug)[1];
+      store.points -= stake;
+      store.bets.unshift({
+        id: Date.now() + "" + Math.floor(Math.random() * 1000),
+        ymd: todayStr(), slug: cur.slug, venue, raceNo: race.raceNo, raceId: race.raceId,
+        startTime: race.startTime, kind: k, kindName: name,
+        nums, names: nums.map((n) => (race.horses.find((h) => h.num === n) || {}).name || n),
+        stake, status: "pending", ret: 0,
+      });
+      cur.picks = [];
+      save(); renderBalance(); renderRaceArea(); renderBets();
+    }
+
+    function betLine(b) {
+      const sep = b.kind === "umatan" || b.kind === "sanrentan" ? "→" : "-";
+      const combo = b.nums.join(sep);
+      let st = `<span class="bet-status st-pending">結果待ち</span>`;
+      if (b.status === "hit") st = `<span class="bet-status st-hit">的中 +${b.ret.toLocaleString()}pt</span>`;
+      else if (b.status === "miss") st = `<span class="bet-status st-miss">外れ</span>`;
+      return `<div class="bet-row">
+        <span>${b.venue}${b.raceNo}R</span>
+        <span>${b.kindName} <b>${combo}</b></span>
+        <span style="color:var(--text-dim)">${b.stake}pt</span>
+        ${st}</div>`;
+    }
+    function renderBets() {
+      const pend = store.bets.filter((b) => b.status === "pending");
+      const hist = store.bets.filter((b) => b.status !== "pending");
+      $("pending-list").innerHTML = pend.length ? pend.map(betLine).join("") : `<p class="bets-empty">購入中の馬券はありません。</p>`;
+      $("history-list").innerHTML = hist.slice(0, 30).map(betLine).join("") || `<p class="bets-empty">まだ確定した馬券はありません。</p>`;
+      const inv = hist.reduce((s, b) => s + b.stake, 0);
+      const ret = hist.reduce((s, b) => s + b.ret, 0);
+      const roi = inv ? Math.round(ret / inv * 100) : 0;
+      const hits = hist.filter((b) => b.status === "hit").length;
+      $("totalbar").innerHTML = hist.length
+        ? `通算 ${hist.length}戦${hits}的中 / 投資${inv.toLocaleString()}pt → 払戻${ret.toLocaleString()}pt <span class="rate ${roi >= 100 ? "plus" : "minus"}">回収率${roi}%</span>`
+        : "";
+    }
+
+    // ---- 初期化 ----
+    async function init() {
+      renderBalance();
+      // 本日開催の場を today.js から
+      let slugs = [];
+      try {
+        const res = await fetch("today.js", { cache: "no-store" });
+        if (res.ok) {
+          const m = (await res.text()).match(/"venues":\s*(\{.*?\})/);
+          if (m) slugs = Object.keys(JSON.parse(m[1]));
+        }
+      } catch (e) {}
+      // フォールバック: 全場 data.js を当日判定
+      if (!slugs.length) slugs = VENUE.map((v) => v[0]);
+      const today = todayStr();
+      for (const [slug, name] of VENUE) {
+        if (!slugs.includes(slug)) continue;
+        const d = await fetchData(slug);
+        if (d && d.races && d.races.length) {
+          const rid = "" + (d.races[0].raceId || "");
+          if (rid.slice(0, 4) + rid.slice(6, 10) === today) openVenues.push([slug, name, d]);
+        }
+      }
+      $("date-strip").innerHTML = openVenues.length
+        ? `📅 <b>本日開催</b> ${openVenues.map((v) => v[1]).join("・")}`
+        : `📅 本日の開催データがまだありません`;
+      settleAll();
+      renderBalance(); renderVenues(); renderBets();
+
+      $("sel-venue").addEventListener("change", (e) => { cur.slug = e.target.value; cur.picks = []; renderRaces(); });
+      $("sel-race").addEventListener("change", (e) => { cur.raceNo = parseInt(e.target.value, 10); cur.picks = []; renderRaceArea(); });
+      $("stake").addEventListener("input", updateBuy);
+      $("buy").addEventListener("click", buy);
+      $("okawari").addEventListener("click", () => {
+        if (store.points < 100) { store.points += 1000; save(); renderBalance(); }
+        else alert("ポイントが100未満になったら おかわり できるっス");
+      });
+      $("reload-result").addEventListener("click", async () => {
+        dataCache = {}; openVenues = [];
+        await init2();
+      });
+    }
+    // 結果再取得(データだけ取り直して精算・再描画)
+    async function init2() {
+      for (const [slug, name] of VENUE) {
+        const d = await fetchData(slug);
+        if (d && d.races && d.races.length) {
+          const rid = "" + (d.races[0].raceId || "");
+          if (rid.slice(0, 4) + rid.slice(6, 10) === todayStr()) openVenues.push([slug, name, d]);
+        }
+      }
+      settleAll(); renderBalance(); renderBets();
+      if (cur.slug) renderRaceArea();
+    }
+
+    init();
+  })();
+  </script>
+</body>
+</html>
