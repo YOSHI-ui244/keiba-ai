@@ -230,6 +230,34 @@
     return { cost, hit: true, payout: entry ? entry.amount : null };
   }
 
+  // ポイント競馬(play.html)用: 券種(kind)・選んだ馬番(nums)・結果から
+  // 100ptあたりの払戻を返す(外れ・払戻データ無しは0)。
+  // numsは馬単/三連単は着順どおり、それ以外は順不同で判定する。
+  function settleBet(kind, nums, result) {
+    if (!result || !result.order) return 0;
+    const order = result.order;
+    const pos = (n) => { const i = order.indexOf(n); return i < 0 ? 99 : i + 1; };
+    let hit;
+    switch (kind) {
+      case "tansho":     hit = pos(nums[0]) === 1; break;
+      case "fukusho":    hit = pos(nums[0]) <= (order.length <= 7 ? 2 : 3); break;
+      case "umaren":     hit = nums.every((x) => pos(x) <= 2); break;
+      case "wide":       hit = nums.every((x) => pos(x) <= 3); break;
+      case "umatan":     hit = pos(nums[0]) === 1 && pos(nums[1]) === 2; break;
+      case "sanrenpuku": hit = nums.every((x) => pos(x) <= 3); break;
+      case "sanrentan":  hit = order[0] === nums[0] && order[1] === nums[1] && order[2] === nums[2]; break;
+      default:           hit = false;
+    }
+    if (!hit) return 0;
+    const ordered = kind === "umatan" || kind === "sanrentan";
+    const table = (result.payouts || {})[kind] || [];
+    const key = (ordered ? nums : [...nums].sort((a, b) => a - b)).join("-");
+    const entry = table.find((e) =>
+      (ordered ? e.comb : [...e.comb].sort((a, b) => a - b)).join("-") === key
+    );
+    return entry ? entry.amount : 0;
+  }
+
   // 場一覧(slug, 表示名)。ページ側のナビ等で共用
   const VENUE_LIST = [
     ["monbetsu", "門別"], ["morioka", "盛岡"], ["mizusawa", "水沢"],
@@ -242,6 +270,6 @@
     MARKS, VENUE_LIST, babaLevel, normRuns, scoreHorse, winProbs,
     analyzeRace, evLabel, isNoDataRace,
     suggestBets, suggestValueBets, suggestPlaceBets,
-    judgeBet, betReturn
+    judgeBet, betReturn, settleBet
   };
 })();
