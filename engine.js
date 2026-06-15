@@ -114,25 +114,33 @@
     return { text: "－", cls: "ev-low" };
   }
 
-  // 三連単プラン: 1着=◎○の2頭軸、2・3着=印のついた5頭(◎○▲△☆)への
-  // フォーメーション。印5頭・軸2頭なら 2×4×3=24点。
+  // ワイドプラン: ◎○の2頭を軸に、軸同士＋各軸→残りの印(▲△☆)へ流す。
+  // 印5頭(◎○▲△☆)なら ◎-○ + ◎/○→▲△☆ で重複を除いて7点。
+  // 三連単より控除率が低く当たりやすいため、的中重視の参考プラン。
   function suggestBets(ranked, star) {
     const marked = ranked.filter((r) => r.mark); // ◎○▲△+☆(starはmark付与済み)
     const axes = marked.filter((r) => r.mark === "◎" || r.mark === "○");
-    if (marked.length < 3 || axes.length < 2) return [];
-    const nums = marked.map((r) => r.horse.num);
+    const others = marked.filter((r) => r.mark !== "◎" && r.mark !== "○");
+    if (axes.length < 2) return [];
+    const nameOf = {};
+    marked.forEach((r) => { nameOf[r.horse.num] = r.horse.name; });
     const axisNums = axes.map((r) => r.horse.num);
-    let points = 0;
-    axisNums.forEach((f) => nums.forEach((s) => {
-      if (s === f) return;
-      nums.forEach((t) => { if (t !== f && t !== s) points++; });
+
+    const seen = new Set();
+    const pairs = [];
+    const addPair = (a, b) => {
+      if (a === b) return;
+      const key = [a, b].sort((x, y) => x - y).join("-");
+      if (!seen.has(key)) { seen.add(key); pairs.push([a, b]); }
+    };
+    addPair(axisNums[0], axisNums[1]);                       // 軸同士
+    axisNums.forEach((a) => others.forEach((o) => addPair(a, o.horse.num))); // 各軸→残りの印
+
+    return pairs.map(([a, b]) => ({
+      kind: "ワイド", type: "wide", sel: [a, b],
+      target: `${a}-${b}`,
+      memo: `${nameOf[a]} - ${nameOf[b]}`
     }));
-    return [{
-      kind: "三連単F", type: "sanrentan",
-      first: axisNums, second: nums, third: nums, points,
-      target: `${axisNums.join(",")} → ${nums.join(",")} → ${nums.join(",")}`,
-      memo: `◎○2頭軸フォーメーション ${points}点`
-    }];
   }
 
   // ---------- 回収率重視プラン(EV単勝) ----------
