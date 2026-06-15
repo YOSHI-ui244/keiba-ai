@@ -286,7 +286,7 @@
             <span class="hit-name">${h.memo}</span>
             <span class="hit-rate ${cls(h.payout)}">回収率 ${h.payout.toLocaleString()}%</span>`;
           return slug
-            ? `<a class="hit-item" href="${slug}/?date=${h.date}" title="${h.venue}${h.raceNo}Rの予想・結果を見る">${inner}</a>`
+            ? `<a class="hit-item" href="${slug}/?date=${h.date}&r=${h.raceNo}" title="${h.venue}${h.raceNo}Rの予想・結果を見る">${inner}</a>`
             : `<div class="hit-item">${inner}</div>`;
         }).join("");
         document.getElementById("hits-section").style.display = "";

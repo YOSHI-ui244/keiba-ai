@@ -20,9 +20,11 @@
   const RACE_KEY = "lastRace:" + location.pathname + location.search;
   (function restoreRace() {
     try {
-      const saved = sessionStorage.getItem(RACE_KEY);
-      if (saved != null) {
-        const idx = RACE_DATA.races.findIndex((r) => String(r.raceNo) === saved);
+      // URLの ?r=レース番号 を最優先(的中実績リンク等から指定)。無ければ前回値。
+      const m = location.search.match(/[?&]r=(\d+)/);
+      const want = m ? m[1] : sessionStorage.getItem(RACE_KEY);
+      if (want != null) {
+        const idx = RACE_DATA.races.findIndex((r) => String(r.raceNo) === String(want));
         if (idx >= 0) currentRace = idx;
       }
     } catch (e) { /* sessionStorage不可は無視 */ }
