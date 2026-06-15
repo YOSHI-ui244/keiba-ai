@@ -305,6 +305,19 @@ body {
   padding: 14px 16px;
   display: flex; flex-direction: column; gap: 5px;
 }
+a.hit-item {
+  text-decoration: none; color: inherit; cursor: pointer;
+  transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease;
+}
+a.hit-item:hover {
+  transform: translateY(-2px);
+  border-color: var(--gold);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+}
+a.hit-item::after {
+  content: "予想を見る →"; align-self: flex-end;
+  font-size: 11px; color: var(--text-dim); margin-top: 2px;
+}
 .hit-head { font-size: 13px; color: var(--text-dim); }
 .hit-name { font-size: 15px; font-weight: 600; }
 .hit-rate { font-size: 27px; font-weight: 800; letter-spacing: 0.5px; }

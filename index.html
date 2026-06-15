@@ -260,15 +260,27 @@
         ? `${a.bets}点${a.hits}的中 ${yen(a.inv)}→<b>${yen(a.ret)}</b> ${pill(a)}`
         : "—";
 
-      // 的中実績カード(回収率の大きさで色分け)
+      // 場の表示名 → URL用slug(各場ページのフォルダ名)
+      const NAME_TO_SLUG = {
+        "門別": "monbetsu", "盛岡": "morioka", "水沢": "mizusawa", "浦和": "urawa",
+        "船橋": "funabashi", "大井": "oi", "川崎": "kawasaki", "金沢": "kanazawa",
+        "笠松": "kasamatsu", "名古屋": "nagoya", "園田": "sonoda", "姫路": "himeji",
+        "高知": "kochi", "佐賀": "saga"
+      };
+
+      // 的中実績カード(回収率の大きさで色分け)。クリックでその日の予想ページへ
       if (stats.hits && stats.hits.length) {
         const cls = (p) => p >= 1000 ? "hit-mega" : p >= 500 ? "hit-big" : p >= 300 ? "hit-mid" : "hit-low";
-        document.getElementById("hits-grid").innerHTML = stats.hits.map((h) => `
-          <div class="hit-item">
+        document.getElementById("hits-grid").innerHTML = stats.hits.map((h) => {
+          const slug = NAME_TO_SLUG[h.venue];
+          const inner = `
             <span class="hit-head">${fmtD(h.date)} ${h.venue}${h.raceNo}R・${h.kind}</span>
             <span class="hit-name">${h.memo}</span>
-            <span class="hit-rate ${cls(h.payout)}">回収率 ${h.payout.toLocaleString()}%</span>
-          </div>`).join("");
+            <span class="hit-rate ${cls(h.payout)}">回収率 ${h.payout.toLocaleString()}%</span>`;
+          return slug
+            ? `<a class="hit-item" href="${slug}/?date=${h.date}" title="${h.venue}${h.raceNo}Rの予想・結果を見る">${inner}</a>`
+            : `<div class="hit-item">${inner}</div>`;
+        }).join("");
         document.getElementById("hits-section").style.display = "";
       }
 
