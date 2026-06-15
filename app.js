@@ -16,6 +16,17 @@
 
   const $ = (id) => document.getElementById(id);
   let currentRace = 0;
+  // 自動更新でのリロード後も、見ていたレースを維持する(タブごとに保存)
+  const RACE_KEY = "lastRace:" + location.pathname + location.search;
+  (function restoreRace() {
+    try {
+      const saved = sessionStorage.getItem(RACE_KEY);
+      if (saved != null) {
+        const idx = RACE_DATA.races.findIndex((r) => String(r.raceNo) === saved);
+        if (idx >= 0) currentRace = idx;
+      }
+    } catch (e) { /* sessionStorage不可は無視 */ }
+  })();
 
   function renderTabs() {
     const nav = $("race-tabs");
@@ -211,6 +222,7 @@
 
   function render() {
     const race = RACE_DATA.races[currentRace];
+    try { sessionStorage.setItem(RACE_KEY, String(race.raceNo)); } catch (e) { /* 無視 */ }
     const noData = E.isNoDataRace(race);
     const { rows, ranked, star } = E.analyzeRace(race);
     renderTabs();
