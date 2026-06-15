@@ -292,6 +292,53 @@
         document.getElementById("hits-section").style.display = "";
       }
 
+      // 回収率の推移(累計)を折れ線グラフで描く
+      function buildRoiChart(daily) {
+        const W = 720, H = 320, ml = 44, mr = 16, mt = 34, mb = 30;
+        const pw = W - ml - mr, ph = H - mt - mb, n = daily.length;
+        let ti = 0, tr = 0, fi = 0, fr = 0;
+        const t = [], f = [];
+        daily.forEach((d) => {
+          ti += d.t.inv; tr += d.t.ret; fi += d.f.inv; fr += d.f.ret;
+          t.push(ti ? tr / ti * 100 : 0);
+          f.push(fi ? fr / fi * 100 : 0);
+        });
+        const yMax = Math.ceil((Math.max(100, ...t, ...f) + 10) / 20) * 20;
+        const x = (i) => ml + (n === 1 ? pw / 2 : pw * i / (n - 1));
+        const y = (v) => mt + ph * (1 - v / yMax);
+        const path = (a) => a.map((v, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join(" ");
+        let grid = "";
+        for (let v = 0; v <= yMax; v += 50) {
+          const yy = y(v), is100 = v === 100;
+          grid += `<line x1="${ml}" y1="${yy}" x2="${W - mr}" y2="${yy}" stroke="${is100 ? "#5dd39e" : "#2c3a6e"}" stroke-width="1" ${is100 ? 'stroke-dasharray="6 4"' : ""}/>`;
+          grid += `<text x="${ml - 6}" y="${yy + 4}" font-size="11" fill="var(--text-dim)" text-anchor="end">${v}%</text>`;
+        }
+        const step = Math.max(1, Math.ceil(n / 6));
+        let xl = "";
+        daily.forEach((d, i) => {
+          if (i % step === 0 || i === n - 1) {
+            xl += `<text x="${x(i)}" y="${H - 8}" font-size="11" fill="var(--text-dim)" text-anchor="middle">${parseInt(d.date.slice(4, 6), 10)}/${parseInt(d.date.slice(6, 8), 10)}</text>`;
+          }
+        });
+        const endLbl = (a, c) => `<circle cx="${x(n - 1)}" cy="${y(a[n - 1])}" r="3.5" fill="${c}"/><text x="${x(n - 1) - 6}" y="${y(a[n - 1]) - 8}" font-size="12" font-weight="bold" fill="${c}" text-anchor="end">${Math.round(a[n - 1])}%</text>`;
+        return `<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;height:auto" role="img" aria-label="回収率の推移グラフ">
+          ${grid}${xl}
+          <path d="${path(f)}" fill="none" stroke="var(--green)" stroke-width="2.5"/>
+          <path d="${path(t)}" fill="none" stroke="var(--gold)" stroke-width="2.5"/>
+          ${endLbl(f, "var(--green)")}${endLbl(t, "var(--gold)")}
+          <g font-size="12">
+            <rect x="${ml}" y="10" width="16" height="3" fill="var(--gold)"/><text x="${ml + 22}" y="15" fill="var(--text)">EV単勝(累計)</text>
+            <rect x="${ml + 132}" y="10" width="16" height="3" fill="var(--green)"/><text x="${ml + 154}" y="15" fill="var(--text)">EV複勝(累計)</text>
+          </g>
+        </svg>`;
+      }
+      if (stats.daily && stats.daily.length >= 2) {
+        document.getElementById("roi-chart").innerHTML = buildRoiChart(stats.daily);
+        document.getElementById("roi-chart-note").textContent =
+          `各日終了時点での累計回収率(EVプラン・全場/各100円購入・確定オッズ)。点線=損益分岐100%。集計 ${fmtD(stats.from)}〜${fmtD(stats.to)}。`;
+        document.getElementById("roi-chart-section").style.display = "";
+      }
+
       // 直近成績サマリー(全場合計+場別)
       if (stats.tansho && stats.tansho.bets) {
         document.getElementById("stats-total").innerHTML =
