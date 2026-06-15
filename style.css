@@ -305,10 +305,17 @@ body {
   padding: 14px 16px;
   display: flex; flex-direction: column; gap: 5px;
 }
-a.hit-item {
+a.hit-item,
+a.hit-item:link,
+a.hit-item:visited,
+a.hit-item:hover,
+a.hit-item:active {
   text-decoration: none; color: inherit; cursor: pointer;
+}
+a.hit-item {
   transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease;
 }
+a.hit-item .hit-name { color: var(--text); }
 a.hit-item:hover {
   transform: translateY(-2px);
   border-color: var(--gold);
