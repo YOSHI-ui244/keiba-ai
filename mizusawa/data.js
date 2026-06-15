@@ -4567,7 +4567,7 @@ window.RACE_DATA = {
           "jockey": "南郷家全",
           "trainer": "佐藤敏彦",
           "horseWeight": null,
-          "odds": 28.4,
+          "odds": 31.3,
           "recent": [
             {
               "fin": 7,
@@ -4631,7 +4631,7 @@ window.RACE_DATA = {
           "jockey": "山本政聡",
           "trainer": "斉藤雄一",
           "horseWeight": null,
-          "odds": 1.7,
+          "odds": 1.9,
           "recent": [
             {
               "fin": 3,
@@ -4697,7 +4697,7 @@ window.RACE_DATA = {
           "jockey": "菅原辰徳",
           "trainer": "瀬戸幸一",
           "horseWeight": null,
-          "odds": 20.8,
+          "odds": 26.2,
           "recent": [
             {
               "fin": 8,
@@ -4763,7 +4763,7 @@ window.RACE_DATA = {
           "jockey": "斉藤友香",
           "trainer": "飯田弘道",
           "horseWeight": null,
-          "odds": 62.9,
+          "odds": 54.1,
           "recent": [
             {
               "fin": 8,
@@ -4829,7 +4829,7 @@ window.RACE_DATA = {
           "jockey": "村上忍",
           "trainer": "村上実",
           "horseWeight": null,
-          "odds": 8.2,
+          "odds": 6.5,
           "recent": [
             {
               "fin": 6,
@@ -4959,7 +4959,7 @@ window.RACE_DATA = {
           "jockey": "高松亮",
           "trainer": "畠山信一",
           "horseWeight": null,
-          "odds": 6.5,
+          "odds": 4.9,
           "recent": [
             {
               "fin": 4,
@@ -5023,7 +5023,7 @@ window.RACE_DATA = {
           "jockey": "塚本涼人",
           "trainer": "畠山信一",
           "horseWeight": null,
-          "odds": 8.7,
+          "odds": 8.4,
           "recent": [
             {
               "fin": 9,
@@ -5079,7 +5079,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202636061507",
-      "oddsUpdatedAt": "14:50"
+      "oddsUpdatedAt": "15:00"
     },
     {
       "raceNo": 8,
@@ -8608,5 +8608,5 @@ window.RACE_DATA = {
       "raceId": "202636061512"
     }
   ],
-  "oddsUpdatedAt": "14:50"
+  "oddsUpdatedAt": "15:00"
 };
