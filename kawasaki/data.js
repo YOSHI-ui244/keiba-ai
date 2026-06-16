@@ -8241,7 +8241,7 @@ window.RACE_DATA = {
       "raceNo": 11,
       "name": "川崎スパーキングスプリント重賞",
       "distance": 900,
-      "condition": "−",
+      "condition": "稍",
       "startTime": "20:10",
       "grade": "サラ系４歳以上 4歳",
       "meetingInfo": [
@@ -8260,7 +8260,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "宗形竹見",
           "horseWeight": null,
-          "odds": 21.3,
+          "odds": 23.1,
           "recent": [
             {
               "fin": 4,
@@ -8324,7 +8324,7 @@ window.RACE_DATA = {
           "jockey": "達城龍次",
           "trainer": "宗形竹見",
           "horseWeight": null,
-          "odds": 14.2,
+          "odds": 8.6,
           "recent": [
             {
               "fin": 3,
@@ -8388,7 +8388,7 @@ window.RACE_DATA = {
           "jockey": "吉井章",
           "trainer": "橋本和馬",
           "horseWeight": null,
-          "odds": 76.9,
+          "odds": 75.7,
           "recent": [
             {
               "fin": 10,
@@ -8454,7 +8454,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "藤田輝信",
           "horseWeight": null,
-          "odds": 4.3,
+          "odds": 5.2,
           "recent": [
             {
               "fin": 2,
@@ -8518,7 +8518,7 @@ window.RACE_DATA = {
           "jockey": "吉原寛人",
           "trainer": "小久保智",
           "horseWeight": null,
-          "odds": 2.6,
+          "odds": 3.9,
           "recent": [
             {
               "fin": 10,
@@ -8584,7 +8584,7 @@ window.RACE_DATA = {
           "jockey": "中山遥人",
           "trainer": "小林真治",
           "horseWeight": null,
-          "odds": 32.0,
+          "odds": 136.1,
           "recent": [
             {
               "fin": 13,
@@ -8650,7 +8650,7 @@ window.RACE_DATA = {
           "jockey": "西啓太",
           "trainer": "橋本和馬",
           "horseWeight": null,
-          "odds": 25.6,
+          "odds": 15.2,
           "recent": [
             {
               "fin": 2,
@@ -8716,7 +8716,7 @@ window.RACE_DATA = {
           "jockey": "小野俊斗",
           "trainer": "宗形竹見",
           "horseWeight": null,
-          "odds": 76.9,
+          "odds": 103.9,
           "recent": [
             {
               "fin": 15,
@@ -8780,7 +8780,7 @@ window.RACE_DATA = {
           "jockey": "御神本訓",
           "trainer": "鈴木啓之",
           "horseWeight": null,
-          "odds": 2.3,
+          "odds": 1.8,
           "recent": [
             {
               "fin": 1,
@@ -8837,7 +8837,8 @@ window.RACE_DATA = {
           "style": "逃"
         }
       ],
-      "raceId": "202645061611"
+      "raceId": "202645061611",
+      "oddsUpdatedAt": "19:50"
     },
     {
       "raceNo": 12,
@@ -9506,5 +9507,5 @@ window.RACE_DATA = {
       "raceId": "202645061612"
     }
   ],
-  "oddsUpdatedAt": "19:40"
+  "oddsUpdatedAt": "19:50"
 };
