@@ -282,10 +282,13 @@
   const fetchedTxt = RACE_DATA.fetchedAt
     ? `<span class="fetched-at">出馬表取得: ${RACE_DATA.fetchedAt}</span>`
     : `<span class="fetched-at">サンプルデータ表示中</span>`;
-  // 直前オッズ更新(10分間隔タスク)の最終時刻。出馬表の取得時刻とは別に表示する
+  // オッズの取得時刻を表示する。直前更新(10分間隔タスク)が走っていればその時刻、
+  // まだなら出馬表取得時点のオッズとして fetchedAt の時刻を出す(本日ページのみ)。
   const oddsTxt = RACE_DATA.oddsUpdatedAt
     ? `<span class="fetched-at odds-updated">オッズ更新: ${RACE_DATA.oddsUpdatedAt}</span>`
-    : "";
+    : (!RACE_DATA.isArchive && !RACE_DATA.isPreview && RACE_DATA.fetchedAt
+        ? `<span class="fetched-at odds-updated">オッズ: ${RACE_DATA.fetchedAt.slice(11, 16)}時点</span>`
+        : "");
   $("kaisai-info").innerHTML =
     `<span>${RACE_DATA.venue}</span><span>${RACE_DATA.meeting}</span>${fetchedTxt}${oddsTxt}`;
 
