@@ -7205,7 +7205,112 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202650061711",
-      "oddsUpdatedAt": "15:46"
+      "oddsUpdatedAt": "15:46",
+      "result": {
+        "order": [
+          4,
+          5,
+          7,
+          8,
+          2,
+          9,
+          6,
+          3,
+          10,
+          1
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 1270
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 430
+            },
+            {
+              "comb": [
+                5
+              ],
+              "amount": 170
+            },
+            {
+              "comb": [
+                7
+              ],
+              "amount": 270
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                4,
+                5
+              ],
+              "amount": 1490
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                4,
+                5
+              ],
+              "amount": 630
+            },
+            {
+              "comb": [
+                4,
+                7
+              ],
+              "amount": 880
+            },
+            {
+              "comb": [
+                5,
+                7
+              ],
+              "amount": 370
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                4,
+                5
+              ],
+              "amount": 3620
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                4,
+                5,
+                7
+              ],
+              "amount": 2460
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                4,
+                5,
+                7
+              ],
+              "amount": 16930
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 12,
@@ -8007,8 +8112,106 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202650061712"
+      "raceId": "202650061712",
+      "result": {
+        "order": [
+          4,
+          8,
+          11
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 690
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 280
+            },
+            {
+              "comb": [
+                8
+              ],
+              "amount": 170
+            },
+            {
+              "comb": [
+                11
+              ],
+              "amount": 340
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                4,
+                8
+              ],
+              "amount": 1120
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                4,
+                8
+              ],
+              "amount": 570
+            },
+            {
+              "comb": [
+                4,
+                11
+              ],
+              "amount": 1080
+            },
+            {
+              "comb": [
+                8,
+                11
+              ],
+              "amount": 600
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                4,
+                8
+              ],
+              "amount": 2040
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                4,
+                8,
+                11
+              ],
+              "amount": 3120
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                4,
+                8,
+                11
+              ],
+              "amount": 12760
+            }
+          ]
+        }
+      }
     }
   ],
-  "oddsUpdatedAt": "15:46"
+  "oddsUpdatedAt": "16:50"
 };
