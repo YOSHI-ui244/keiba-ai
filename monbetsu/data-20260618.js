@@ -1,10 +1,10 @@
 // このファイルは fetch_data.py により自動生成されています
-// 取得日時: 2026-06-19 00:10
+// 取得日時: 2026-06-19 20:19
 window.RACE_DATA = {
   "venue": "門別競馬場",
   "date": "2026年6月18日(木)",
   "meeting": "第5回 門別開催 5日目",
-  "fetchedAt": "2026-06-19 00:10",
+  "fetchedAt": "2026-06-19 20:19",
   "source": "netkeiba",
   "isArchive": true,
   "isPreview": false,
