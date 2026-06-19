@@ -8170,5 +8170,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202648061912"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "11:59"
 };
