@@ -1,10 +1,10 @@
 // このファイルは fetch_data.py により自動生成されています
-// 取得日時: 2026-06-20 19:40
+// 取得日時: 2026-06-20 19:42
 window.RACE_DATA = {
   "venue": "高知競馬場",
   "date": "2026年6月20日(土)",
   "meeting": "第4回 高知開催 5日目",
-  "fetchedAt": "2026-06-20 19:40",
+  "fetchedAt": "2026-06-20 19:42",
   "source": "netkeiba",
   "isArchive": false,
   "isPreview": false,
@@ -33,7 +33,56 @@ window.RACE_DATA = {
           "trainer": "国澤輝幸",
           "horseWeight": 473,
           "odds": 77.7,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 9,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260325",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 115,
           "style": "追"
         },
@@ -48,7 +97,56 @@ window.RACE_DATA = {
           "trainer": "細川忠義",
           "horseWeight": 452,
           "odds": 12.9,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 7,
+              "date": "20260211",
+              "baba": "重",
+              "dist": "ダ1300"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 117,
@@ -65,7 +163,56 @@ window.RACE_DATA = {
           "trainer": "川野勇馬",
           "horseWeight": 483,
           "odds": 16.1,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20251220",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20251206",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20251123",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20251108",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20251025",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20251012",
+              "baba": "稍",
+              "dist": "ダ1600"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 109,
@@ -82,7 +229,56 @@ window.RACE_DATA = {
           "trainer": "倉兼育康",
           "horseWeight": 460,
           "odds": 28.3,
-          "recent": []
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260120",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20251231",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20251206",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20251123",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20250305",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20250128",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20250122",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20250108",
+              "baba": "稍",
+              "dist": "ダ1300"
+            }
+          ]
         },
         {
           "num": 5,
@@ -95,7 +291,56 @@ window.RACE_DATA = {
           "trainer": "胡本友晴",
           "horseWeight": 524,
           "odds": 93.3,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 6,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 9,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 10,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260325",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 6,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260302",
+              "baba": "不",
+              "dist": "ダ1300"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 117,
@@ -112,7 +357,56 @@ window.RACE_DATA = {
           "trainer": "宮川真衣",
           "horseWeight": 457,
           "odds": 121.1,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 9,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260210",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 108,
           "style": "追"
         },
@@ -127,7 +421,56 @@ window.RACE_DATA = {
           "trainer": "倉兼育康",
           "horseWeight": 475,
           "odds": 2.2,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20251025",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20251011",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20250927",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20250914",
+              "baba": "重",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 108,
@@ -144,117 +487,63 @@ window.RACE_DATA = {
           "trainer": "打越勇児",
           "horseWeight": 486,
           "odds": 1.6,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 6,
+              "date": "20250727",
+              "baba": "重",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 6,
+              "date": "20250713",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 4,
+              "date": "20250629",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 13,
+              "date": "20250614",
+              "baba": "良",
+              "dist": "ダ1700"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 109,
           "style": "先"
         }
       ],
-      "raceId": "202654062001",
-      "result": {
-        "order": [
-          7,
-          8,
-          2,
-          3,
-          1,
-          4,
-          6,
-          5
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                7
-              ],
-              "amount": 220
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                7
-              ],
-              "amount": 110
-            },
-            {
-              "comb": [
-                8
-              ],
-              "amount": 100
-            },
-            {
-              "comb": [
-                2
-              ],
-              "amount": 120
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                7,
-                8
-              ],
-              "amount": 150
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                7,
-                8
-              ],
-              "amount": 110
-            },
-            {
-              "comb": [
-                2,
-                7
-              ],
-              "amount": 280
-            },
-            {
-              "comb": [
-                2,
-                8
-              ],
-              "amount": 220
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                7,
-                8
-              ],
-              "amount": 370
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                2,
-                7,
-                8
-              ],
-              "amount": 290
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                7,
-                8,
-                2
-              ],
-              "amount": 1000
-            }
-          ]
-        }
-      }
+      "raceId": "202654062001"
     },
     {
       "raceNo": 2,
@@ -280,7 +569,56 @@ window.RACE_DATA = {
           "trainer": "別府真司",
           "horseWeight": 482,
           "odds": 5.0,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 5,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260217",
+              "baba": "稍",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 101,
           "style": "追"
         },
@@ -295,7 +633,50 @@ window.RACE_DATA = {
           "trainer": "嬉勝則",
           "horseWeight": 464,
           "odds": 14.5,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260308",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 12,
+              "date": "20260117",
+              "baba": "良",
+              "dist": "ダ1900"
+            },
+            {
+              "fin": 5,
+              "date": "20251227",
+              "baba": "稍",
+              "dist": "ダ1800"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 101,
@@ -312,7 +693,44 @@ window.RACE_DATA = {
           "trainer": "田中守",
           "horseWeight": 454,
           "odds": 1.6,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260228",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20251214",
+              "baba": "稍",
+              "dist": "ダ1800"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 104,
@@ -329,7 +747,26 @@ window.RACE_DATA = {
           "trainer": "別府真司",
           "horseWeight": 397,
           "odds": 4.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 99,
           "style": "差"
         },
@@ -344,7 +781,56 @@ window.RACE_DATA = {
           "trainer": "国澤輝幸",
           "horseWeight": 442,
           "odds": 44.5,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260308",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 101,
           "style": "差"
         },
@@ -359,7 +845,56 @@ window.RACE_DATA = {
           "trainer": "宮川浩一",
           "horseWeight": 462,
           "odds": 66.5,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260215",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260201",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 106,
@@ -376,7 +911,56 @@ window.RACE_DATA = {
           "trainer": "雑賀正光",
           "horseWeight": 442,
           "odds": 55.6,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260215",
+              "baba": "重",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 95,
           "style": "追"
         },
@@ -391,7 +975,56 @@ window.RACE_DATA = {
           "trainer": "別府真司",
           "horseWeight": 463,
           "odds": 98.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 12,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 104,
           "style": "差"
         },
@@ -406,7 +1039,56 @@ window.RACE_DATA = {
           "trainer": "宮路洋一",
           "horseWeight": 430,
           "odds": 11.7,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260322",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1900"
+            }
+          ],
           "spd": 108,
           "style": "追"
         },
@@ -421,117 +1103,61 @@ window.RACE_DATA = {
           "trainer": "那俄性哲",
           "horseWeight": 449,
           "odds": 64.1,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260322",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260208",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 95,
           "style": "先"
         }
       ],
-      "raceId": "202654062002",
-      "result": {
-        "order": [
-          1,
-          9,
-          5,
-          8,
-          4,
-          10,
-          2,
-          3,
-          6,
-          7
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                1
-              ],
-              "amount": 500
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                1
-              ],
-              "amount": 280
-            },
-            {
-              "comb": [
-                9
-              ],
-              "amount": 380
-            },
-            {
-              "comb": [
-                5
-              ],
-              "amount": 800
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                1,
-                9
-              ],
-              "amount": 2310
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                1,
-                9
-              ],
-              "amount": 650
-            },
-            {
-              "comb": [
-                1,
-                5
-              ],
-              "amount": 1540
-            },
-            {
-              "comb": [
-                5,
-                9
-              ],
-              "amount": 1930
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                1,
-                9
-              ],
-              "amount": 4420
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                1,
-                5,
-                9
-              ],
-              "amount": 12550
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                1,
-                9,
-                5
-              ],
-              "amount": 44860
-            }
-          ]
-        }
-      }
+      "raceId": "202654062002"
     },
     {
       "raceNo": 3,
@@ -557,7 +1183,56 @@ window.RACE_DATA = {
           "trainer": "田中守",
           "horseWeight": 422,
           "odds": 12.6,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 3,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260322",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260308",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260208",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20250829",
+              "baba": "良",
+              "dist": "ダ820"
+            },
+            {
+              "fin": 8,
+              "date": "20250808",
+              "baba": "稍",
+              "dist": "ダ820"
+            }
+          ],
           "spd": 104,
           "style": "先"
         },
@@ -572,7 +1247,56 @@ window.RACE_DATA = {
           "trainer": "工藤真司",
           "horseWeight": 510,
           "odds": 7.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260322",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260308",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260210",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20251228",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20251213",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 106,
           "style": "逃"
         },
@@ -587,7 +1311,38 @@ window.RACE_DATA = {
           "trainer": "倉兼育康",
           "horseWeight": 433,
           "odds": 2.8,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 13,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 15,
+              "date": "20260426",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 13,
+              "date": "20260228",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260215",
+              "baba": "良",
+              "dist": "ダ1200"
+            }
+          ],
           "central": true,
           "transfer": true,
           "spd": 108,
@@ -604,7 +1359,56 @@ window.RACE_DATA = {
           "trainer": "西川敏弘",
           "horseWeight": 448,
           "odds": 6.3,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 108,
@@ -621,7 +1425,44 @@ window.RACE_DATA = {
           "trainer": "別府真司",
           "horseWeight": 508,
           "odds": 3.1,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 14,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20251214",
+              "baba": "稍",
+              "dist": "ダ1800"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 105,
@@ -638,7 +1479,56 @@ window.RACE_DATA = {
           "trainer": "西川敏弘",
           "horseWeight": 537,
           "odds": 14.3,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 6,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260208",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 109,
           "style": "差"
         },
@@ -653,7 +1543,56 @@ window.RACE_DATA = {
           "trainer": "雑賀正光",
           "horseWeight": 454,
           "odds": 19.8,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260322",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260210",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 109,
@@ -670,7 +1609,56 @@ window.RACE_DATA = {
           "trainer": "工藤真司",
           "horseWeight": 475,
           "odds": 26.0,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260215",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260201",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 108,
           "style": "先"
         },
@@ -685,118 +1673,63 @@ window.RACE_DATA = {
           "trainer": "川野勇馬",
           "horseWeight": 480,
           "odds": 20.1,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260322",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260308",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 107,
           "style": "差"
         }
       ],
-      "raceId": "202654062003",
-      "result": {
-        "order": [
-          2,
-          4,
-          7,
-          8,
-          9,
-          3,
-          6,
-          5,
-          1
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                2
-              ],
-              "amount": 740
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                2
-              ],
-              "amount": 250
-            },
-            {
-              "comb": [
-                4
-              ],
-              "amount": 270
-            },
-            {
-              "comb": [
-                7
-              ],
-              "amount": 350
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                2,
-                4
-              ],
-              "amount": 1660
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                2,
-                4
-              ],
-              "amount": 700
-            },
-            {
-              "comb": [
-                2,
-                7
-              ],
-              "amount": 1680
-            },
-            {
-              "comb": [
-                4,
-                7
-              ],
-              "amount": 760
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                2,
-                4
-              ],
-              "amount": 3570
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                2,
-                4,
-                7
-              ],
-              "amount": 7430
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                2,
-                4,
-                7
-              ],
-              "amount": 32360
-            }
-          ]
-        }
-      }
+      "raceId": "202654062003"
     },
     {
       "raceNo": 4,
@@ -822,7 +1755,56 @@ window.RACE_DATA = {
           "trainer": "中西達也",
           "horseWeight": 491,
           "odds": 3.2,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260531",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 10,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20251214",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20251116",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20251102",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20251005",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20250923",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 123,
@@ -839,7 +1821,56 @@ window.RACE_DATA = {
           "trainer": "別府真司",
           "horseWeight": 484,
           "odds": 157.8,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 9,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 12,
+              "date": "20260419",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 7,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1600"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 135,
@@ -856,7 +1887,56 @@ window.RACE_DATA = {
           "trainer": "倉兼育康",
           "horseWeight": 458,
           "odds": 9.0,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260531",
+              "baba": "稍",
+              "dist": "ダ1900"
+            },
+            {
+              "fin": 6,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260113",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 7,
+              "date": "20251213",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20251129",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 4,
+              "date": "20251116",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20251102",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20251018",
+              "baba": "稍",
+              "dist": "ダ1800"
+            }
+          ],
           "spd": 117,
           "style": "差"
         },
@@ -871,7 +1951,56 @@ window.RACE_DATA = {
           "trainer": "川野勇馬",
           "horseWeight": 495,
           "odds": 49.1,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 10,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260419",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260325",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260303",
+              "baba": "不",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 115,
           "style": "先"
         },
@@ -886,7 +2015,56 @@ window.RACE_DATA = {
           "trainer": "胡本友晴",
           "horseWeight": 481,
           "odds": 19.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260419",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260303",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260218",
+              "baba": "稍",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 116,
           "style": "差"
         },
@@ -901,7 +2079,56 @@ window.RACE_DATA = {
           "trainer": "西山裕貴",
           "horseWeight": 482,
           "odds": 54.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 9,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 7,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260317",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260302",
+              "baba": "不",
+              "dist": "ダ1600"
+            }
+          ],
           "spd": 117,
           "style": "差"
         },
@@ -916,7 +2143,56 @@ window.RACE_DATA = {
           "trainer": "国澤輝幸",
           "horseWeight": 545,
           "odds": 6.6,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260531",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260419",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 10,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 115,
@@ -933,7 +2209,56 @@ window.RACE_DATA = {
           "trainer": "平和人",
           "horseWeight": 501,
           "odds": 98.2,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 6,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260211",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260127",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 115,
           "style": "追"
         },
@@ -948,7 +2273,56 @@ window.RACE_DATA = {
           "trainer": "那俄性哲",
           "horseWeight": 526,
           "odds": 24.9,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 11,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 6,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 6,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1600"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 119,
@@ -965,7 +2339,56 @@ window.RACE_DATA = {
           "trainer": "宮路洋一",
           "horseWeight": 512,
           "odds": 105.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260419",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20260317",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 7,
+              "date": "20260302",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260217",
+              "baba": "稍",
+              "dist": "ダ1600"
+            }
+          ],
           "spd": 116,
           "style": "差"
         },
@@ -980,118 +2403,61 @@ window.RACE_DATA = {
           "trainer": "西川敏弘",
           "horseWeight": 457,
           "odds": 1.8,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260531",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 7,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260317",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20260302",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260203",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 6,
+              "date": "20260121",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20251229",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 120,
           "style": "逃"
         }
       ],
-      "raceId": "202654062004",
-      "result": {
-        "order": [
-          11,
-          8,
-          3,
-          10,
-          7,
-          4,
-          6,
-          9,
-          1,
-          5,
-          2
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                11
-              ],
-              "amount": 180
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                11
-              ],
-              "amount": 110
-            },
-            {
-              "comb": [
-                8
-              ],
-              "amount": 860
-            },
-            {
-              "comb": [
-                3
-              ],
-              "amount": 200
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                8,
-                11
-              ],
-              "amount": 7650
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                8,
-                11
-              ],
-              "amount": 1980
-            },
-            {
-              "comb": [
-                3,
-                11
-              ],
-              "amount": 310
-            },
-            {
-              "comb": [
-                3,
-                8
-              ],
-              "amount": 4140
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                11,
-                8
-              ],
-              "amount": 9780
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                3,
-                8,
-                11
-              ],
-              "amount": 6580
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                11,
-                8,
-                3
-              ],
-              "amount": 31250
-            }
-          ]
-        }
-      }
+      "raceId": "202654062004"
     },
     {
       "raceNo": 5,
@@ -1117,7 +2483,56 @@ window.RACE_DATA = {
           "trainer": "田中守",
           "horseWeight": 488,
           "odds": 28.1,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260215",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260201",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 122,
@@ -1134,7 +2549,56 @@ window.RACE_DATA = {
           "trainer": "雑賀正光",
           "horseWeight": 536,
           "odds": 3.7,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 7,
+              "date": "20260216",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20251112",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 13,
+              "date": "20251022",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20250918",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20250815",
+              "baba": "良",
+              "dist": "ダ2000"
+            }
+          ],
           "spd": 123,
           "style": "先"
         },
@@ -1149,7 +2613,56 @@ window.RACE_DATA = {
           "trainer": "田中守",
           "horseWeight": 508,
           "odds": 1.8,
-          "recent": []
+          "recent": [
+            {
+              "fin": 15,
+              "date": "20250223",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 14,
+              "date": "20241228",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 10,
+              "date": "20241201",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 14,
+              "date": "20241103",
+              "baba": "重",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 5,
+              "date": "20240804",
+              "baba": "稍",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 1,
+              "date": "20240518",
+              "baba": "良",
+              "dist": "ダ1900"
+            },
+            {
+              "fin": 2,
+              "date": "20240324",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 9,
+              "date": "20231221",
+              "baba": "良",
+              "dist": "ダ2100"
+            }
+          ]
         },
         {
           "num": 4,
@@ -1162,7 +2675,56 @@ window.RACE_DATA = {
           "trainer": "倉兼育康",
           "horseWeight": 473,
           "odds": 370.3,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 9,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260312",
+              "baba": "良",
+              "dist": "ダ2000"
+            },
+            {
+              "fin": 6,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260208",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20251231",
+              "baba": "良",
+              "dist": "ダ2400"
+            },
+            {
+              "fin": 3,
+              "date": "20251207",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 2,
+              "date": "20251124",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 125,
@@ -1179,7 +2741,56 @@ window.RACE_DATA = {
           "trainer": "別府真司",
           "horseWeight": 477,
           "odds": 13.3,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 1,
+              "date": "20260317",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20260218",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260201",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 122,
@@ -1196,7 +2807,56 @@ window.RACE_DATA = {
           "trainer": "田中守",
           "horseWeight": 509,
           "odds": 249.8,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 9,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1900"
+            },
+            {
+              "fin": 11,
+              "date": "20260204",
+              "baba": "良",
+              "dist": "ダ2100"
+            },
+            {
+              "fin": 7,
+              "date": "20251231",
+              "baba": "良",
+              "dist": "ダ2400"
+            },
+            {
+              "fin": 1,
+              "date": "20251220",
+              "baba": "稍",
+              "dist": "ダ1900"
+            },
+            {
+              "fin": 3,
+              "date": "20251206",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20251102",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20251018",
+              "baba": "稍",
+              "dist": "ダ1800"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 124,
@@ -1213,7 +2873,56 @@ window.RACE_DATA = {
           "trainer": "別府真司",
           "horseWeight": 519,
           "odds": 46.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260405",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 15,
+              "date": "20260207",
+              "baba": "良",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 16,
+              "date": "20260117",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20251123",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20251108",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 123,
@@ -1230,7 +2939,56 @@ window.RACE_DATA = {
           "trainer": "川野勇馬",
           "horseWeight": 500,
           "odds": 102.6,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 9,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1900"
+            },
+            {
+              "fin": 1,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260215",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260118",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20251231",
+              "baba": "良",
+              "dist": "ダ2400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 119,
@@ -1247,7 +3005,56 @@ window.RACE_DATA = {
           "trainer": "打越勇児",
           "horseWeight": 498,
           "odds": 45.9,
-          "recent": []
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 6,
+              "date": "20260215",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260125",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20251231",
+              "baba": "良",
+              "dist": "ダ2400"
+            },
+            {
+              "fin": 4,
+              "date": "20251207",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 3,
+              "date": "20251124",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20251109",
+              "baba": "不",
+              "dist": "ダ1600"
+            }
+          ]
         },
         {
           "num": 10,
@@ -1260,7 +3067,56 @@ window.RACE_DATA = {
           "trainer": "打越勇児",
           "horseWeight": 487,
           "odds": 10.8,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260125",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260111",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260101",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20251220",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20251206",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20251102",
+              "baba": "重",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 122,
@@ -1277,7 +3133,56 @@ window.RACE_DATA = {
           "trainer": "倉兼育康",
           "horseWeight": 508,
           "odds": 20.9,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260312",
+              "baba": "良",
+              "dist": "ダ2000"
+            },
+            {
+              "fin": 2,
+              "date": "20260215",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260110",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20251221",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20250426",
+              "baba": "重",
+              "dist": "ダ1800"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 122,
@@ -1294,117 +3199,59 @@ window.RACE_DATA = {
           "trainer": "目迫大輔",
           "horseWeight": 479,
           "odds": 8.0,
-          "recent": []
-        }
-      ],
-      "raceId": "202654062005",
-      "result": {
-        "order": [
-          12,
-          11,
-          7,
-          8,
-          6,
-          5,
-          10,
-          1,
-          2,
-          3,
-          9,
-          4
-        ],
-        "payouts": {
-          "tansho": [
+          "recent": [
             {
-              "comb": [
-                12
-              ],
-              "amount": 800
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                12
-              ],
-              "amount": 240
+              "fin": 1,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1750"
             },
             {
-              "comb": [
-                11
-              ],
-              "amount": 440
+              "fin": 4,
+              "date": "20260312",
+              "baba": "良",
+              "dist": "ダ1500"
             },
             {
-              "comb": [
-                7
-              ],
-              "amount": 880
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                11,
-                12
-              ],
-              "amount": 5450
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                11,
-                12
-              ],
-              "amount": 1950
+              "fin": 2,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1900"
             },
             {
-              "comb": [
-                7,
-                12
-              ],
-              "amount": 2090
+              "fin": 5,
+              "date": "20260112",
+              "baba": "良",
+              "dist": "ダ1400"
             },
             {
-              "comb": [
-                7,
-                11
-              ],
-              "amount": 3480
-            }
-          ],
-          "umatan": [
+              "fin": 1,
+              "date": "20251207",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
             {
-              "comb": [
-                12,
-                11
-              ],
-              "amount": 10820
-            }
-          ],
-          "sanrenpuku": [
+              "fin": 4,
+              "date": "20251124",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
             {
-              "comb": [
-                7,
-                11,
-                12
-              ],
-              "amount": 27230
-            }
-          ],
-          "sanrentan": [
+              "fin": 12,
+              "date": "20251005",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
             {
-              "comb": [
-                12,
-                11,
-                7
-              ],
-              "amount": 136670
+              "fin": 9,
+              "date": "20250802",
+              "baba": "良",
+              "dist": "ダ1800"
             }
           ]
         }
-      }
+      ],
+      "raceId": "202654062005"
     },
     {
       "raceNo": 6,
@@ -1430,7 +3277,56 @@ window.RACE_DATA = {
           "trainer": "宮川浩一",
           "horseWeight": 468,
           "odds": 12.5,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260419",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260302",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260217",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260127",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 119,
           "style": "追"
         },
@@ -1445,7 +3341,56 @@ window.RACE_DATA = {
           "trainer": "東原己俊",
           "horseWeight": 501,
           "odds": 57.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260110",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 3,
+              "date": "20251109",
+              "baba": "重",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 6,
+              "date": "20251019",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 1,
+              "date": "20250920",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 2,
+              "date": "20250906",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 13,
+              "date": "20250713",
+              "baba": "良",
+              "dist": "芝1800"
+            }
+          ],
           "central": true,
           "transfer": true,
           "spd": 137,
@@ -1462,7 +3407,56 @@ window.RACE_DATA = {
           "trainer": "細川忠義",
           "horseWeight": 475,
           "odds": 433.7,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 9,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260218",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260203",
+              "baba": "良",
+              "dist": "ダ1600"
+            }
+          ],
           "spd": 116,
           "style": "差"
         },
@@ -1477,7 +3471,56 @@ window.RACE_DATA = {
           "trainer": "西山裕貴",
           "horseWeight": 494,
           "odds": 72.2,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1600"
+            }
+          ],
           "spd": 118,
           "style": "先"
         },
@@ -1492,7 +3535,56 @@ window.RACE_DATA = {
           "trainer": "東原己俊",
           "horseWeight": 538,
           "odds": 179.3,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 10,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 7,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 10,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260217",
+              "baba": "稍",
+              "dist": "ダ1600"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 118,
@@ -1509,7 +3601,56 @@ window.RACE_DATA = {
           "trainer": "田中伸一",
           "horseWeight": 503,
           "odds": 3.1,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260308",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20251210",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20251124",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20251112",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20250902",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20250810",
+              "baba": "良",
+              "dist": "ダ1800"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 128,
@@ -1526,7 +3667,56 @@ window.RACE_DATA = {
           "trainer": "別府真司",
           "horseWeight": 489,
           "odds": 8.6,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 12,
+              "date": "20260409",
+              "baba": "稍",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 9,
+              "date": "20260123",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 5,
+              "date": "20260108",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20251209",
+              "baba": "良",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 3,
+              "date": "20251013",
+              "baba": "良",
+              "dist": "ダ2000"
+            },
+            {
+              "fin": 14,
+              "date": "20250909",
+              "baba": "稍",
+              "dist": "ダ1600"
+            }
+          ],
           "spd": 118,
           "style": "先"
         },
@@ -1541,7 +3731,56 @@ window.RACE_DATA = {
           "trainer": "宮路洋一",
           "horseWeight": 476,
           "odds": 7.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260531",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260507",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260423",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260413",
+              "baba": "良",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 8,
+              "date": "20260325",
+              "baba": "不",
+              "dist": "ダ920"
+            },
+            {
+              "fin": 5,
+              "date": "20260311",
+              "baba": "良",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 3,
+              "date": "20260227",
+              "baba": "重",
+              "dist": "ダ920"
+            },
+            {
+              "fin": 11,
+              "date": "20260213",
+              "baba": "稍",
+              "dist": "ダ920"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 125,
@@ -1558,7 +3797,56 @@ window.RACE_DATA = {
           "trainer": "宮路洋一",
           "horseWeight": 427,
           "odds": 27.9,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260419",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260325",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1600"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 119,
@@ -1575,119 +3863,63 @@ window.RACE_DATA = {
           "trainer": "田中譲二",
           "horseWeight": 509,
           "odds": 1.8,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 10,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260419",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260301",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 12,
+              "date": "20260105",
+              "baba": "稍",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 14,
+              "date": "20251115",
+              "baba": "良",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 9,
+              "date": "20250611",
+              "baba": "不",
+              "dist": "ダ2000"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 115,
           "style": "先"
         }
       ],
-      "raceId": "202654062006",
-      "result": {
-        "order": [
-          10,
-          7,
-          9,
-          6,
-          8,
-          3,
-          4,
-          1,
-          2,
-          5
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                10
-              ],
-              "amount": 180
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                10
-              ],
-              "amount": 140
-            },
-            {
-              "comb": [
-                7
-              ],
-              "amount": 380
-            },
-            {
-              "comb": [
-                9
-              ],
-              "amount": 480
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                7,
-                10
-              ],
-              "amount": 970
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                7,
-                10
-              ],
-              "amount": 520
-            },
-            {
-              "comb": [
-                9,
-                10
-              ],
-              "amount": 680
-            },
-            {
-              "comb": [
-                7,
-                9
-              ],
-              "amount": 2020
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                10,
-                7
-              ],
-              "amount": 1280
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                7,
-                9,
-                10
-              ],
-              "amount": 3870
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                10,
-                7,
-                9
-              ],
-              "amount": 9260
-            }
-          ]
-        }
-      }
+      "raceId": "202654062006"
     },
     {
       "raceNo": 7,
@@ -1713,7 +3945,56 @@ window.RACE_DATA = {
           "trainer": "田中伸一",
           "horseWeight": 484,
           "odds": 133.0,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260325",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1600"
+            }
+          ],
           "spd": 101,
           "style": "追"
         },
@@ -1728,7 +4009,56 @@ window.RACE_DATA = {
           "trainer": "工藤真司",
           "horseWeight": 490,
           "odds": 1.7,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260403",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 8,
+              "date": "20260312",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 8,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260212",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 7,
+              "date": "20260122",
+              "baba": "良",
+              "dist": "ダ1200"
+            }
+          ],
           "spd": 128,
           "style": "先"
         },
@@ -1743,7 +4073,56 @@ window.RACE_DATA = {
           "trainer": "細川忠義",
           "horseWeight": 445,
           "odds": 57.3,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260325",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1600"
+            }
+          ],
           "spd": 99,
           "style": "先"
         },
@@ -1758,7 +4137,56 @@ window.RACE_DATA = {
           "trainer": "宮川真衣",
           "horseWeight": 467,
           "odds": 14.2,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260206",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260123",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 7,
+              "date": "20260101",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20250830",
+              "baba": "稍",
+              "dist": "芝2000"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 108,
@@ -1775,7 +4203,56 @@ window.RACE_DATA = {
           "trainer": "細川忠義",
           "horseWeight": 404,
           "odds": 172.8,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260325",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260303",
+              "baba": "不",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 107,
           "style": "先"
         },
@@ -1790,7 +4267,56 @@ window.RACE_DATA = {
           "trainer": "細川忠義",
           "horseWeight": 440,
           "odds": 311.5,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260303",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 101,
           "style": "差"
         },
@@ -1805,7 +4331,56 @@ window.RACE_DATA = {
           "trainer": "田中伸一",
           "horseWeight": 403,
           "odds": 104.9,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 10,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 6,
+              "date": "20260317",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1300"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 124,
@@ -1822,7 +4397,56 @@ window.RACE_DATA = {
           "trainer": "胡本友晴",
           "horseWeight": 480,
           "odds": 1.9,
-          "recent": []
+          "recent": [
+            {
+              "fin": 14,
+              "date": "20260524",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 13,
+              "date": "20260503",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 11,
+              "date": "20260419",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 13,
+              "date": "20260321",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 13,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1000"
+            },
+            {
+              "fin": 7,
+              "date": "20250817",
+              "baba": "稍",
+              "dist": "ダ1000"
+            },
+            {
+              "fin": 12,
+              "date": "20250720",
+              "baba": "良",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 11,
+              "date": "20250705",
+              "baba": "稍",
+              "dist": "ダ1700"
+            }
+          ]
         },
         {
           "num": 9,
@@ -1835,7 +4459,56 @@ window.RACE_DATA = {
           "trainer": "細川忠義",
           "horseWeight": 453,
           "odds": 37.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260508",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 10,
+              "date": "20260331",
+              "baba": "重",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 10,
+              "date": "20251107",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 8,
+              "date": "20250630",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 1,
+              "date": "20250605",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 3,
+              "date": "20250509",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 6,
+              "date": "20250404",
+              "baba": "重",
+              "dist": "ダ1200"
+            }
+          ],
           "spd": 99,
           "style": "差"
         },
@@ -1850,119 +4523,63 @@ window.RACE_DATA = {
           "trainer": "胡本友晴",
           "horseWeight": 494,
           "odds": 444.7,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 10,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260218",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260203",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 104,
           "style": "差"
         }
       ],
-      "raceId": "202654062007",
-      "result": {
-        "order": [
-          8,
-          4,
-          2,
-          1,
-          7,
-          5,
-          9,
-          3,
-          6,
-          10
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                8
-              ],
-              "amount": 190
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                8
-              ],
-              "amount": 100
-            },
-            {
-              "comb": [
-                4
-              ],
-              "amount": 130
-            },
-            {
-              "comb": [
-                2
-              ],
-              "amount": 100
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                4,
-                8
-              ],
-              "amount": 1030
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                4,
-                8
-              ],
-              "amount": 200
-            },
-            {
-              "comb": [
-                2,
-                8
-              ],
-              "amount": 100
-            },
-            {
-              "comb": [
-                2,
-                4
-              ],
-              "amount": 150
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                8,
-                4
-              ],
-              "amount": 1810
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                2,
-                4,
-                8
-              ],
-              "amount": 250
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                8,
-                4,
-                2
-              ],
-              "amount": 2770
-            }
-          ]
-        }
-      }
+      "raceId": "202654062007"
     },
     {
       "raceNo": 8,
@@ -1988,7 +4605,56 @@ window.RACE_DATA = {
           "trainer": "目迫大輔",
           "horseWeight": 454,
           "odds": 42.2,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 108,
           "style": "差"
         },
@@ -2003,7 +4669,56 @@ window.RACE_DATA = {
           "trainer": "宮川浩一",
           "horseWeight": 533,
           "odds": 15.5,
-          "recent": []
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20251220",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20251123",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 6,
+              "date": "20251108",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20251025",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20251012",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20250928",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20250802",
+              "baba": "良",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 4,
+              "date": "20250720",
+              "baba": "良",
+              "dist": "ダ1700"
+            }
+          ]
         },
         {
           "num": 3,
@@ -2016,7 +4731,56 @@ window.RACE_DATA = {
           "trainer": "胡本友晴",
           "horseWeight": 418,
           "odds": 232.0,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 10,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260302",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260217",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260202",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260120",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20251231",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20251214",
+              "baba": "稍",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 108,
           "style": "差"
         },
@@ -2031,7 +4795,56 @@ window.RACE_DATA = {
           "trainer": "嬉勝則",
           "horseWeight": null,
           "odds": null,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 12,
+              "date": "20260317",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 112,
@@ -2048,7 +4861,56 @@ window.RACE_DATA = {
           "trainer": "田中譲二",
           "horseWeight": 481,
           "odds": 1.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 13,
+              "date": "20260426",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 18,
+              "date": "20260301",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 13,
+              "date": "20251214",
+              "baba": "稍",
+              "dist": "ダ2500"
+            },
+            {
+              "fin": 12,
+              "date": "20251109",
+              "baba": "良",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 8,
+              "date": "20250720",
+              "baba": "良",
+              "dist": "芝2600"
+            },
+            {
+              "fin": 7,
+              "date": "20250621",
+              "baba": "良",
+              "dist": "芝2600"
+            },
+            {
+              "fin": 9,
+              "date": "20250427",
+              "baba": "良",
+              "dist": "芝2600"
+            }
+          ],
           "central": true,
           "transfer": true,
           "spd": 117,
@@ -2065,7 +4927,56 @@ window.RACE_DATA = {
           "trainer": "宮川真衣",
           "horseWeight": 456,
           "odds": 87.3,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260203",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 109,
           "style": "先"
         },
@@ -2080,7 +4991,56 @@ window.RACE_DATA = {
           "trainer": "細川忠義",
           "horseWeight": 425,
           "odds": 142.0,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 11,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260303",
+              "baba": "不",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 103,
           "style": "追"
         },
@@ -2095,7 +5055,56 @@ window.RACE_DATA = {
           "trainer": "打越勇児",
           "horseWeight": 512,
           "odds": 3.1,
-          "recent": []
+          "recent": [
+            {
+              "fin": 12,
+              "date": "20251229",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20251214",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20251130",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20251116",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20251102",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20251005",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20250629",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20250601",
+              "baba": "稍",
+              "dist": "ダ1400"
+            }
+          ]
         },
         {
           "num": 9,
@@ -2108,7 +5117,56 @@ window.RACE_DATA = {
           "trainer": "工藤真司",
           "horseWeight": 525,
           "odds": 7.8,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20251101",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20251004",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20250921",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20250906",
+              "baba": "重",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 124,
@@ -2125,116 +5183,61 @@ window.RACE_DATA = {
           "trainer": "国澤輝幸",
           "horseWeight": 470,
           "odds": 49.5,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 104,
           "style": "追"
         }
       ],
-      "raceId": "202654062008",
-      "result": {
-        "order": [
-          5,
-          2,
-          8,
-          9,
-          10,
-          6,
-          1,
-          7,
-          3
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                5
-              ],
-              "amount": 140
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                5
-              ],
-              "amount": 100
-            },
-            {
-              "comb": [
-                2
-              ],
-              "amount": 230
-            },
-            {
-              "comb": [
-                8
-              ],
-              "amount": 150
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                2,
-                5
-              ],
-              "amount": 1170
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                2,
-                5
-              ],
-              "amount": 360
-            },
-            {
-              "comb": [
-                5,
-                8
-              ],
-              "amount": 160
-            },
-            {
-              "comb": [
-                2,
-                8
-              ],
-              "amount": 740
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                5,
-                2
-              ],
-              "amount": 1450
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                2,
-                5,
-                8
-              ],
-              "amount": 1080
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                5,
-                2,
-                8
-              ],
-              "amount": 4080
-            }
-          ]
-        }
-      }
+      "raceId": "202654062008"
     },
     {
       "raceNo": 9,
@@ -2260,7 +5263,56 @@ window.RACE_DATA = {
           "trainer": "平和人",
           "horseWeight": 484,
           "odds": 64.8,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 104,
@@ -2277,7 +5329,56 @@ window.RACE_DATA = {
           "trainer": "川野勇馬",
           "horseWeight": 457,
           "odds": 249.2,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260317",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 11,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 116,
@@ -2294,7 +5395,56 @@ window.RACE_DATA = {
           "trainer": "中西達也",
           "horseWeight": 431,
           "odds": 37.5,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260211",
+              "baba": "重",
+              "dist": "ダ1300"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 109,
@@ -2311,7 +5461,56 @@ window.RACE_DATA = {
           "trainer": "工藤真司",
           "horseWeight": null,
           "odds": null,
-          "recent": []
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260120",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20251231",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20251207",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20251018",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 10,
+              "date": "20250719",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 11,
+              "date": "20250510",
+              "baba": "稍",
+              "dist": "芝1000"
+            },
+            {
+              "fin": 10,
+              "date": "20250308",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 10,
+              "date": "20250126",
+              "baba": "良",
+              "dist": "芝1400"
+            }
+          ]
         },
         {
           "num": 5,
@@ -2324,7 +5523,56 @@ window.RACE_DATA = {
           "trainer": "打越勇児",
           "horseWeight": 473,
           "odds": null,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 15,
+              "date": "20260418",
+              "baba": "良",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 11,
+              "date": "20260329",
+              "baba": "良",
+              "dist": "障2970"
+            },
+            {
+              "fin": 11,
+              "date": "20260117",
+              "baba": "良",
+              "dist": "障2880"
+            },
+            {
+              "fin": 9,
+              "date": "20251206",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 14,
+              "date": "20251004",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20250720",
+              "baba": "良",
+              "dist": "芝1800"
+            }
+          ],
           "central": true,
           "transfer": true,
           "spd": 114,
@@ -2341,7 +5589,56 @@ window.RACE_DATA = {
           "trainer": "那俄性哲",
           "horseWeight": 462,
           "odds": 170.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260210",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 105,
@@ -2358,7 +5655,56 @@ window.RACE_DATA = {
           "trainer": "宮川浩一",
           "horseWeight": 506,
           "odds": 5.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20250608",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20250525",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20240901",
+              "baba": "稍",
+              "dist": "芝2600"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 132,
@@ -2375,7 +5721,56 @@ window.RACE_DATA = {
           "trainer": "宮川浩一",
           "horseWeight": 494,
           "odds": 12.0,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260325",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260124",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 15,
+              "date": "20260117",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 109,
@@ -2392,115 +5787,61 @@ window.RACE_DATA = {
           "trainer": "胡本友晴",
           "horseWeight": 462,
           "odds": 228.9,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 9,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260215",
+              "baba": "重",
+              "dist": "ダ1600"
+            }
+          ],
           "spd": 108,
           "style": "差"
         }
       ],
-      "raceId": "202654062009",
-      "result": {
-        "order": [
-          5,
-          8,
-          7,
-          3,
-          1,
-          9,
-          2,
-          6
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                5
-              ],
-              "amount": 100
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                5
-              ],
-              "amount": 100
-            },
-            {
-              "comb": [
-                8
-              ],
-              "amount": 120
-            },
-            {
-              "comb": [
-                7
-              ],
-              "amount": 110
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                5,
-                8
-              ],
-              "amount": 310
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                5,
-                8
-              ],
-              "amount": 150
-            },
-            {
-              "comb": [
-                5,
-                7
-              ],
-              "amount": 110
-            },
-            {
-              "comb": [
-                7,
-                8
-              ],
-              "amount": 200
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                5,
-                8
-              ],
-              "amount": 320
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                5,
-                7,
-                8
-              ],
-              "amount": 190
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                5,
-                8,
-                7
-              ],
-              "amount": 600
-            }
-          ]
-        }
-      }
+      "raceId": "202654062009"
     },
     {
       "raceNo": 10,
@@ -2526,7 +5867,56 @@ window.RACE_DATA = {
           "trainer": "西川敏弘",
           "horseWeight": 500,
           "odds": 30.0,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260302",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260217",
+              "baba": "稍",
+              "dist": "ダ1600"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 121,
@@ -2543,7 +5933,56 @@ window.RACE_DATA = {
           "trainer": "細川忠義",
           "horseWeight": 501,
           "odds": 20.7,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260317",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260302",
+              "baba": "不",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 121,
           "style": "差"
         },
@@ -2558,7 +5997,56 @@ window.RACE_DATA = {
           "trainer": "目迫大輔",
           "horseWeight": 502,
           "odds": 6.5,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 11,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260217",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 7,
+              "date": "20260120",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20251220",
+              "baba": "稍",
+              "dist": "ダ1600"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 119,
@@ -2575,7 +6063,56 @@ window.RACE_DATA = {
           "trainer": "国澤輝幸",
           "horseWeight": 476,
           "odds": 68.0,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 6,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20251222",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20251209",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20251126",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 9,
+              "date": "20251112",
+              "baba": "良",
+              "dist": "ダ1800"
+            }
+          ],
           "spd": 123,
           "style": "差"
         },
@@ -2590,7 +6127,56 @@ window.RACE_DATA = {
           "trainer": "田中譲二",
           "horseWeight": 494,
           "odds": 15.5,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260217",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260202",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 121,
@@ -2607,7 +6193,56 @@ window.RACE_DATA = {
           "trainer": "宮川浩一",
           "horseWeight": 499,
           "odds": 2.2,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260419",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260308",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260217",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260202",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260111",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 117,
@@ -2624,7 +6259,56 @@ window.RACE_DATA = {
           "trainer": "嬉勝則",
           "horseWeight": null,
           "odds": null,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 10,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260303",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260211",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260118",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20251213",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20251130",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 116,
@@ -2641,7 +6325,56 @@ window.RACE_DATA = {
           "trainer": "西山裕貴",
           "horseWeight": 496,
           "odds": 2.1,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260218",
+              "baba": "稍",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 114,
@@ -2658,15 +6391,63 @@ window.RACE_DATA = {
           "trainer": "川野勇馬",
           "horseWeight": 469,
           "odds": 38.2,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 10,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 117,
           "style": "差"
         }
       ],
-      "raceId": "202654062010",
-      "oddsUpdatedAt": "19:42"
+      "raceId": "202654062010"
     },
     {
       "raceNo": 11,
@@ -2692,7 +6473,56 @@ window.RACE_DATA = {
           "trainer": "国澤輝幸",
           "horseWeight": 479,
           "odds": 10.6,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 122,
@@ -2709,7 +6539,56 @@ window.RACE_DATA = {
           "trainer": "田中守",
           "horseWeight": null,
           "odds": null,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260208",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20251220",
+              "baba": "稍",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 8,
+              "date": "20251206",
+              "baba": "良",
+              "dist": "芝1600"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 119,
@@ -2726,7 +6605,56 @@ window.RACE_DATA = {
           "trainer": "西山裕貴",
           "horseWeight": 431,
           "odds": 14.7,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 9,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 120,
           "style": "差"
         },
@@ -2741,7 +6669,56 @@ window.RACE_DATA = {
           "trainer": "那俄性哲",
           "horseWeight": 451,
           "odds": 28.3,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 4,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260325",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1600"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 132,
@@ -2758,7 +6735,56 @@ window.RACE_DATA = {
           "trainer": "工藤真司",
           "horseWeight": 497,
           "odds": 11.2,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 7,
+              "date": "20260317",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260211",
+              "baba": "重",
+              "dist": "ダ1300"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 135,
@@ -2775,7 +6801,56 @@ window.RACE_DATA = {
           "trainer": "宮川浩一",
           "horseWeight": 516,
           "odds": 6.6,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 3,
+              "date": "20260302",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260217",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20260202",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260111",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20251220",
+              "baba": "稍",
+              "dist": "ダ1900"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 118,
@@ -2792,7 +6867,56 @@ window.RACE_DATA = {
           "trainer": "胡本友晴",
           "horseWeight": 455,
           "odds": 14.0,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260419",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20260325",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20260303",
+              "baba": "不",
+              "dist": "ダ1300"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 128,
@@ -2809,7 +6933,56 @@ window.RACE_DATA = {
           "trainer": "宮川浩一",
           "horseWeight": 490,
           "odds": 9.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260419",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260325",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260303",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260127",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20251229",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 120,
@@ -2826,7 +6999,56 @@ window.RACE_DATA = {
           "trainer": "打越勇児",
           "horseWeight": 484,
           "odds": 3.9,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260419",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20251229",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20251214",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20251130",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20251116",
+              "baba": "稍",
+              "dist": "ダ1300"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 131,
@@ -2843,7 +7065,56 @@ window.RACE_DATA = {
           "trainer": "打越勇児",
           "horseWeight": 529,
           "odds": 2.6,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260208",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 16,
+              "date": "20251229",
+              "baba": "重",
+              "dist": "ダ2000"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 121,
@@ -2875,8 +7146,57 @@ window.RACE_DATA = {
           "jockey": "山田義貴",
           "trainer": "西川敏弘",
           "horseWeight": null,
-          "odds": 24.0,
-          "recent": [],
+          "odds": 24.5,
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260308",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260208",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 97,
           "style": "先"
         },
@@ -2890,8 +7210,57 @@ window.RACE_DATA = {
           "jockey": "岡遼太郎",
           "trainer": "国澤輝幸",
           "horseWeight": null,
-          "odds": 5.9,
-          "recent": [],
+          "odds": 5.8,
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260201",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260111",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20251228",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20251213",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 99,
           "style": "先"
         },
@@ -2905,8 +7274,57 @@ window.RACE_DATA = {
           "jockey": "岡村卓弥",
           "trainer": "工藤真司",
           "horseWeight": null,
-          "odds": 18.3,
-          "recent": [],
+          "odds": 17.3,
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20251228",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 1,
+              "date": "20251206",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20251116",
+              "baba": "稍",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 95,
           "style": "差"
         },
@@ -2920,8 +7338,57 @@ window.RACE_DATA = {
           "jockey": "佐原秀泰",
           "trainer": "宮川浩一",
           "horseWeight": null,
-          "odds": 26.4,
-          "recent": [],
+          "odds": 25.8,
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260322",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20260311",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260208",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
           "spd": 94,
           "style": "先"
         },
@@ -2935,8 +7402,57 @@ window.RACE_DATA = {
           "jockey": "大澤誠志",
           "trainer": "川野勇馬",
           "horseWeight": null,
-          "odds": 33.8,
-          "recent": [],
+          "odds": 34.5,
+          "recent": [
+            {
+              "fin": 10,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260322",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 101,
           "style": "差"
         },
@@ -2950,8 +7466,57 @@ window.RACE_DATA = {
           "jockey": "山崎雅由",
           "trainer": "嬉勝則",
           "horseWeight": null,
-          "odds": 8.6,
-          "recent": [],
+          "odds": 8.8,
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260208",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 97,
@@ -2967,8 +7532,57 @@ window.RACE_DATA = {
           "jockey": "木村直輝",
           "trainer": "胡本友晴",
           "horseWeight": null,
-          "odds": 10.1,
-          "recent": [],
+          "odds": 10.3,
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 2,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260228",
+              "baba": "重",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 10,
+              "date": "20260207",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 16,
+              "date": "20251220",
+              "baba": "良",
+              "dist": "芝2000"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 100,
@@ -2984,8 +7598,57 @@ window.RACE_DATA = {
           "jockey": "城野慈尚",
           "trainer": "田中譲二",
           "horseWeight": null,
-          "odds": 7.1,
-          "recent": [],
+          "odds": 7.3,
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260322",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260317",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260310",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260223",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 93,
           "style": "差"
         },
@@ -2999,8 +7662,57 @@ window.RACE_DATA = {
           "jockey": "畑中信司",
           "trainer": "細川忠義",
           "horseWeight": null,
-          "odds": 7.1,
-          "recent": [],
+          "odds": 6.8,
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20260322",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 107,
           "style": "差"
         },
@@ -3015,7 +7727,56 @@ window.RACE_DATA = {
           "trainer": "目迫大輔",
           "horseWeight": null,
           "odds": 7.4,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260607",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260510",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260412",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 11,
+              "date": "20260210",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 9,
+              "date": "20251124",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 11,
+              "date": "20251115",
+              "baba": "良",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 14,
+              "date": "20250907",
+              "baba": "良",
+              "dist": "ダ1800"
+            }
+          ],
           "central": true,
           "transfer": false,
           "spd": 93,
@@ -3031,8 +7792,57 @@ window.RACE_DATA = {
           "jockey": "西森将司",
           "trainer": "別府真司",
           "horseWeight": null,
-          "odds": 36.0,
-          "recent": [],
+          "odds": 33.2,
+          "recent": [
+            {
+              "fin": 9,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260524",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260425",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 98,
           "style": "先"
         },
@@ -3047,13 +7857,61 @@ window.RACE_DATA = {
           "trainer": "別府真司",
           "horseWeight": null,
           "odds": 3.8,
-          "recent": [],
+          "recent": [
+            {
+              "fin": 9,
+              "date": "20260606",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260523",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260125",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 7,
+              "date": "20260110",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20251228",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20251213",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20251130",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
           "spd": 103,
           "style": "追"
         }
       ],
       "raceId": "202654062012"
     }
-  ],
-  "oddsUpdatedAt": "19:42"
+  ]
 };
