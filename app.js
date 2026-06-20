@@ -59,7 +59,7 @@
       <div>
         <h2 class="race-name">${race.name}</h2>
         <p class="race-meta">
-          ダート${race.distance}m / 馬場:${race.condition} /
+          ${(race.surface === "芝" ? "芝" : /障/.test(race.surface || "") ? "障害" : "ダート")}${race.distance}m / 馬場:${race.condition} /
           発走 ${race.startTime} / ${race.horses.length}頭
         </p>
         ${resultHtml}
