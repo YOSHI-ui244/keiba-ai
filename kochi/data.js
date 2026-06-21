@@ -5126,7 +5126,7 @@ window.RACE_DATA = {
           "jockey": "山田義貴",
           "trainer": "雑賀正光",
           "horseWeight": null,
-          "odds": 39.2,
+          "odds": 42.3,
           "recent": [
             {
               "fin": 8,
@@ -5190,7 +5190,7 @@ window.RACE_DATA = {
           "jockey": "赤岡修次",
           "trainer": "田中守",
           "horseWeight": null,
-          "odds": 2.3,
+          "odds": 2.5,
           "recent": [
             {
               "fin": 4,
@@ -5256,7 +5256,7 @@ window.RACE_DATA = {
           "jockey": "郷間勇太",
           "trainer": "田中守",
           "horseWeight": null,
-          "odds": 16.5,
+          "odds": 9.7,
           "recent": [
             {
               "fin": 4,
@@ -5386,7 +5386,7 @@ window.RACE_DATA = {
           "jockey": "山崎雅由",
           "trainer": "西川敏弘",
           "horseWeight": null,
-          "odds": 12.1,
+          "odds": 15.6,
           "recent": [
             {
               "fin": 10,
@@ -5450,7 +5450,7 @@ window.RACE_DATA = {
           "jockey": "永森大智",
           "trainer": "雑賀正光",
           "horseWeight": null,
-          "odds": 2.7,
+          "odds": 2.4,
           "recent": [
             {
               "fin": 2,
@@ -5514,7 +5514,7 @@ window.RACE_DATA = {
           "jockey": "岡遼太郎",
           "trainer": "那俄性哲",
           "horseWeight": null,
-          "odds": 12.4,
+          "odds": 12.5,
           "recent": [
             {
               "fin": 6,
@@ -5578,7 +5578,7 @@ window.RACE_DATA = {
           "jockey": "宮川実",
           "trainer": "打越勇児",
           "horseWeight": null,
-          "odds": 4.6,
+          "odds": 5.4,
           "recent": [
             {
               "fin": 8,
@@ -5636,7 +5636,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202654062108",
-      "oddsUpdatedAt": "19:30"
+      "oddsUpdatedAt": "19:40"
     },
     {
       "raceNo": 9,
@@ -6983,5 +6983,5 @@ window.RACE_DATA = {
       "raceId": "202654062110"
     }
   ],
-  "oddsUpdatedAt": "19:30"
+  "oddsUpdatedAt": "19:40"
 };
