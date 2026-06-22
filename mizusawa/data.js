@@ -6984,7 +6984,7 @@ window.RACE_DATA = {
           "jockey": "関本玲花",
           "trainer": "石川栄",
           "horseWeight": null,
-          "odds": 2.9,
+          "odds": 2.8,
           "recent": [
             {
               "fin": 1,
@@ -7050,7 +7050,7 @@ window.RACE_DATA = {
           "jockey": "村上忍",
           "trainer": "千葉幸喜",
           "horseWeight": null,
-          "odds": 10.8,
+          "odds": 3.2,
           "recent": [
             {
               "fin": 2,
@@ -7116,7 +7116,7 @@ window.RACE_DATA = {
           "jockey": "高橋悠里",
           "trainer": "三野宮通",
           "horseWeight": null,
-          "odds": 4.6,
+          "odds": 10.5,
           "recent": [
             {
               "fin": 6,
@@ -7182,7 +7182,7 @@ window.RACE_DATA = {
           "jockey": "山本政聡",
           "trainer": "飯田弘道",
           "horseWeight": null,
-          "odds": 40.6,
+          "odds": 29.0,
           "recent": [
             {
               "fin": 8,
@@ -7248,7 +7248,7 @@ window.RACE_DATA = {
           "jockey": "高松亮",
           "trainer": "新田守",
           "horseWeight": null,
-          "odds": 11.2,
+          "odds": 16.6,
           "recent": [
             {
               "fin": 4,
@@ -7312,7 +7312,7 @@ window.RACE_DATA = {
           "jockey": "岩本怜",
           "trainer": "三野宮通",
           "horseWeight": null,
-          "odds": 3.6,
+          "odds": 7.6,
           "recent": [
             {
               "fin": 2,
@@ -7376,7 +7376,7 @@ window.RACE_DATA = {
           "jockey": "坂井瑛音",
           "trainer": "新田守",
           "horseWeight": null,
-          "odds": 17.2,
+          "odds": 18.0,
           "recent": [
             {
               "fin": 1,
@@ -7440,7 +7440,7 @@ window.RACE_DATA = {
           "jockey": "山本聡哉",
           "trainer": "瀬戸幸一",
           "horseWeight": null,
-          "odds": 8.4,
+          "odds": 5.2,
           "recent": [
             {
               "fin": 3,
@@ -7506,7 +7506,7 @@ window.RACE_DATA = {
           "jockey": "阿部英俊",
           "trainer": "新田守",
           "horseWeight": null,
-          "odds": 31.4,
+          "odds": 53.5,
           "recent": [
             {
               "fin": 5,
@@ -7562,7 +7562,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202636062210",
-      "oddsUpdatedAt": "16:30"
+      "oddsUpdatedAt": "16:40"
     },
     {
       "raceNo": 11,
@@ -8639,5 +8639,5 @@ window.RACE_DATA = {
       "raceId": "202636062212"
     }
   ],
-  "oddsUpdatedAt": "16:30"
+  "oddsUpdatedAt": "16:40"
 };
