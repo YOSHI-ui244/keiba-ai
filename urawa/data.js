@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "埼玉シリーズ開幕賞(C3)",
       "distance": 1300,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "13:30",
       "grade": "サラ系一般 C3",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "平山真希",
           "horseWeight": null,
-          "odds": 3.2,
+          "odds": 5.9,
           "recent": [
             {
               "fin": 4,
@@ -97,7 +97,7 @@ window.RACE_DATA = {
           "jockey": "秋元耕成",
           "trainer": "箕輪武",
           "horseWeight": null,
-          "odds": 26.7,
+          "odds": 22.8,
           "recent": [
             {
               "fin": 6,
@@ -227,7 +227,7 @@ window.RACE_DATA = {
           "jockey": "国分祐仁",
           "trainer": "野口孝",
           "horseWeight": null,
-          "odds": 77.4,
+          "odds": 21.9,
           "recent": [
             {
               "fin": 10,
@@ -289,7 +289,7 @@ window.RACE_DATA = {
           "jockey": "岡田大",
           "trainer": "鹿沼良和",
           "horseWeight": null,
-          "odds": 38.2,
+          "odds": 41.3,
           "recent": [
             {
               "fin": 5,
@@ -355,7 +355,7 @@ window.RACE_DATA = {
           "jockey": "及川烈",
           "trainer": "長谷川忍",
           "horseWeight": null,
-          "odds": 37.7,
+          "odds": 37.1,
           "recent": [
             {
               "fin": 6,
@@ -419,7 +419,7 @@ window.RACE_DATA = {
           "jockey": "中島良美",
           "trainer": "冨田敏男",
           "horseWeight": null,
-          "odds": 104.6,
+          "odds": 73.0,
           "recent": [
             {
               "fin": 8,
@@ -474,7 +474,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202642062201"
+      "raceId": "202642062201",
+      "oddsUpdatedAt": "13:10"
     },
     {
       "raceNo": 2,
@@ -5439,5 +5440,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202642062212"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "13:10"
 };
