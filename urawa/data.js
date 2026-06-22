@@ -915,14 +915,106 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202642062202",
-      "oddsUpdatedAt": "13:50"
+      "oddsUpdatedAt": "13:50",
+      "result": {
+        "order": [
+          1,
+          3,
+          6
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 150
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 150
+            },
+            {
+              "comb": [
+                3
+              ],
+              "amount": 780
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                1,
+                3
+              ],
+              "amount": 1350
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                1,
+                3
+              ],
+              "amount": 490
+            },
+            {
+              "comb": [
+                1,
+                6
+              ],
+              "amount": 210
+            },
+            {
+              "comb": [
+                3,
+                6
+              ],
+              "amount": 590
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                1,
+                3
+              ],
+              "amount": 2160
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                3,
+                6
+              ],
+              "amount": 1480
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                1,
+                3,
+                6
+              ],
+              "amount": 6290
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 3,
       "name": "ドリームチャレンジ(2歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "14:30",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -941,7 +1033,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "小久保智",
           "horseWeight": null,
-          "odds": 3.0,
+          "odds": 1.8,
           "recent": []
         },
         {
@@ -954,7 +1046,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "水上直人",
           "horseWeight": null,
-          "odds": 3.7,
+          "odds": 11.5,
           "recent": []
         },
         {
@@ -967,7 +1059,7 @@ window.RACE_DATA = {
           "jockey": "室陽一朗",
           "trainer": "川村守男",
           "horseWeight": null,
-          "odds": 5.5,
+          "odds": 42.8,
           "recent": []
         },
         {
@@ -980,7 +1072,7 @@ window.RACE_DATA = {
           "jockey": "七夕裕次",
           "trainer": "工藤伸輔",
           "horseWeight": null,
-          "odds": 8.3,
+          "odds": 34.5,
           "recent": []
         },
         {
@@ -1006,11 +1098,12 @@ window.RACE_DATA = {
           "jockey": "福原杏",
           "trainer": "野口寛仁",
           "horseWeight": null,
-          "odds": 5.1,
+          "odds": 2.4,
           "recent": []
         }
       ],
-      "raceId": "202642062203"
+      "raceId": "202642062203",
+      "oddsUpdatedAt": "14:10"
     },
     {
       "raceNo": 4,
@@ -5534,5 +5627,5 @@ window.RACE_DATA = {
       "raceId": "202642062212"
     }
   ],
-  "oddsUpdatedAt": "13:50"
+  "oddsUpdatedAt": "14:10"
 };
