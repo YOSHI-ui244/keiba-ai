@@ -8331,7 +8331,7 @@ window.RACE_DATA = {
           "jockey": "坂井瑛音",
           "trainer": "新田守",
           "horseWeight": null,
-          "odds": 34.7,
+          "odds": 58.8,
           "recent": [
             {
               "fin": 8,
@@ -8395,7 +8395,7 @@ window.RACE_DATA = {
           "jockey": "鈴木祐",
           "trainer": "櫻田康二",
           "horseWeight": null,
-          "odds": 3.8,
+          "odds": 3.6,
           "recent": [
             {
               "fin": 3,
@@ -8461,7 +8461,7 @@ window.RACE_DATA = {
           "jockey": "大坪慎",
           "trainer": "佐藤浩一",
           "horseWeight": null,
-          "odds": 14.0,
+          "odds": 29.4,
           "recent": [
             {
               "fin": 11,
@@ -8525,7 +8525,7 @@ window.RACE_DATA = {
           "jockey": "村上忍",
           "trainer": "畠山信一",
           "horseWeight": null,
-          "odds": 6.6,
+          "odds": 3.9,
           "recent": [
             {
               "fin": 5,
@@ -8591,7 +8591,7 @@ window.RACE_DATA = {
           "jockey": "高橋悠里",
           "trainer": "小林俊彦",
           "horseWeight": null,
-          "odds": 3.3,
+          "odds": 5.2,
           "recent": [
             {
               "fin": 6,
@@ -8657,7 +8657,7 @@ window.RACE_DATA = {
           "jockey": "阿部英俊",
           "trainer": "新田守",
           "horseWeight": null,
-          "odds": 6.3,
+          "odds": 6.4,
           "recent": [
             {
               "fin": 1,
@@ -8721,7 +8721,7 @@ window.RACE_DATA = {
           "jockey": "高松亮",
           "trainer": "佐藤雅彦",
           "horseWeight": null,
-          "odds": 4.5,
+          "odds": 3.6,
           "recent": [
             {
               "fin": 4,
@@ -8783,7 +8783,7 @@ window.RACE_DATA = {
           "jockey": "塚本涼人",
           "trainer": "畠山信一",
           "horseWeight": null,
-          "odds": 15.3,
+          "odds": 20.0,
           "recent": [
             {
               "fin": 7,
@@ -8839,8 +8839,8 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202636062212",
-      "oddsUpdatedAt": "17:40"
+      "oddsUpdatedAt": "17:50"
     }
   ],
-  "oddsUpdatedAt": "17:40"
+  "oddsUpdatedAt": "17:50"
 };
