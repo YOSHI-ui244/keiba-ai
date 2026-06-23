@@ -3794,7 +3794,105 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646062305",
-      "oddsUpdatedAt": "14:34"
+      "oddsUpdatedAt": "14:34",
+      "result": {
+        "order": [
+          9,
+          7,
+          1
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                9
+              ],
+              "amount": 270
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                9
+              ],
+              "amount": 130
+            },
+            {
+              "comb": [
+                7
+              ],
+              "amount": 110
+            },
+            {
+              "comb": [
+                1
+              ],
+              "amount": 120
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                7,
+                9
+              ],
+              "amount": 240
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                7,
+                9
+              ],
+              "amount": 140
+            },
+            {
+              "comb": [
+                1,
+                9
+              ],
+              "amount": 210
+            },
+            {
+              "comb": [
+                1,
+                7
+              ],
+              "amount": 130
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                9,
+                7
+              ],
+              "amount": 520
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                7,
+                9
+              ],
+              "amount": 290
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                9,
+                7,
+                1
+              ],
+              "amount": 1270
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 6,
@@ -8290,5 +8388,5 @@ window.RACE_DATA = {
       "raceId": "202646062312"
     }
   ],
-  "oddsUpdatedAt": "14:34"
+  "oddsUpdatedAt": "14:54"
 };

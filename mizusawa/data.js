@@ -4475,7 +4475,7 @@ window.RACE_DATA = {
           "jockey": "村上忍",
           "trainer": "畠山信一",
           "horseWeight": 437,
-          "odds": 12.0,
+          "odds": 15.1,
           "recent": [
             {
               "fin": 6,
@@ -4505,7 +4505,7 @@ window.RACE_DATA = {
           "jockey": "関本玲花",
           "trainer": "千葉博次",
           "horseWeight": 480,
-          "odds": 22.2,
+          "odds": 40.8,
           "recent": [
             {
               "fin": 10,
@@ -4547,7 +4547,7 @@ window.RACE_DATA = {
           "jockey": "坂井瑛音",
           "trainer": "櫻田康二",
           "horseWeight": 413,
-          "odds": 16.6,
+          "odds": 18.6,
           "recent": [
             {
               "fin": 5,
@@ -4611,7 +4611,7 @@ window.RACE_DATA = {
           "jockey": "岩本怜",
           "trainer": "三野宮通",
           "horseWeight": 430,
-          "odds": 4.0,
+          "odds": 5.5,
           "recent": [
             {
               "fin": 6,
@@ -4677,7 +4677,7 @@ window.RACE_DATA = {
           "jockey": "塚本涼人",
           "trainer": "千葉博次",
           "horseWeight": 395,
-          "odds": 12.4,
+          "odds": 14.9,
           "recent": [
             {
               "fin": 4,
@@ -4743,7 +4743,7 @@ window.RACE_DATA = {
           "jockey": "山本聡紀",
           "trainer": "板垣吉則",
           "horseWeight": 396,
-          "odds": 2.1,
+          "odds": 1.8,
           "recent": [
             {
               "fin": 5,
@@ -4791,7 +4791,7 @@ window.RACE_DATA = {
           "jockey": "鈴木祐",
           "trainer": "櫻田康二",
           "horseWeight": 450,
-          "odds": 51.9,
+          "odds": 60.6,
           "recent": [
             {
               "fin": 10,
@@ -4857,7 +4857,7 @@ window.RACE_DATA = {
           "jockey": "佐々木志",
           "trainer": "瀬戸幸一",
           "horseWeight": 413,
-          "odds": 28.5,
+          "odds": 47.8,
           "recent": [
             {
               "fin": 8,
@@ -4921,7 +4921,7 @@ window.RACE_DATA = {
           "jockey": "山本政聡",
           "trainer": "橘友和",
           "horseWeight": 466,
-          "odds": 4.5,
+          "odds": 3.4,
           "recent": [
             {
               "fin": 11,
@@ -4957,7 +4957,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202636062307",
-      "oddsUpdatedAt": "14:44"
+      "oddsUpdatedAt": "14:54"
     },
     {
       "raceNo": 8,
@@ -8363,5 +8363,5 @@ window.RACE_DATA = {
       "raceId": "202636062312"
     }
   ],
-  "oddsUpdatedAt": "14:44"
+  "oddsUpdatedAt": "14:54"
 };
