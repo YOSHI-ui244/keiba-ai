@@ -1001,7 +1001,7 @@ window.RACE_DATA = {
           "jockey": "澤田龍哉",
           "trainer": "新井清重",
           "horseWeight": 431,
-          "odds": 38.7,
+          "odds": 32.2,
           "recent": [
             {
               "fin": 9,
@@ -1029,7 +1029,7 @@ window.RACE_DATA = {
           "jockey": "木間塚龍",
           "trainer": "大津剛",
           "horseWeight": 414,
-          "odds": 24.9,
+          "odds": 19.6,
           "recent": [
             {
               "fin": 4,
@@ -1057,7 +1057,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "藤原智行",
           "horseWeight": 475,
-          "odds": 4.8,
+          "odds": 4.0,
           "recent": [
             {
               "fin": 3,
@@ -1079,7 +1079,7 @@ window.RACE_DATA = {
           "jockey": "篠谷葵",
           "trainer": "林正人",
           "horseWeight": 438,
-          "odds": 7.5,
+          "odds": 7.4,
           "recent": [
             {
               "fin": 3,
@@ -1101,7 +1101,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "鈴木義久",
           "horseWeight": 377,
-          "odds": 35.4,
+          "odds": 39.8,
           "recent": [
             {
               "fin": 12,
@@ -1129,7 +1129,7 @@ window.RACE_DATA = {
           "jockey": "仲野光馬",
           "trainer": "阿井正雄",
           "horseWeight": 413,
-          "odds": 53.2,
+          "odds": 57.4,
           "recent": [
             {
               "fin": 7,
@@ -1157,7 +1157,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "繁田健一",
           "horseWeight": 460,
-          "odds": 1.2,
+          "odds": 1.3,
           "recent": [
             {
               "fin": 2,
@@ -1171,7 +1171,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202642062303",
-      "oddsUpdatedAt": "14:20"
+      "oddsUpdatedAt": "14:24"
     },
     {
       "raceNo": 4,
@@ -6887,5 +6887,5 @@ window.RACE_DATA = {
       "raceId": "202642062312"
     }
   ],
-  "oddsUpdatedAt": "14:20"
+  "oddsUpdatedAt": "14:24"
 };
