@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 19.5,
+          "odds": 25.0,
           "recent": [
             {
               "fin": 1,
@@ -99,7 +99,7 @@ window.RACE_DATA = {
           "jockey": "明星晴大",
           "trainer": "森山広大",
           "horseWeight": null,
-          "odds": 13.6,
+          "odds": 18.1,
           "recent": [
             {
               "fin": 9,
@@ -165,7 +165,7 @@ window.RACE_DATA = {
           "jockey": "森島貴之",
           "trainer": "伊藤勝好",
           "horseWeight": null,
-          "odds": 167.4,
+          "odds": 175.8,
           "recent": [
             {
               "fin": 3,
@@ -229,7 +229,7 @@ window.RACE_DATA = {
           "jockey": "加藤誓二",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 137.7,
+          "odds": 149.7,
           "recent": [
             {
               "fin": 7,
@@ -293,7 +293,7 @@ window.RACE_DATA = {
           "jockey": "松本一心",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 4.7,
+          "odds": 13.4,
           "recent": [
             {
               "fin": 5,
@@ -353,7 +353,7 @@ window.RACE_DATA = {
           "jockey": "細川智史",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 50.5,
+          "odds": 130.4,
           "recent": [
             {
               "fin": 3,
@@ -417,7 +417,7 @@ window.RACE_DATA = {
           "jockey": "高木健",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 28.0,
+          "odds": 83.8,
           "recent": [
             {
               "fin": 8,
@@ -534,7 +534,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202647062401"
+      "raceId": "202647062401",
+      "oddsUpdatedAt": "10:50"
     },
     {
       "raceNo": 2,
@@ -7077,5 +7078,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202647062412"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "10:50"
 };
