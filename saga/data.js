@@ -6405,7 +6405,7 @@ window.RACE_DATA = {
       "name": "夏至賞(C2)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "19:35",
       "grade": "サラ系一般 C2",
       "meetingInfo": [
@@ -7203,7 +7203,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202655062510"
+      "raceId": "202655062510",
+      "oddsUpdatedAt": "19:10"
     },
     {
       "raceNo": 11,
@@ -8358,5 +8359,5 @@ window.RACE_DATA = {
       "raceId": "202655062512"
     }
   ],
-  "oddsUpdatedAt": "19:00"
+  "oddsUpdatedAt": "19:10"
 };
