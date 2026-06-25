@@ -7211,7 +7211,7 @@ window.RACE_DATA = {
       "name": "モントブレチア賞",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "20:05",
       "grade": "サラ系一般",
       "meetingInfo": [
@@ -7875,7 +7875,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202655062511"
+      "raceId": "202655062511",
+      "oddsUpdatedAt": "19:40"
     },
     {
       "raceNo": 12,
@@ -8359,5 +8360,5 @@ window.RACE_DATA = {
       "raceId": "202655062512"
     }
   ],
-  "oddsUpdatedAt": "19:30"
+  "oddsUpdatedAt": "19:40"
 };
