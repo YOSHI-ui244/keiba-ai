@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "ひまわり賞チャレンジカップ(2歳)",
       "distance": 1300,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "14:35",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "加茂飛翔",
           "trainer": "北村欣也",
           "horseWeight": null,
-          "odds": 2.2,
+          "odds": 9.3,
           "recent": []
         },
         {
@@ -46,7 +46,7 @@ window.RACE_DATA = {
           "jockey": "飛田愛斗",
           "trainer": "古賀光範",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 5.1,
           "recent": [
             {
               "fin": 3,
@@ -68,7 +68,7 @@ window.RACE_DATA = {
           "jockey": "石川慎将",
           "trainer": "北村欣也",
           "horseWeight": null,
-          "odds": 10.4,
+          "odds": 8.0,
           "recent": [
             {
               "fin": 3,
@@ -96,7 +96,7 @@ window.RACE_DATA = {
           "jockey": "出水拓人",
           "trainer": "頼本盛行",
           "horseWeight": null,
-          "odds": 35.1,
+          "odds": 21.7,
           "recent": [
             {
               "fin": 9,
@@ -124,7 +124,7 @@ window.RACE_DATA = {
           "jockey": "竹吉徹",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 27.1,
+          "odds": 26.5,
           "recent": [
             {
               "fin": 8,
@@ -152,7 +152,7 @@ window.RACE_DATA = {
           "jockey": "長谷川蓮",
           "trainer": "東眞市",
           "horseWeight": null,
-          "odds": 4.4,
+          "odds": 1.3,
           "recent": [
             {
               "fin": 6,
@@ -171,7 +171,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202655062501"
+      "raceId": "202655062501",
+      "oddsUpdatedAt": "14:10"
     },
     {
       "raceNo": 2,
@@ -7532,5 +7533,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202655062512"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "14:10"
 };
