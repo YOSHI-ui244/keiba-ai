@@ -1568,7 +1568,7 @@ window.RACE_DATA = {
           "jockey": "吉村智洋",
           "trainer": "橋本忠明",
           "horseWeight": null,
-          "odds": 14.1,
+          "odds": 11.3,
           "recent": [
             {
               "fin": 3,
@@ -1590,7 +1590,7 @@ window.RACE_DATA = {
           "jockey": "山本咲希",
           "trainer": "大山寿文",
           "horseWeight": null,
-          "odds": 11.0,
+          "odds": 12.9,
           "recent": [
             {
               "fin": 7,
@@ -1634,7 +1634,7 @@ window.RACE_DATA = {
           "jockey": "塩津璃菜",
           "trainer": "長南和宏",
           "horseWeight": null,
-          "odds": 45.3,
+          "odds": 34.1,
           "recent": [
             {
               "fin": 5,
@@ -1656,7 +1656,7 @@ window.RACE_DATA = {
           "jockey": "杉浦健太",
           "trainer": "飯田良弘",
           "horseWeight": null,
-          "odds": 29.0,
+          "odds": 34.9,
           "recent": [
             {
               "fin": 3,
@@ -1678,7 +1678,7 @@ window.RACE_DATA = {
           "jockey": "小牧太",
           "trainer": "田中範雄",
           "horseWeight": null,
-          "odds": 4.3,
+          "odds": 4.1,
           "recent": [
             {
               "fin": 1,
@@ -1700,7 +1700,7 @@ window.RACE_DATA = {
           "jockey": "永井孝典",
           "trainer": "渡瀬寛彰",
           "horseWeight": null,
-          "odds": 55.4,
+          "odds": 61.0,
           "recent": [
             {
               "fin": 4,
@@ -1722,7 +1722,7 @@ window.RACE_DATA = {
           "jockey": "笹田知宏",
           "trainer": "橋本忠明",
           "horseWeight": null,
-          "odds": 21.6,
+          "odds": 32.0,
           "recent": [
             {
               "fin": 6,
@@ -1744,7 +1744,7 @@ window.RACE_DATA = {
           "jockey": "下原理",
           "trainer": "野田忍",
           "horseWeight": null,
-          "odds": 43.3,
+          "odds": 29.7,
           "recent": []
         },
         {
@@ -1757,7 +1757,7 @@ window.RACE_DATA = {
           "jockey": "山本屋太",
           "trainer": "坂本和也",
           "horseWeight": null,
-          "odds": 78.7,
+          "odds": 96.6,
           "recent": [
             {
               "fin": 5,
@@ -1771,7 +1771,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202650062503",
-      "oddsUpdatedAt": "11:20"
+      "oddsUpdatedAt": "11:30"
     },
     {
       "raceNo": 4,
@@ -7985,5 +7985,5 @@ window.RACE_DATA = {
       "raceId": "202650062512"
     }
   ],
-  "oddsUpdatedAt": "11:20"
+  "oddsUpdatedAt": "11:30"
 };
