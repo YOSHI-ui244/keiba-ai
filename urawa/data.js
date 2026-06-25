@@ -1486,7 +1486,7 @@ window.RACE_DATA = {
           "jockey": "半澤慶実",
           "trainer": "工藤伸輔",
           "horseWeight": null,
-          "odds": 8.4,
+          "odds": 7.5,
           "recent": [
             {
               "fin": 8,
@@ -1552,7 +1552,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "斉藤敏",
           "horseWeight": null,
-          "odds": 3.6,
+          "odds": 2.0,
           "recent": [
             {
               "fin": 3,
@@ -1618,7 +1618,7 @@ window.RACE_DATA = {
           "jockey": "西啓太",
           "trainer": "藤原智行",
           "horseWeight": null,
-          "odds": 3.5,
+          "odds": 4.5,
           "recent": [
             {
               "fin": 4,
@@ -1684,7 +1684,7 @@ window.RACE_DATA = {
           "jockey": "高橋利幸",
           "trainer": "玉井昇",
           "horseWeight": null,
-          "odds": 10.0,
+          "odds": 20.2,
           "recent": [
             {
               "fin": 6,
@@ -1748,7 +1748,7 @@ window.RACE_DATA = {
           "jockey": "山本大翔",
           "trainer": "佐々木清",
           "horseWeight": null,
-          "odds": 28.4,
+          "odds": 48.1,
           "recent": [
             {
               "fin": 12,
@@ -1812,7 +1812,7 @@ window.RACE_DATA = {
           "jockey": "高橋哲也",
           "trainer": "入口由美",
           "horseWeight": null,
-          "odds": 3.6,
+          "odds": 5.3,
           "recent": [
             {
               "fin": 3,
@@ -1878,7 +1878,7 @@ window.RACE_DATA = {
           "jockey": "吉留孝司",
           "trainer": "鈴木勝文",
           "horseWeight": null,
-          "odds": 17.0,
+          "odds": 18.9,
           "recent": [
             {
               "fin": 9,
@@ -1998,7 +1998,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202642062504",
-      "oddsUpdatedAt": "14:40"
+      "oddsUpdatedAt": "14:50"
     },
     {
       "raceNo": 5,
@@ -7487,5 +7487,5 @@ window.RACE_DATA = {
       "raceId": "202642062512"
     }
   ],
-  "oddsUpdatedAt": "14:40"
+  "oddsUpdatedAt": "14:50"
 };
