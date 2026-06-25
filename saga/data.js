@@ -179,7 +179,7 @@ window.RACE_DATA = {
       "name": "3歳ー8組",
       "distance": 1300,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "15:05",
       "grade": "サラ系３歳 3歳",
       "meetingInfo": [
@@ -198,7 +198,7 @@ window.RACE_DATA = {
           "jockey": "金山昇馬",
           "trainer": "池田忠好",
           "horseWeight": null,
-          "odds": 10.6,
+          "odds": 23.5,
           "recent": [
             {
               "fin": 3,
@@ -264,7 +264,7 @@ window.RACE_DATA = {
           "jockey": "石川慎将",
           "trainer": "真島二也",
           "horseWeight": null,
-          "odds": 2.6,
+          "odds": 1.1,
           "recent": [
             {
               "fin": 8,
@@ -290,7 +290,7 @@ window.RACE_DATA = {
           "jockey": "田中純",
           "trainer": "濱田一夫",
           "horseWeight": null,
-          "odds": 2.1,
+          "odds": 7.5,
           "recent": [
             {
               "fin": 1,
@@ -312,7 +312,7 @@ window.RACE_DATA = {
           "jockey": "中山蓮王",
           "trainer": "平山宏秀",
           "horseWeight": null,
-          "odds": 316.7,
+          "odds": 90.7,
           "recent": [
             {
               "fin": 10,
@@ -376,7 +376,7 @@ window.RACE_DATA = {
           "jockey": "川島拓",
           "trainer": "土井道隆",
           "horseWeight": null,
-          "odds": 5.5,
+          "odds": 20.4,
           "recent": [
             {
               "fin": 2,
@@ -436,7 +436,7 @@ window.RACE_DATA = {
           "jockey": "田中直人",
           "trainer": "土井道隆",
           "horseWeight": null,
-          "odds": 335.0,
+          "odds": 70.5,
           "recent": [
             {
               "fin": 11,
@@ -500,7 +500,7 @@ window.RACE_DATA = {
           "jockey": "後藤武蔵",
           "trainer": "井樋明正",
           "horseWeight": null,
-          "odds": 143.6,
+          "odds": 19.8,
           "recent": [
             {
               "fin": 6,
@@ -564,7 +564,7 @@ window.RACE_DATA = {
           "jockey": "加茂飛翔",
           "trainer": "北村欣也",
           "horseWeight": null,
-          "odds": 231.3,
+          "odds": 48.8,
           "recent": [
             {
               "fin": 8,
@@ -628,7 +628,7 @@ window.RACE_DATA = {
           "jockey": "山下裕貴",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 79.7,
+          "odds": 90.7,
           "recent": [
             {
               "fin": 9,
@@ -692,7 +692,7 @@ window.RACE_DATA = {
           "jockey": "長谷川蓮",
           "trainer": "濱田一夫",
           "horseWeight": null,
-          "odds": 14.1,
+          "odds": 28.8,
           "recent": [
             {
               "fin": 5,
@@ -737,7 +737,8 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202655062502"
+      "raceId": "202655062502",
+      "oddsUpdatedAt": "14:40"
     },
     {
       "raceNo": 3,
@@ -7534,5 +7535,5 @@ window.RACE_DATA = {
       "raceId": "202655062512"
     }
   ],
-  "oddsUpdatedAt": "14:30"
+  "oddsUpdatedAt": "14:40"
 };
