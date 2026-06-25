@@ -2320,7 +2320,7 @@ window.RACE_DATA = {
       "name": "JRA認定競走フレッシュチャレンジ競走(2歳)",
       "distance": 1700,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "16:55",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -2339,7 +2339,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "米川昇",
           "horseWeight": null,
-          "odds": 5.4,
+          "odds": 3.7,
           "recent": []
         },
         {
@@ -2352,7 +2352,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 4.8,
+          "odds": 2.6,
           "recent": []
         },
         {
@@ -2365,7 +2365,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 7.2,
+          "odds": 14.8,
           "recent": []
         },
         {
@@ -2378,7 +2378,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 5.4,
+          "odds": 3.6,
           "recent": []
         },
         {
@@ -2417,11 +2417,12 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 4.8,
+          "odds": 3.7,
           "recent": []
         }
       ],
-      "raceId": "202630062505"
+      "raceId": "202630062505",
+      "oddsUpdatedAt": "16:30"
     },
     {
       "raceNo": 6,
@@ -6489,5 +6490,5 @@ window.RACE_DATA = {
       "raceId": "202630062512"
     }
   ],
-  "oddsUpdatedAt": "16:20"
+  "oddsUpdatedAt": "16:30"
 };
