@@ -1335,7 +1335,7 @@ window.RACE_DATA = {
           "jockey": "渡辺準己",
           "trainer": "川島雅人",
           "horseWeight": null,
-          "odds": 15.1,
+          "odds": 30.7,
           "recent": [
             {
               "fin": 8,
@@ -1399,7 +1399,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 5.9,
+          "odds": 6.9,
           "recent": [
             {
               "fin": 3,
@@ -1465,7 +1465,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 4.0,
+          "odds": 7.3,
           "recent": [
             {
               "fin": 3,
@@ -1531,7 +1531,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "松本隆宏",
           "horseWeight": null,
-          "odds": 7.6,
+          "odds": 15.7,
           "recent": [
             {
               "fin": 10,
@@ -1595,7 +1595,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 12.2,
+          "odds": 10.1,
           "recent": [
             {
               "fin": 6,
@@ -1659,7 +1659,7 @@ window.RACE_DATA = {
           "jockey": "小川悠汰",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 4.5,
+          "odds": 5.5,
           "recent": [
             {
               "fin": 1,
@@ -1725,7 +1725,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 3.0,
+          "odds": 1.6,
           "recent": [
             {
               "fin": 1,
@@ -1751,7 +1751,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630062503",
-      "oddsUpdatedAt": "15:30"
+      "oddsUpdatedAt": "15:40"
     },
     {
       "raceNo": 4,
@@ -6396,5 +6396,5 @@ window.RACE_DATA = {
       "raceId": "202630062512"
     }
   ],
-  "oddsUpdatedAt": "15:30"
+  "oddsUpdatedAt": "15:40"
 };
