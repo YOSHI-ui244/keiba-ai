@@ -7883,7 +7883,7 @@ window.RACE_DATA = {
       "name": "SAGAリベンジャーズ(3歳)",
       "distance": 1300,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "20:40",
       "grade": "サラ系３歳 3歳",
       "meetingInfo": [
@@ -8357,8 +8357,9 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202655062512"
+      "raceId": "202655062512",
+      "oddsUpdatedAt": "20:20"
     }
   ],
-  "oddsUpdatedAt": "20:00"
+  "oddsUpdatedAt": "20:20"
 };
