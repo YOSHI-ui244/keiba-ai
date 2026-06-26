@@ -8501,8 +8501,9 @@ window.RACE_DATA = {
           "style": "逃"
         }
       ],
-      "raceId": "202650062612"
+      "raceId": "202650062612",
+      "oddsUpdatedAt": "20:12"
     }
   ],
-  "oddsUpdatedAt": "19:52"
+  "oddsUpdatedAt": "20:12"
 };
