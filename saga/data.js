@@ -2073,7 +2073,7 @@ window.RACE_DATA = {
           "jockey": "竹吉徹",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 19.2,
+          "odds": 69.3,
           "recent": [
             {
               "fin": 8,
@@ -2139,7 +2139,7 @@ window.RACE_DATA = {
           "jockey": "石川慎将",
           "trainer": "真島二也",
           "horseWeight": null,
-          "odds": 6.9,
+          "odds": 18.8,
           "recent": [
             {
               "fin": 6,
@@ -2205,7 +2205,7 @@ window.RACE_DATA = {
           "jockey": "加茂飛翔",
           "trainer": "井樋明正",
           "horseWeight": null,
-          "odds": 7.7,
+          "odds": 9.0,
           "recent": [
             {
               "fin": 4,
@@ -2271,7 +2271,7 @@ window.RACE_DATA = {
           "jockey": "飛田愛斗",
           "trainer": "三小田幸",
           "horseWeight": null,
-          "odds": 4.1,
+          "odds": 7.7,
           "recent": [
             {
               "fin": 8,
@@ -2337,7 +2337,7 @@ window.RACE_DATA = {
           "jockey": "後藤武蔵",
           "trainer": "真島元徳",
           "horseWeight": null,
-          "odds": 7.9,
+          "odds": 4.5,
           "recent": [
             {
               "fin": 2,
@@ -2403,7 +2403,7 @@ window.RACE_DATA = {
           "jockey": "山口勲",
           "trainer": "真島正徳",
           "horseWeight": null,
-          "odds": 2.2,
+          "odds": 1.5,
           "recent": [
             {
               "fin": 1,
@@ -2469,7 +2469,7 @@ window.RACE_DATA = {
           "jockey": "長谷川蓮",
           "trainer": "渡辺博文",
           "horseWeight": null,
-          "odds": 27.7,
+          "odds": 46.5,
           "recent": [
             {
               "fin": 5,
@@ -2535,7 +2535,7 @@ window.RACE_DATA = {
           "jockey": "山下裕貴",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 29.6,
+          "odds": 80.2,
           "recent": [
             {
               "fin": 7,
@@ -2599,7 +2599,7 @@ window.RACE_DATA = {
           "jockey": "川島拓",
           "trainer": "中川竜馬",
           "horseWeight": null,
-          "odds": 29.6,
+          "odds": 44.8,
           "recent": [
             {
               "fin": 4,
@@ -2657,7 +2657,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202655062705",
-      "oddsUpdatedAt": "17:20"
+      "oddsUpdatedAt": "17:30"
     },
     {
       "raceNo": 6,
@@ -6876,5 +6876,5 @@ window.RACE_DATA = {
       "raceId": "202655062711"
     }
   ],
-  "oddsUpdatedAt": "17:20"
+  "oddsUpdatedAt": "17:30"
 };
