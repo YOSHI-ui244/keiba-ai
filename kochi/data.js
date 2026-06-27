@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "大澤誠志",
           "trainer": "川野勇馬",
           "horseWeight": null,
-          "odds": 267.5,
+          "odds": 19.5,
           "recent": [
             {
               "fin": 9,
@@ -99,7 +99,7 @@ window.RACE_DATA = {
           "jockey": "石本純也",
           "trainer": "平和人",
           "horseWeight": null,
-          "odds": 362.6,
+          "odds": 29.2,
           "recent": [
             {
               "fin": 8,
@@ -163,7 +163,7 @@ window.RACE_DATA = {
           "jockey": "山田義貴",
           "trainer": "細川忠義",
           "horseWeight": null,
-          "odds": 3.0,
+          "odds": 5.1,
           "recent": [
             {
               "fin": 3,
@@ -229,7 +229,7 @@ window.RACE_DATA = {
           "jockey": "西森将司",
           "trainer": "細川忠義",
           "horseWeight": null,
-          "odds": 24.6,
+          "odds": 13.0,
           "recent": [
             {
               "fin": 5,
@@ -295,7 +295,7 @@ window.RACE_DATA = {
           "jockey": "岡村卓弥",
           "trainer": "川野勇馬",
           "horseWeight": null,
-          "odds": 11.1,
+          "odds": 14.1,
           "recent": [
             {
               "fin": 8,
@@ -361,7 +361,7 @@ window.RACE_DATA = {
           "jockey": "永森大智",
           "trainer": "雑賀正光",
           "horseWeight": null,
-          "odds": 52.7,
+          "odds": 30.2,
           "recent": [
             {
               "fin": 8,
@@ -427,7 +427,7 @@ window.RACE_DATA = {
           "jockey": "城野慈尚",
           "trainer": "宮川浩一",
           "horseWeight": null,
-          "odds": 4.1,
+          "odds": 11.0,
           "recent": [
             {
               "fin": 6,
@@ -493,7 +493,7 @@ window.RACE_DATA = {
           "jockey": "畑中信司",
           "trainer": "細川忠義",
           "horseWeight": null,
-          "odds": 10.5,
+          "odds": 25.3,
           "recent": [
             {
               "fin": 7,
@@ -559,7 +559,7 @@ window.RACE_DATA = {
           "jockey": "赤岡修次",
           "trainer": "倉兼育康",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 1.5,
           "recent": [
             {
               "fin": 9,
@@ -612,7 +612,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202654062701"
+      "raceId": "202654062701",
+      "oddsUpdatedAt": "15:10"
     },
     {
       "raceNo": 2,
@@ -7296,5 +7297,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202654062711"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "15:10"
 };
