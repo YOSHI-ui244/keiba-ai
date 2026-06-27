@@ -2265,7 +2265,7 @@ window.RACE_DATA = {
           "jockey": "宮川実",
           "trainer": "打越勇児",
           "horseWeight": null,
-          "odds": 3.3,
+          "odds": 3.1,
           "recent": [
             {
               "fin": 1,
@@ -2327,7 +2327,7 @@ window.RACE_DATA = {
           "jockey": "多田羅誠",
           "trainer": "宮路洋一",
           "horseWeight": null,
-          "odds": 26.6,
+          "odds": 61.3,
           "recent": [
             {
               "fin": 6,
@@ -2393,7 +2393,7 @@ window.RACE_DATA = {
           "jockey": "木村直輝",
           "trainer": "胡本友晴",
           "horseWeight": null,
-          "odds": 2.6,
+          "odds": 2.1,
           "recent": [
             {
               "fin": 3,
@@ -2523,7 +2523,7 @@ window.RACE_DATA = {
           "jockey": "塚本直之",
           "trainer": "胡本友晴",
           "horseWeight": null,
-          "odds": 7.3,
+          "odds": 8.8,
           "recent": [
             {
               "fin": 5,
@@ -2589,7 +2589,7 @@ window.RACE_DATA = {
           "jockey": "上田将司",
           "trainer": "宮路洋一",
           "horseWeight": null,
-          "odds": 24.8,
+          "odds": 30.5,
           "recent": [
             {
               "fin": 4,
@@ -2653,7 +2653,7 @@ window.RACE_DATA = {
           "jockey": "赤岡修次",
           "trainer": "工藤真司",
           "horseWeight": null,
-          "odds": 8.3,
+          "odds": 14.1,
           "recent": [
             {
               "fin": 4,
@@ -2719,7 +2719,7 @@ window.RACE_DATA = {
           "jockey": "阿部基嗣",
           "trainer": "西山裕貴",
           "horseWeight": null,
-          "odds": 70.8,
+          "odds": 111.8,
           "recent": [
             {
               "fin": 10,
@@ -2777,7 +2777,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202654062704",
-      "oddsUpdatedAt": "17:00"
+      "oddsUpdatedAt": "17:10"
     },
     {
       "raceNo": 5,
@@ -7595,5 +7595,5 @@ window.RACE_DATA = {
       "raceId": "202654062711"
     }
   ],
-  "oddsUpdatedAt": "17:00"
+  "oddsUpdatedAt": "17:10"
 };
