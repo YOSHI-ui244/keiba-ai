@@ -867,7 +867,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "水野貴史",
           "horseWeight": null,
-          "odds": 1.8,
+          "odds": 1.5,
           "recent": [
             {
               "fin": 10,
@@ -911,7 +911,7 @@ window.RACE_DATA = {
           "jockey": "菅原吏久",
           "trainer": "斉藤敏",
           "horseWeight": null,
-          "odds": 35.5,
+          "odds": 25.4,
           "recent": [
             {
               "fin": 6,
@@ -975,7 +975,7 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "伊藤滋規",
           "horseWeight": null,
-          "odds": 7.7,
+          "odds": 7.2,
           "recent": [
             {
               "fin": 7,
@@ -1039,7 +1039,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "矢内博",
           "horseWeight": null,
-          "odds": 21.2,
+          "odds": 38.4,
           "recent": [
             {
               "fin": 10,
@@ -1103,7 +1103,7 @@ window.RACE_DATA = {
           "jockey": "臼井健太",
           "trainer": "森泰斗",
           "horseWeight": null,
-          "odds": 6.7,
+          "odds": 11.0,
           "recent": [
             {
               "fin": 6,
@@ -1137,7 +1137,7 @@ window.RACE_DATA = {
           "jockey": "山口達弥",
           "trainer": "林正人",
           "horseWeight": null,
-          "odds": 9.0,
+          "odds": 18.4,
           "recent": [
             {
               "fin": 6,
@@ -1183,7 +1183,7 @@ window.RACE_DATA = {
           "jockey": "中山遥人",
           "trainer": "水野貴史",
           "horseWeight": null,
-          "odds": 15.6,
+          "odds": 27.3,
           "recent": [
             {
               "fin": 10,
@@ -1245,7 +1245,7 @@ window.RACE_DATA = {
           "jockey": "仲野光馬",
           "trainer": "渡辺貴光",
           "horseWeight": null,
-          "odds": 10.0,
+          "odds": 6.1,
           "recent": [
             {
               "fin": 3,
@@ -1291,7 +1291,7 @@ window.RACE_DATA = {
           "jockey": "達城龍次",
           "trainer": "山中尊徳",
           "horseWeight": null,
-          "odds": 11.9,
+          "odds": 14.9,
           "recent": [
             {
               "fin": 9,
@@ -1347,7 +1347,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202643062803",
-      "oddsUpdatedAt": "15:30"
+      "oddsUpdatedAt": "15:40"
     },
     {
       "raceNo": 4,
@@ -6509,5 +6509,5 @@ window.RACE_DATA = {
       "raceId": "202643062812"
     }
   ],
-  "oddsUpdatedAt": "15:30"
+  "oddsUpdatedAt": "15:40"
 };
