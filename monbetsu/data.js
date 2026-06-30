@@ -6309,7 +6309,7 @@ window.RACE_DATA = {
       "name": "夕張メロン、味は特別(A4)",
       "distance": 1000,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "20:35",
       "grade": "サラ系一般 A4",
       "meetingInfo": [
@@ -6328,7 +6328,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 4.3,
+          "odds": 3.5,
           "recent": [
             {
               "fin": 6,
@@ -6392,7 +6392,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "米川昇",
           "horseWeight": null,
-          "odds": 1.9,
+          "odds": 2.2,
           "recent": [
             {
               "fin": 14,
@@ -6454,7 +6454,7 @@ window.RACE_DATA = {
           "jockey": "坂下秀樹",
           "trainer": "秋田大助",
           "horseWeight": null,
-          "odds": 189.6,
+          "odds": 27.9,
           "recent": [
             {
               "fin": 10,
@@ -6520,7 +6520,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "沼澤英知",
           "horseWeight": null,
-          "odds": 5.1,
+          "odds": 4.1,
           "recent": [
             {
               "fin": 1,
@@ -6584,7 +6584,7 @@ window.RACE_DATA = {
           "jockey": "井上瑛太",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 40.4,
+          "odds": 35.7,
           "recent": [
             {
               "fin": 7,
@@ -6650,7 +6650,7 @@ window.RACE_DATA = {
           "jockey": "阿岸潤一",
           "trainer": "松本隆宏",
           "horseWeight": null,
-          "odds": 3.8,
+          "odds": 4.4,
           "recent": [
             {
               "fin": 2,
@@ -6707,8 +6707,9 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202630063012"
+      "raceId": "202630063012",
+      "oddsUpdatedAt": "20:15"
     }
   ],
-  "oddsUpdatedAt": "20:05"
+  "oddsUpdatedAt": "20:15"
 };
