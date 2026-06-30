@@ -524,7 +524,101 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202644063002",
-      "oddsUpdatedAt": "14:45"
+      "oddsUpdatedAt": "14:45",
+      "result": {
+        "order": [
+          4,
+          2,
+          3,
+          5,
+          1
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 890
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 200
+            },
+            {
+              "comb": [
+                2
+              ],
+              "amount": 120
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 650
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 200
+            },
+            {
+              "comb": [
+                3,
+                4
+              ],
+              "amount": 400
+            },
+            {
+              "comb": [
+                2,
+                3
+              ],
+              "amount": 190
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                4,
+                2
+              ],
+              "amount": 2510
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                2,
+                3,
+                4
+              ],
+              "amount": 850
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                4,
+                2,
+                3
+              ],
+              "amount": 8580
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 3,
@@ -550,7 +644,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "坂井英光",
           "horseWeight": null,
-          "odds": 4.9,
+          "odds": 3.9,
           "recent": []
         },
         {
@@ -563,7 +657,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "渡辺和雄",
           "horseWeight": null,
-          "odds": 4.9,
+          "odds": 4.0,
           "recent": []
         },
         {
@@ -576,7 +670,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌",
           "trainer": "中道啓二",
           "horseWeight": null,
-          "odds": 5.8,
+          "odds": 3.5,
           "recent": []
         },
         {
@@ -589,7 +683,7 @@ window.RACE_DATA = {
           "jockey": "高橋優",
           "trainer": "鷹見浩",
           "horseWeight": null,
-          "odds": 15.6,
+          "odds": 11.6,
           "recent": []
         },
         {
@@ -602,7 +696,7 @@ window.RACE_DATA = {
           "jockey": "西優哉",
           "trainer": "藤田輝信",
           "horseWeight": null,
-          "odds": 3.6,
+          "odds": 15.3,
           "recent": []
         },
         {
@@ -615,7 +709,7 @@ window.RACE_DATA = {
           "jockey": "鷹見陸",
           "trainer": "米田英世",
           "horseWeight": null,
-          "odds": 9.4,
+          "odds": 5.2,
           "recent": []
         },
         {
@@ -628,7 +722,7 @@ window.RACE_DATA = {
           "jockey": "杉山海波",
           "trainer": "赤嶺亮",
           "horseWeight": null,
-          "odds": 11.9,
+          "odds": 20.5,
           "recent": []
         },
         {
@@ -641,11 +735,12 @@ window.RACE_DATA = {
           "jockey": "達城龍次",
           "trainer": "市村誠",
           "horseWeight": null,
-          "odds": 7.5,
+          "odds": 12.5,
           "recent": []
         }
       ],
-      "raceId": "202644063003"
+      "raceId": "202644063003",
+      "oddsUpdatedAt": "15:06"
     },
     {
       "raceNo": 4,
@@ -7819,5 +7914,5 @@ window.RACE_DATA = {
       "raceId": "202644063012"
     }
   ],
-  "oddsUpdatedAt": "14:45"
+  "oddsUpdatedAt": "15:06"
 };
