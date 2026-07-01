@@ -300,7 +300,7 @@ window.RACE_DATA = {
       "name": "ゴールデンルーキー市場脩斗賞(C4)",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "14:45",
       "grade": "サラ系一般 C4",
       "meetingInfo": [
@@ -319,7 +319,7 @@ window.RACE_DATA = {
           "jockey": "松井伸也",
           "trainer": "秋田大助",
           "horseWeight": null,
-          "odds": 2.8,
+          "odds": 16.4,
           "recent": [
             {
               "fin": 14,
@@ -339,7 +339,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "廣森久雄",
           "horseWeight": null,
-          "odds": 34.4,
+          "odds": 41.0,
           "recent": [
             {
               "fin": 1,
@@ -391,7 +391,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 6.8,
           "recent": [
             {
               "fin": 10,
@@ -433,7 +433,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": 5.6,
+          "odds": 2.5,
           "recent": [
             {
               "fin": 4,
@@ -475,7 +475,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "川島雅人",
           "horseWeight": null,
-          "odds": 4.3,
+          "odds": 1.9,
           "recent": [
             {
               "fin": 2,
@@ -539,7 +539,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 5.9,
+          "odds": 13.6,
           "recent": [
             {
               "fin": 3,
@@ -597,7 +597,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "森山雄大",
           "horseWeight": null,
-          "odds": 148.0,
+          "odds": 28.7,
           "recent": [
             {
               "fin": 6,
@@ -663,7 +663,7 @@ window.RACE_DATA = {
           "jockey": "井上俊彦",
           "trainer": "櫻井拓章",
           "horseWeight": null,
-          "odds": 37.3,
+          "odds": 44.1,
           "recent": [
             {
               "fin": 7,
@@ -696,7 +696,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202630070102"
+      "raceId": "202630070102",
+      "oddsUpdatedAt": "14:20"
     },
     {
       "raceNo": 3,
@@ -5271,5 +5272,5 @@ window.RACE_DATA = {
       "raceId": "202630070112"
     }
   ],
-  "oddsUpdatedAt": "14:10"
+  "oddsUpdatedAt": "14:20"
 };
