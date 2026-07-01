@@ -5856,7 +5856,7 @@ window.RACE_DATA = {
       "name": "アメリカンペイトリオット賞(A3)",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "20:20",
       "grade": "サラ系一般 A3",
       "meetingInfo": [
@@ -5875,7 +5875,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 3.7,
+          "odds": 3.9,
           "recent": [
             {
               "fin": 1,
@@ -5939,7 +5939,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "秋田大助",
           "horseWeight": null,
-          "odds": 39.4,
+          "odds": 35.2,
           "recent": [
             {
               "fin": 8,
@@ -6005,7 +6005,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "佐久間雅",
           "horseWeight": null,
-          "odds": 4.6,
+          "odds": 11.8,
           "recent": [
             {
               "fin": 6,
@@ -6071,7 +6071,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": 3.3,
+          "odds": 3.9,
           "recent": [
             {
               "fin": 3,
@@ -6135,7 +6135,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 5.6,
+          "odds": 5.4,
           "recent": [
             {
               "fin": 4,
@@ -6199,7 +6199,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 8.6,
+          "odds": 4.2,
           "recent": [
             {
               "fin": 2,
@@ -6263,7 +6263,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 16.6,
+          "odds": 12.8,
           "recent": [
             {
               "fin": 5,
@@ -6329,7 +6329,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "黒川智貴",
           "horseWeight": null,
-          "odds": 12.7,
+          "odds": 7.1,
           "recent": [
             {
               "fin": 6,
@@ -6384,8 +6384,9 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202630070112"
+      "raceId": "202630070112",
+      "oddsUpdatedAt": "20:00"
     }
   ],
-  "oddsUpdatedAt": "19:50"
+  "oddsUpdatedAt": "20:00"
 };
