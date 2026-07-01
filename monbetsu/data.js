@@ -5875,7 +5875,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 6.1,
           "recent": [
             {
               "fin": 1,
@@ -5939,7 +5939,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "秋田大助",
           "horseWeight": null,
-          "odds": 35.2,
+          "odds": 58.0,
           "recent": [
             {
               "fin": 8,
@@ -6005,7 +6005,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "佐久間雅",
           "horseWeight": null,
-          "odds": 11.8,
+          "odds": 18.3,
           "recent": [
             {
               "fin": 6,
@@ -6071,7 +6071,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 1.7,
           "recent": [
             {
               "fin": 3,
@@ -6135,7 +6135,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 5.4,
+          "odds": 7.9,
           "recent": [
             {
               "fin": 4,
@@ -6199,7 +6199,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 4.2,
+          "odds": 5.4,
           "recent": [
             {
               "fin": 2,
@@ -6263,7 +6263,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 12.8,
+          "odds": 17.3,
           "recent": [
             {
               "fin": 5,
@@ -6329,7 +6329,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "黒川智貴",
           "horseWeight": null,
-          "odds": 7.1,
+          "odds": 11.5,
           "recent": [
             {
               "fin": 6,
@@ -6385,8 +6385,8 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630070112",
-      "oddsUpdatedAt": "20:00"
+      "oddsUpdatedAt": "20:10"
     }
   ],
-  "oddsUpdatedAt": "20:00"
+  "oddsUpdatedAt": "20:10"
 };
