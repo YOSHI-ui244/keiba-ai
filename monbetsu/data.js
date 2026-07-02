@@ -556,7 +556,7 @@ window.RACE_DATA = {
       "name": "JRA認定競走アタックチャレンジ競走(2歳)",
       "distance": 1700,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "15:15",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -575,7 +575,7 @@ window.RACE_DATA = {
           "jockey": "井上瑛太",
           "trainer": "五十嵐冬",
           "horseWeight": null,
-          "odds": 12.0,
+          "odds": 16.0,
           "recent": [
             {
               "fin": 4,
@@ -597,7 +597,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "米川昇",
           "horseWeight": null,
-          "odds": 2.9,
+          "odds": 1.1,
           "recent": [
             {
               "fin": 2,
@@ -625,7 +625,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 3.2,
+          "odds": 5.2,
           "recent": [
             {
               "fin": 3,
@@ -647,7 +647,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 19.2,
+          "odds": 45.7,
           "recent": [
             {
               "fin": 2,
@@ -669,7 +669,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 34.6,
+          "odds": 38.7,
           "recent": [
             {
               "fin": 3,
@@ -703,7 +703,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 4.5,
+          "odds": 22.8,
           "recent": [
             {
               "fin": 2,
@@ -725,7 +725,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": 5.3,
+          "odds": 26.6,
           "recent": [
             {
               "fin": 3,
@@ -759,11 +759,12 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 61.5,
+          "odds": 85.3,
           "recent": []
         }
       ],
-      "raceId": "202630070203"
+      "raceId": "202630070203",
+      "oddsUpdatedAt": "14:50"
     },
     {
       "raceNo": 4,
@@ -4726,5 +4727,5 @@ window.RACE_DATA = {
       "raceId": "202630070212"
     }
   ],
-  "oddsUpdatedAt": "14:40"
+  "oddsUpdatedAt": "14:50"
 };
