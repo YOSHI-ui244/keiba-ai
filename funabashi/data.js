@@ -4954,14 +4954,106 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202643070208",
-      "oddsUpdatedAt": "17:50"
+      "oddsUpdatedAt": "17:50",
+      "result": {
+        "order": [
+          2,
+          4,
+          3
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                2
+              ],
+              "amount": 2070
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                2
+              ],
+              "amount": 500
+            },
+            {
+              "comb": [
+                4
+              ],
+              "amount": 140
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 1350
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 330
+            },
+            {
+              "comb": [
+                2,
+                3
+              ],
+              "amount": 460
+            },
+            {
+              "comb": [
+                3,
+                4
+              ],
+              "amount": 160
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 6390
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                2,
+                3,
+                4
+              ],
+              "amount": 870
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                2,
+                4,
+                3
+              ],
+              "amount": 14580
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 9,
       "name": "ナティレイン特別(3歳未格)",
       "distance": 1600,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "18:35",
       "grade": "サラ系３歳 3歳未格",
       "meetingInfo": [
@@ -4980,7 +5072,7 @@ window.RACE_DATA = {
           "jockey": "亀田温心",
           "trainer": "高柳大輔",
           "horseWeight": null,
-          "odds": 14.9,
+          "odds": 26.0,
           "recent": [
             {
               "fin": 14,
@@ -5006,7 +5098,7 @@ window.RACE_DATA = {
           "jockey": "篠谷葵",
           "trainer": "鈴木伸尋",
           "horseWeight": null,
-          "odds": 10.7,
+          "odds": 10.6,
           "recent": [
             {
               "fin": 10,
@@ -5056,7 +5148,7 @@ window.RACE_DATA = {
           "jockey": "佐藤翔馬",
           "trainer": "高橋文雅",
           "horseWeight": null,
-          "odds": 33.7,
+          "odds": 58.5,
           "recent": [
             {
               "fin": 13,
@@ -5082,7 +5174,7 @@ window.RACE_DATA = {
           "jockey": "町田直希",
           "trainer": "田中力",
           "horseWeight": null,
-          "odds": 120.6,
+          "odds": 23.7,
           "recent": [
             {
               "fin": 5,
@@ -5146,7 +5238,7 @@ window.RACE_DATA = {
           "jockey": "御神本訓",
           "trainer": "斉藤崇史",
           "horseWeight": null,
-          "odds": 2.9,
+          "odds": 4.0,
           "recent": [
             {
               "fin": 13,
@@ -5184,7 +5276,7 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "矢野義幸",
           "horseWeight": null,
-          "odds": 13.6,
+          "odds": 17.1,
           "recent": [
             {
               "fin": 2,
@@ -5212,7 +5304,7 @@ window.RACE_DATA = {
           "jockey": "中山遥人",
           "trainer": "藤野健太",
           "horseWeight": null,
-          "odds": 5.5,
+          "odds": 12.8,
           "recent": [
             {
               "fin": 8,
@@ -5238,7 +5330,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "室井潔",
           "horseWeight": null,
-          "odds": 3.5,
+          "odds": 2.5,
           "recent": [
             {
               "fin": 8,
@@ -5300,7 +5392,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "牧田和弥",
           "horseWeight": null,
-          "odds": 5.9,
+          "odds": 3.5,
           "recent": [
             {
               "fin": 6,
@@ -5323,7 +5415,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202643070209"
+      "raceId": "202643070209",
+      "oddsUpdatedAt": "18:10"
     },
     {
       "raceNo": 10,
@@ -7761,5 +7854,5 @@ window.RACE_DATA = {
       "raceId": "202643070212"
     }
   ],
-  "oddsUpdatedAt": "17:50"
+  "oddsUpdatedAt": "18:10"
 };
