@@ -4365,7 +4365,7 @@ window.RACE_DATA = {
       "name": "道産子企業北海道競馬応援賞(C3)",
       "distance": 1800,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "20:00",
       "grade": "サラ系一般 C3",
       "meetingInfo": [
@@ -4384,7 +4384,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "柳澤好美",
           "horseWeight": null,
-          "odds": 70.7,
+          "odds": 48.3,
           "recent": [
             {
               "fin": 8,
@@ -4448,7 +4448,7 @@ window.RACE_DATA = {
           "jockey": "井上瑛太",
           "trainer": "五十嵐冬",
           "horseWeight": null,
-          "odds": 75.3,
+          "odds": 31.8,
           "recent": [
             {
               "fin": 12,
@@ -4514,7 +4514,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "五十嵐冬",
           "horseWeight": null,
-          "odds": 33.8,
+          "odds": 22.1,
           "recent": [
             {
               "fin": 4,
@@ -4578,7 +4578,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 3.2,
+          "odds": 4.8,
           "recent": [
             {
               "fin": 1,
@@ -4642,7 +4642,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "柳澤好美",
           "horseWeight": null,
-          "odds": 94.8,
+          "odds": 71.9,
           "recent": [
             {
               "fin": 7,
@@ -4708,7 +4708,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 28.6,
+          "odds": 18.6,
           "recent": [
             {
               "fin": 6,
@@ -4774,7 +4774,7 @@ window.RACE_DATA = {
           "jockey": "阿岸潤一",
           "trainer": "松本隆宏",
           "horseWeight": null,
-          "odds": 69.4,
+          "odds": 21.4,
           "recent": [
             {
               "fin": 4,
@@ -4840,7 +4840,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 2.3,
+          "odds": 2.1,
           "recent": [
             {
               "fin": 10,
@@ -4902,7 +4902,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "佐藤英明",
           "horseWeight": null,
-          "odds": 26.6,
+          "odds": 25.7,
           "recent": [
             {
               "fin": 5,
@@ -4968,7 +4968,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 2.8,
+          "odds": 2.9,
           "recent": [
             {
               "fin": 1,
@@ -5023,7 +5023,8 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202630070211"
+      "raceId": "202630070211",
+      "oddsUpdatedAt": "19:40"
     },
     {
       "raceNo": 12,
@@ -5627,5 +5628,5 @@ window.RACE_DATA = {
       "raceId": "202630070212"
     }
   ],
-  "oddsUpdatedAt": "19:30"
+  "oddsUpdatedAt": "19:40"
 };
