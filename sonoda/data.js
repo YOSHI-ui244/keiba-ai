@@ -4932,7 +4932,7 @@ window.RACE_DATA = {
           "jockey": "山本咲希",
           "trainer": "橋本忠明",
           "horseWeight": null,
-          "odds": 15.5,
+          "odds": 10.0,
           "recent": [
             {
               "fin": 7,
@@ -4996,7 +4996,7 @@ window.RACE_DATA = {
           "jockey": "福原杏",
           "trainer": "長倉功",
           "horseWeight": null,
-          "odds": 26.5,
+          "odds": 15.4,
           "recent": [
             {
               "fin": 4,
@@ -5060,7 +5060,7 @@ window.RACE_DATA = {
           "jockey": "小谷哲平",
           "trainer": "保利良次",
           "horseWeight": null,
-          "odds": 7.9,
+          "odds": 6.7,
           "recent": [
             {
               "fin": 1,
@@ -5126,7 +5126,7 @@ window.RACE_DATA = {
           "jockey": "杉浦健太",
           "trainer": "木村健",
           "horseWeight": null,
-          "odds": 231.7,
+          "odds": 108.7,
           "recent": [
             {
               "fin": 10,
@@ -5190,7 +5190,7 @@ window.RACE_DATA = {
           "jockey": "下原理",
           "trainer": "新子雅司",
           "horseWeight": null,
-          "odds": 6.9,
+          "odds": 4.2,
           "recent": [
             {
               "fin": 3,
@@ -5254,7 +5254,7 @@ window.RACE_DATA = {
           "jockey": "吉村智洋",
           "trainer": "橋本忠明",
           "horseWeight": null,
-          "odds": 2.5,
+          "odds": 2.4,
           "recent": [
             {
               "fin": 13,
@@ -5314,7 +5314,7 @@ window.RACE_DATA = {
           "jockey": "小牧太",
           "trainer": "木村健",
           "horseWeight": null,
-          "odds": 2.1,
+          "odds": 3.5,
           "recent": [
             {
               "fin": 4,
@@ -5345,7 +5345,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202650070207"
+      "raceId": "202650070207",
+      "oddsUpdatedAt": "13:20"
     },
     {
       "raceNo": 8,
@@ -8991,5 +8992,5 @@ window.RACE_DATA = {
       "raceId": "202650070212"
     }
   ],
-  "oddsUpdatedAt": "13:10"
+  "oddsUpdatedAt": "13:20"
 };
