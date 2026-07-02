@@ -2036,7 +2036,7 @@ window.RACE_DATA = {
       "name": "ルビー特別(2歳)OP",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "17:35",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -2055,7 +2055,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": 11.6,
+          "odds": 3.9,
           "recent": [
             {
               "fin": 1,
@@ -2077,7 +2077,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 3.2,
+          "odds": 3.5,
           "recent": [
             {
               "fin": 1,
@@ -2099,7 +2099,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 3.6,
+          "odds": 4.9,
           "recent": [
             {
               "fin": 1,
@@ -2127,7 +2127,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 2.6,
           "recent": [
             {
               "fin": 1,
@@ -2155,7 +2155,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 4.6,
+          "odds": 7.4,
           "recent": [
             {
               "fin": 1,
@@ -2188,7 +2188,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202630070207"
+      "raceId": "202630070207",
+      "oddsUpdatedAt": "17:10"
     },
     {
       "raceNo": 8,
@@ -5132,5 +5133,5 @@ window.RACE_DATA = {
       "raceId": "202630070212"
     }
   ],
-  "oddsUpdatedAt": "16:50"
+  "oddsUpdatedAt": "17:10"
 };
