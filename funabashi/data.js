@@ -1044,14 +1044,108 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202643070303",
-      "oddsUpdatedAt": "15:00"
+      "oddsUpdatedAt": "15:00",
+      "result": {
+        "order": [
+          2,
+          4,
+          3,
+          1,
+          5
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                2
+              ],
+              "amount": 390
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                2
+              ],
+              "amount": 150
+            },
+            {
+              "comb": [
+                4
+              ],
+              "amount": 390
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 1710
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 160
+            },
+            {
+              "comb": [
+                2,
+                3
+              ],
+              "amount": 110
+            },
+            {
+              "comb": [
+                3,
+                4
+              ],
+              "amount": 120
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 2680
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                2,
+                3,
+                4
+              ],
+              "amount": 170
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                2,
+                4,
+                3
+              ],
+              "amount": 3880
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 4,
       "name": "リアトリスデビュー(2歳)",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "15:40",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -1083,7 +1177,7 @@ window.RACE_DATA = {
           "jockey": "篠谷葵",
           "trainer": "石崎駿",
           "horseWeight": null,
-          "odds": 11.8,
+          "odds": 16.3,
           "recent": []
         },
         {
@@ -1096,7 +1190,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "米谷康秀",
           "horseWeight": null,
-          "odds": 2.1,
+          "odds": 8.4,
           "recent": []
         },
         {
@@ -1109,7 +1203,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "稲益貴弘",
           "horseWeight": null,
-          "odds": 4.5,
+          "odds": 6.7,
           "recent": []
         },
         {
@@ -1122,7 +1216,7 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "渡辺貴光",
           "horseWeight": null,
-          "odds": 7.8,
+          "odds": 38.4,
           "recent": []
         },
         {
@@ -1135,11 +1229,12 @@ window.RACE_DATA = {
           "jockey": "本橋孝太",
           "trainer": "森泰斗",
           "horseWeight": null,
-          "odds": 4.5,
+          "odds": 1.1,
           "recent": []
         }
       ],
-      "raceId": "202643070304"
+      "raceId": "202643070304",
+      "oddsUpdatedAt": "15:20"
     },
     {
       "raceNo": 5,
@@ -5942,5 +6037,5 @@ window.RACE_DATA = {
       "raceId": "202643070312"
     }
   ],
-  "oddsUpdatedAt": "15:00"
+  "oddsUpdatedAt": "15:20"
 };
