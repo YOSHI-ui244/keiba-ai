@@ -4878,7 +4878,7 @@ window.RACE_DATA = {
       "name": "C1",
       "distance": 1870,
       "surface": "ダ",
-      "condition": "重",
+      "condition": "稍",
       "startTime": "17:20",
       "grade": "サラ系４歳以上 C1",
       "meetingInfo": [
@@ -4897,7 +4897,7 @@ window.RACE_DATA = {
           "jockey": "山本咲希",
           "trainer": "西川進也",
           "horseWeight": null,
-          "odds": 28.3,
+          "odds": 11.4,
           "recent": [
             {
               "fin": 9,
@@ -4963,7 +4963,7 @@ window.RACE_DATA = {
           "jockey": "塩津璃菜",
           "trainer": "長南和宏",
           "horseWeight": null,
-          "odds": 21.7,
+          "odds": 4.6,
           "recent": [
             {
               "fin": 6,
@@ -5029,7 +5029,7 @@ window.RACE_DATA = {
           "jockey": "田野豊三",
           "trainer": "森澤友貴",
           "horseWeight": null,
-          "odds": 6.9,
+          "odds": 2.8,
           "recent": [
             {
               "fin": 1,
@@ -5095,7 +5095,7 @@ window.RACE_DATA = {
           "jockey": "吉村智洋",
           "trainer": "盛本信春",
           "horseWeight": null,
-          "odds": null,
+          "odds": 2.0,
           "recent": [
             {
               "fin": 2,
@@ -5159,7 +5159,7 @@ window.RACE_DATA = {
           "jockey": "笹田知宏",
           "trainer": "木村健",
           "horseWeight": null,
-          "odds": 21.0,
+          "odds": 9.2,
           "recent": [
             {
               "fin": 9,
@@ -5214,7 +5214,8 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202650070307"
+      "raceId": "202650070307",
+      "oddsUpdatedAt": "17:00"
     },
     {
       "raceNo": 8,
@@ -8942,5 +8943,5 @@ window.RACE_DATA = {
       "raceId": "202650070312"
     }
   ],
-  "oddsUpdatedAt": "16:40"
+  "oddsUpdatedAt": "17:00"
 };
