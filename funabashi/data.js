@@ -1749,7 +1749,7 @@ window.RACE_DATA = {
       "name": "馬い!あすかのグリーングラス発売記念(C3)",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "稍",
       "startTime": "17:30",
       "grade": "サラ系一般 C3",
       "meetingInfo": [
@@ -1768,7 +1768,7 @@ window.RACE_DATA = {
           "jockey": "野澤憲彦",
           "trainer": "佐々木清",
           "horseWeight": null,
-          "odds": 26.9,
+          "odds": 26.0,
           "recent": [
             {
               "fin": 12,
@@ -1832,7 +1832,7 @@ window.RACE_DATA = {
           "jockey": "濱田達也",
           "trainer": "石井勝男",
           "horseWeight": null,
-          "odds": 46.4,
+          "odds": 71.7,
           "recent": [
             {
               "fin": 8,
@@ -1896,7 +1896,7 @@ window.RACE_DATA = {
           "jockey": "仲野光馬",
           "trainer": "阿井正雄",
           "horseWeight": null,
-          "odds": 40.9,
+          "odds": 29.1,
           "recent": [
             {
               "fin": 8,
@@ -1962,7 +1962,7 @@ window.RACE_DATA = {
           "jockey": "山中悠希",
           "trainer": "玉井勝",
           "horseWeight": null,
-          "odds": 55.2,
+          "odds": 47.1,
           "recent": [
             {
               "fin": 10,
@@ -2028,7 +2028,7 @@ window.RACE_DATA = {
           "jockey": "本橋孝太",
           "trainer": "長谷川剛",
           "horseWeight": null,
-          "odds": 18.3,
+          "odds": 15.5,
           "recent": [
             {
               "fin": 5,
@@ -2094,7 +2094,7 @@ window.RACE_DATA = {
           "jockey": "西村栄喜",
           "trainer": "渋谷信博",
           "horseWeight": null,
-          "odds": 40.8,
+          "odds": 47.8,
           "recent": [
             {
               "fin": 7,
@@ -2158,7 +2158,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "佐々木功",
           "horseWeight": null,
-          "odds": 7.0,
+          "odds": 5.9,
           "recent": [
             {
               "fin": 2,
@@ -2224,7 +2224,7 @@ window.RACE_DATA = {
           "jockey": "菅原吏久",
           "trainer": "坂本昇",
           "horseWeight": null,
-          "odds": 9.8,
+          "odds": 5.8,
           "recent": [
             {
               "fin": 4,
@@ -2288,7 +2288,7 @@ window.RACE_DATA = {
           "jockey": "古岡勇樹",
           "trainer": "矢内博",
           "horseWeight": null,
-          "odds": 1.3,
+          "odds": 1.4,
           "recent": [
             {
               "fin": 1,
@@ -2340,7 +2340,7 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "玉井昇",
           "horseWeight": null,
-          "odds": 13.3,
+          "odds": 19.5,
           "recent": [
             {
               "fin": 5,
@@ -2395,7 +2395,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202643070406"
+      "raceId": "202643070406",
+      "oddsUpdatedAt": "17:10"
     },
     {
       "raceNo": 7,
@@ -6404,5 +6405,5 @@ window.RACE_DATA = {
       "raceId": "202643070412"
     }
   ],
-  "oddsUpdatedAt": "17:00"
+  "oddsUpdatedAt": "17:10"
 };
