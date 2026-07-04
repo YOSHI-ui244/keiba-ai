@@ -213,7 +213,7 @@ window.RACE_DATA = {
       "name": "リアトリスデビュー(2歳)",
       "distance": 1000,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "稍",
       "startTime": "15:05",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -232,7 +232,7 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "伊藤滋規",
           "horseWeight": null,
-          "odds": 4.1,
+          "odds": 9.5,
           "recent": []
         },
         {
@@ -245,7 +245,7 @@ window.RACE_DATA = {
           "jockey": "笠野雄大",
           "trainer": "渡辺貴光",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 19.1,
           "recent": []
         },
         {
@@ -258,7 +258,7 @@ window.RACE_DATA = {
           "jockey": "實川純一",
           "trainer": "佐々木功",
           "horseWeight": null,
-          "odds": 9.7,
+          "odds": 22.6,
           "recent": []
         },
         {
@@ -271,7 +271,7 @@ window.RACE_DATA = {
           "jockey": "所蛍",
           "trainer": "佐藤裕太",
           "horseWeight": null,
-          "odds": 3.5,
+          "odds": 4.1,
           "recent": []
         },
         {
@@ -284,7 +284,7 @@ window.RACE_DATA = {
           "jockey": "木間塚龍",
           "trainer": "斉藤敏",
           "horseWeight": null,
-          "odds": 4.9,
+          "odds": 14.6,
           "recent": []
         },
         {
@@ -297,11 +297,12 @@ window.RACE_DATA = {
           "jockey": "仲野光馬",
           "trainer": "山下貴之",
           "horseWeight": null,
-          "odds": 6.2,
+          "odds": 1.3,
           "recent": []
         }
       ],
-      "raceId": "202643070402"
+      "raceId": "202643070402",
+      "oddsUpdatedAt": "14:40"
     },
     {
       "raceNo": 3,
@@ -5918,5 +5919,5 @@ window.RACE_DATA = {
       "raceId": "202643070412"
     }
   ],
-  "oddsUpdatedAt": "14:30"
+  "oddsUpdatedAt": "14:40"
 };
