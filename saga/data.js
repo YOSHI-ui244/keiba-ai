@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "川島拓",
           "trainer": "川田孝好",
           "horseWeight": null,
-          "odds": 30.0,
+          "odds": 32.2,
           "recent": [
             {
               "fin": 6,
@@ -99,7 +99,7 @@ window.RACE_DATA = {
           "jockey": "山下裕貴",
           "trainer": "鮫島克也",
           "horseWeight": null,
-          "odds": 106.7,
+          "odds": 105.9,
           "recent": [
             {
               "fin": 7,
@@ -163,7 +163,7 @@ window.RACE_DATA = {
           "jockey": "金山昇馬",
           "trainer": "池田忠好",
           "horseWeight": null,
-          "odds": 92.8,
+          "odds": 114.1,
           "recent": [
             {
               "fin": 6,
@@ -227,7 +227,7 @@ window.RACE_DATA = {
           "jockey": "長谷川蓮",
           "trainer": "大垣敏夫",
           "horseWeight": null,
-          "odds": 79.0,
+          "odds": 89.9,
           "recent": [
             {
               "fin": 9,
@@ -291,7 +291,7 @@ window.RACE_DATA = {
           "jockey": "飛田愛斗",
           "trainer": "大島静夫",
           "horseWeight": null,
-          "odds": 12.7,
+          "odds": 10.1,
           "recent": [
             {
               "fin": 2,
@@ -345,7 +345,7 @@ window.RACE_DATA = {
           "jockey": "山田義貴",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 1.1,
+          "odds": 1.2,
           "recent": [
             {
               "fin": 6,
@@ -461,7 +461,7 @@ window.RACE_DATA = {
           "jockey": "長田進仁",
           "trainer": "中野博",
           "horseWeight": null,
-          "odds": 68.8,
+          "odds": 57.0,
           "recent": [
             {
               "fin": 5,
@@ -527,7 +527,7 @@ window.RACE_DATA = {
           "jockey": "石川慎将",
           "trainer": "平山宏秀",
           "horseWeight": null,
-          "odds": 44.4,
+          "odds": 41.7,
           "recent": [
             {
               "fin": 3,
@@ -593,7 +593,7 @@ window.RACE_DATA = {
           "jockey": "田中純",
           "trainer": "古賀光範",
           "horseWeight": null,
-          "odds": 18.8,
+          "odds": 18.7,
           "recent": [
             {
               "fin": 3,
@@ -651,7 +651,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202655070501",
-      "oddsUpdatedAt": "15:30"
+      "oddsUpdatedAt": "15:40"
     },
     {
       "raceNo": 2,
@@ -7057,5 +7057,5 @@ window.RACE_DATA = {
       "raceId": "202655070510"
     }
   ],
-  "oddsUpdatedAt": "15:30"
+  "oddsUpdatedAt": "15:40"
 };
