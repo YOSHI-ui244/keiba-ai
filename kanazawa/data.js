@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "甲賀弘隆",
           "trainer": "高橋優子",
           "horseWeight": null,
-          "odds": 36.5,
+          "odds": 36.0,
           "recent": [
             {
               "fin": 18,
@@ -59,7 +59,7 @@ window.RACE_DATA = {
           "jockey": "吉田晃浩",
           "trainer": "佐藤茂",
           "horseWeight": null,
-          "odds": 77.8,
+          "odds": 53.3,
           "recent": [
             {
               "fin": 16,
@@ -91,7 +91,7 @@ window.RACE_DATA = {
           "jockey": "田知弘久",
           "trainer": "鋤田誠二",
           "horseWeight": null,
-          "odds": 11.9,
+          "odds": 9.9,
           "recent": [
             {
               "fin": 11,
@@ -129,7 +129,7 @@ window.RACE_DATA = {
           "jockey": "加藤翔馬",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 29.1,
+          "odds": 18.7,
           "recent": [
             {
               "fin": 12,
@@ -161,7 +161,7 @@ window.RACE_DATA = {
           "jockey": "米倉知",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 6.9,
+          "odds": 6.0,
           "recent": [
             {
               "fin": 14,
@@ -211,7 +211,7 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "菅原欣也",
           "horseWeight": null,
-          "odds": 20.7,
+          "odds": 19.1,
           "recent": [
             {
               "fin": 14,
@@ -237,7 +237,7 @@ window.RACE_DATA = {
           "jockey": "柴田勇真",
           "trainer": "金田一昌",
           "horseWeight": null,
-          "odds": 8.7,
+          "odds": 9.0,
           "recent": [
             {
               "fin": 13,
@@ -275,7 +275,7 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 2.5,
           "recent": [
             {
               "fin": 10,
@@ -319,7 +319,7 @@ window.RACE_DATA = {
           "jockey": "魚住謙心",
           "trainer": "鋤田誠二",
           "horseWeight": null,
-          "odds": 2.6,
+          "odds": 2.9,
           "recent": [
             {
               "fin": 14,
@@ -343,7 +343,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646070701",
-      "oddsUpdatedAt": "12:10"
+      "oddsUpdatedAt": "12:20"
     },
     {
       "raceNo": 2,
@@ -6677,5 +6677,5 @@ window.RACE_DATA = {
       "raceId": "202646070712"
     }
   ],
-  "oddsUpdatedAt": "12:10"
+  "oddsUpdatedAt": "12:20"
 };
