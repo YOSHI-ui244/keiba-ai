@@ -7466,7 +7466,7 @@ window.RACE_DATA = {
           "jockey": "小林凌",
           "trainer": "佐藤浩一",
           "horseWeight": null,
-          "odds": 7.4,
+          "odds": 6.0,
           "recent": [
             {
               "fin": 7,
@@ -7530,7 +7530,7 @@ window.RACE_DATA = {
           "jockey": "山本政聡",
           "trainer": "陶文峰",
           "horseWeight": null,
-          "odds": 23.8,
+          "odds": 29.2,
           "recent": [
             {
               "fin": 8,
@@ -7596,7 +7596,7 @@ window.RACE_DATA = {
           "jockey": "斉藤友香",
           "trainer": "菅原学",
           "horseWeight": null,
-          "odds": 25.1,
+          "odds": 32.5,
           "recent": [
             {
               "fin": 9,
@@ -7660,7 +7660,7 @@ window.RACE_DATA = {
           "jockey": "佐々木志",
           "trainer": "菅原右吉",
           "horseWeight": null,
-          "odds": 18.3,
+          "odds": 26.3,
           "recent": [
             {
               "fin": 5,
@@ -7722,7 +7722,7 @@ window.RACE_DATA = {
           "jockey": "鈴木祐",
           "trainer": "櫻田康二",
           "horseWeight": null,
-          "odds": 19.2,
+          "odds": 21.4,
           "recent": [
             {
               "fin": 5,
@@ -7788,7 +7788,7 @@ window.RACE_DATA = {
           "jockey": "山本聡哉",
           "trainer": "佐藤浩一",
           "horseWeight": null,
-          "odds": 8.3,
+          "odds": 6.5,
           "recent": [
             {
               "fin": 10,
@@ -7852,7 +7852,7 @@ window.RACE_DATA = {
           "jockey": "高松亮",
           "trainer": "小林俊彦",
           "horseWeight": null,
-          "odds": 6.4,
+          "odds": 8.2,
           "recent": [
             {
               "fin": 6,
@@ -7976,7 +7976,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202635070711",
-      "oddsUpdatedAt": "17:20"
+      "oddsUpdatedAt": "17:30"
     },
     {
       "raceNo": 12,
@@ -8712,5 +8712,5 @@ window.RACE_DATA = {
       "raceId": "202635070712"
     }
   ],
-  "oddsUpdatedAt": "17:20"
+  "oddsUpdatedAt": "17:30"
 };
