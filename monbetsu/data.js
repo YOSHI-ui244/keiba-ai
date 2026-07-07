@@ -3463,7 +3463,7 @@ window.RACE_DATA = {
       "name": "比布駅改築10周年記念特別(B4)",
       "distance": 1000,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "18:15",
       "grade": "サラ系一般 B4",
       "meetingInfo": [
@@ -3482,7 +3482,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 13.7,
+          "odds": 14.4,
           "recent": [
             {
               "fin": 6,
@@ -3548,7 +3548,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 5.7,
+          "odds": 6.2,
           "recent": [
             {
               "fin": 2,
@@ -3612,7 +3612,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 4.6,
+          "odds": 9.5,
           "recent": [
             {
               "fin": 3,
@@ -3678,7 +3678,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "森山雄大",
           "horseWeight": null,
-          "odds": 37.7,
+          "odds": 11.7,
           "recent": [
             {
               "fin": 1,
@@ -3744,7 +3744,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 5.1,
+          "odds": 4.9,
           "recent": [
             {
               "fin": 1,
@@ -3810,7 +3810,7 @@ window.RACE_DATA = {
           "jockey": "吉本隆記",
           "trainer": "佐藤英明",
           "horseWeight": null,
-          "odds": 704.6,
+          "odds": 124.2,
           "recent": [
             {
               "fin": 11,
@@ -3874,7 +3874,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 5.0,
+          "odds": 6.1,
           "recent": [
             {
               "fin": 1,
@@ -3938,7 +3938,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 7.1,
+          "odds": 21.7,
           "recent": [
             {
               "fin": 3,
@@ -4004,7 +4004,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 6.9,
+          "odds": 6.3,
           "recent": [
             {
               "fin": 5,
@@ -4068,7 +4068,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "五十嵐冬",
           "horseWeight": null,
-          "odds": 14.3,
+          "odds": 3.9,
           "recent": [
             {
               "fin": 5,
@@ -4123,7 +4123,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202630070708"
+      "raceId": "202630070708",
+      "oddsUpdatedAt": "17:50"
     },
     {
       "raceNo": 9,
@@ -6678,5 +6679,5 @@ window.RACE_DATA = {
       "raceId": "202630070712"
     }
   ],
-  "oddsUpdatedAt": "17:40"
+  "oddsUpdatedAt": "17:50"
 };
