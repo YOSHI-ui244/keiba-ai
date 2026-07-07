@@ -5903,7 +5903,7 @@ window.RACE_DATA = {
           "jockey": "小川悠汰",
           "trainer": "岡島玉一",
           "horseWeight": null,
-          "odds": 40.9,
+          "odds": 105.4,
           "recent": [
             {
               "fin": 7,
@@ -5969,7 +5969,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "森山雄大",
           "horseWeight": null,
-          "odds": 15.3,
+          "odds": 31.7,
           "recent": [
             {
               "fin": 4,
@@ -6033,7 +6033,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 23.4,
+          "odds": 30.6,
           "recent": [
             {
               "fin": 9,
@@ -6097,7 +6097,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 3.1,
+          "odds": 4.2,
           "recent": [
             {
               "fin": 4,
@@ -6161,7 +6161,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "桧森邦夫",
           "horseWeight": null,
-          "odds": 7.4,
+          "odds": 8.6,
           "recent": [
             {
               "fin": 3,
@@ -6225,7 +6225,7 @@ window.RACE_DATA = {
           "jockey": "渡辺準己",
           "trainer": "五十嵐冬",
           "horseWeight": null,
-          "odds": 7.7,
+          "odds": 10.9,
           "recent": []
         },
         {
@@ -6238,7 +6238,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "佐藤英明",
           "horseWeight": null,
-          "odds": 9.1,
+          "odds": 19.1,
           "recent": [
             {
               "fin": 7,
@@ -6304,7 +6304,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 1.4,
           "recent": [
             {
               "fin": 3,
@@ -6368,7 +6368,7 @@ window.RACE_DATA = {
           "jockey": "松井伸也",
           "trainer": "佐久間雅",
           "horseWeight": null,
-          "odds": 58.9,
+          "odds": 147.6,
           "recent": [
             {
               "fin": 6,
@@ -6426,7 +6426,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630070711",
-      "oddsUpdatedAt": "19:40"
+      "oddsUpdatedAt": "19:50"
     },
     {
       "raceNo": 12,
@@ -7094,5 +7094,5 @@ window.RACE_DATA = {
       "raceId": "202630070712"
     }
   ],
-  "oddsUpdatedAt": "19:40"
+  "oddsUpdatedAt": "19:50"
 };
