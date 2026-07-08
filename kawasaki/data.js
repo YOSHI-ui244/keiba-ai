@@ -744,7 +744,7 @@ window.RACE_DATA = {
       "name": "3歳5",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "稍",
       "startTime": "15:15",
       "grade": "サラ系３歳 3歳",
       "meetingInfo": [
@@ -763,7 +763,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "山田質",
           "horseWeight": null,
-          "odds": 16.1,
+          "odds": 12.0,
           "recent": [
             {
               "fin": 3,
@@ -825,7 +825,7 @@ window.RACE_DATA = {
           "jockey": "藤江渉",
           "trainer": "山田正実",
           "horseWeight": null,
-          "odds": 11.2,
+          "odds": 12.3,
           "recent": [
             {
               "fin": 2,
@@ -871,7 +871,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "山崎誠士",
           "horseWeight": null,
-          "odds": 9.8,
+          "odds": 5.6,
           "recent": [
             {
               "fin": 5,
@@ -909,7 +909,7 @@ window.RACE_DATA = {
           "jockey": "西啓太",
           "trainer": "高橋宏征",
           "horseWeight": null,
-          "odds": 15.2,
+          "odds": 11.8,
           "recent": [
             {
               "fin": 5,
@@ -973,7 +973,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "茂木浩幸",
           "horseWeight": null,
-          "odds": 1.9,
+          "odds": 3.8,
           "recent": [
             {
               "fin": 2,
@@ -1037,7 +1037,7 @@ window.RACE_DATA = {
           "jockey": "佐藤翔馬",
           "trainer": "内田勝義",
           "horseWeight": null,
-          "odds": 23.6,
+          "odds": 28.0,
           "recent": [
             {
               "fin": 10,
@@ -1095,7 +1095,7 @@ window.RACE_DATA = {
           "jockey": "新原周馬",
           "trainer": "甲田悟史",
           "horseWeight": null,
-          "odds": 96.2,
+          "odds": 17.8,
           "recent": [
             {
               "fin": 11,
@@ -1133,7 +1133,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "鈴木義久",
           "horseWeight": null,
-          "odds": 16.3,
+          "odds": 19.4,
           "recent": [
             {
               "fin": 5,
@@ -1197,7 +1197,7 @@ window.RACE_DATA = {
           "jockey": "櫻井光輔",
           "trainer": "田辺陽一",
           "horseWeight": null,
-          "odds": 3.5,
+          "odds": 2.3,
           "recent": [
             {
               "fin": 6,
@@ -1214,7 +1214,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202645070802"
+      "raceId": "202645070802",
+      "oddsUpdatedAt": "14:50"
     },
     {
       "raceNo": 3,
@@ -7975,5 +7976,5 @@ window.RACE_DATA = {
       "raceId": "202645070812"
     }
   ],
-  "oddsUpdatedAt": "14:40"
+  "oddsUpdatedAt": "14:50"
 };
