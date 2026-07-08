@@ -7462,7 +7462,7 @@ window.RACE_DATA = {
       "name": "スパーキングレディーＣJpn3",
       "distance": 1600,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "稍",
       "startTime": "20:10",
       "grade": "サラ系３歳以上 3歳",
       "meetingInfo": [
@@ -7481,7 +7481,7 @@ window.RACE_DATA = {
           "jockey": "藤原幹生",
           "trainer": "伊藤勝好",
           "horseWeight": null,
-          "odds": 48.4,
+          "odds": 327.3,
           "recent": [
             {
               "fin": 9,
@@ -7547,7 +7547,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "小澤宏次",
           "horseWeight": null,
-          "odds": 171.1,
+          "odds": 114.6,
           "recent": [
             {
               "fin": 7,
@@ -7611,7 +7611,7 @@ window.RACE_DATA = {
           "jockey": "田口貫太",
           "trainer": "大橋勇樹",
           "horseWeight": null,
-          "odds": 5.9,
+          "odds": 5.1,
           "recent": [
             {
               "fin": 6,
@@ -7649,7 +7649,7 @@ window.RACE_DATA = {
           "jockey": "坂井瑠星",
           "trainer": "辻哲英",
           "horseWeight": null,
-          "odds": 5.2,
+          "odds": 5.3,
           "recent": [
             {
               "fin": 5,
@@ -7715,7 +7715,7 @@ window.RACE_DATA = {
           "jockey": "御神本訓",
           "trainer": "川島正一",
           "horseWeight": null,
-          "odds": 15.2,
+          "odds": 49.3,
           "recent": [
             {
               "fin": 9,
@@ -7779,7 +7779,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "藤田輝信",
           "horseWeight": null,
-          "odds": 161.6,
+          "odds": 105.6,
           "recent": [
             {
               "fin": 10,
@@ -7841,7 +7841,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "内田勝義",
           "horseWeight": null,
-          "odds": 10.0,
+          "odds": 9.3,
           "recent": [
             {
               "fin": 4,
@@ -7903,7 +7903,7 @@ window.RACE_DATA = {
           "jockey": "松山弘平",
           "trainer": "渡辺薫彦",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 2.1,
           "recent": [
             {
               "fin": 1,
@@ -7965,7 +7965,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "小久保智",
           "horseWeight": null,
-          "odds": 37.2,
+          "odds": 31.6,
           "recent": [
             {
               "fin": 2,
@@ -8027,7 +8027,7 @@ window.RACE_DATA = {
           "jockey": "戸崎圭太",
           "trainer": "田島俊明",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 4.3,
           "recent": [
             {
               "fin": 17,
@@ -8080,7 +8080,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202645070811"
+      "raceId": "202645070811",
+      "oddsUpdatedAt": "19:50"
     },
     {
       "raceNo": 12,
@@ -9004,5 +9005,5 @@ window.RACE_DATA = {
       "raceId": "202645070812"
     }
   ],
-  "oddsUpdatedAt": "19:40"
+  "oddsUpdatedAt": "19:50"
 };
