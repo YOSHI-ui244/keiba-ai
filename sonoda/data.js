@@ -582,7 +582,7 @@ window.RACE_DATA = {
           "jockey": "小谷哲平",
           "trainer": "石橋満",
           "horseWeight": null,
-          "odds": 11.8,
+          "odds": 7.7,
           "recent": [
             {
               "fin": 5,
@@ -648,7 +648,7 @@ window.RACE_DATA = {
           "jockey": "小谷周平",
           "trainer": "稻田彰宏",
           "horseWeight": null,
-          "odds": 78.2,
+          "odds": 64.0,
           "recent": [
             {
               "fin": 10,
@@ -714,7 +714,7 @@ window.RACE_DATA = {
           "jockey": "大山真吾",
           "trainer": "橋本忠明",
           "horseWeight": null,
-          "odds": 1.1,
+          "odds": 1.2,
           "recent": [
             {
               "fin": 2,
@@ -766,7 +766,7 @@ window.RACE_DATA = {
           "jockey": "吉村智洋",
           "trainer": "坂本和也",
           "horseWeight": null,
-          "odds": 16.4,
+          "odds": 17.5,
           "recent": [
             {
               "fin": 9,
@@ -832,7 +832,7 @@ window.RACE_DATA = {
           "jockey": "佐々木世",
           "trainer": "小村正也",
           "horseWeight": null,
-          "odds": 17.1,
+          "odds": 18.3,
           "recent": [
             {
               "fin": 11,
@@ -898,7 +898,7 @@ window.RACE_DATA = {
           "jockey": "永井孝典",
           "trainer": "藤川純",
           "horseWeight": null,
-          "odds": 12.9,
+          "odds": 11.0,
           "recent": [
             {
               "fin": 4,
@@ -962,7 +962,7 @@ window.RACE_DATA = {
           "jockey": "板野央",
           "trainer": "西村守幸",
           "horseWeight": null,
-          "odds": 44.4,
+          "odds": 63.4,
           "recent": [
             {
               "fin": 7,
@@ -1026,7 +1026,7 @@ window.RACE_DATA = {
           "jockey": "井上幹太",
           "trainer": "平松徳彦",
           "horseWeight": null,
-          "odds": 14.1,
+          "odds": 19.5,
           "recent": [
             {
               "fin": 6,
@@ -1092,7 +1092,7 @@ window.RACE_DATA = {
           "jockey": "渡瀬和幸",
           "trainer": "三宅直之",
           "horseWeight": null,
-          "odds": 149.3,
+          "odds": 118.0,
           "recent": [
             {
               "fin": 8,
@@ -1148,7 +1148,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202650070802",
-      "oddsUpdatedAt": "10:50"
+      "oddsUpdatedAt": "11:00"
     },
     {
       "raceNo": 3,
@@ -7393,5 +7393,5 @@ window.RACE_DATA = {
       "raceId": "202650070812"
     }
   ],
-  "oddsUpdatedAt": "10:50"
+  "oddsUpdatedAt": "11:00"
 };
