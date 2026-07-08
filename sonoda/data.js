@@ -4594,7 +4594,7 @@ window.RACE_DATA = {
           "jockey": "永井孝典",
           "trainer": "田村彰啓",
           "horseWeight": null,
-          "odds": 15.5,
+          "odds": 10.9,
           "recent": [
             {
               "fin": 7,
@@ -4658,7 +4658,7 @@ window.RACE_DATA = {
           "jockey": "川原正一",
           "trainer": "飯田良弘",
           "horseWeight": null,
-          "odds": 14.5,
+          "odds": 16.4,
           "recent": [
             {
               "fin": 6,
@@ -4720,7 +4720,7 @@ window.RACE_DATA = {
           "jockey": "佐々木世",
           "trainer": "有馬澄男",
           "horseWeight": null,
-          "odds": 6.4,
+          "odds": 7.4,
           "recent": [
             {
               "fin": 1,
@@ -4786,7 +4786,7 @@ window.RACE_DATA = {
           "jockey": "福原杏",
           "trainer": "柏原誠路",
           "horseWeight": null,
-          "odds": 3.5,
+          "odds": 4.0,
           "recent": [
             {
               "fin": 2,
@@ -4852,7 +4852,7 @@ window.RACE_DATA = {
           "jockey": "高橋洸佑",
           "trainer": "飯田良弘",
           "horseWeight": null,
-          "odds": 20.2,
+          "odds": 20.7,
           "recent": [
             {
               "fin": 7,
@@ -4918,7 +4918,7 @@ window.RACE_DATA = {
           "jockey": "笹田知宏",
           "trainer": "木村健",
           "horseWeight": null,
-          "odds": 10.4,
+          "odds": 6.6,
           "recent": [
             {
               "fin": 1,
@@ -4984,7 +4984,7 @@ window.RACE_DATA = {
           "jockey": "田野豊三",
           "trainer": "有馬澄男",
           "horseWeight": null,
-          "odds": 1.8,
+          "odds": 1.9,
           "recent": [
             {
               "fin": 3,
@@ -5012,7 +5012,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202650070808",
-      "oddsUpdatedAt": "14:00"
+      "oddsUpdatedAt": "14:10"
     },
     {
       "raceNo": 9,
@@ -7993,5 +7993,5 @@ window.RACE_DATA = {
       "raceId": "202650070812"
     }
   ],
-  "oddsUpdatedAt": "14:00"
+  "oddsUpdatedAt": "14:10"
 };
