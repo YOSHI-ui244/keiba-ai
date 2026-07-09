@@ -806,7 +806,7 @@ window.RACE_DATA = {
           "jockey": "坂下秀樹",
           "trainer": "秋田大助",
           "horseWeight": null,
-          "odds": 60.4,
+          "odds": 64.4,
           "recent": [
             {
               "fin": 10,
@@ -870,7 +870,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 2.1,
+          "odds": 3.7,
           "recent": [
             {
               "fin": 5,
@@ -936,7 +936,7 @@ window.RACE_DATA = {
           "jockey": "大畑雅章",
           "trainer": "桧森邦夫",
           "horseWeight": null,
-          "odds": 9.8,
+          "odds": 8.2,
           "recent": [
             {
               "fin": 10,
@@ -1000,7 +1000,7 @@ window.RACE_DATA = {
           "jockey": "松井伸也",
           "trainer": "岡島玉一",
           "horseWeight": null,
-          "odds": 6.7,
+          "odds": 10.3,
           "recent": [
             {
               "fin": 8,
@@ -1132,7 +1132,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 16.3,
+          "odds": 17.9,
           "recent": [
             {
               "fin": 7,
@@ -1196,7 +1196,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 6.9,
+          "odds": 4.3,
           "recent": [
             {
               "fin": 6,
@@ -1260,7 +1260,7 @@ window.RACE_DATA = {
           "jockey": "若杉朝飛",
           "trainer": "黒川智貴",
           "horseWeight": null,
-          "odds": 3.2,
+          "odds": 2.1,
           "recent": [
             {
               "fin": 2,
@@ -1316,7 +1316,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630070903",
-      "oddsUpdatedAt": "15:00"
+      "oddsUpdatedAt": "15:10"
     },
     {
       "raceNo": 4,
@@ -6554,5 +6554,5 @@ window.RACE_DATA = {
       "raceId": "202630070912"
     }
   ],
-  "oddsUpdatedAt": "15:00"
+  "oddsUpdatedAt": "15:10"
 };
