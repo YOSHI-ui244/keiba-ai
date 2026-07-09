@@ -1594,7 +1594,7 @@ window.RACE_DATA = {
       "name": "スパーキングデビュー新馬(2歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "稍",
+      "condition": "良",
       "startTime": "16:00",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -1613,7 +1613,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "山崎裕也",
           "horseWeight": null,
-          "odds": 4.7,
+          "odds": 7.6,
           "recent": []
         },
         {
@@ -1626,7 +1626,7 @@ window.RACE_DATA = {
           "jockey": "町田直希",
           "trainer": "内田勝義",
           "horseWeight": null,
-          "odds": 2.8,
+          "odds": 3.7,
           "recent": []
         },
         {
@@ -1639,7 +1639,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "茂木浩幸",
           "horseWeight": null,
-          "odds": 5.4,
+          "odds": 2.7,
           "recent": []
         },
         {
@@ -1652,7 +1652,7 @@ window.RACE_DATA = {
           "jockey": "御神本訓",
           "trainer": "酒井忍",
           "horseWeight": null,
-          "odds": 2.8,
+          "odds": 2.6,
           "recent": []
         },
         {
@@ -1665,7 +1665,7 @@ window.RACE_DATA = {
           "jockey": "櫻井光輔",
           "trainer": "甲田悟史",
           "horseWeight": null,
-          "odds": 9.2,
+          "odds": 12.6,
           "recent": []
         },
         {
@@ -1678,12 +1678,12 @@ window.RACE_DATA = {
           "jockey": "新原周馬",
           "trainer": "山崎尋美",
           "horseWeight": null,
-          "odds": 20.8,
+          "odds": 26.1,
           "recent": []
         }
       ],
       "raceId": "202645070903",
-      "oddsUpdatedAt": "15:40"
+      "oddsUpdatedAt": "15:50"
     },
     {
       "raceNo": 4,
@@ -6601,5 +6601,5 @@ window.RACE_DATA = {
       "raceId": "202645070912"
     }
   ],
-  "oddsUpdatedAt": "15:40"
+  "oddsUpdatedAt": "15:50"
 };
