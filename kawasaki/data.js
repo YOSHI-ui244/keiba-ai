@@ -745,7 +745,7 @@ window.RACE_DATA = {
           "jockey": "櫻井光輔",
           "trainer": "安池成実",
           "horseWeight": null,
-          "odds": 10.5,
+          "odds": 5.5,
           "recent": [
             {
               "fin": 7,
@@ -777,7 +777,7 @@ window.RACE_DATA = {
           "jockey": "中山遥人",
           "trainer": "林隆之",
           "horseWeight": null,
-          "odds": 6.8,
+          "odds": 6.2,
           "recent": [
             {
               "fin": 8,
@@ -817,7 +817,7 @@ window.RACE_DATA = {
           "jockey": "池谷匠翔",
           "trainer": "古澤悟",
           "horseWeight": null,
-          "odds": 6.6,
+          "odds": 9.8,
           "recent": [
             {
               "fin": 5,
@@ -861,7 +861,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "佐藤博紀",
           "horseWeight": null,
-          "odds": 5.2,
+          "odds": 4.8,
           "recent": [
             {
               "fin": 6,
@@ -923,7 +923,7 @@ window.RACE_DATA = {
           "jockey": "加藤雄真",
           "trainer": "河津裕昭",
           "horseWeight": null,
-          "odds": 43.9,
+          "odds": 27.8,
           "recent": [
             {
               "fin": 2,
@@ -987,7 +987,7 @@ window.RACE_DATA = {
           "jockey": "西啓太",
           "trainer": "伊藤滋規",
           "horseWeight": null,
-          "odds": 10.5,
+          "odds": 14.6,
           "recent": [
             {
               "fin": 10,
@@ -1051,7 +1051,7 @@ window.RACE_DATA = {
           "jockey": "川島正太",
           "trainer": "山田質",
           "horseWeight": null,
-          "odds": 2.9,
+          "odds": 4.3,
           "recent": [
             {
               "fin": 7,
@@ -1097,7 +1097,7 @@ window.RACE_DATA = {
           "jockey": "古岡勇樹",
           "trainer": "田辺陽一",
           "horseWeight": null,
-          "odds": 31.5,
+          "odds": 26.8,
           "recent": [
             {
               "fin": 3,
@@ -1149,7 +1149,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "山崎尋美",
           "horseWeight": null,
-          "odds": 5.5,
+          "odds": 4.3,
           "recent": [
             {
               "fin": 8,
@@ -1199,7 +1199,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202645071002",
-      "oddsUpdatedAt": "15:10"
+      "oddsUpdatedAt": "15:20"
     },
     {
       "raceNo": 3,
@@ -6132,5 +6132,5 @@ window.RACE_DATA = {
       "raceId": "202645071012"
     }
   ],
-  "oddsUpdatedAt": "15:10"
+  "oddsUpdatedAt": "15:20"
 };
