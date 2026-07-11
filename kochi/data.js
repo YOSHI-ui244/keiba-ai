@@ -737,7 +737,7 @@ window.RACE_DATA = {
           "jockey": "石本純也",
           "trainer": "田中伸一",
           "horseWeight": null,
-          "odds": 47.1,
+          "odds": 18.0,
           "recent": [
             {
               "fin": 7,
@@ -803,7 +803,7 @@ window.RACE_DATA = {
           "jockey": "岡遼太郎",
           "trainer": "宮川浩一",
           "horseWeight": null,
-          "odds": 11.7,
+          "odds": 10.8,
           "recent": [
             {
               "fin": 5,
@@ -867,7 +867,7 @@ window.RACE_DATA = {
           "jockey": "郷間勇太",
           "trainer": "嬉勝則",
           "horseWeight": null,
-          "odds": 37.9,
+          "odds": 34.6,
           "recent": [
             {
               "fin": 3,
@@ -997,7 +997,7 @@ window.RACE_DATA = {
           "jockey": "西森将司",
           "trainer": "倉兼育康",
           "horseWeight": null,
-          "odds": 19.6,
+          "odds": 18.3,
           "recent": [
             {
               "fin": 5,
@@ -1059,7 +1059,7 @@ window.RACE_DATA = {
           "jockey": "畑中信司",
           "trainer": "細川忠義",
           "horseWeight": null,
-          "odds": 10.8,
+          "odds": 8.2,
           "recent": [
             {
               "fin": 7,
@@ -1125,7 +1125,7 @@ window.RACE_DATA = {
           "jockey": "宮川実",
           "trainer": "宮川浩一",
           "horseWeight": null,
-          "odds": 1.3,
+          "odds": 1.8,
           "recent": [
             {
               "fin": 1,
@@ -1191,7 +1191,7 @@ window.RACE_DATA = {
           "jockey": "塚本直之",
           "trainer": "目迫大輔",
           "horseWeight": null,
-          "odds": 5.5,
+          "odds": 3.4,
           "recent": [
             {
               "fin": 2,
@@ -1257,7 +1257,7 @@ window.RACE_DATA = {
           "jockey": "多田羅誠",
           "trainer": "国澤輝幸",
           "horseWeight": null,
-          "odds": 16.9,
+          "odds": 19.2,
           "recent": [
             {
               "fin": 2,
@@ -1323,7 +1323,7 @@ window.RACE_DATA = {
           "jockey": "上田将司",
           "trainer": "雑賀正光",
           "horseWeight": null,
-          "odds": 53.6,
+          "odds": 58.7,
           "recent": [
             {
               "fin": 9,
@@ -1379,7 +1379,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202654071102",
-      "oddsUpdatedAt": "16:23"
+      "oddsUpdatedAt": "16:33"
     },
     {
       "raceNo": 3,
@@ -7060,5 +7060,5 @@ window.RACE_DATA = {
       "raceId": "202654071110"
     }
   ],
-  "oddsUpdatedAt": "16:23"
+  "oddsUpdatedAt": "16:33"
 };
