@@ -2526,7 +2526,7 @@ window.RACE_DATA = {
           "jockey": "鈴木祐",
           "trainer": "西野直樹",
           "horseWeight": null,
-          "odds": 11.8,
+          "odds": 12.3,
           "recent": [
             {
               "fin": 6,
@@ -2592,7 +2592,7 @@ window.RACE_DATA = {
           "jockey": "小林凌",
           "trainer": "佐藤敏彦",
           "horseWeight": null,
-          "odds": 17.3,
+          "odds": 26.4,
           "recent": [
             {
               "fin": 8,
@@ -2656,7 +2656,7 @@ window.RACE_DATA = {
           "jockey": "山本聡紀",
           "trainer": "高橋純",
           "horseWeight": null,
-          "odds": 6.6,
+          "odds": 8.0,
           "recent": [
             {
               "fin": 6,
@@ -2722,7 +2722,7 @@ window.RACE_DATA = {
           "jockey": "山本政聡",
           "trainer": "工藤裕孝",
           "horseWeight": null,
-          "odds": 3.5,
+          "odds": 3.7,
           "recent": [
             {
               "fin": 2,
@@ -2920,7 +2920,7 @@ window.RACE_DATA = {
           "jockey": "佐々木志",
           "trainer": "小林義明",
           "horseWeight": null,
-          "odds": 6.8,
+          "odds": 4.9,
           "recent": [
             {
               "fin": 7,
@@ -2984,7 +2984,7 @@ window.RACE_DATA = {
           "jockey": "坂井瑛音",
           "trainer": "小林俊彦",
           "horseWeight": null,
-          "odds": 26.9,
+          "odds": 21.9,
           "recent": [
             {
               "fin": 9,
@@ -3050,7 +3050,7 @@ window.RACE_DATA = {
           "jockey": "菅原辰徳",
           "trainer": "小林俊彦",
           "horseWeight": null,
-          "odds": 72.4,
+          "odds": 53.0,
           "recent": [
             {
               "fin": 6,
@@ -3108,7 +3108,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202635071304",
-      "oddsUpdatedAt": "13:20"
+      "oddsUpdatedAt": "13:30"
     },
     {
       "raceNo": 5,
@@ -7640,5 +7640,5 @@ window.RACE_DATA = {
       "raceId": "202635071312"
     }
   ],
-  "oddsUpdatedAt": "13:20"
+  "oddsUpdatedAt": "13:30"
 };
