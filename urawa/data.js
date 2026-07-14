@@ -1952,7 +1952,7 @@ window.RACE_DATA = {
           "jockey": "秋元耕成",
           "trainer": "水野貴史",
           "horseWeight": null,
-          "odds": 50.3,
+          "odds": 32.4,
           "recent": []
         },
         {
@@ -1965,7 +1965,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "小久保智",
           "horseWeight": null,
-          "odds": 2.7,
+          "odds": 2.2,
           "recent": []
         },
         {
@@ -1978,7 +1978,7 @@ window.RACE_DATA = {
           "jockey": "保園翔也",
           "trainer": "野口寛仁",
           "horseWeight": null,
-          "odds": 10.6,
+          "odds": 9.6,
           "recent": []
         },
         {
@@ -1991,7 +1991,7 @@ window.RACE_DATA = {
           "jockey": "七夕裕次",
           "trainer": "箕輪武",
           "horseWeight": null,
-          "odds": 8.3,
+          "odds": 10.5,
           "recent": []
         },
         {
@@ -2004,7 +2004,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "藪口一麻",
           "horseWeight": null,
-          "odds": 6.7,
+          "odds": 5.1,
           "recent": []
         },
         {
@@ -2017,12 +2017,12 @@ window.RACE_DATA = {
           "jockey": "室陽一朗",
           "trainer": "宇野木博",
           "horseWeight": null,
-          "odds": 2.0,
+          "odds": 2.6,
           "recent": []
         }
       ],
       "raceId": "202642071404",
-      "oddsUpdatedAt": "14:40"
+      "oddsUpdatedAt": "14:50"
     },
     {
       "raceNo": 5,
@@ -7563,5 +7563,5 @@ window.RACE_DATA = {
       "raceId": "202642071412"
     }
   ],
-  "oddsUpdatedAt": "14:40"
+  "oddsUpdatedAt": "14:50"
 };
