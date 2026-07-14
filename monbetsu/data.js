@@ -905,7 +905,7 @@ window.RACE_DATA = {
       "name": "JRA認定競走アタックチャレンジ競走(2歳)",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "稍",
       "startTime": "16:25",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -924,7 +924,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 7.6,
+          "odds": 29.7,
           "recent": [
             {
               "fin": 2,
@@ -946,7 +946,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "米川昇",
           "horseWeight": null,
-          "odds": 3.6,
+          "odds": 3.9,
           "recent": []
         },
         {
@@ -959,7 +959,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 3.8,
+          "odds": 2.1,
           "recent": [
             {
               "fin": 3,
@@ -981,7 +981,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "廣森久雄",
           "horseWeight": null,
-          "odds": 3.0,
+          "odds": 8.4,
           "recent": [
             {
               "fin": 5,
@@ -1009,7 +1009,7 @@ window.RACE_DATA = {
           "jockey": "井上瑛太",
           "trainer": "五十嵐冬",
           "horseWeight": null,
-          "odds": 13.0,
+          "odds": 34.9,
           "recent": [
             {
               "fin": 7,
@@ -1037,7 +1037,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 44.1,
+          "odds": 3.5,
           "recent": []
         },
         {
@@ -1050,7 +1050,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "森山雄大",
           "horseWeight": null,
-          "odds": 14.3,
+          "odds": 22.9,
           "recent": [
             {
               "fin": 3,
@@ -1072,7 +1072,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "川島雅人",
           "horseWeight": null,
-          "odds": 14.5,
+          "odds": 28.6,
           "recent": [
             {
               "fin": 1,
@@ -1091,7 +1091,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202630071404"
+      "raceId": "202630071404",
+      "oddsUpdatedAt": "16:00"
     },
     {
       "raceNo": 5,
@@ -4996,5 +4997,5 @@ window.RACE_DATA = {
       "raceId": "202630071412"
     }
   ],
-  "oddsUpdatedAt": "15:50"
+  "oddsUpdatedAt": "16:00"
 };
