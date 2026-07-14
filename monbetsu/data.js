@@ -3085,7 +3085,7 @@ window.RACE_DATA = {
       "name": "ラベンダー特別(C4)",
       "distance": 1800,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "18:35",
       "grade": "サラ系一般 C4",
       "meetingInfo": [
@@ -3104,7 +3104,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "柳澤好美",
           "horseWeight": null,
-          "odds": 10.5,
+          "odds": 5.6,
           "recent": [
             {
               "fin": 8,
@@ -3170,7 +3170,7 @@ window.RACE_DATA = {
           "jockey": "渡辺準己",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 6.2,
+          "odds": 10.3,
           "recent": [
             {
               "fin": 5,
@@ -3234,7 +3234,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 4.1,
+          "odds": 9.2,
           "recent": [
             {
               "fin": 1,
@@ -3300,7 +3300,7 @@ window.RACE_DATA = {
           "jockey": "井上瑛太",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 20.2,
+          "odds": 23.9,
           "recent": [
             {
               "fin": 5,
@@ -3364,7 +3364,7 @@ window.RACE_DATA = {
           "jockey": "小川悠汰",
           "trainer": "五十嵐冬",
           "horseWeight": null,
-          "odds": 13.2,
+          "odds": 4.4,
           "recent": [
             {
               "fin": 6,
@@ -3412,7 +3412,7 @@ window.RACE_DATA = {
           "jockey": "井上俊彦",
           "trainer": "櫻井拓章",
           "horseWeight": null,
-          "odds": 24.3,
+          "odds": 74.8,
           "recent": [
             {
               "fin": 7,
@@ -3454,7 +3454,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 15.9,
+          "odds": 23.9,
           "recent": [
             {
               "fin": 12,
@@ -3502,7 +3502,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 1.9,
+          "odds": 1.8,
           "recent": [
             {
               "fin": 6,
@@ -3519,7 +3519,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202630071408"
+      "raceId": "202630071408",
+      "oddsUpdatedAt": "18:10"
     },
     {
       "raceNo": 9,
@@ -5412,5 +5413,5 @@ window.RACE_DATA = {
       "raceId": "202630071412"
     }
   ],
-  "oddsUpdatedAt": "18:00"
+  "oddsUpdatedAt": "18:10"
 };
