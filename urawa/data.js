@@ -8124,14 +8124,112 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202642071510",
-      "oddsUpdatedAt": "18:10"
+      "oddsUpdatedAt": "18:10",
+      "result": {
+        "order": [
+          4,
+          5,
+          10
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 150
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 110
+            },
+            {
+              "comb": [
+                5
+              ],
+              "amount": 150
+            },
+            {
+              "comb": [
+                10
+              ],
+              "amount": 310
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                4,
+                5
+              ],
+              "amount": 510
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                4,
+                5
+              ],
+              "amount": 230
+            },
+            {
+              "comb": [
+                4,
+                10
+              ],
+              "amount": 550
+            },
+            {
+              "comb": [
+                5,
+                10
+              ],
+              "amount": 1510
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                4,
+                5
+              ],
+              "amount": 840
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                4,
+                5,
+                10
+              ],
+              "amount": 2520
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                4,
+                5,
+                10
+              ],
+              "amount": 6620
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 11,
       "name": "’26トワイライトカップ(3上)OP",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "18:55",
       "grade": "サラ系３歳以上 3上",
       "meetingInfo": [
@@ -8150,7 +8248,7 @@ window.RACE_DATA = {
           "jockey": "山中悠希",
           "trainer": "小久保智",
           "horseWeight": null,
-          "odds": 13.7,
+          "odds": 14.8,
           "recent": [
             {
               "fin": 4,
@@ -8278,7 +8376,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "箕輪武",
           "horseWeight": null,
-          "odds": 11.3,
+          "odds": 18.1,
           "recent": [
             {
               "fin": 5,
@@ -8340,7 +8438,7 @@ window.RACE_DATA = {
           "jockey": "安藤洋一",
           "trainer": "藤田輝信",
           "horseWeight": null,
-          "odds": 16.0,
+          "odds": 11.8,
           "recent": [
             {
               "fin": 13,
@@ -8404,7 +8502,7 @@ window.RACE_DATA = {
           "jockey": "保園翔也",
           "trainer": "繁田健一",
           "horseWeight": null,
-          "odds": 67.8,
+          "odds": 25.6,
           "recent": [
             {
               "fin": 7,
@@ -8466,7 +8564,7 @@ window.RACE_DATA = {
           "jockey": "町田直希",
           "trainer": "小林真治",
           "horseWeight": null,
-          "odds": 122.8,
+          "odds": 91.8,
           "recent": [
             {
               "fin": 13,
@@ -8532,7 +8630,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "小久保智",
           "horseWeight": null,
-          "odds": 3.0,
+          "odds": 3.2,
           "recent": [
             {
               "fin": 1,
@@ -8598,7 +8696,7 @@ window.RACE_DATA = {
           "jockey": "西啓太",
           "trainer": "福田真広",
           "horseWeight": null,
-          "odds": 39.5,
+          "odds": 39.3,
           "recent": [
             {
               "fin": 9,
@@ -8651,7 +8749,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202642071511"
+      "raceId": "202642071511",
+      "oddsUpdatedAt": "18:30"
     },
     {
       "raceNo": 12,
@@ -9445,5 +9544,5 @@ window.RACE_DATA = {
       "raceId": "202642071512"
     }
   ],
-  "oddsUpdatedAt": "18:10"
+  "oddsUpdatedAt": "18:30"
 };
