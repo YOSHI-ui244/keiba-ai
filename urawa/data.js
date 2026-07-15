@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "浦和競馬×netkeibaコラボ賞(3歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "13:30",
       "grade": "サラ系３歳 3歳",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "山口達弥",
           "trainer": "玉井昇",
           "horseWeight": null,
-          "odds": 21.5,
+          "odds": 19.8,
           "recent": [
             {
               "fin": 4,
@@ -97,7 +97,7 @@ window.RACE_DATA = {
           "jockey": "藤江渉",
           "trainer": "古澤悟",
           "horseWeight": null,
-          "odds": 50.8,
+          "odds": 32.2,
           "recent": [
             {
               "fin": 5,
@@ -161,7 +161,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "水野貴史",
           "horseWeight": null,
-          "odds": 9.4,
+          "odds": 11.8,
           "recent": [
             {
               "fin": 9,
@@ -201,7 +201,7 @@ window.RACE_DATA = {
           "jockey": "及川烈",
           "trainer": "鹿沼良和",
           "horseWeight": null,
-          "odds": 32.8,
+          "odds": 23.2,
           "recent": [
             {
               "fin": 8,
@@ -253,7 +253,7 @@ window.RACE_DATA = {
           "jockey": "見越彬央",
           "trainer": "小久保智",
           "horseWeight": null,
-          "odds": 9.6,
+          "odds": 5.4,
           "recent": [
             {
               "fin": 6,
@@ -327,7 +327,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "野口寛仁",
           "horseWeight": null,
-          "odds": 7.1,
+          "odds": 6.0,
           "recent": [
             {
               "fin": 4,
@@ -365,7 +365,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "野口孝",
           "horseWeight": null,
-          "odds": 7.4,
+          "odds": 8.6,
           "recent": [
             {
               "fin": 5,
@@ -411,7 +411,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "伊藤滋規",
           "horseWeight": null,
-          "odds": 74.5,
+          "odds": 80.3,
           "recent": [
             {
               "fin": 9,
@@ -475,7 +475,7 @@ window.RACE_DATA = {
           "jockey": "七夕裕次",
           "trainer": "鈴木勝文",
           "horseWeight": null,
-          "odds": 21.6,
+          "odds": 51.9,
           "recent": [
             {
               "fin": 7,
@@ -521,7 +521,7 @@ window.RACE_DATA = {
           "jockey": "菅原吏久",
           "trainer": "石井勝男",
           "horseWeight": null,
-          "odds": 11.7,
+          "odds": 45.8,
           "recent": [
             {
               "fin": 12,
@@ -564,7 +564,8 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202642071501"
+      "raceId": "202642071501",
+      "oddsUpdatedAt": "13:10"
     },
     {
       "raceNo": 2,
@@ -8535,5 +8536,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202642071512"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "13:10"
 };
