@@ -3692,7 +3692,7 @@ window.RACE_DATA = {
       "name": "水揚日本一苫小牧産ホッキ貝賞(C3)",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "稍",
       "startTime": "18:35",
       "grade": "サラ系一般 C3",
       "meetingInfo": [
@@ -3711,7 +3711,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "桧森邦夫",
           "horseWeight": null,
-          "odds": 8.5,
+          "odds": 22.8,
           "recent": [
             {
               "fin": 3,
@@ -3775,7 +3775,7 @@ window.RACE_DATA = {
           "jockey": "井上瑛太",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 21.6,
+          "odds": 16.2,
           "recent": [
             {
               "fin": 6,
@@ -3841,7 +3841,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "桧森邦夫",
           "horseWeight": null,
-          "odds": 8.3,
+          "odds": 10.0,
           "recent": [
             {
               "fin": 11,
@@ -3905,7 +3905,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "柳澤好美",
           "horseWeight": null,
-          "odds": 7.3,
+          "odds": 8.2,
           "recent": [
             {
               "fin": 4,
@@ -3971,7 +3971,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 2.6,
+          "odds": 1.6,
           "recent": [
             {
               "fin": 2,
@@ -4035,7 +4035,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 7.3,
+          "odds": 10.1,
           "recent": [
             {
               "fin": 9,
@@ -4101,7 +4101,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 7.5,
+          "odds": 6.4,
           "recent": [
             {
               "fin": 4,
@@ -4167,7 +4167,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "石本孝博",
           "horseWeight": null,
-          "odds": 11.5,
+          "odds": 33.5,
           "recent": [
             {
               "fin": 3,
@@ -4231,7 +4231,7 @@ window.RACE_DATA = {
           "jockey": "阿岸潤一",
           "trainer": "森山雄大",
           "horseWeight": null,
-          "odds": 11.9,
+          "odds": 43.8,
           "recent": [
             {
               "fin": 9,
@@ -4276,7 +4276,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202630071508"
+      "raceId": "202630071508",
+      "oddsUpdatedAt": "18:10"
     },
     {
       "raceNo": 9,
@@ -6615,5 +6616,5 @@ window.RACE_DATA = {
       "raceId": "202630071512"
     }
   ],
-  "oddsUpdatedAt": "18:00"
+  "oddsUpdatedAt": "18:10"
 };
