@@ -6538,7 +6538,7 @@ window.RACE_DATA = {
       "name": "虹の日賞(B)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "20:05",
       "grade": "サラ系一般 B",
       "meetingInfo": [
@@ -6557,7 +6557,7 @@ window.RACE_DATA = {
           "jockey": "川島拓",
           "trainer": "真島正徳",
           "horseWeight": null,
-          "odds": 11.2,
+          "odds": 7.1,
           "recent": [
             {
               "fin": 2,
@@ -6623,7 +6623,7 @@ window.RACE_DATA = {
           "jockey": "山田義貴",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 4.0,
+          "odds": 4.9,
           "recent": [
             {
               "fin": 1,
@@ -6689,7 +6689,7 @@ window.RACE_DATA = {
           "jockey": "竹吉徹",
           "trainer": "真島二也",
           "horseWeight": null,
-          "odds": 8.3,
+          "odds": 6.6,
           "recent": [
             {
               "fin": 6,
@@ -6755,7 +6755,7 @@ window.RACE_DATA = {
           "jockey": "石川慎将",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 19.7,
+          "odds": 20.5,
           "recent": [
             {
               "fin": 6,
@@ -6819,7 +6819,7 @@ window.RACE_DATA = {
           "jockey": "長谷川蓮",
           "trainer": "東眞市",
           "horseWeight": null,
-          "odds": 39.4,
+          "odds": 31.9,
           "recent": [
             {
               "fin": 7,
@@ -6949,7 +6949,7 @@ window.RACE_DATA = {
           "jockey": "加茂飛翔",
           "trainer": "井樋明正",
           "horseWeight": null,
-          "odds": 38.1,
+          "odds": 25.0,
           "recent": [
             {
               "fin": 8,
@@ -7013,7 +7013,7 @@ window.RACE_DATA = {
           "jockey": "椿聡太",
           "trainer": "古賀光範",
           "horseWeight": null,
-          "odds": 16.3,
+          "odds": 5.0,
           "recent": [
             {
               "fin": 5,
@@ -7079,7 +7079,7 @@ window.RACE_DATA = {
           "jockey": "飛田愛斗",
           "trainer": "渡辺博文",
           "horseWeight": null,
-          "odds": 1.7,
+          "odds": 2.5,
           "recent": [
             {
               "fin": 9,
@@ -7136,7 +7136,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202655071609"
+      "raceId": "202655071609",
+      "oddsUpdatedAt": "19:40"
     },
     {
       "raceNo": 10,
@@ -7848,5 +7849,5 @@ window.RACE_DATA = {
       "raceId": "202655071610"
     }
   ],
-  "oddsUpdatedAt": "19:30"
+  "oddsUpdatedAt": "19:40"
 };
