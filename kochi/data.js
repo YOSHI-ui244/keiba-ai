@@ -5810,7 +5810,7 @@ window.RACE_DATA = {
           "jockey": "郷間勇太",
           "trainer": "田中譲二",
           "horseWeight": null,
-          "odds": 54.4,
+          "odds": 55.3,
           "recent": [
             {
               "fin": 8,
@@ -5876,7 +5876,7 @@ window.RACE_DATA = {
           "jockey": "宮川実",
           "trainer": "打越勇児",
           "horseWeight": null,
-          "odds": 4.9,
+          "odds": 4.7,
           "recent": [
             {
               "fin": 12,
@@ -5942,7 +5942,7 @@ window.RACE_DATA = {
           "jockey": "畑中信司",
           "trainer": "細川忠義",
           "horseWeight": null,
-          "odds": 94.9,
+          "odds": 94.8,
           "recent": [
             {
               "fin": 9,
@@ -6008,7 +6008,7 @@ window.RACE_DATA = {
           "jockey": "望月洵輝",
           "trainer": "田中守",
           "horseWeight": null,
-          "odds": 7.0,
+          "odds": 6.6,
           "recent": [
             {
               "fin": 4,
@@ -6074,7 +6074,7 @@ window.RACE_DATA = {
           "jockey": "上田将司",
           "trainer": "宮路洋一",
           "horseWeight": null,
-          "odds": 39.1,
+          "odds": 41.4,
           "recent": [
             {
               "fin": 3,
@@ -6140,7 +6140,7 @@ window.RACE_DATA = {
           "jockey": "井上瑛太",
           "trainer": "打越勇児",
           "horseWeight": null,
-          "odds": 1.8,
+          "odds": 1.9,
           "recent": [
             {
               "fin": 11,
@@ -6272,7 +6272,7 @@ window.RACE_DATA = {
           "jockey": "岡村卓弥",
           "trainer": "雑賀正光",
           "horseWeight": null,
-          "odds": 20.8,
+          "odds": 18.7,
           "recent": [
             {
               "fin": 10,
@@ -6330,7 +6330,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202654071911",
-      "oddsUpdatedAt": "19:56"
+      "oddsUpdatedAt": "19:59"
     },
     {
       "raceNo": 12,
@@ -7090,5 +7090,5 @@ window.RACE_DATA = {
       "raceId": "202654071912"
     }
   ],
-  "oddsUpdatedAt": "19:56"
+  "oddsUpdatedAt": "19:59"
 };
