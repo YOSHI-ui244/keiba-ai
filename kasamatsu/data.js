@@ -5665,7 +5665,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 6.9,
+          "odds": 13.4,
           "recent": [
             {
               "fin": 2,
@@ -5731,7 +5731,7 @@ window.RACE_DATA = {
           "jockey": "魚住謙心",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 16.2,
+          "odds": 20.8,
           "recent": [
             {
               "fin": 9,
@@ -5797,7 +5797,7 @@ window.RACE_DATA = {
           "jockey": "森島貴之",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 5.0,
+          "odds": 10.4,
           "recent": [
             {
               "fin": 2,
@@ -5863,7 +5863,7 @@ window.RACE_DATA = {
           "jockey": "馬渕繁治",
           "trainer": "森山英雄",
           "horseWeight": null,
-          "odds": 8.0,
+          "odds": 11.8,
           "recent": [
             {
               "fin": 8,
@@ -5929,7 +5929,7 @@ window.RACE_DATA = {
           "jockey": "東川慎",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 5.5,
+          "odds": 3.4,
           "recent": [
             {
               "fin": 1,
@@ -5993,7 +5993,7 @@ window.RACE_DATA = {
           "jockey": "松本一心",
           "trainer": "栗本陽一",
           "horseWeight": null,
-          "odds": 24.7,
+          "odds": 40.7,
           "recent": [
             {
               "fin": 12,
@@ -6059,7 +6059,7 @@ window.RACE_DATA = {
           "jockey": "渡辺竜也",
           "trainer": "榎屋充",
           "horseWeight": null,
-          "odds": 1.9,
+          "odds": 1.5,
           "recent": [
             {
               "fin": 4,
@@ -6117,7 +6117,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202647072011",
-      "oddsUpdatedAt": "16:20"
+      "oddsUpdatedAt": "16:30"
     },
     {
       "raceNo": 12,
@@ -6787,5 +6787,5 @@ window.RACE_DATA = {
       "raceId": "202647072012"
     }
   ],
-  "oddsUpdatedAt": "16:20"
+  "oddsUpdatedAt": "16:30"
 };
