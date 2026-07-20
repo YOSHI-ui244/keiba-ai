@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "海月雲ろあ1周年記念(3歳)",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "13:20",
       "grade": "サラ系３歳 3歳",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "柴田勇真",
           "trainer": "鋤田誠二",
           "horseWeight": null,
-          "odds": 12.2,
+          "odds": 16.4,
           "recent": [
             {
               "fin": 11,
@@ -71,7 +71,7 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 1.9,
+          "odds": 7.2,
           "recent": [
             {
               "fin": 17,
@@ -103,7 +103,7 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "菅原欣也",
           "horseWeight": null,
-          "odds": 14.1,
+          "odds": 32.3,
           "recent": [
             {
               "fin": 14,
@@ -135,7 +135,7 @@ window.RACE_DATA = {
           "jockey": "鈴木太一",
           "trainer": "加藤和義",
           "horseWeight": null,
-          "odds": 9.3,
+          "odds": 2.0,
           "recent": [
             {
               "fin": 12,
@@ -185,7 +185,7 @@ window.RACE_DATA = {
           "jockey": "甲賀弘隆",
           "trainer": "佐藤茂",
           "horseWeight": null,
-          "odds": 70.7,
+          "odds": 59.1,
           "recent": [
             {
               "fin": 16,
@@ -217,7 +217,7 @@ window.RACE_DATA = {
           "jockey": "吉田晃浩",
           "trainer": "高橋優子",
           "horseWeight": null,
-          "odds": 33.2,
+          "odds": 47.0,
           "recent": [
             {
               "fin": 18,
@@ -243,7 +243,7 @@ window.RACE_DATA = {
           "jockey": "中島龍也",
           "trainer": "井樋一也",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 2.1,
           "recent": [
             {
               "fin": 10,
@@ -307,7 +307,7 @@ window.RACE_DATA = {
           "jockey": "服部大地",
           "trainer": "野田幸雄",
           "horseWeight": null,
-          "odds": 14.4,
+          "odds": 37.7,
           "recent": [
             {
               "fin": 13,
@@ -330,7 +330,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202646072001"
+      "raceId": "202646072001",
+      "oddsUpdatedAt": "12:56"
     },
     {
       "raceNo": 2,
@@ -5289,5 +5290,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202646072010"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "12:56"
 };
