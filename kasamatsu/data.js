@@ -1691,7 +1691,7 @@ window.RACE_DATA = {
           "jockey": "東川慎",
           "trainer": "川嶋弘吉",
           "horseWeight": null,
-          "odds": 10.3,
+          "odds": 12.0,
           "recent": [
             {
               "fin": 6,
@@ -1757,7 +1757,7 @@ window.RACE_DATA = {
           "jockey": "深澤杏花",
           "trainer": "伊藤勝好",
           "horseWeight": null,
-          "odds": 8.2,
+          "odds": 9.7,
           "recent": [
             {
               "fin": 10,
@@ -1821,7 +1821,7 @@ window.RACE_DATA = {
           "jockey": "明星晴大",
           "trainer": "水野善太",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 4.5,
           "recent": [
             {
               "fin": 6,
@@ -1887,7 +1887,7 @@ window.RACE_DATA = {
           "jockey": "松本一心",
           "trainer": "伊藤勝好",
           "horseWeight": null,
-          "odds": 30.1,
+          "odds": 15.1,
           "recent": [
             {
               "fin": 11,
@@ -1953,7 +1953,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 3.6,
+          "odds": 2.5,
           "recent": [
             {
               "fin": 1,
@@ -2019,7 +2019,7 @@ window.RACE_DATA = {
           "jockey": "筒井勇介",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 45.2,
+          "odds": 30.4,
           "recent": [
             {
               "fin": 3,
@@ -2083,7 +2083,7 @@ window.RACE_DATA = {
           "jockey": "森島貴之",
           "trainer": "水野善太",
           "horseWeight": null,
-          "odds": 2.2,
+          "odds": 2.8,
           "recent": [
             {
               "fin": 4,
@@ -2141,7 +2141,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202647072004",
-      "oddsUpdatedAt": "12:26"
+      "oddsUpdatedAt": "12:30"
     },
     {
       "raceNo": 5,
@@ -6122,5 +6122,5 @@ window.RACE_DATA = {
       "raceId": "202647072012"
     }
   ],
-  "oddsUpdatedAt": "12:26"
+  "oddsUpdatedAt": "12:30"
 };
