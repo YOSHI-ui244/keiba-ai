@@ -4067,7 +4067,7 @@ window.RACE_DATA = {
           "jockey": "田知弘久",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 21.4,
+          "odds": 27.0,
           "recent": [
             {
               "fin": 7,
@@ -4133,7 +4133,7 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 4.9,
+          "odds": 6.3,
           "recent": [
             {
               "fin": 1,
@@ -4199,7 +4199,7 @@ window.RACE_DATA = {
           "jockey": "葛山晃平",
           "trainer": "井樋一也",
           "horseWeight": null,
-          "odds": 4.3,
+          "odds": 5.5,
           "recent": [
             {
               "fin": 6,
@@ -4265,7 +4265,7 @@ window.RACE_DATA = {
           "jockey": "加藤翔馬",
           "trainer": "加藤和宏",
           "horseWeight": null,
-          "odds": 6.4,
+          "odds": 2.5,
           "recent": [
             {
               "fin": 2,
@@ -4395,7 +4395,7 @@ window.RACE_DATA = {
           "jockey": "柴田勇真",
           "trainer": "池田敦",
           "horseWeight": null,
-          "odds": 8.2,
+          "odds": 7.9,
           "recent": [
             {
               "fin": 2,
@@ -4461,7 +4461,7 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "佐藤茂",
           "horseWeight": null,
-          "odds": 7.5,
+          "odds": 9.0,
           "recent": [
             {
               "fin": 1,
@@ -4525,7 +4525,7 @@ window.RACE_DATA = {
           "jockey": "吉田晃浩",
           "trainer": "佐藤茂",
           "horseWeight": null,
-          "odds": 2.7,
+          "odds": 3.9,
           "recent": [
             {
               "fin": 8,
@@ -4579,7 +4579,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646072008",
-      "oddsUpdatedAt": "17:00"
+      "oddsUpdatedAt": "17:10"
     },
     {
       "raceNo": 9,
@@ -5994,5 +5994,5 @@ window.RACE_DATA = {
       "raceId": "202646072010"
     }
   ],
-  "oddsUpdatedAt": "17:00"
+  "oddsUpdatedAt": "17:10"
 };
