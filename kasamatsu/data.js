@@ -291,7 +291,7 @@ window.RACE_DATA = {
           "jockey": "大原浩司",
           "trainer": "伊藤勝好",
           "horseWeight": null,
-          "odds": 37.4,
+          "odds": 37.5,
           "recent": [
             {
               "fin": 5,
@@ -475,7 +475,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202647072001",
-      "oddsUpdatedAt": "10:49"
+      "oddsUpdatedAt": "10:50"
     },
     {
       "raceNo": 2,
@@ -5839,5 +5839,5 @@ window.RACE_DATA = {
       "raceId": "202647072012"
     }
   ],
-  "oddsUpdatedAt": "10:49"
+  "oddsUpdatedAt": "10:50"
 };
