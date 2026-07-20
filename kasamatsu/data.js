@@ -593,7 +593,7 @@ window.RACE_DATA = {
           "jockey": "深澤杏花",
           "trainer": "栗本陽一",
           "horseWeight": null,
-          "odds": 9.5,
+          "odds": 4.3,
           "recent": [
             {
               "fin": 5,
@@ -657,7 +657,7 @@ window.RACE_DATA = {
           "jockey": "加藤誓二",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 10.0,
+          "odds": 10.9,
           "recent": [
             {
               "fin": 8,
@@ -721,7 +721,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 4.8,
+          "odds": 7.2,
           "recent": [
             {
               "fin": 7,
@@ -785,7 +785,7 @@ window.RACE_DATA = {
           "jockey": "丸野勝虎",
           "trainer": "川嶋弘吉",
           "horseWeight": null,
-          "odds": 35.3,
+          "odds": 47.3,
           "recent": [
             {
               "fin": 9,
@@ -849,7 +849,7 @@ window.RACE_DATA = {
           "jockey": "松本一心",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 1.3,
+          "odds": 1.4,
           "recent": [
             {
               "fin": 11,
@@ -881,7 +881,7 @@ window.RACE_DATA = {
           "jockey": "東川慎",
           "trainer": "伊藤勝好",
           "horseWeight": null,
-          "odds": 28.4,
+          "odds": 20.2,
           "recent": [
             {
               "fin": 10,
@@ -947,7 +947,7 @@ window.RACE_DATA = {
           "jockey": "大原浩司",
           "trainer": "伊藤勝好",
           "horseWeight": null,
-          "odds": 43.8,
+          "odds": 89.2,
           "recent": [
             {
               "fin": 11,
@@ -1005,7 +1005,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202647072002",
-      "oddsUpdatedAt": "11:10"
+      "oddsUpdatedAt": "11:16"
     },
     {
       "raceNo": 3,
@@ -5932,5 +5932,5 @@ window.RACE_DATA = {
       "raceId": "202647072012"
     }
   ],
-  "oddsUpdatedAt": "11:10"
+  "oddsUpdatedAt": "11:16"
 };
