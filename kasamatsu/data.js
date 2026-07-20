@@ -1005,14 +1005,106 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202647072002",
-      "oddsUpdatedAt": "11:26"
+      "oddsUpdatedAt": "11:26",
+      "result": {
+        "order": [
+          5,
+          3,
+          2
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                5
+              ],
+              "amount": 100
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                5
+              ],
+              "amount": 110
+            },
+            {
+              "comb": [
+                3
+              ],
+              "amount": 170
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                3,
+                5
+              ],
+              "amount": 230
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                3,
+                5
+              ],
+              "amount": 140
+            },
+            {
+              "comb": [
+                2,
+                5
+              ],
+              "amount": 190
+            },
+            {
+              "comb": [
+                2,
+                3
+              ],
+              "amount": 440
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                5,
+                3
+              ],
+              "amount": 290
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                2,
+                3,
+                5
+              ],
+              "amount": 540
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                5,
+                3,
+                2
+              ],
+              "amount": 1180
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 3,
       "name": "加織・文行結婚記念(C)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "12:05",
       "grade": "サラ系一般 C",
       "meetingInfo": [
@@ -1031,7 +1123,7 @@ window.RACE_DATA = {
           "jockey": "細川智史",
           "trainer": "栗本陽一",
           "horseWeight": null,
-          "odds": 15.6,
+          "odds": 26.5,
           "recent": [
             {
               "fin": 11,
@@ -1161,7 +1253,7 @@ window.RACE_DATA = {
           "jockey": "深澤杏花",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 10.1,
+          "odds": 4.4,
           "recent": [
             {
               "fin": 8,
@@ -1227,7 +1319,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 9.6,
+          "odds": 10.1,
           "recent": [
             {
               "fin": 9,
@@ -1293,7 +1385,7 @@ window.RACE_DATA = {
           "jockey": "東川慎",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 15.7,
+          "odds": 13.0,
           "recent": [
             {
               "fin": 10,
@@ -1357,7 +1449,7 @@ window.RACE_DATA = {
           "jockey": "丸山真一",
           "trainer": "伊藤勝好",
           "horseWeight": null,
-          "odds": 13.9,
+          "odds": 48.4,
           "recent": [
             {
               "fin": 8,
@@ -1421,7 +1513,7 @@ window.RACE_DATA = {
           "jockey": "森島貴之",
           "trainer": "大橋敬永",
           "horseWeight": null,
-          "odds": 10.4,
+          "odds": 15.8,
           "recent": [
             {
               "fin": 9,
@@ -1476,7 +1568,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202647072003"
+      "raceId": "202647072003",
+      "oddsUpdatedAt": "11:40"
     },
     {
       "raceNo": 4,
@@ -5932,5 +6025,5 @@ window.RACE_DATA = {
       "raceId": "202647072012"
     }
   ],
-  "oddsUpdatedAt": "11:26"
+  "oddsUpdatedAt": "11:40"
 };
