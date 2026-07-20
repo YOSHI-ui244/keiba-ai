@@ -1962,7 +1962,7 @@ window.RACE_DATA = {
       "name": "2歳新馬",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "稍",
       "startTime": "15:54",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -1981,7 +1981,7 @@ window.RACE_DATA = {
           "jockey": "達城龍次",
           "trainer": "栗田泰昌",
           "horseWeight": null,
-          "odds": 11.0,
+          "odds": 47.4,
           "recent": []
         },
         {
@@ -1994,7 +1994,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "田中正人",
           "horseWeight": null,
-          "odds": 5.4,
+          "odds": 14.0,
           "recent": []
         },
         {
@@ -2007,7 +2007,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "森下淳平",
           "horseWeight": null,
-          "odds": 4.8,
+          "odds": 32.0,
           "recent": []
         },
         {
@@ -2020,7 +2020,7 @@ window.RACE_DATA = {
           "jockey": "鷹見陸",
           "trainer": "村上頼章",
           "horseWeight": null,
-          "odds": 10.7,
+          "odds": 14.6,
           "recent": []
         },
         {
@@ -2033,7 +2033,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "佐野謙二",
           "horseWeight": null,
-          "odds": 3.4,
+          "odds": 27.3,
           "recent": []
         },
         {
@@ -2046,7 +2046,7 @@ window.RACE_DATA = {
           "jockey": "吉井章",
           "trainer": "的場直之",
           "horseWeight": null,
-          "odds": 12.4,
+          "odds": 14.5,
           "recent": []
         },
         {
@@ -2063,7 +2063,8 @@ window.RACE_DATA = {
           "recent": []
         }
       ],
-      "raceId": "202644072003"
+      "raceId": "202644072003",
+      "oddsUpdatedAt": "15:30"
     },
     {
       "raceNo": 4,
@@ -7385,5 +7386,5 @@ window.RACE_DATA = {
       "raceId": "202644072012"
     }
   ],
-  "oddsUpdatedAt": "15:20"
+  "oddsUpdatedAt": "15:30"
 };
