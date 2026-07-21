@@ -1255,7 +1255,7 @@ window.RACE_DATA = {
       "name": "3歳以上 C4ー3",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "稍",
       "startTime": "16:05",
       "grade": "サラ系一般 C4",
       "meetingInfo": [
@@ -1274,7 +1274,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "森山雄大",
           "horseWeight": null,
-          "odds": 11.5,
+          "odds": 22.1,
           "recent": [
             {
               "fin": 4,
@@ -1338,7 +1338,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "秋田大助",
           "horseWeight": null,
-          "odds": 3.6,
+          "odds": 1.2,
           "recent": [
             {
               "fin": 4,
@@ -1402,7 +1402,7 @@ window.RACE_DATA = {
           "jockey": "若杉朝飛",
           "trainer": "松本隆宏",
           "horseWeight": null,
-          "odds": 16.9,
+          "odds": 24.5,
           "recent": [
             {
               "fin": 3,
@@ -1466,7 +1466,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 2.2,
+          "odds": 6.2,
           "recent": [
             {
               "fin": 9,
@@ -1530,7 +1530,7 @@ window.RACE_DATA = {
           "jockey": "井上俊彦",
           "trainer": "沼澤英知",
           "horseWeight": null,
-          "odds": 7.9,
+          "odds": 24.5,
           "recent": [
             {
               "fin": 7,
@@ -1594,7 +1594,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "佐藤英明",
           "horseWeight": null,
-          "odds": 15.4,
+          "odds": 66.4,
           "recent": [
             {
               "fin": 7,
@@ -1660,7 +1660,7 @@ window.RACE_DATA = {
           "jockey": "小川悠汰",
           "trainer": "岡島玉一",
           "horseWeight": null,
-          "odds": 23.1,
+          "odds": 66.4,
           "recent": [
             {
               "fin": 7,
@@ -1726,7 +1726,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "桧森邦夫",
           "horseWeight": null,
-          "odds": 6.9,
+          "odds": 8.9,
           "recent": [
             {
               "fin": 6,
@@ -1781,7 +1781,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202630072104"
+      "raceId": "202630072104",
+      "oddsUpdatedAt": "15:40"
     },
     {
       "raceNo": 5,
@@ -6136,5 +6137,5 @@ window.RACE_DATA = {
       "raceId": "202630072112"
     }
   ],
-  "oddsUpdatedAt": "15:20"
+  "oddsUpdatedAt": "15:40"
 };
