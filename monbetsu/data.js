@@ -1996,7 +1996,7 @@ window.RACE_DATA = {
       "name": "JRA認定競走アタックチャレンジ競走(2歳)",
       "distance": 1000,
       "surface": "ダ",
-      "condition": "稍",
+      "condition": "良",
       "startTime": "16:40",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -2015,7 +2015,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "川島雅人",
           "horseWeight": null,
-          "odds": 7.9,
+          "odds": 6.6,
           "recent": [
             {
               "fin": 2,
@@ -2037,7 +2037,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 69.8,
+          "odds": 72.9,
           "recent": [
             {
               "fin": 9,
@@ -2071,7 +2071,7 @@ window.RACE_DATA = {
           "jockey": "松井伸也",
           "trainer": "五十嵐冬",
           "horseWeight": null,
-          "odds": 67.0,
+          "odds": 80.8,
           "recent": []
         },
         {
@@ -2084,7 +2084,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 6.1,
+          "odds": 4.4,
           "recent": [
             {
               "fin": 3,
@@ -2118,7 +2118,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 34.1,
+          "odds": 29.3,
           "recent": []
         },
         {
@@ -2131,7 +2131,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "秋田大助",
           "horseWeight": null,
-          "odds": 167.5,
+          "odds": 87.9,
           "recent": [
             {
               "fin": 11,
@@ -2165,7 +2165,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 5.7,
+          "odds": 4.8,
           "recent": [
             {
               "fin": 2,
@@ -2193,7 +2193,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "柳澤好美",
           "horseWeight": null,
-          "odds": 1.3,
+          "odds": 1.6,
           "recent": [
             {
               "fin": 3,
@@ -2207,7 +2207,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630072105",
-      "oddsUpdatedAt": "16:20"
+      "oddsUpdatedAt": "16:30"
     },
     {
       "raceNo": 6,
@@ -6345,5 +6345,5 @@ window.RACE_DATA = {
       "raceId": "202630072112"
     }
   ],
-  "oddsUpdatedAt": "16:20"
+  "oddsUpdatedAt": "16:30"
 };
