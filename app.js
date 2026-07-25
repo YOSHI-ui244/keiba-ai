@@ -170,6 +170,73 @@
     }
   }
 
+  // ---------- 1頭ずつのAI評価コメント ----------
+  // スコア順位・近走・馬場適性・脚質・スピード指数・妙味(EV)から寸評を自動生成する
+  function horseEvalText(r, rank, total, race, todayLv) {
+    const h = r.horse;
+    const runs = E.normRuns(h.recent);
+    const parts = [];
+
+    // 総合評価(モデル順位)
+    if (runs.length === 0) {
+      parts.push("過去走データがなく評価不能(初出走)。人気と返し馬で判断したい");
+      return parts.join("。") + "。";
+    }
+    if (rank === 1) parts.push("AI評価は最上位");
+    else if (rank === 2) parts.push("AI評価2位で逆転圏");
+    else if (rank <= Math.ceil(total * 0.4)) parts.push(`AI評価${rank}位の上位グループ`);
+    else if (rank <= Math.ceil(total * 0.7)) parts.push(`AI評価${rank}位の中位`);
+    else parts.push(`AI評価${rank}位と数字は劣る`);
+
+    // 近走
+    const last3 = runs.slice(0, 3).map((x) => x.fin);
+    const avg = last3.reduce((a, b) => a + b, 0) / last3.length;
+    if (avg <= 2.4) parts.push(`近走${last3.join("・")}着と絶好調`);
+    else if (avg <= 4) parts.push(`近走${last3.join("・")}着と安定`);
+    else parts.push(`近走${last3.join("・")}着`);
+
+    // 当日と同じ馬場での好走歴
+    const sameGood = runs.find((x) =>
+      todayLv != null && E.babaLevel(x.baba) === todayLv && x.fin <= 3);
+    if (sameGood) parts.push(`当日と同じ馬場(${race.condition})で${sameGood.fin}着の実績あり`);
+
+    // 脚質・スピード指数・中央実績
+    if (h.style) parts.push(`脚質は${h.style}`);
+    if (h.spd != null && h.spd >= 110) parts.push(`スピード指数${h.spd}はメンバー屈指`);
+    if (h.transfer) parts.push("中央(JRA)からの転入馬");
+    else if (h.central) parts.push("中央出走経験あり");
+
+    // 妙味(オッズと実力の乖離)
+    if (r.ev != null) {
+      if (r.ev >= 1.3) parts.push("実力に対してオッズが甘く妙味大");
+      else if (r.ev >= 1.0) parts.push("オッズ妙味あり");
+      else if (r.popRank === 1) parts.push("1番人気で妙味は薄い");
+    }
+    return parts.join("。") + "。";
+  }
+
+  function renderHorseEval(race, rows, noData) {
+    const box = $("horse-eval-list");
+    if (!box) return;
+    if (noData) {
+      box.innerHTML = `<p class="bets-empty">新馬戦(初出走馬中心)のため評価コメントはありません。</p>`;
+      return;
+    }
+    const todayLv = E.babaLevel(race.condition);
+    const byScore = [...rows].sort((a, b) => b.score - a.score);
+    const rankOf = {};
+    byScore.forEach((r, i) => { rankOf[r.horse.num] = i + 1; });
+    box.innerHTML = [...rows]
+      .sort((a, b) => a.horse.num - b.horse.num)
+      .map((r) => `
+        <div class="horse-eval-item${r.mark === "◎" ? " he-honmei" : ""}">
+          <span class="mark${r.mark === "☆" ? " mark-star" : ""}">${r.mark || ""}</span>
+          <span class="he-num">${r.horse.num}</span>
+          <span class="he-name">${r.horse.name}</span>
+          <span class="he-text">${horseEvalText(r, rankOf[r.horse.num], rows.length, race, todayLv)}</span>
+        </div>`).join("");
+  }
+
   function makeComment(race, ranked, star) {
     const a = ranked[0], b = ranked[1];
     const gap = a.score - b.score;
@@ -233,7 +300,7 @@
     const skipMsg = noData
       ? "新馬戦(初出走馬中心)のため予想対象外です"
       : "このレースに条件を満たす馬はいません(見送り)";
-    renderBets(noData ? [] : E.suggestBets(ranked, star), race.result, "sanrentan-list", skipMsg);
+    renderHorseEval(race, rows, noData);
     renderBets(noData ? [] : E.suggestValueBets(rows), race.result, "value-bets-list", skipMsg);
     renderBets(noData ? [] : E.suggestPlaceBets(rows), race.result, "place-bets-list", skipMsg);
     const status = noData ? "" : oddsStatus(race);

@@ -333,6 +333,24 @@ a.hit-item::after {
 .hit-mid  { color: var(--gold); }                                            /* 300〜499% */
 .hit-low  { color: var(--green); }                                           /* 〜299% */
 
+/* 1頭ずつのAI評価コメント */
+.horse-eval-item {
+  display: flex; gap: 10px; align-items: flex-start;
+  padding: 9px 10px; border-bottom: 1px solid #232e5c;
+  font-size: 14px; line-height: 1.55;
+}
+.horse-eval-item:last-child { border-bottom: none; }
+.horse-eval-item .mark { width: 20px; flex: 0 0 auto; text-align: center; }
+.he-num { font-weight: 700; width: 24px; flex: 0 0 auto; text-align: center; }
+.he-name { font-weight: 600; flex: 0 0 9em; }
+.he-text { color: var(--text-dim); flex: 1; min-width: 12em; }
+.he-honmei { background: rgba(242, 193, 78, 0.07); border-radius: 8px; }
+@media (max-width: 600px) {
+  .horse-eval-item { flex-wrap: wrap; }
+  .he-name { flex: 1; }
+  .he-text { flex-basis: 100%; }
+}
+
 /* ---------- 回収率の解説(メインページ) ---------- */
 .explain-card { margin-bottom: 12px; }
 .explain-fig {
