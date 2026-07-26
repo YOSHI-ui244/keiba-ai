@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "猫月めいちゃん誕生日記念(2歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "16:50",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "中島龍也",
           "trainer": "佐藤茂",
           "horseWeight": null,
-          "odds": 1.2,
+          "odds": 2.1,
           "recent": []
         },
         {
@@ -46,7 +46,7 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "佐藤茂",
           "horseWeight": null,
-          "odds": 4.6,
+          "odds": 6.6,
           "recent": []
         },
         {
@@ -59,7 +59,7 @@ window.RACE_DATA = {
           "jockey": "平瀬城久",
           "trainer": "黒木豊",
           "horseWeight": null,
-          "odds": 20.8,
+          "odds": 28.6,
           "recent": []
         },
         {
@@ -72,7 +72,7 @@ window.RACE_DATA = {
           "jockey": "鈴木太一",
           "trainer": "加藤和義",
           "horseWeight": null,
-          "odds": 16.8,
+          "odds": 3.2,
           "recent": []
         },
         {
@@ -85,11 +85,12 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "鈴木正也",
           "horseWeight": null,
-          "odds": 8.3,
+          "odds": 3.5,
           "recent": []
         }
       ],
-      "raceId": "202646072601"
+      "raceId": "202646072601",
+      "oddsUpdatedAt": "16:30"
     },
     {
       "raceNo": 2,
@@ -2883,5 +2884,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202646072607"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "16:30"
 };
