@@ -90,14 +90,106 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646072601",
-      "oddsUpdatedAt": "16:40"
+      "oddsUpdatedAt": "16:40",
+      "result": {
+        "order": [
+          1,
+          5,
+          4
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 150
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 100
+            },
+            {
+              "comb": [
+                5
+              ],
+              "amount": 160
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                1,
+                5
+              ],
+              "amount": 300
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                1,
+                5
+              ],
+              "amount": 120
+            },
+            {
+              "comb": [
+                1,
+                4
+              ],
+              "amount": 110
+            },
+            {
+              "comb": [
+                4,
+                5
+              ],
+              "amount": 130
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                1,
+                5
+              ],
+              "amount": 370
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                4,
+                5
+              ],
+              "amount": 210
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                1,
+                5,
+                4
+              ],
+              "amount": 690
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 2,
       "name": "けんご&あすか結婚記念(2歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "17:25",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -116,7 +208,7 @@ window.RACE_DATA = {
           "jockey": "甲賀弘隆",
           "trainer": "鋤田誠二",
           "horseWeight": null,
-          "odds": 23.3,
+          "odds": 11.7,
           "recent": []
         },
         {
@@ -129,7 +221,7 @@ window.RACE_DATA = {
           "jockey": "松戸政也",
           "trainer": "藤田弘治",
           "horseWeight": null,
-          "odds": 2.9,
+          "odds": 2.1,
           "recent": []
         },
         {
@@ -142,7 +234,7 @@ window.RACE_DATA = {
           "jockey": "中島龍也",
           "trainer": "金田一昌",
           "horseWeight": null,
-          "odds": 6.2,
+          "odds": 2.7,
           "recent": []
         },
         {
@@ -155,7 +247,7 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 1.5,
+          "odds": 5.6,
           "recent": [
             {
               "fin": 5,
@@ -177,11 +269,12 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "池田敦",
           "horseWeight": null,
-          "odds": 30.3,
+          "odds": 6.7,
           "recent": []
         }
       ],
-      "raceId": "202646072602"
+      "raceId": "202646072602",
+      "oddsUpdatedAt": "17:00"
     },
     {
       "raceNo": 3,
@@ -2885,5 +2978,5 @@ window.RACE_DATA = {
       "raceId": "202646072607"
     }
   ],
-  "oddsUpdatedAt": "16:40"
+  "oddsUpdatedAt": "17:00"
 };
