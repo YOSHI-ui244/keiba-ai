@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "佐藤家&生頼家★結婚記念杯(C2)",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "15:20",
       "grade": "サラ系一般 C2",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "浅野登生",
           "trainer": "加藤和義",
           "horseWeight": null,
-          "odds": 57.5,
+          "odds": 18.8,
           "recent": [
             {
               "fin": 7,
@@ -97,7 +97,7 @@ window.RACE_DATA = {
           "jockey": "沖静男",
           "trainer": "川添明弘",
           "horseWeight": null,
-          "odds": 180.1,
+          "odds": 48.4,
           "recent": [
             {
               "fin": 9,
@@ -163,7 +163,7 @@ window.RACE_DATA = {
           "jockey": "吉田晃浩",
           "trainer": "鋤田誠二",
           "horseWeight": null,
-          "odds": 149.1,
+          "odds": 51.3,
           "recent": [
             {
               "fin": 6,
@@ -289,7 +289,7 @@ window.RACE_DATA = {
           "jockey": "魚住謙心",
           "trainer": "鋤田誠二",
           "horseWeight": null,
-          "odds": 204.1,
+          "odds": 66.6,
           "recent": [
             {
               "fin": 5,
@@ -353,7 +353,7 @@ window.RACE_DATA = {
           "jockey": "柴田勇真",
           "trainer": "田嶋弘幸",
           "horseWeight": null,
-          "odds": 14.3,
+          "odds": 44.2,
           "recent": [
             {
               "fin": 9,
@@ -415,7 +415,7 @@ window.RACE_DATA = {
           "jockey": "甲賀弘隆",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 95.2,
+          "odds": 60.4,
           "recent": [
             {
               "fin": 4,
@@ -481,7 +481,7 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "宗綱泰彦",
           "horseWeight": null,
-          "odds": 197.0,
+          "odds": 55.8,
           "recent": [
             {
               "fin": 6,
@@ -536,7 +536,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202646072701"
+      "raceId": "202646072701",
+      "oddsUpdatedAt": "14:56"
     },
     {
       "raceNo": 2,
@@ -6237,5 +6238,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202646072710"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "14:56"
 };
