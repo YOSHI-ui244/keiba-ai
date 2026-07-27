@@ -7437,7 +7437,7 @@ window.RACE_DATA = {
           "jockey": "菅原辰徳",
           "trainer": "伊藤和忍",
           "horseWeight": null,
-          "odds": 6.6,
+          "odds": 5.8,
           "recent": [
             {
               "fin": 4,
@@ -7501,7 +7501,7 @@ window.RACE_DATA = {
           "jockey": "高橋悠里",
           "trainer": "新田守",
           "horseWeight": null,
-          "odds": 1.7,
+          "odds": 2.0,
           "recent": [
             {
               "fin": 3,
@@ -7565,7 +7565,7 @@ window.RACE_DATA = {
           "jockey": "佐々木志",
           "trainer": "佐藤祐司",
           "horseWeight": null,
-          "odds": 14.6,
+          "odds": 17.4,
           "recent": [
             {
               "fin": 3,
@@ -7627,7 +7627,7 @@ window.RACE_DATA = {
           "jockey": "鈴木祐",
           "trainer": "橘友和",
           "horseWeight": null,
-          "odds": 43.1,
+          "odds": 23.6,
           "recent": [
             {
               "fin": 6,
@@ -7689,7 +7689,7 @@ window.RACE_DATA = {
           "jockey": "山本政聡",
           "trainer": "板垣吉則",
           "horseWeight": null,
-          "odds": 10.6,
+          "odds": 6.9,
           "recent": [
             {
               "fin": 8,
@@ -7755,7 +7755,7 @@ window.RACE_DATA = {
           "jockey": "塚本涼人",
           "trainer": "伊藤和忍",
           "horseWeight": null,
-          "odds": 31.6,
+          "odds": 48.9,
           "recent": [
             {
               "fin": 9,
@@ -7821,7 +7821,7 @@ window.RACE_DATA = {
           "jockey": "斉藤友香",
           "trainer": "斉藤雄一",
           "horseWeight": null,
-          "odds": 7.8,
+          "odds": 6.7,
           "recent": [
             {
               "fin": 6,
@@ -7953,7 +7953,7 @@ window.RACE_DATA = {
           "jockey": "高松亮",
           "trainer": "佐藤雅彦",
           "horseWeight": null,
-          "odds": 15.5,
+          "odds": 18.0,
           "recent": [
             {
               "fin": 5,
@@ -8011,8 +8011,8 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202635072712",
-      "oddsUpdatedAt": "17:56"
+      "oddsUpdatedAt": "18:06"
     }
   ],
-  "oddsUpdatedAt": "17:56"
+  "oddsUpdatedAt": "18:06"
 };
