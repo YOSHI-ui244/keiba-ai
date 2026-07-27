@@ -727,7 +727,7 @@ window.RACE_DATA = {
           "jockey": "池谷匠翔",
           "trainer": "田島寿一",
           "horseWeight": null,
-          "odds": 30.3,
+          "odds": 53.3,
           "recent": [
             {
               "fin": 5,
@@ -791,7 +791,7 @@ window.RACE_DATA = {
           "jockey": "神尾香澄",
           "trainer": "山田質",
           "horseWeight": null,
-          "odds": 5.9,
+          "odds": 8.8,
           "recent": [
             {
               "fin": 8,
@@ -853,7 +853,7 @@ window.RACE_DATA = {
           "jockey": "伊藤裕人",
           "trainer": "田辺陽一",
           "horseWeight": null,
-          "odds": 4.6,
+          "odds": 3.1,
           "recent": [
             {
               "fin": 1,
@@ -917,7 +917,7 @@ window.RACE_DATA = {
           "jockey": "加藤雄真",
           "trainer": "安池成実",
           "horseWeight": null,
-          "odds": 19.9,
+          "odds": 32.6,
           "recent": [
             {
               "fin": 7,
@@ -979,7 +979,7 @@ window.RACE_DATA = {
           "jockey": "本田紀忠",
           "trainer": "久保勇",
           "horseWeight": null,
-          "odds": 5.7,
+          "odds": 5.0,
           "recent": [
             {
               "fin": 8,
@@ -1043,7 +1043,7 @@ window.RACE_DATA = {
           "jockey": "櫻井光輔",
           "trainer": "吉橋淳一",
           "horseWeight": null,
-          "odds": 25.0,
+          "odds": 32.0,
           "recent": [
             {
               "fin": 8,
@@ -1109,7 +1109,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "久保秀男",
           "horseWeight": null,
-          "odds": 1.7,
+          "odds": 1.8,
           "recent": [
             {
               "fin": 1,
@@ -1165,7 +1165,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202645072702",
-      "oddsUpdatedAt": "15:16"
+      "oddsUpdatedAt": "15:26"
     },
     {
       "raceNo": 3,
@@ -5982,5 +5982,5 @@ window.RACE_DATA = {
       "raceId": "202645072712"
     }
   ],
-  "oddsUpdatedAt": "15:16"
+  "oddsUpdatedAt": "15:26"
 };
