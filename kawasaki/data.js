@@ -2128,7 +2128,7 @@ window.RACE_DATA = {
       "name": "スミナガシ賞(2歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "稍",
+      "condition": "良",
       "startTime": "17:00",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -2147,7 +2147,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "山崎裕也",
           "horseWeight": null,
-          "odds": 7.9,
+          "odds": 3.7,
           "recent": []
         },
         {
@@ -2160,7 +2160,7 @@ window.RACE_DATA = {
           "jockey": "加藤雄真",
           "trainer": "甲田悟史",
           "horseWeight": null,
-          "odds": 66.8,
+          "odds": 64.1,
           "recent": [
             {
               "fin": 4,
@@ -2180,7 +2180,7 @@ window.RACE_DATA = {
           "jockey": "池谷匠翔",
           "trainer": "村田順一",
           "horseWeight": null,
-          "odds": 8.0,
+          "odds": 21.8,
           "recent": []
         },
         {
@@ -2193,7 +2193,7 @@ window.RACE_DATA = {
           "jockey": "新原周馬",
           "trainer": "林隆之",
           "horseWeight": null,
-          "odds": 9.4,
+          "odds": 10.2,
           "recent": []
         },
         {
@@ -2206,7 +2206,7 @@ window.RACE_DATA = {
           "jockey": "町田直希",
           "trainer": "古澤悟",
           "horseWeight": null,
-          "odds": 7.0,
+          "odds": 11.6,
           "recent": []
         },
         {
@@ -2219,7 +2219,7 @@ window.RACE_DATA = {
           "jockey": "櫻井光輔",
           "trainer": "甲田悟史",
           "horseWeight": null,
-          "odds": 35.3,
+          "odds": 21.1,
           "recent": [
             {
               "fin": 10,
@@ -2251,7 +2251,8 @@ window.RACE_DATA = {
           "recent": []
         }
       ],
-      "raceId": "202645072705"
+      "raceId": "202645072705",
+      "oddsUpdatedAt": "16:36"
     },
     {
       "raceNo": 6,
@@ -6186,5 +6187,5 @@ window.RACE_DATA = {
       "raceId": "202645072712"
     }
   ],
-  "oddsUpdatedAt": "16:26"
+  "oddsUpdatedAt": "16:36"
 };
