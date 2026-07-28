@@ -7655,7 +7655,7 @@ window.RACE_DATA = {
           "jockey": "澤田龍哉",
           "trainer": "森泰斗",
           "horseWeight": null,
-          "odds": 5.8,
+          "odds": 7.1,
           "recent": [
             {
               "fin": 12,
@@ -7721,7 +7721,7 @@ window.RACE_DATA = {
           "jockey": "新原周馬",
           "trainer": "高月賢一",
           "horseWeight": null,
-          "odds": 18.8,
+          "odds": 23.7,
           "recent": [
             {
               "fin": 12,
@@ -7783,7 +7783,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "鈴木義久",
           "horseWeight": null,
-          "odds": 4.7,
+          "odds": 4.9,
           "recent": [
             {
               "fin": 5,
@@ -7847,7 +7847,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "佐藤博紀",
           "horseWeight": null,
-          "odds": 14.3,
+          "odds": 20.3,
           "recent": [
             {
               "fin": 4,
@@ -7911,7 +7911,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "佐々木仁",
           "horseWeight": null,
-          "odds": 10.4,
+          "odds": 11.6,
           "recent": [
             {
               "fin": 10,
@@ -7975,7 +7975,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "山崎尋美",
           "horseWeight": null,
-          "odds": 2.3,
+          "odds": 2.1,
           "recent": [
             {
               "fin": 14,
@@ -8037,7 +8037,7 @@ window.RACE_DATA = {
           "jockey": "山中悠希",
           "trainer": "長友豊",
           "horseWeight": null,
-          "odds": 49.3,
+          "odds": 54.6,
           "recent": [
             {
               "fin": 12,
@@ -8103,7 +8103,7 @@ window.RACE_DATA = {
           "jockey": "古岡勇樹",
           "trainer": "山崎裕也",
           "horseWeight": null,
-          "odds": 4.8,
+          "odds": 4.1,
           "recent": [
             {
               "fin": 2,
@@ -8161,8 +8161,8 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202645072812",
-      "oddsUpdatedAt": "20:30"
+      "oddsUpdatedAt": "20:40"
     }
   ],
-  "oddsUpdatedAt": "20:30"
+  "oddsUpdatedAt": "20:40"
 };
