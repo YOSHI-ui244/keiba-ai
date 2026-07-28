@@ -2724,7 +2724,7 @@ window.RACE_DATA = {
       "name": "だいきち不動産設立記念レース(C1)",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "17:50",
       "grade": "サラ系一般 C1",
       "meetingInfo": [
@@ -3328,7 +3328,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202646072805"
+      "raceId": "202646072805",
+      "oddsUpdatedAt": "17:30"
     },
     {
       "raceNo": 6,
@@ -6932,5 +6933,5 @@ window.RACE_DATA = {
       "raceId": "202646072810"
     }
   ],
-  "oddsUpdatedAt": "17:10"
+  "oddsUpdatedAt": "17:30"
 };
