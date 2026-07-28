@@ -785,7 +785,7 @@ window.RACE_DATA = {
           "jockey": "岡村裕基",
           "trainer": "村田六郎",
           "horseWeight": null,
-          "odds": 14.4,
+          "odds": 19.5,
           "recent": [
             {
               "fin": 3,
@@ -849,7 +849,7 @@ window.RACE_DATA = {
           "jockey": "神尾香澄",
           "trainer": "山田正実",
           "horseWeight": null,
-          "odds": 4.0,
+          "odds": 4.8,
           "recent": [
             {
               "fin": 2,
@@ -913,7 +913,7 @@ window.RACE_DATA = {
           "jockey": "本田紀忠",
           "trainer": "武井和実",
           "horseWeight": null,
-          "odds": 35.3,
+          "odds": 29.5,
           "recent": [
             {
               "fin": 5,
@@ -979,7 +979,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "武井和実",
           "horseWeight": null,
-          "odds": 2.7,
+          "odds": 3.2,
           "recent": [
             {
               "fin": 8,
@@ -1043,7 +1043,7 @@ window.RACE_DATA = {
           "jockey": "加藤雄真",
           "trainer": "八木正喜",
           "horseWeight": null,
-          "odds": 50.0,
+          "odds": 75.5,
           "recent": [
             {
               "fin": 12,
@@ -1107,7 +1107,7 @@ window.RACE_DATA = {
           "jockey": "櫻井光輔",
           "trainer": "内田勝義",
           "horseWeight": null,
-          "odds": 13.2,
+          "odds": 10.1,
           "recent": [
             {
               "fin": 9,
@@ -1173,7 +1173,7 @@ window.RACE_DATA = {
           "jockey": "池谷匠翔",
           "trainer": "村田順一",
           "horseWeight": null,
-          "odds": 7.6,
+          "odds": 7.2,
           "recent": [
             {
               "fin": 12,
@@ -1239,7 +1239,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "山崎裕也",
           "horseWeight": null,
-          "odds": 5.0,
+          "odds": 3.1,
           "recent": [
             {
               "fin": 10,
@@ -1305,7 +1305,7 @@ window.RACE_DATA = {
           "jockey": "中山遥人",
           "trainer": "水上直人",
           "horseWeight": null,
-          "odds": 8.9,
+          "odds": 12.3,
           "recent": [
             {
               "fin": 9,
@@ -1361,7 +1361,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202645072802",
-      "oddsUpdatedAt": "15:10"
+      "oddsUpdatedAt": "15:20"
     },
     {
       "raceNo": 3,
@@ -7170,5 +7170,5 @@ window.RACE_DATA = {
       "raceId": "202645072812"
     }
   ],
-  "oddsUpdatedAt": "15:10"
+  "oddsUpdatedAt": "15:20"
 };
