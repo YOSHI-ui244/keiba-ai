@@ -6625,14 +6625,112 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202645072810",
-      "oddsUpdatedAt": "19:30"
+      "oddsUpdatedAt": "19:30",
+      "result": {
+        "order": [
+          4,
+          1,
+          11
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 4190
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 670
+            },
+            {
+              "comb": [
+                1
+              ],
+              "amount": 150
+            },
+            {
+              "comb": [
+                11
+              ],
+              "amount": 170
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                1,
+                4
+              ],
+              "amount": 5110
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                1,
+                4
+              ],
+              "amount": 1950
+            },
+            {
+              "comb": [
+                4,
+                11
+              ],
+              "amount": 1960
+            },
+            {
+              "comb": [
+                1,
+                11
+              ],
+              "amount": 360
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                4,
+                1
+              ],
+              "amount": 20150
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                4,
+                11
+              ],
+              "amount": 5770
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                4,
+                1,
+                11
+              ],
+              "amount": 96380
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 11,
       "name": "芙蓉賞(3歳)OP",
       "distance": 2000,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "20:15",
       "grade": "サラ系３歳 3歳",
       "meetingInfo": [
@@ -6651,7 +6749,7 @@ window.RACE_DATA = {
           "jockey": "御神本訓",
           "trainer": "安池成実",
           "horseWeight": null,
-          "odds": 12.3,
+          "odds": 11.7,
           "recent": [
             {
               "fin": 7,
@@ -6713,7 +6811,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "加藤誠一",
           "horseWeight": null,
-          "odds": 7.9,
+          "odds": 20.5,
           "recent": [
             {
               "fin": 9,
@@ -6775,7 +6873,7 @@ window.RACE_DATA = {
           "jockey": "鷹見陸",
           "trainer": "山下貴之",
           "horseWeight": null,
-          "odds": 28.5,
+          "odds": 13.8,
           "recent": [
             {
               "fin": 1,
@@ -6839,7 +6937,7 @@ window.RACE_DATA = {
           "jockey": "菅原涼太",
           "trainer": "小澤宏次",
           "horseWeight": null,
-          "odds": 99.3,
+          "odds": 72.6,
           "recent": [
             {
               "fin": 6,
@@ -6901,7 +6999,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "久保秀男",
           "horseWeight": null,
-          "odds": 13.9,
+          "odds": 5.9,
           "recent": [
             {
               "fin": 1,
@@ -6965,7 +7063,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "米谷康秀",
           "horseWeight": null,
-          "odds": 10.1,
+          "odds": 19.5,
           "recent": [
             {
               "fin": 2,
@@ -6993,7 +7091,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "鈴木義久",
           "horseWeight": null,
-          "odds": 10.5,
+          "odds": 14.2,
           "recent": [
             {
               "fin": 3,
@@ -7057,7 +7155,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "渡辺貴光",
           "horseWeight": null,
-          "odds": 30.7,
+          "odds": 26.7,
           "recent": [
             {
               "fin": 3,
@@ -7121,7 +7219,7 @@ window.RACE_DATA = {
           "jockey": "町田直希",
           "trainer": "佐々木仁",
           "horseWeight": null,
-          "odds": 8.7,
+          "odds": 13.0,
           "recent": [
             {
               "fin": 4,
@@ -7167,7 +7265,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "米谷康秀",
           "horseWeight": null,
-          "odds": 16.0,
+          "odds": 5.3,
           "recent": [
             {
               "fin": 2,
@@ -7225,7 +7323,7 @@ window.RACE_DATA = {
           "jockey": "増田充宏",
           "trainer": "鈴木義久",
           "horseWeight": null,
-          "odds": 12.3,
+          "odds": 13.1,
           "recent": [
             {
               "fin": 2,
@@ -7283,7 +7381,7 @@ window.RACE_DATA = {
           "jockey": "張田昂",
           "trainer": "茂木浩幸",
           "horseWeight": null,
-          "odds": 31.3,
+          "odds": 90.0,
           "recent": [
             {
               "fin": 4,
@@ -7339,7 +7437,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "佐藤博紀",
           "horseWeight": null,
-          "odds": 8.6,
+          "odds": 5.2,
           "recent": [
             {
               "fin": 5,
@@ -7377,7 +7475,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "小久保智",
           "horseWeight": null,
-          "odds": 3.4,
+          "odds": 6.0,
           "recent": [
             {
               "fin": 12,
@@ -7432,7 +7530,8 @@ window.RACE_DATA = {
           "style": "逃"
         }
       ],
-      "raceId": "202645072811"
+      "raceId": "202645072811",
+      "oddsUpdatedAt": "19:50"
     },
     {
       "raceNo": 12,
@@ -7966,5 +8065,5 @@ window.RACE_DATA = {
       "raceId": "202645072812"
     }
   ],
-  "oddsUpdatedAt": "19:30"
+  "oddsUpdatedAt": "19:50"
 };
