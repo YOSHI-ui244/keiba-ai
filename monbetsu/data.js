@@ -5495,14 +5495,106 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630073011",
-      "oddsUpdatedAt": "19:50"
+      "oddsUpdatedAt": "19:50",
+      "result": {
+        "order": [
+          2,
+          4,
+          3
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                2
+              ],
+              "amount": 270
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                2
+              ],
+              "amount": 150
+            },
+            {
+              "comb": [
+                4
+              ],
+              "amount": 360
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 1830
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 510
+            },
+            {
+              "comb": [
+                2,
+                3
+              ],
+              "amount": 460
+            },
+            {
+              "comb": [
+                3,
+                4
+              ],
+              "amount": 940
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 2360
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                2,
+                3,
+                4
+              ],
+              "amount": 2250
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                2,
+                4,
+                3
+              ],
+              "amount": 10730
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 12,
       "name": "ポラリスサマースプリント〔H3〕(ダノン重賞",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "稍",
       "startTime": "20:35",
       "grade": "サラ系３歳以上 一般",
       "meetingInfo": [
@@ -5521,7 +5613,7 @@ window.RACE_DATA = {
           "jockey": "亀井洋司",
           "trainer": "秋田大助",
           "horseWeight": null,
-          "odds": 411.4,
+          "odds": 62.3,
           "recent": [
             {
               "fin": 8,
@@ -5587,7 +5679,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 5.3,
+          "odds": 5.2,
           "recent": [
             {
               "fin": 1,
@@ -5653,7 +5745,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 8.8,
+          "odds": 4.9,
           "recent": [
             {
               "fin": 3,
@@ -5719,7 +5811,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "松本隆宏",
           "horseWeight": null,
-          "odds": 32.4,
+          "odds": 29.7,
           "recent": [
             {
               "fin": 1,
@@ -5783,7 +5875,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 4.7,
+          "odds": 5.0,
           "recent": [
             {
               "fin": 2,
@@ -5847,7 +5939,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 1.5,
+          "odds": 1.7,
           "recent": [
             {
               "fin": 1,
@@ -5911,7 +6003,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "佐久間雅",
           "horseWeight": null,
-          "odds": 27.1,
+          "odds": 36.1,
           "recent": [
             {
               "fin": 3,
@@ -5968,8 +6060,9 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202630073012"
+      "raceId": "202630073012",
+      "oddsUpdatedAt": "20:10"
     }
   ],
-  "oddsUpdatedAt": "19:50"
+  "oddsUpdatedAt": "20:10"
 };
