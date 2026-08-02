@@ -6171,7 +6171,7 @@ window.RACE_DATA = {
           "jockey": "所蛍",
           "trainer": "斉藤敏",
           "horseWeight": null,
-          "odds": 8.5,
+          "odds": 9.2,
           "recent": [
             {
               "fin": 11,
@@ -6235,7 +6235,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "新井清重",
           "horseWeight": null,
-          "odds": 5.6,
+          "odds": 6.1,
           "recent": [
             {
               "fin": 5,
@@ -6301,7 +6301,7 @@ window.RACE_DATA = {
           "jockey": "山中悠希",
           "trainer": "佐々木清",
           "horseWeight": null,
-          "odds": 5.0,
+          "odds": 5.2,
           "recent": [
             {
               "fin": 6,
@@ -6431,7 +6431,7 @@ window.RACE_DATA = {
           "jockey": "藤原幹生",
           "trainer": "米谷康秀",
           "horseWeight": null,
-          "odds": 27.4,
+          "odds": 25.7,
           "recent": [
             {
               "fin": 12,
@@ -6495,7 +6495,7 @@ window.RACE_DATA = {
           "jockey": "高橋利幸",
           "trainer": "新井清重",
           "horseWeight": null,
-          "odds": 21.6,
+          "odds": 19.1,
           "recent": [
             {
               "fin": 8,
@@ -6561,7 +6561,7 @@ window.RACE_DATA = {
           "jockey": "川島正太",
           "trainer": "岩崎真樹",
           "horseWeight": null,
-          "odds": 7.7,
+          "odds": 6.4,
           "recent": [
             {
               "fin": 3,
@@ -6625,7 +6625,7 @@ window.RACE_DATA = {
           "jockey": "仲野光馬",
           "trainer": "函館一昭",
           "horseWeight": null,
-          "odds": 6.2,
+          "odds": 6.1,
           "recent": [
             {
               "fin": 1,
@@ -6747,7 +6747,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202643080211",
-      "oddsUpdatedAt": "20:04"
+      "oddsUpdatedAt": "20:07"
     },
     {
       "raceNo": 12,
@@ -7347,5 +7347,5 @@ window.RACE_DATA = {
       "raceId": "202643080212"
     }
   ],
-  "oddsUpdatedAt": "20:04"
+  "oddsUpdatedAt": "20:07"
 };
