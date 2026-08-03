@@ -882,7 +882,7 @@ window.RACE_DATA = {
       "name": "線香花火特別(2歳)",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "15:45",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -901,7 +901,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "森泰斗",
           "horseWeight": null,
-          "odds": 2.0,
+          "odds": 1.2,
           "recent": []
         },
         {
@@ -914,7 +914,7 @@ window.RACE_DATA = {
           "jockey": "笠野雄大",
           "trainer": "渡辺貴光",
           "horseWeight": null,
-          "odds": 14.2,
+          "odds": 37.5,
           "recent": []
         },
         {
@@ -927,7 +927,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "佐藤裕太",
           "horseWeight": null,
-          "odds": 5.7,
+          "odds": 3.6,
           "recent": []
         },
         {
@@ -940,7 +940,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "山本学",
           "horseWeight": null,
-          "odds": 23.2,
+          "odds": 26.6,
           "recent": []
         },
         {
@@ -975,7 +975,7 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "渋谷信博",
           "horseWeight": null,
-          "odds": 50.9,
+          "odds": 29.0,
           "recent": []
         },
         {
@@ -988,11 +988,12 @@ window.RACE_DATA = {
           "jockey": "西村栄喜",
           "trainer": "渋谷信博",
           "horseWeight": null,
-          "odds": 6.9,
+          "odds": 21.7,
           "recent": []
         }
       ],
-      "raceId": "202643080303"
+      "raceId": "202643080303",
+      "oddsUpdatedAt": "15:20"
     },
     {
       "raceNo": 4,
@@ -7390,5 +7391,5 @@ window.RACE_DATA = {
       "raceId": "202643080312"
     }
   ],
-  "oddsUpdatedAt": "15:10"
+  "oddsUpdatedAt": "15:20"
 };
