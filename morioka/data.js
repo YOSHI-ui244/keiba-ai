@@ -7235,14 +7235,112 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202635080310",
-      "oddsUpdatedAt": "17:00"
+      "oddsUpdatedAt": "17:00",
+      "result": {
+        "order": [
+          11,
+          9,
+          2
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                11
+              ],
+              "amount": 340
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                11
+              ],
+              "amount": 120
+            },
+            {
+              "comb": [
+                9
+              ],
+              "amount": 160
+            },
+            {
+              "comb": [
+                2
+              ],
+              "amount": 270
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                9,
+                11
+              ],
+              "amount": 590
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                9,
+                11
+              ],
+              "amount": 290
+            },
+            {
+              "comb": [
+                2,
+                11
+              ],
+              "amount": 560
+            },
+            {
+              "comb": [
+                2,
+                9
+              ],
+              "amount": 690
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                11,
+                9
+              ],
+              "amount": 1410
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                2,
+                9,
+                11
+              ],
+              "amount": 1950
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                11,
+                9,
+                2
+              ],
+              "amount": 7010
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 11,
       "name": "朝顔特別(A)",
       "distance": 1600,
       "surface": "ダ",
-      "condition": "重",
+      "condition": "稍",
       "startTime": "17:40",
       "grade": "サラ系一般 A",
       "meetingInfo": [
@@ -7261,7 +7359,7 @@ window.RACE_DATA = {
           "jockey": "塚本涼人",
           "trainer": "酒井仁",
           "horseWeight": null,
-          "odds": 10.0,
+          "odds": 8.2,
           "recent": [
             {
               "fin": 5,
@@ -7327,7 +7425,7 @@ window.RACE_DATA = {
           "jockey": "岩本怜",
           "trainer": "菅原右吉",
           "horseWeight": null,
-          "odds": 11.0,
+          "odds": 8.1,
           "recent": [
             {
               "fin": 3,
@@ -7391,7 +7489,7 @@ window.RACE_DATA = {
           "jockey": "高松亮",
           "trainer": "佐藤雅彦",
           "horseWeight": null,
-          "odds": 23.8,
+          "odds": 21.1,
           "recent": [
             {
               "fin": 6,
@@ -7523,7 +7621,7 @@ window.RACE_DATA = {
           "jockey": "山本聡紀",
           "trainer": "板垣吉則",
           "horseWeight": null,
-          "odds": 3.4,
+          "odds": 2.6,
           "recent": [
             {
               "fin": 4,
@@ -7589,7 +7687,7 @@ window.RACE_DATA = {
           "jockey": "小林凌",
           "trainer": "佐藤雅彦",
           "horseWeight": null,
-          "odds": 16.2,
+          "odds": 21.1,
           "recent": [
             {
               "fin": 4,
@@ -7651,7 +7749,7 @@ window.RACE_DATA = {
           "jockey": "高橋悠里",
           "trainer": "千葉幸喜",
           "horseWeight": null,
-          "odds": 4.4,
+          "odds": 10.3,
           "recent": [
             {
               "fin": 7,
@@ -7708,7 +7806,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202635080311"
+      "raceId": "202635080311",
+      "oddsUpdatedAt": "17:20"
     },
     {
       "raceNo": 12,
@@ -8246,5 +8345,5 @@ window.RACE_DATA = {
       "raceId": "202635080312"
     }
   ],
-  "oddsUpdatedAt": "17:00"
+  "oddsUpdatedAt": "17:20"
 };
