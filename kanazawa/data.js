@@ -2517,7 +2517,7 @@ window.RACE_DATA = {
           "jockey": "松戸政也",
           "trainer": "藤田弘治",
           "horseWeight": null,
-          "odds": 18.9,
+          "odds": 66.4,
           "recent": [
             {
               "fin": 10,
@@ -2581,7 +2581,7 @@ window.RACE_DATA = {
           "jockey": "米倉知",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 26.1,
+          "odds": 72.9,
           "recent": [
             {
               "fin": 2,
@@ -2641,7 +2641,7 @@ window.RACE_DATA = {
           "jockey": "吉原寛人",
           "trainer": "堀場裕充",
           "horseWeight": null,
-          "odds": 15.0,
+          "odds": 28.5,
           "recent": [
             {
               "fin": 2,
@@ -2707,7 +2707,7 @@ window.RACE_DATA = {
           "jockey": "鈴木太一",
           "trainer": "加藤和義",
           "horseWeight": null,
-          "odds": 11.8,
+          "odds": 14.7,
           "recent": [
             {
               "fin": 12,
@@ -2771,7 +2771,7 @@ window.RACE_DATA = {
           "jockey": "吉田晃浩",
           "trainer": "佐藤茂",
           "horseWeight": null,
-          "odds": 35.6,
+          "odds": 132.0,
           "recent": [
             {
               "fin": 9,
@@ -2835,7 +2835,7 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "菅原欣也",
           "horseWeight": null,
-          "odds": 15.2,
+          "odds": 27.0,
           "recent": [
             {
               "fin": 4,
@@ -2899,7 +2899,7 @@ window.RACE_DATA = {
           "jockey": "甲賀弘隆",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 6.7,
+          "odds": 10.2,
           "recent": [
             {
               "fin": 9,
@@ -2957,7 +2957,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646080305",
-      "oddsUpdatedAt": "17:20"
+      "oddsUpdatedAt": "17:30"
     },
     {
       "raceNo": 6,
@@ -6103,5 +6103,5 @@ window.RACE_DATA = {
       "raceId": "202646080310"
     }
   ],
-  "oddsUpdatedAt": "17:20"
+  "oddsUpdatedAt": "17:30"
 };
