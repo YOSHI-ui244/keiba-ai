@@ -967,7 +967,7 @@ window.RACE_DATA = {
       "name": "C3一",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "15:45",
       "grade": "サラ系一般 C3",
       "meetingInfo": [
@@ -986,7 +986,7 @@ window.RACE_DATA = {
           "jockey": "中山遥人",
           "trainer": "伊藤滋規",
           "horseWeight": null,
-          "odds": 10.6,
+          "odds": 4.6,
           "recent": [
             {
               "fin": 11,
@@ -1052,7 +1052,7 @@ window.RACE_DATA = {
           "jockey": "山口達弥",
           "trainer": "玉井昇",
           "horseWeight": null,
-          "odds": 3.7,
+          "odds": 5.3,
           "recent": [
             {
               "fin": 5,
@@ -1116,7 +1116,7 @@ window.RACE_DATA = {
           "jockey": "西村栄喜",
           "trainer": "渋谷信博",
           "horseWeight": null,
-          "odds": 83.3,
+          "odds": 36.3,
           "recent": [
             {
               "fin": 7,
@@ -1182,7 +1182,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "斉藤敏",
           "horseWeight": null,
-          "odds": 2.7,
+          "odds": 3.8,
           "recent": [
             {
               "fin": 3,
@@ -1248,7 +1248,7 @@ window.RACE_DATA = {
           "jockey": "菅原吏久",
           "trainer": "坂本昇",
           "horseWeight": null,
-          "odds": 5.6,
+          "odds": 9.7,
           "recent": [
             {
               "fin": 4,
@@ -1312,7 +1312,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "山本学",
           "horseWeight": null,
-          "odds": 7.3,
+          "odds": 4.1,
           "recent": [
             {
               "fin": 8,
@@ -1376,7 +1376,7 @@ window.RACE_DATA = {
           "jockey": "岡村裕基",
           "trainer": "久保勇",
           "horseWeight": null,
-          "odds": 11.0,
+          "odds": 17.2,
           "recent": [
             {
               "fin": 4,
@@ -1440,7 +1440,7 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "坂本昇",
           "horseWeight": null,
-          "odds": 10.8,
+          "odds": 6.2,
           "recent": [
             {
               "fin": 4,
@@ -1497,7 +1497,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202643080403"
+      "raceId": "202643080403",
+      "oddsUpdatedAt": "15:20"
     },
     {
       "raceNo": 4,
@@ -7193,5 +7194,5 @@ window.RACE_DATA = {
       "raceId": "202643080412"
     }
   ],
-  "oddsUpdatedAt": "15:10"
+  "oddsUpdatedAt": "15:20"
 };
