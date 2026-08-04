@@ -3656,14 +3656,106 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646080407",
-      "oddsUpdatedAt": "18:50"
+      "oddsUpdatedAt": "18:50",
+      "result": {
+        "order": [
+          3,
+          4,
+          5
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                3
+              ],
+              "amount": 300
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                3
+              ],
+              "amount": 140
+            },
+            {
+              "comb": [
+                4
+              ],
+              "amount": 170
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                3,
+                4
+              ],
+              "amount": 700
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                3,
+                4
+              ],
+              "amount": 150
+            },
+            {
+              "comb": [
+                3,
+                5
+              ],
+              "amount": 120
+            },
+            {
+              "comb": [
+                4,
+                5
+              ],
+              "amount": 140
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                3,
+                4
+              ],
+              "amount": 1480
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                3,
+                4,
+                5
+              ],
+              "amount": 240
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                3,
+                4,
+                5
+              ],
+              "amount": 2730
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 8,
       "name": "堀江舞アナ明日8月5日はお誕生日記念(B1特別)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "19:35",
       "grade": "サラ系一般 B1特別",
       "meetingInfo": [
@@ -3682,7 +3774,7 @@ window.RACE_DATA = {
           "jockey": "鈴木太一",
           "trainer": "加藤和義",
           "horseWeight": null,
-          "odds": 18.6,
+          "odds": 24.6,
           "recent": [
             {
               "fin": 8,
@@ -3748,7 +3840,7 @@ window.RACE_DATA = {
           "jockey": "柴田勇真",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 4.8,
+          "odds": 8.0,
           "recent": [
             {
               "fin": 1,
@@ -3814,7 +3906,7 @@ window.RACE_DATA = {
           "jockey": "中島龍也",
           "trainer": "加藤和宏",
           "horseWeight": null,
-          "odds": 1.8,
+          "odds": 1.3,
           "recent": [
             {
               "fin": 3,
@@ -3880,7 +3972,7 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "池田敦",
           "horseWeight": null,
-          "odds": 3.7,
+          "odds": 4.1,
           "recent": [
             {
               "fin": 2,
@@ -3946,7 +4038,7 @@ window.RACE_DATA = {
           "jockey": "田知弘久",
           "trainer": "池田敦",
           "horseWeight": null,
-          "odds": 15.4,
+          "odds": 38.5,
           "recent": [
             {
               "fin": 7,
@@ -4010,7 +4102,7 @@ window.RACE_DATA = {
           "jockey": "松戸政也",
           "trainer": "藤田弘治",
           "horseWeight": null,
-          "odds": 10.9,
+          "odds": 15.8,
           "recent": [
             {
               "fin": 8,
@@ -4067,7 +4159,8 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202646080408"
+      "raceId": "202646080408",
+      "oddsUpdatedAt": "19:10"
     },
     {
       "raceNo": 9,
@@ -5540,5 +5633,5 @@ window.RACE_DATA = {
       "raceId": "202646080410"
     }
   ],
-  "oddsUpdatedAt": "18:50"
+  "oddsUpdatedAt": "19:10"
 };
