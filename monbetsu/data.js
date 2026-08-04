@@ -1234,7 +1234,7 @@ window.RACE_DATA = {
           "jockey": "渡辺準己",
           "trainer": "五十嵐冬",
           "horseWeight": null,
-          "odds": 13.4,
+          "odds": 21.8,
           "recent": []
         },
         {
@@ -1247,7 +1247,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "岡島玉一",
           "horseWeight": null,
-          "odds": 4.4,
+          "odds": 5.8,
           "recent": [
             {
               "fin": 2,
@@ -1313,7 +1313,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "桧森邦夫",
           "horseWeight": null,
-          "odds": 19.8,
+          "odds": 20.1,
           "recent": [
             {
               "fin": 7,
@@ -1377,7 +1377,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "黒川智貴",
           "horseWeight": null,
-          "odds": 6.2,
+          "odds": 6.1,
           "recent": [
             {
               "fin": 9,
@@ -1443,7 +1443,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 1.5,
+          "odds": 1.3,
           "recent": [
             {
               "fin": 3,
@@ -1507,7 +1507,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "廣森久雄",
           "horseWeight": null,
-          "odds": 36.1,
+          "odds": 56.8,
           "recent": [
             {
               "fin": 6,
@@ -1573,7 +1573,7 @@ window.RACE_DATA = {
           "jockey": "井上俊彦",
           "trainer": "沼澤英知",
           "horseWeight": null,
-          "odds": 20.9,
+          "odds": 17.4,
           "recent": [
             {
               "fin": 7,
@@ -1629,7 +1629,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630080405",
-      "oddsUpdatedAt": "16:20"
+      "oddsUpdatedAt": "16:30"
     },
     {
       "raceNo": 6,
@@ -5186,5 +5186,5 @@ window.RACE_DATA = {
       "raceId": "202630080412"
     }
   ],
-  "oddsUpdatedAt": "16:20"
+  "oddsUpdatedAt": "16:30"
 };
