@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "野澤憲彦",
           "trainer": "佐々木清",
           "horseWeight": null,
-          "odds": 129.8,
+          "odds": 152.4,
           "recent": [
             {
               "fin": 12,
@@ -95,7 +95,7 @@ window.RACE_DATA = {
           "jockey": "保園翔也",
           "trainer": "箕輪武",
           "horseWeight": null,
-          "odds": 28.0,
+          "odds": 43.5,
           "recent": [
             {
               "fin": 7,
@@ -161,7 +161,7 @@ window.RACE_DATA = {
           "jockey": "沖響主",
           "trainer": "山中尊徳",
           "horseWeight": null,
-          "odds": 4.2,
+          "odds": 6.2,
           "recent": [
             {
               "fin": 2,
@@ -227,7 +227,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "新井清重",
           "horseWeight": null,
-          "odds": 22.7,
+          "odds": 18.0,
           "recent": [
             {
               "fin": 2,
@@ -291,7 +291,7 @@ window.RACE_DATA = {
           "jockey": "山本大翔",
           "trainer": "山田信大",
           "horseWeight": null,
-          "odds": 4.6,
+          "odds": 7.7,
           "recent": [
             {
               "fin": 6,
@@ -357,7 +357,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "新井清重",
           "horseWeight": null,
-          "odds": 1.4,
+          "odds": 1.1,
           "recent": [
             {
               "fin": 1,
@@ -419,7 +419,7 @@ window.RACE_DATA = {
           "jockey": "西村栄喜",
           "trainer": "阿井正雄",
           "horseWeight": null,
-          "odds": 135.6,
+          "odds": 128.7,
           "recent": [
             {
               "fin": 7,
@@ -475,7 +475,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202643080501",
-      "oddsUpdatedAt": "14:31"
+      "oddsUpdatedAt": "14:41"
     },
     {
       "raceNo": 2,
@@ -5443,5 +5443,5 @@ window.RACE_DATA = {
       "raceId": "202643080512"
     }
   ],
-  "oddsUpdatedAt": "14:31"
+  "oddsUpdatedAt": "14:41"
 };
