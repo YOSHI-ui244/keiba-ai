@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "野澤憲彦",
           "trainer": "佐々木清",
           "horseWeight": null,
-          "odds": 50.0,
+          "odds": 117.3,
           "recent": [
             {
               "fin": 12,
@@ -95,7 +95,7 @@ window.RACE_DATA = {
           "jockey": "保園翔也",
           "trainer": "箕輪武",
           "horseWeight": null,
-          "odds": 79.9,
+          "odds": 20.3,
           "recent": [
             {
               "fin": 7,
@@ -161,7 +161,7 @@ window.RACE_DATA = {
           "jockey": "沖響主",
           "trainer": "山中尊徳",
           "horseWeight": null,
-          "odds": 2.7,
+          "odds": 2.9,
           "recent": [
             {
               "fin": 2,
@@ -227,7 +227,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "新井清重",
           "horseWeight": null,
-          "odds": 4.8,
+          "odds": 33.5,
           "recent": [
             {
               "fin": 2,
@@ -291,7 +291,7 @@ window.RACE_DATA = {
           "jockey": "山本大翔",
           "trainer": "山田信大",
           "horseWeight": null,
-          "odds": 5.3,
+          "odds": 3.3,
           "recent": [
             {
               "fin": 6,
@@ -357,7 +357,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "新井清重",
           "horseWeight": null,
-          "odds": 2.3,
+          "odds": 1.9,
           "recent": [
             {
               "fin": 1,
@@ -419,7 +419,7 @@ window.RACE_DATA = {
           "jockey": "西村栄喜",
           "trainer": "阿井正雄",
           "horseWeight": null,
-          "odds": 50.3,
+          "odds": 115.0,
           "recent": [
             {
               "fin": 7,
@@ -474,7 +474,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202643080501"
+      "raceId": "202643080501",
+      "oddsUpdatedAt": "14:21"
     },
     {
       "raceNo": 2,
@@ -5441,5 +5442,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202643080512"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "14:21"
 };
