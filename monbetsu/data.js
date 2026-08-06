@@ -5806,7 +5806,7 @@ window.RACE_DATA = {
       "name": "サッポロクラシックカップ〔H3〕(ミッキ重賞",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "20:30",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -5825,7 +5825,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "松本隆宏",
           "horseWeight": null,
-          "odds": 26.7,
+          "odds": 42.5,
           "recent": []
         },
         {
@@ -5838,7 +5838,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 2.1,
+          "odds": 2.2,
           "recent": [
             {
               "fin": 1,
@@ -5860,7 +5860,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "柳澤好美",
           "horseWeight": null,
-          "odds": 8.6,
+          "odds": 32.6,
           "recent": [
             {
               "fin": 3,
@@ -5882,7 +5882,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 106.5,
+          "odds": 70.5,
           "recent": [
             {
               "fin": 1,
@@ -5904,7 +5904,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": 6.2,
+          "odds": 5.7,
           "recent": [
             {
               "fin": 3,
@@ -5932,7 +5932,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 24.0,
+          "odds": 29.1,
           "recent": [
             {
               "fin": 1,
@@ -5954,7 +5954,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "廣森久雄",
           "horseWeight": null,
-          "odds": 14.8,
+          "odds": 25.6,
           "recent": [
             {
               "fin": 5,
@@ -5982,7 +5982,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 5.2,
+          "odds": 2.9,
           "recent": []
         },
         {
@@ -5995,7 +5995,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": 7.0,
+          "odds": 6.6,
           "recent": [
             {
               "fin": 2,
@@ -6008,8 +6008,9 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202630080612"
+      "raceId": "202630080612",
+      "oddsUpdatedAt": "20:10"
     }
   ],
-  "oddsUpdatedAt": "20:00"
+  "oddsUpdatedAt": "20:10"
 };
