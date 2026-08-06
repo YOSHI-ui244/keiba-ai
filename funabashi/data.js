@@ -2380,14 +2380,106 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202643080606",
-      "oddsUpdatedAt": "17:00"
+      "oddsUpdatedAt": "17:00",
+      "result": {
+        "order": [
+          7,
+          3,
+          5
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                7
+              ],
+              "amount": 4160
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                7
+              ],
+              "amount": 1040
+            },
+            {
+              "comb": [
+                3
+              ],
+              "amount": 230
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                3,
+                7
+              ],
+              "amount": 5720
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                3,
+                7
+              ],
+              "amount": 960
+            },
+            {
+              "comb": [
+                5,
+                7
+              ],
+              "amount": 530
+            },
+            {
+              "comb": [
+                3,
+                5
+              ],
+              "amount": 210
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                7,
+                3
+              ],
+              "amount": 15690
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                3,
+                5,
+                7
+              ],
+              "amount": 2540
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                7,
+                3,
+                5
+              ],
+              "amount": 59040
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 7,
       "name": "疾風迅雷スプリント(C2)",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "17:40",
       "grade": "サラ系一般 C2",
       "meetingInfo": [
@@ -2406,7 +2498,7 @@ window.RACE_DATA = {
           "jockey": "藤原幹生",
           "trainer": "林幻",
           "horseWeight": null,
-          "odds": 33.1,
+          "odds": 6.6,
           "recent": [
             {
               "fin": 8,
@@ -2500,7 +2592,7 @@ window.RACE_DATA = {
           "jockey": "山本大翔",
           "trainer": "大津剛",
           "horseWeight": null,
-          "odds": 112.7,
+          "odds": 30.7,
           "recent": [
             {
               "fin": 9,
@@ -2566,7 +2658,7 @@ window.RACE_DATA = {
           "jockey": "菅原吏久",
           "trainer": "坂本昇",
           "horseWeight": null,
-          "odds": 47.4,
+          "odds": 22.0,
           "recent": [
             {
               "fin": 11,
@@ -2632,7 +2724,7 @@ window.RACE_DATA = {
           "jockey": "澤田龍哉",
           "trainer": "佐藤裕太",
           "horseWeight": null,
-          "odds": 2.9,
+          "odds": 4.8,
           "recent": [
             {
               "fin": 3,
@@ -2696,7 +2788,7 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "林幻",
           "horseWeight": null,
-          "odds": 62.8,
+          "odds": 24.8,
           "recent": [
             {
               "fin": 9,
@@ -2751,7 +2843,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202643080607"
+      "raceId": "202643080607",
+      "oddsUpdatedAt": "17:20"
     },
     {
       "raceNo": 8,
@@ -6099,5 +6192,5 @@ window.RACE_DATA = {
       "raceId": "202643080612"
     }
   ],
-  "oddsUpdatedAt": "17:00"
+  "oddsUpdatedAt": "17:20"
 };
