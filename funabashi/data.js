@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "ハイビスカスデビュー(2歳)",
       "distance": 1000,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "14:35",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "木間塚龍",
           "trainer": "渡辺貴光",
           "horseWeight": null,
-          "odds": 7.7,
+          "odds": 34.6,
           "recent": []
         },
         {
@@ -46,7 +46,7 @@ window.RACE_DATA = {
           "jockey": "藤原幹生",
           "trainer": "坂本昇",
           "horseWeight": null,
-          "odds": 6.9,
+          "odds": 96.0,
           "recent": []
         },
         {
@@ -59,7 +59,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "佐藤裕太",
           "horseWeight": null,
-          "odds": 5.1,
+          "odds": 9.5,
           "recent": []
         },
         {
@@ -72,7 +72,7 @@ window.RACE_DATA = {
           "jockey": "川島正太",
           "trainer": "岩崎真樹",
           "horseWeight": null,
-          "odds": 6.3,
+          "odds": 13.9,
           "recent": []
         },
         {
@@ -85,7 +85,7 @@ window.RACE_DATA = {
           "jockey": "仲野光馬",
           "trainer": "玉井等",
           "horseWeight": null,
-          "odds": 5.8,
+          "odds": 42.4,
           "recent": []
         },
         {
@@ -111,11 +111,12 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "矢野義幸",
           "horseWeight": null,
-          "odds": 6.2,
+          "odds": 61.0,
           "recent": []
         }
       ],
-      "raceId": "202643080601"
+      "raceId": "202643080601",
+      "oddsUpdatedAt": "14:10"
     },
     {
       "raceNo": 2,
@@ -5610,5 +5611,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202643080612"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "14:10"
 };
