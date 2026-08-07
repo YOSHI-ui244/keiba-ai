@@ -1,44 +1,31 @@
 // このファイルは fetch_data.py により自動生成されています
-// 取得日時: 2026-07-20 00:21
+// 取得日時: 2026-08-08 00:14
 window.RACE_DATA = {
   "venue": "佐賀競馬場",
-  "date": "2026年7月20日(月)",
-  "meeting": "第7回 佐賀開催 6日目",
-  "fetchedAt": "2026-07-20 00:21",
+  "date": "2026年8月8日(土)",
+  "meeting": "第8回 佐賀開催 1日目",
+  "fetchedAt": "2026-08-08 00:14",
   "source": "netkeiba",
   "isArchive": false,
   "isPreview": false,
   "races": [
     {
       "raceNo": 1,
-      "name": "2歳ー3組",
+      "name": "パッカルくんのおとしもの賞(2歳)",
       "distance": 1300,
       "surface": "ダ",
-      "condition": "良",
-      "startTime": "15:35",
+      "condition": "−",
+      "startTime": "16:00",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
-        "7回",
+        "8回",
         "佐賀",
-        "6日目"
+        "1日目"
       ],
       "horses": [
         {
           "num": 1,
           "waku": 1,
-          "name": "ボムパラム",
-          "horseId": "2024108059",
-          "sexAge": "牝2",
-          "weight": 54.0,
-          "jockey": "長谷川蓮",
-          "trainer": "渡辺博文",
-          "horseWeight": null,
-          "odds": 57.6,
-          "recent": []
-        },
-        {
-          "num": 2,
-          "waku": 2,
           "name": "クラトリレインボー",
           "horseId": "2024108053",
           "sexAge": "牝2",
@@ -46,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "山田義貴",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 16.7,
+          "odds": 13.5,
           "recent": [
             {
               "fin": 8,
@@ -65,274 +52,16 @@ window.RACE_DATA = {
           "style": "先"
         },
         {
-          "num": 3,
-          "waku": 3,
-          "name": "クラトリスカイ",
-          "horseId": "2024108052",
-          "sexAge": "牝2",
-          "weight": 53.0,
-          "jockey": "青海大樹",
-          "trainer": "北村欣也",
-          "horseWeight": null,
-          "odds": 81.1,
-          "recent": []
-        },
-        {
-          "num": 4,
-          "waku": 4,
-          "name": "キセキノキセキ",
-          "horseId": "2024101396",
-          "sexAge": "牝2",
-          "weight": 51.0,
-          "jockey": "後藤武蔵",
-          "trainer": "井樋明正",
-          "horseWeight": null,
-          "odds": 20.2,
-          "recent": [
-            {
-              "fin": 6,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 7,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ900"
-            }
-          ],
-          "spd": 44,
-          "style": "追"
-        },
-        {
-          "num": 5,
-          "waku": 5,
-          "name": "シナノエレガンス",
-          "horseId": "2024108095",
-          "sexAge": "牝2",
-          "weight": 54.0,
-          "jockey": "石川慎将",
-          "trainer": "北村欣也",
-          "horseWeight": null,
-          "odds": 1.3,
-          "recent": [
-            {
-              "fin": 3,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 6,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ900"
-            }
-          ],
-          "spd": 73,
-          "style": "追"
-        },
-        {
-          "num": 6,
-          "waku": 6,
-          "name": "スターオブチャージ",
-          "horseId": "2024100778",
-          "sexAge": "牡2",
-          "weight": 55.0,
-          "jockey": "飛田愛斗",
-          "trainer": "池田忠好",
-          "horseWeight": null,
-          "odds": 8.1,
-          "recent": []
-        },
-        {
-          "num": 7,
-          "waku": 7,
-          "name": "マナクキニ",
-          "horseId": "2024108084",
-          "sexAge": "牡2",
-          "weight": 52.0,
-          "jockey": "椿聡太",
-          "trainer": "真島元徳",
-          "horseWeight": null,
-          "odds": 79.8,
-          "recent": []
-        },
-        {
-          "num": 8,
-          "waku": 8,
-          "name": "フクシマロイヤル",
-          "horseId": "2024101564",
-          "sexAge": "牝2",
-          "weight": 54.0,
-          "jockey": "小松丈二",
-          "trainer": "石川浩文",
-          "horseWeight": null,
-          "odds": 43.2,
-          "recent": [
-            {
-              "fin": 4,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 6,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ900"
-            }
-          ],
-          "spd": 73,
-          "style": "差"
-        },
-        {
-          "num": 9,
-          "waku": 8,
-          "name": "ハウワンダー",
-          "horseId": "2024107262",
-          "sexAge": "牝2",
-          "weight": 54.0,
-          "jockey": "金山昇馬",
-          "trainer": "平山宏秀",
-          "horseWeight": null,
-          "odds": 4.8,
-          "recent": []
-        }
-      ],
-      "raceId": "202655072001",
-      "oddsUpdatedAt": "15:30",
-      "result": {
-        "order": [
-          6,
-          9,
-          5,
-          2,
-          1,
-          7,
-          8,
-          4,
-          3
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                6
-              ],
-              "amount": 280
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                6
-              ],
-              "amount": 140
-            },
-            {
-              "comb": [
-                9
-              ],
-              "amount": 110
-            },
-            {
-              "comb": [
-                5
-              ],
-              "amount": 100
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                6,
-                9
-              ],
-              "amount": 390
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                6,
-                9
-              ],
-              "amount": 140
-            },
-            {
-              "comb": [
-                5,
-                6
-              ],
-              "amount": 160
-            },
-            {
-              "comb": [
-                5,
-                9
-              ],
-              "amount": 110
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                6,
-                9
-              ],
-              "amount": 810
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                5,
-                6,
-                9
-              ],
-              "amount": 240
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                6,
-                9,
-                5
-              ],
-              "amount": 1500
-            }
-          ]
-        }
-      }
-    },
-    {
-      "raceNo": 2,
-      "name": "2歳ー2組",
-      "distance": 1300,
-      "surface": "ダ",
-      "condition": "良",
-      "startTime": "16:10",
-      "grade": "サラ系２歳 2歳",
-      "meetingInfo": [
-        "7回",
-        "佐賀",
-        "6日目"
-      ],
-      "horses": [
-        {
-          "num": 1,
-          "waku": 1,
+          "num": 2,
+          "waku": 2,
           "name": "チョコ",
           "horseId": "2024108090",
           "sexAge": "牝2",
-          "weight": 54.0,
-          "jockey": "出水拓人",
+          "weight": 53.0,
+          "jockey": "青海大樹",
           "trainer": "頼本盛行",
           "horseWeight": null,
-          "odds": 25.7,
+          "odds": 40.8,
           "recent": [
             {
               "fin": 9,
@@ -351,195 +80,19 @@ window.RACE_DATA = {
           "style": "差"
         },
         {
-          "num": 2,
-          "waku": 2,
-          "name": "リュウノスパーク",
-          "horseId": "2024106315",
-          "sexAge": "牡2",
-          "weight": 55.0,
-          "jockey": "山田義貴",
-          "trainer": "北村欣也",
-          "horseWeight": null,
-          "odds": 6.7,
-          "recent": [
-            {
-              "fin": 3,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 5,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ900"
-            }
-          ],
-          "spd": 94,
-          "style": "先"
-        },
-        {
           "num": 3,
           "waku": 3,
-          "name": "プレアボンド",
-          "horseId": "2024104485",
-          "sexAge": "牡2",
-          "weight": 55.0,
-          "jockey": "田中純",
-          "trainer": "濱田一夫",
-          "horseWeight": null,
-          "odds": 5.6,
-          "recent": [
-            {
-              "fin": 7,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 5,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ900"
-            }
-          ],
-          "spd": 86,
-          "style": "差"
-        },
-        {
-          "num": 4,
-          "waku": 4,
-          "name": "ダイメイサンシ",
-          "horseId": "2024107120",
-          "sexAge": "牡2",
-          "weight": 55.0,
-          "jockey": "飛田愛斗",
-          "trainer": "平山宏秀",
-          "horseWeight": null,
-          "odds": 2.5,
-          "recent": []
-        },
-        {
-          "num": 5,
-          "waku": 5,
-          "name": "プレアミータマ",
-          "horseId": "2024104473",
+          "name": "リモンタセーラ",
+          "horseId": "2024101331",
           "sexAge": "牝2",
           "weight": 54.0,
-          "jockey": "金山昇馬",
-          "trainer": "池田忠好",
-          "horseWeight": null,
-          "odds": 55.9,
-          "recent": [
-            {
-              "fin": 5,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ900"
-            }
-          ],
-          "spd": 93,
-          "style": "追"
-        },
-        {
-          "num": 6,
-          "waku": 6,
-          "name": "カシノフッドスター",
-          "horseId": "2024108051",
-          "sexAge": "牡2",
-          "weight": 55.0,
-          "jockey": "川島拓",
-          "trainer": "古賀光範",
-          "horseWeight": null,
-          "odds": 9.4,
-          "recent": [
-            {
-              "fin": 3,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ900"
-            }
-          ],
-          "spd": 85,
-          "style": "差"
-        },
-        {
-          "num": 7,
-          "waku": 7,
-          "name": "スマイルノード",
-          "horseId": "2024102406",
-          "sexAge": "牝2",
-          "weight": 54.0,
-          "jockey": "石川慎将",
-          "trainer": "九日俊光",
-          "horseWeight": null,
-          "odds": 15.1,
-          "recent": []
-        },
-        {
-          "num": 8,
-          "waku": 7,
-          "name": "ヒロサカエ",
-          "horseId": "2024106789",
-          "sexAge": "牝2",
-          "weight": 54.0,
-          "jockey": "長谷川蓮",
-          "trainer": "矢野久美",
-          "horseWeight": null,
-          "odds": 41.9,
-          "recent": [
-            {
-              "fin": 4,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ900"
-            }
-          ],
-          "spd": 99,
-          "style": "差"
-        },
-        {
-          "num": 9,
-          "waku": 8,
-          "name": "レディーハルハル",
-          "horseId": "2024103726",
-          "sexAge": "牝2",
-          "weight": 53.0,
-          "jockey": "林悠翔",
-          "trainer": "鮫島克也",
-          "horseWeight": null,
-          "odds": 4.0,
-          "recent": [
-            {
-              "fin": 2,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 7,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ900"
-            }
-          ],
-          "spd": 86,
-          "style": "差"
-        },
-        {
-          "num": 10,
-          "waku": 8,
-          "name": "ダバイスピーディ",
-          "horseId": "2024103277",
-          "sexAge": "牡2",
-          "weight": 55.0,
-          "jockey": "山口勲",
+          "jockey": "出水拓人",
           "trainer": "北村欣也",
           "horseWeight": null,
-          "odds": 27.4,
+          "odds": 9.9,
           "recent": [
             {
-              "fin": 4,
+              "fin": 5,
               "date": "20260606",
               "baba": "稍",
               "dist": "ダ900"
@@ -547,134 +100,18 @@ window.RACE_DATA = {
           ],
           "spd": 81,
           "style": "追"
-        }
-      ],
-      "raceId": "202655072002",
-      "oddsUpdatedAt": "16:00",
-      "result": {
-        "order": [
-          2,
-          4,
-          6
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                2
-              ],
-              "amount": 510
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                2
-              ],
-              "amount": 110
-            },
-            {
-              "comb": [
-                4
-              ],
-              "amount": 100
-            },
-            {
-              "comb": [
-                6
-              ],
-              "amount": 190
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                2,
-                4
-              ],
-              "amount": 360
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                2,
-                4
-              ],
-              "amount": 250
-            },
-            {
-              "comb": [
-                2,
-                6
-              ],
-              "amount": 990
-            },
-            {
-              "comb": [
-                4,
-                6
-              ],
-              "amount": 380
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                2,
-                4
-              ],
-              "amount": 1190
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                2,
-                4,
-                6
-              ],
-              "amount": 2150
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                2,
-                4,
-                6
-              ],
-              "amount": 11950
-            }
-          ]
-        }
-      }
-    },
-    {
-      "raceNo": 3,
-      "name": "2歳ー1組",
-      "distance": 1300,
-      "surface": "ダ",
-      "condition": "良",
-      "startTime": "16:45",
-      "grade": "サラ系２歳 2歳",
-      "meetingInfo": [
-        "7回",
-        "佐賀",
-        "6日目"
-      ],
-      "horses": [
+        },
         {
-          "num": 1,
-          "waku": 1,
-          "name": "ドラゴンアイ",
-          "horseId": "2024105143",
+          "num": 4,
+          "waku": 4,
+          "name": "レディーハルハル",
+          "horseId": "2024103726",
           "sexAge": "牝2",
           "weight": 54.0,
-          "jockey": "金山昇馬",
-          "trainer": "池田忠好",
+          "jockey": "山下裕貴",
+          "trainer": "鮫島克也",
           "horseWeight": null,
-          "odds": 5.2,
+          "odds": 12.6,
           "recent": [
             {
               "fin": 2,
@@ -683,67 +120,1024 @@ window.RACE_DATA = {
               "dist": "ダ1300"
             },
             {
-              "fin": 4,
+              "fin": 7,
               "date": "20260524",
               "baba": "良",
               "dist": "ダ900"
             }
           ],
-          "spd": 94,
+          "spd": 86,
           "style": "差"
         },
         {
-          "num": 2,
-          "waku": 2,
-          "name": "ハクアイファミリー",
-          "horseId": "2024103513",
+          "num": 5,
+          "waku": 5,
+          "name": "ルミナスブーケ",
+          "horseId": "2024105662",
+          "sexAge": "牝2",
+          "weight": 54.0,
+          "jockey": "山口勲",
+          "trainer": "三小田幸",
+          "horseWeight": null,
+          "odds": 3.5,
+          "recent": []
+        },
+        {
+          "num": 6,
+          "waku": 6,
+          "name": "スマイルノード",
+          "horseId": "2024102406",
+          "sexAge": "牝2",
+          "weight": 54.0,
+          "jockey": "田中純",
+          "trainer": "九日俊光",
+          "horseWeight": null,
+          "odds": 18.0,
+          "recent": []
+        },
+        {
+          "num": 7,
+          "waku": 7,
+          "name": "クラーケン",
+          "horseId": "2024103552",
           "sexAge": "牡2",
           "weight": 55.0,
-          "jockey": "山口勲",
-          "trainer": "東眞市",
+          "jockey": "竹吉徹",
+          "trainer": "真島元徳",
           "horseWeight": null,
           "odds": 2.3,
           "recent": []
         },
         {
-          "num": 3,
-          "waku": 3,
-          "name": "セーズノヴァ",
-          "horseId": "2024104875",
-          "sexAge": "牝2",
-          "weight": 54.0,
-          "jockey": "加茂飛翔",
-          "trainer": "大島静夫",
+          "num": 8,
+          "waku": 8,
+          "name": "プレアサンダー",
+          "horseId": "2024107137",
+          "sexAge": "牡2",
+          "weight": 55.0,
+          "jockey": "石川慎将",
+          "trainer": "池田忠好",
           "horseWeight": null,
-          "odds": 13.0,
+          "odds": 5.0,
+          "recent": []
+        }
+      ],
+      "raceId": "202655080801"
+    },
+    {
+      "raceNo": 2,
+      "name": "C2ー27組",
+      "distance": 1300,
+      "surface": "ダ",
+      "condition": "−",
+      "startTime": "16:35",
+      "grade": "サラ系一般 C2",
+      "meetingInfo": [
+        "8回",
+        "佐賀",
+        "1日目"
+      ],
+      "horses": [
+        {
+          "num": 1,
+          "waku": 1,
+          "name": "ケイツーコルーニ",
+          "horseId": "2022106117",
+          "sexAge": "牝4",
+          "weight": 54.0,
+          "jockey": "金山昇馬",
+          "trainer": "頼本盛行",
+          "horseWeight": null,
+          "odds": 17.8,
           "recent": [
             {
-              "fin": 1,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
+              "fin": 8,
+              "date": "20260527",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260512",
+              "baba": "良",
+              "dist": "ダ1580"
             },
             {
               "fin": 6,
-              "date": "20260524",
+              "date": "20260428",
               "baba": "良",
-              "dist": "ダ900"
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260216",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260202",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260120",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260106",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20251226",
+              "baba": "重",
+              "dist": "ダ1400"
             }
           ],
-          "spd": 89,
+          "central": true,
+          "transfer": false,
+          "spd": 101,
+          "style": "差"
+        },
+        {
+          "num": 2,
+          "waku": 2,
+          "name": "エバーステイ",
+          "horseId": "2022104686",
+          "sexAge": "牝4",
+          "weight": 54.0,
+          "jockey": "山口勲",
+          "trainer": "大島静夫",
+          "horseWeight": null,
+          "odds": 2.6,
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260315",
+              "baba": "稍",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 12,
+              "date": "20251115",
+              "baba": "良",
+              "dist": "芝2600"
+            },
+            {
+              "fin": 5,
+              "date": "20251011",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 7,
+              "date": "20250817",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 6,
+              "date": "20250705",
+              "baba": "良",
+              "dist": "芝1800"
+            },
+            {
+              "fin": 9,
+              "date": "20250413",
+              "baba": "良",
+              "dist": "芝2000"
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "waku": 3,
+          "name": "エールヴェガ",
+          "horseId": "2022105886",
+          "sexAge": "牝4",
+          "weight": 54.0,
+          "jockey": "出水拓人",
+          "trainer": "頼本盛行",
+          "horseWeight": null,
+          "odds": 53.8,
+          "recent": [
+            {
+              "fin": 10,
+              "date": "20260531",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260404",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260320",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20260306",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 12,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 105,
           "style": "差"
         },
         {
           "num": 4,
           "waku": 4,
-          "name": "エスケンスナイパー",
-          "horseId": "2024109035",
-          "sexAge": "牡2",
-          "weight": 55.0,
-          "jockey": "山田義貴",
-          "trainer": "北村欣也",
+          "name": "コスモチャンティ",
+          "horseId": "2022106788",
+          "sexAge": "牝4",
+          "weight": 54.0,
+          "jockey": "加茂飛翔",
+          "trainer": "大島静夫",
           "horseWeight": null,
-          "odds": 33.1,
+          "odds": 56.5,
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260531",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260419",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260320",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260306",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260221",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 98,
+          "style": "先"
+        },
+        {
+          "num": 5,
+          "waku": 5,
+          "name": "レットフィールマン",
+          "horseId": "2023102524",
+          "sexAge": "牝3",
+          "weight": 51.0,
+          "jockey": "椿聡太",
+          "trainer": "渡辺博文",
+          "horseWeight": null,
+          "odds": 4.7,
+          "recent": [
+            {
+              "fin": 13,
+              "date": "20260531",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 11,
+              "date": "20260404",
+              "baba": "稍",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 12,
+              "date": "20260321",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260208",
+              "baba": "良",
+              "dist": "芝2000"
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "waku": 6,
+          "name": "パドマーワト",
+          "horseId": "2018101420",
+          "sexAge": "牝8",
+          "weight": 54.0,
+          "jockey": "小松丈二",
+          "trainer": "柳井宏之",
+          "horseWeight": null,
+          "odds": 102.7,
+          "recent": [
+            {
+              "fin": 9,
+              "date": "20260530",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260404",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260320",
+              "baba": "稍",
+              "dist": "ダ900"
+            },
+            {
+              "fin": 11,
+              "date": "20260306",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260221",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260207",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
+          "spd": 100,
+          "style": "追"
+        },
+        {
+          "num": 7,
+          "waku": 7,
+          "name": "ネオディヤマンテ",
+          "horseId": "2022101023",
+          "sexAge": "牡4",
+          "weight": 56.0,
+          "jockey": "飛田愛斗",
+          "trainer": "三小田幸",
+          "horseWeight": null,
+          "odds": 2.9,
+          "recent": [
+            {
+              "fin": 10,
+              "date": "20260505",
+              "baba": "稍",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 4,
+              "date": "20260420",
+              "baba": "良",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 3,
+              "date": "20260408",
+              "baba": "稍",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 5,
+              "date": "20260324",
+              "baba": "良",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 6,
+              "date": "20260310",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260209",
+              "baba": "良",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 3,
+              "date": "20260114",
+              "baba": "良",
+              "dist": "ダ920"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 101,
+          "style": "先"
+        },
+        {
+          "num": 8,
+          "waku": 7,
+          "name": "エイシンコラソン",
+          "horseId": "2021100283",
+          "sexAge": "牝5",
+          "weight": 54.0,
+          "jockey": "長田進仁",
+          "trainer": "頼本盛行",
+          "horseWeight": null,
+          "odds": 41.4,
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260530",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260404",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260307",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
+          "spd": 101,
+          "style": "差"
+        },
+        {
+          "num": 9,
+          "waku": 8,
+          "name": "キタノローマン",
+          "horseId": "2021102873",
+          "sexAge": "牝5",
+          "weight": 54.0,
+          "jockey": "川島拓",
+          "trainer": "三小田幸",
+          "horseWeight": null,
+          "odds": 11.9,
+          "recent": [
+            {
+              "fin": 11,
+              "date": "20260211",
+              "baba": "重",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 11,
+              "date": "20260115",
+              "baba": "良",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 9,
+              "date": "20260104",
+              "baba": "良",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 10,
+              "date": "20251224",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20251031",
+              "baba": "稍",
+              "dist": "ダ920"
+            },
+            {
+              "fin": 9,
+              "date": "20251017",
+              "baba": "稍",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 7,
+              "date": "20250918",
+              "baba": "良",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 5,
+              "date": "20250903",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ]
+        },
+        {
+          "num": 10,
+          "waku": 8,
+          "name": "クラリスヒメ",
+          "horseId": "2023101770",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "長谷川蓮",
+          "trainer": "矢野久美",
+          "horseWeight": null,
+          "odds": 10.9,
+          "recent": [
+            {
+              "fin": 10,
+              "date": "20260607",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260524",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260510",
+              "baba": "良",
+              "dist": "ダ900"
+            },
+            {
+              "fin": 8,
+              "date": "20260425",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260321",
+              "baba": "良",
+              "dist": "芝2200"
+            },
+            {
+              "fin": 8,
+              "date": "20250830",
+              "baba": "稍",
+              "dist": "芝1500"
+            },
+            {
+              "fin": 7,
+              "date": "20250810",
+              "baba": "良",
+              "dist": "芝1500"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 96,
+          "style": "差"
+        }
+      ],
+      "raceId": "202655080802"
+    },
+    {
+      "raceNo": 3,
+      "name": "C2ー26組",
+      "distance": 1300,
+      "surface": "ダ",
+      "condition": "−",
+      "startTime": "17:10",
+      "grade": "サラ系一般 C2",
+      "meetingInfo": [
+        "8回",
+        "佐賀",
+        "1日目"
+      ],
+      "horses": [
+        {
+          "num": 1,
+          "waku": 1,
+          "name": "アルクノワール",
+          "horseId": "2023106717",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "金山昇馬",
+          "trainer": "真島正徳",
+          "horseWeight": null,
+          "odds": 6.5,
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260608",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260525",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 8,
+              "date": "20260428",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260413",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260330",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 16,
+              "date": "20260118",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 13,
+              "date": "20251221",
+              "baba": "重",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 15,
+              "date": "20251004",
+              "baba": "良",
+              "dist": "芝1800"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 99,
+          "style": "先"
+        },
+        {
+          "num": 2,
+          "waku": 2,
+          "name": "ミラクルスパート",
+          "horseId": "2023101185",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "田中直人",
+          "trainer": "九日俊光",
+          "horseWeight": null,
+          "odds": 9.2,
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260603",
+              "baba": "重",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 15,
+              "date": "20260418",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 15,
+              "date": "20260214",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 10,
+              "date": "20251206",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 11,
+              "date": "20251019",
+              "baba": "良",
+              "dist": "芝1400"
+            },
+            {
+              "fin": 12,
+              "date": "20250809",
+              "baba": "良",
+              "dist": "芝1200"
+            }
+          ],
+          "central": true,
+          "transfer": true,
+          "spd": 110,
+          "style": "逃"
+        },
+        {
+          "num": 3,
+          "waku": 3,
+          "name": "クインズヒマワリ",
+          "horseId": "2023102757",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "石川慎将",
+          "trainer": "矢野久美",
+          "horseWeight": null,
+          "odds": 3.6,
+          "recent": [
+            {
+              "fin": 15,
+              "date": "20260606",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 14,
+              "date": "20260419",
+              "baba": "良",
+              "dist": "ダ1150"
+            },
+            {
+              "fin": 12,
+              "date": "20260228",
+              "baba": "重",
+              "dist": "ダ1200"
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "waku": 4,
+          "name": "フリーリターン",
+          "horseId": "2023107399",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "山下裕貴",
+          "trainer": "大垣敏夫",
+          "horseWeight": null,
+          "odds": 6.1,
+          "recent": [
+            {
+              "fin": 15,
+              "date": "20260530",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 14,
+              "date": "20260404",
+              "baba": "良",
+              "dist": "芝1600"
+            }
+          ]
+        },
+        {
+          "num": 5,
+          "waku": 5,
+          "name": "マイネルガンナー",
+          "horseId": "2021106775",
+          "sexAge": "牡5",
+          "weight": 56.0,
+          "jockey": "小松丈二",
+          "trainer": "柳井宏之",
+          "horseWeight": null,
+          "odds": 135.5,
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260530",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 12,
+              "date": "20260404",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260307",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 104,
+          "style": "追"
+        },
+        {
+          "num": 6,
+          "waku": 5,
+          "name": "キタノレガーロ",
+          "horseId": "2021106455",
+          "sexAge": "牝5",
+          "weight": 54.0,
+          "jockey": "中山蓮王",
+          "trainer": "平山宏秀",
+          "horseWeight": null,
+          "odds": 137.2,
+          "recent": [
+            {
+              "fin": 9,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260404",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260306",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260208",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260125",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20251217",
+              "baba": "稍",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 108,
+          "style": "差"
+        },
+        {
+          "num": 7,
+          "waku": 6,
+          "name": "ロードゴスペル",
+          "horseId": "2023105790",
+          "sexAge": "牡3",
+          "weight": 56.0,
+          "jockey": "山口勲",
+          "trainer": "池田忠好",
+          "horseWeight": null,
+          "odds": 10.2,
           "recent": [
             {
               "fin": 5,
@@ -752,204 +1146,134 @@ window.RACE_DATA = {
               "dist": "ダ1300"
             },
             {
-              "fin": 2,
+              "fin": 4,
               "date": "20260524",
               "baba": "良",
-              "dist": "ダ900"
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260509",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 14,
+              "date": "20260328",
+              "baba": "稍",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 14,
+              "date": "20260214",
+              "baba": "稍",
+              "dist": "ダ1800"
             }
           ],
-          "spd": 93,
+          "central": true,
+          "transfer": false,
+          "spd": 97,
           "style": "先"
         },
         {
-          "num": 5,
-          "waku": 5,
-          "name": "スターオブタワー",
-          "horseId": "2024100215",
-          "sexAge": "牝2",
+          "num": 8,
+          "waku": 6,
+          "name": "オコリンボーマミー",
+          "horseId": "2023101687",
+          "sexAge": "牝3",
           "weight": 54.0,
           "jockey": "飛田愛斗",
-          "trainer": "池田忠好",
+          "trainer": "手島勝利",
           "horseWeight": null,
-          "odds": 3.4,
+          "odds": 6.0,
           "recent": [
             {
-              "fin": 2,
-              "date": "20260606",
+              "fin": 15,
+              "date": "20260523",
               "baba": "稍",
-              "dist": "ダ900"
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 12,
+              "date": "20260510",
+              "baba": "良",
+              "dist": "芝1800"
+            },
+            {
+              "fin": 16,
+              "date": "20260201",
+              "baba": "良",
+              "dist": "芝1200"
             }
-          ],
-          "spd": 103,
-          "style": "逃"
+          ]
         },
         {
-          "num": 6,
-          "waku": 6,
-          "name": "ナベシマスター",
-          "horseId": "2024105397",
-          "sexAge": "牡2",
-          "weight": 55.0,
-          "jockey": "石川慎将",
-          "trainer": "真島元徳",
+          "num": 9,
+          "waku": 7,
+          "name": "パワーレイヤー",
+          "horseId": "2023109124",
+          "sexAge": "牡3",
+          "weight": 53.0,
+          "jockey": "後藤武蔵",
+          "trainer": "三小田幸",
           "horseWeight": null,
-          "odds": 7.5,
+          "odds": 61.6,
           "recent": [
             {
-              "fin": 4,
-              "date": "20260607",
+              "fin": 7,
+              "date": "20260606",
               "baba": "稍",
               "dist": "ダ1300"
             },
             {
-              "fin": 3,
+              "fin": 6,
               "date": "20260524",
               "baba": "良",
-              "dist": "ダ900"
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260509",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260425",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260412",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260329",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260314",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260228",
+              "baba": "不",
+              "dist": "ダ1400"
             }
           ],
-          "spd": 94,
-          "style": "差"
+          "spd": 93,
+          "style": "追"
         },
         {
-          "num": 7,
+          "num": 10,
           "waku": 7,
-          "name": "ヒイラヴズユウ",
-          "horseId": "2024105703",
-          "sexAge": "牡2",
-          "weight": 55.0,
-          "jockey": "川島拓",
-          "trainer": "真島正徳",
-          "horseWeight": null,
-          "odds": 8.9,
-          "recent": [
-            {
-              "fin": 2,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ900"
-            }
-          ],
-          "spd": 103,
-          "style": "先"
-        }
-      ],
-      "raceId": "202655072003",
-      "oddsUpdatedAt": "16:40",
-      "result": {
-        "order": [
-          7,
-          6,
-          1,
-          2,
-          4,
-          5,
-          3
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                7
-              ],
-              "amount": 760
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                7
-              ],
-              "amount": 450
-            },
-            {
-              "comb": [
-                6
-              ],
-              "amount": 210
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                6,
-                7
-              ],
-              "amount": 1020
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                6,
-                7
-              ],
-              "amount": 280
-            },
-            {
-              "comb": [
-                1,
-                7
-              ],
-              "amount": 530
-            },
-            {
-              "comb": [
-                1,
-                6
-              ],
-              "amount": 260
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                7,
-                6
-              ],
-              "amount": 1710
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                1,
-                6,
-                7
-              ],
-              "amount": 1220
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                7,
-                6,
-                1
-              ],
-              "amount": 7570
-            }
-          ]
-        }
-      }
-    },
-    {
-      "raceNo": 4,
-      "name": "3歳ー10組",
-      "distance": 1400,
-      "surface": "ダ",
-      "condition": "良",
-      "startTime": "17:20",
-      "grade": "サラ系３歳 3歳",
-      "meetingInfo": [
-        "7回",
-        "佐賀",
-        "6日目"
-      ],
-      "horses": [
-        {
-          "num": 1,
-          "waku": 1,
           "name": "パークヒルシューズ",
           "horseId": "2023106116",
           "sexAge": "牝3",
@@ -957,7 +1281,7 @@ window.RACE_DATA = {
           "jockey": "山田義貴",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 7.4,
+          "odds": 8.8,
           "recent": [
             {
               "fin": 12,
@@ -1002,6 +1326,1499 @@ window.RACE_DATA = {
           "style": "追"
         },
         {
+          "num": 11,
+          "waku": 8,
+          "name": "ヒコボシ",
+          "horseId": "2023102109",
+          "sexAge": "牡3",
+          "weight": 56.0,
+          "jockey": "田中純",
+          "trainer": "九日俊光",
+          "horseWeight": null,
+          "odds": 12.4,
+          "recent": [
+            {
+              "fin": 13,
+              "date": "20260530",
+              "baba": "良",
+              "dist": "芝2400"
+            },
+            {
+              "fin": 13,
+              "date": "20260419",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 11,
+              "date": "20260322",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 16,
+              "date": "20251207",
+              "baba": "良",
+              "dist": "芝1800"
+            },
+            {
+              "fin": 8,
+              "date": "20251108",
+              "baba": "良",
+              "dist": "芝1800"
+            },
+            {
+              "fin": 8,
+              "date": "20250831",
+              "baba": "良",
+              "dist": "芝1800"
+            }
+          ]
+        },
+        {
+          "num": 12,
+          "waku": 8,
+          "name": "ライトニングラン",
+          "horseId": "2022102657",
+          "sexAge": "牝4",
+          "weight": 51.0,
+          "jockey": "椿聡太",
+          "trainer": "松島壽",
+          "horseWeight": null,
+          "odds": 17.9,
+          "recent": [
+            {
+              "fin": 9,
+              "date": "20260602",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260519",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260410",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260329",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260315",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20251207",
+              "baba": "重",
+              "dist": "ダ900"
+            },
+            {
+              "fin": 7,
+              "date": "20251117",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20251105",
+              "baba": "稍",
+              "dist": "ダ1500"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 109,
+          "style": "逃"
+        }
+      ],
+      "raceId": "202655080803"
+    },
+    {
+      "raceNo": 4,
+      "name": "九州馬主協会☆結☆佐賀競馬",
+      "distance": 1400,
+      "surface": "ダ",
+      "condition": "−",
+      "startTime": "17:45",
+      "grade": "サラ系一般",
+      "meetingInfo": [
+        "8回",
+        "佐賀",
+        "1日目"
+      ],
+      "horses": [
+        {
+          "num": 1,
+          "waku": 1,
+          "name": "ナンゴクトップガン",
+          "horseId": "2022109121",
+          "sexAge": "牡4",
+          "weight": 55.0,
+          "jockey": "小松丈二",
+          "trainer": "柳井宏之",
+          "horseWeight": null,
+          "odds": 73.7,
+          "recent": [
+            {
+              "fin": 11,
+              "date": "20260606",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260509",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20251115",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20251102",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20251018",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20251005",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20250921",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20250907",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 107,
+          "style": "差"
+        },
+        {
+          "num": 2,
+          "waku": 2,
+          "name": "ニシノサンストーン",
+          "horseId": "2022109162",
+          "sexAge": "牡4",
+          "weight": 56.0,
+          "jockey": "飛田愛斗",
+          "trainer": "渡辺博文",
+          "horseWeight": null,
+          "odds": 16.8,
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260601",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260419",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260406",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260322",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260314",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260228",
+              "baba": "不",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 111,
+          "style": "先"
+        },
+        {
+          "num": 3,
+          "waku": 3,
+          "name": "アッシュアール",
+          "horseId": "2023109097",
+          "sexAge": "牡3",
+          "weight": 55.0,
+          "jockey": "青海大樹",
+          "trainer": "池田忠好",
+          "horseWeight": null,
+          "odds": 2.5,
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260531",
+              "baba": "良",
+              "dist": "ダ2000"
+            },
+            {
+              "fin": 7,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 10,
+              "date": "20260406",
+              "baba": "重",
+              "dist": "ダ1750"
+            },
+            {
+              "fin": 4,
+              "date": "20260320",
+              "baba": "稍",
+              "dist": "ダ1750"
+            },
+            {
+              "fin": 1,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260129",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260104",
+              "baba": "良",
+              "dist": "ダ1750"
+            }
+          ],
+          "spd": 108,
+          "style": "追"
+        },
+        {
+          "num": 4,
+          "waku": 4,
+          "name": "エラブローラン",
+          "horseId": "2022109104",
+          "sexAge": "セ4",
+          "weight": 53.0,
+          "jockey": "後藤武蔵",
+          "trainer": "手島勝利",
+          "horseWeight": null,
+          "odds": 4.4,
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260601",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260518",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260504",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260308",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260212",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20260131",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ],
+          "spd": 109,
+          "style": "差"
+        },
+        {
+          "num": 5,
+          "waku": 5,
+          "name": "チェストイケ",
+          "horseId": "2022109177",
+          "sexAge": "牝4",
+          "weight": 53.0,
+          "jockey": "出水拓人",
+          "trainer": "真島正徳",
+          "horseWeight": null,
+          "odds": 79.4,
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260606",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260523",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260509",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260426",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260412",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260329",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260301",
+              "baba": "重",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 110,
+          "style": "先"
+        },
+        {
+          "num": 6,
+          "waku": 5,
+          "name": "カシノロイ",
+          "horseId": "2023109110",
+          "sexAge": "牡3",
+          "weight": 55.0,
+          "jockey": "長谷川蓮",
+          "trainer": "古賀光範",
+          "horseWeight": null,
+          "odds": 70.1,
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260530",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260328",
+              "baba": "稍",
+              "dist": "ダ900"
+            },
+            {
+              "fin": 7,
+              "date": "20260306",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260221",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260207",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
+          "spd": 103,
+          "style": "差"
+        },
+        {
+          "num": 7,
+          "waku": 6,
+          "name": "カシノフレックス",
+          "horseId": "2023109126",
+          "sexAge": "牡3",
+          "weight": 56.0,
+          "jockey": "金山昇馬",
+          "trainer": "東美義",
+          "horseWeight": null,
+          "odds": 7.1,
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260607",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260504",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260419",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260322",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260306",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 16,
+              "date": "20260210",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 5,
+              "date": "20260129",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 117,
+          "style": "先"
+        },
+        {
+          "num": 8,
+          "waku": 6,
+          "name": "リリーベネット",
+          "horseId": "2023109086",
+          "sexAge": "牝3",
+          "weight": 53.0,
+          "jockey": "田中直人",
+          "trainer": "手島勝利",
+          "horseWeight": null,
+          "odds": 6.8,
+          "recent": [
+            {
+              "fin": 12,
+              "date": "20260531",
+              "baba": "良",
+              "dist": "ダ2000"
+            },
+            {
+              "fin": 6,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20260419",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260328",
+              "baba": "稍",
+              "dist": "ダ900"
+            },
+            {
+              "fin": 2,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260207",
+              "baba": "良",
+              "dist": "ダ1750"
+            }
+          ],
+          "spd": 107,
+          "style": "先"
+        },
+        {
+          "num": 9,
+          "waku": 7,
+          "name": "カシノハンゾウ",
+          "horseId": "2023109129",
+          "sexAge": "牡3",
+          "weight": 56.0,
+          "jockey": "石川慎将",
+          "trainer": "真島正徳",
+          "horseWeight": null,
+          "odds": 7.3,
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260601",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260514",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260428",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260409",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 14,
+              "date": "20260201",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 9,
+              "date": "20260105",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 10,
+              "date": "20251025",
+              "baba": "良",
+              "dist": "芝1200"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 110,
+          "style": "先"
+        },
+        {
+          "num": 10,
+          "waku": 7,
+          "name": "ナンゴクキャンドル",
+          "horseId": "2022109156",
+          "sexAge": "牝4",
+          "weight": 54.0,
+          "jockey": "田中純",
+          "trainer": "古賀光範",
+          "horseWeight": null,
+          "odds": 18.9,
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260328",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260314",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260228",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260212",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260129",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260110",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20251220",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ]
+        },
+        {
+          "num": 11,
+          "waku": 8,
+          "name": "ゴーゴーコクラ",
+          "horseId": "2023109093",
+          "sexAge": "牡3",
+          "weight": 55.0,
+          "jockey": "川島拓",
+          "trainer": "古賀光範",
+          "horseWeight": null,
+          "odds": 69.7,
+          "recent": [
+            {
+              "fin": 3,
+              "date": "20260530",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260518",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260419",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 13,
+              "date": "20260221",
+              "baba": "良",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 4,
+              "date": "20260129",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 105,
+          "style": "差"
+        },
+        {
+          "num": 12,
+          "waku": 8,
+          "name": "ヴィジュイイジャン",
+          "horseId": "2023109113",
+          "sexAge": "牡3",
+          "weight": 52.0,
+          "jockey": "椿聡太",
+          "trainer": "真島元徳",
+          "horseWeight": null,
+          "odds": 31.2,
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260129",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260110",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20251207",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 10,
+              "date": "20250706",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 5,
+              "date": "20250629",
+              "baba": "良",
+              "dist": "芝1200"
+            }
+          ]
+        }
+      ],
+      "raceId": "202655080804"
+    },
+    {
+      "raceNo": 5,
+      "name": "C2ー28組",
+      "distance": 1400,
+      "surface": "ダ",
+      "condition": "−",
+      "startTime": "18:15",
+      "grade": "サラ系一般 C2",
+      "meetingInfo": [
+        "8回",
+        "佐賀",
+        "1日目"
+      ],
+      "horses": [
+        {
+          "num": 1,
+          "waku": 1,
+          "name": "テイエムオオアラシ",
+          "horseId": "2023101335",
+          "sexAge": "牡3",
+          "weight": 56.0,
+          "jockey": "中山蓮王",
+          "trainer": "平山宏秀",
+          "horseWeight": null,
+          "odds": 6.8,
+          "recent": [
+            {
+              "fin": 16,
+              "date": "20260620",
+              "baba": "稍",
+              "dist": "ダ1200"
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "waku": 2,
+          "name": "ダイメイハマダ",
+          "horseId": "2022104001",
+          "sexAge": "牡4",
+          "weight": 56.0,
+          "jockey": "出水拓人",
+          "trainer": "平山宏秀",
+          "horseWeight": null,
+          "odds": 34.3,
+          "recent": [
+            {
+              "fin": 10,
+              "date": "20260604",
+              "baba": "良",
+              "dist": "ダ1000"
+            },
+            {
+              "fin": 6,
+              "date": "20260520",
+              "baba": "良",
+              "dist": "ダ1000"
+            },
+            {
+              "fin": 11,
+              "date": "20260505",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 9,
+              "date": "20251113",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 7,
+              "date": "20251106",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 7,
+              "date": "20251021",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 11,
+              "date": "20251008",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 5,
+              "date": "20250826",
+              "baba": "良",
+              "dist": "ダ1200"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 103,
+          "style": "差"
+        },
+        {
+          "num": 3,
+          "waku": 3,
+          "name": "ペリドットテソーロ",
+          "horseId": "2023106740",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "山田義貴",
+          "trainer": "真島正徳",
+          "horseWeight": null,
+          "odds": 4.2,
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260210",
+              "baba": "稍",
+              "dist": "ダ1600"
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "waku": 4,
+          "name": "バチェラーパーティ",
+          "horseId": "2022106370",
+          "sexAge": "牡4",
+          "weight": 56.0,
+          "jockey": "長田進仁",
+          "trainer": "中野博",
+          "horseWeight": null,
+          "odds": 73.7,
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260531",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260306",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 100,
+          "style": "先"
+        },
+        {
+          "num": 5,
+          "waku": 5,
+          "name": "トルマリンテソーロ",
+          "horseId": "2023100013",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "田中直人",
+          "trainer": "川田孝好",
+          "horseWeight": null,
+          "odds": 4.3,
+          "recent": [
+            {
+              "fin": 13,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 13,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1800"
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "waku": 5,
+          "name": "カーリーエンジェル",
+          "horseId": "2023105590",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "金山昇馬",
+          "trainer": "池田忠好",
+          "horseWeight": null,
+          "odds": 9.3,
+          "recent": [
+            {
+              "fin": 9,
+              "date": "20250816",
+              "baba": "良",
+              "dist": "芝1200"
+            }
+          ]
+        },
+        {
+          "num": 7,
+          "waku": 6,
+          "name": "マイホームヒロイン",
+          "horseId": "2022103337",
+          "sexAge": "牝4",
+          "weight": 53.0,
+          "jockey": "青海大樹",
+          "trainer": "矢野久美",
+          "horseWeight": null,
+          "odds": 70.8,
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260420",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260306",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260207",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 97,
+          "style": "逃"
+        },
+        {
+          "num": 8,
+          "waku": 6,
+          "name": "ジュンカチガラス",
+          "horseId": "2022106970",
+          "sexAge": "牝4",
+          "weight": 54.0,
+          "jockey": "川島拓",
+          "trainer": "川田孝好",
+          "horseWeight": null,
+          "odds": 31.9,
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260420",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260404",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260221",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260208",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260124",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20251214",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20251122",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20251107",
+              "baba": "良",
+              "dist": "ダ1300"
+            }
+          ]
+        },
+        {
+          "num": 9,
+          "waku": 7,
+          "name": "ヴィアツァ",
+          "horseId": "2022106766",
+          "sexAge": "牝4",
+          "weight": 54.0,
+          "jockey": "加茂飛翔",
+          "trainer": "頼本盛行",
+          "horseWeight": null,
+          "odds": 52.5,
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260530",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260419",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260404",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260320",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260307",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 96,
+          "style": "追"
+        },
+        {
+          "num": 10,
+          "waku": 7,
+          "name": "マイドリームガール",
+          "horseId": "2022107068",
+          "sexAge": "牝4",
+          "weight": 51.0,
+          "jockey": "後藤武蔵",
+          "trainer": "真島二也",
+          "horseWeight": null,
+          "odds": 6.6,
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260320",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260307",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260222",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260207",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260125",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 12,
+              "date": "20251019",
+              "baba": "重",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 12,
+              "date": "20250802",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 14,
+              "date": "20250608",
+              "baba": "良",
+              "dist": "芝1800"
+            }
+          ]
+        },
+        {
+          "num": 11,
+          "waku": 8,
+          "name": "キタノガイヤール",
+          "horseId": "2023101426",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "山下裕貴",
+          "trainer": "九日俊光",
+          "horseWeight": null,
+          "odds": 5.1,
+          "recent": [
+            {
+              "fin": 15,
+              "date": "20260620",
+              "baba": "稍",
+              "dist": "ダ1200"
+            }
+          ]
+        },
+        {
+          "num": 12,
+          "waku": 8,
+          "name": "オーロクリューソス",
+          "horseId": "2023100311",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "石川慎将",
+          "trainer": "真島元徳",
+          "horseWeight": null,
+          "odds": 13.6,
+          "recent": [
+            {
+              "fin": 6,
+              "date": "20260609",
+              "baba": "重",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 12,
+              "date": "20260509",
+              "baba": "稍",
+              "dist": "ダ1200"
+            }
+          ],
+          "central": true,
+          "transfer": true,
+          "spd": 84,
+          "style": "追"
+        }
+      ],
+      "raceId": "202655080805"
+    },
+    {
+      "raceNo": 6,
+      "name": "C2ー30組",
+      "distance": 1400,
+      "surface": "ダ",
+      "condition": "−",
+      "startTime": "18:45",
+      "grade": "サラ系一般 C2",
+      "meetingInfo": [
+        "8回",
+        "佐賀",
+        "1日目"
+      ],
+      "horses": [
+        {
+          "num": 1,
+          "waku": 1,
+          "name": "エクスプロウド",
+          "horseId": "2023104155",
+          "sexAge": "セ3",
+          "weight": 56.0,
+          "jockey": "飛田愛斗",
+          "trainer": "矢野久美",
+          "horseWeight": null,
+          "odds": 3.7,
+          "recent": [
+            {
+              "fin": 17,
+              "date": "20260621",
+              "baba": "稍",
+              "dist": "芝1400"
+            },
+            {
+              "fin": 13,
+              "date": "20260321",
+              "baba": "良",
+              "dist": "芝1400"
+            },
+            {
+              "fin": 14,
+              "date": "20251206",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 11,
+              "date": "20250927",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 8,
+              "date": "20250906",
+              "baba": "良",
+              "dist": "芝1400"
+            }
+          ]
+        },
+        {
           "num": 2,
           "waku": 2,
           "name": "スワイメイク",
@@ -1011,7 +2828,7 @@ window.RACE_DATA = {
           "jockey": "出水拓人",
           "trainer": "九日俊光",
           "horseWeight": null,
-          "odds": 28.1,
+          "odds": 47.4,
           "recent": [
             {
               "fin": 16,
@@ -1030,24 +2847,42 @@ window.RACE_DATA = {
         {
           "num": 3,
           "waku": 3,
-          "name": "フリーリターン",
-          "horseId": "2023107399",
+          "name": "メイショウシュハリ",
+          "horseId": "2023100983",
           "sexAge": "牝3",
           "weight": 54.0,
-          "jockey": "石川慎将",
-          "trainer": "大垣敏夫",
+          "jockey": "竹吉徹",
+          "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 4.6,
+          "odds": 7.6,
           "recent": [
             {
-              "fin": 15,
-              "date": "20260530",
+              "fin": 9,
+              "date": "20260704",
+              "baba": "重",
+              "dist": "芝2600"
+            },
+            {
+              "fin": 14,
+              "date": "20260411",
+              "baba": "良",
+              "dist": "芝2600"
+            },
+            {
+              "fin": 8,
+              "date": "20260301",
               "baba": "良",
               "dist": "芝2000"
             },
             {
-              "fin": 14,
-              "date": "20260404",
+              "fin": 10,
+              "date": "20260131",
+              "baba": "良",
+              "dist": "芝1800"
+            },
+            {
+              "fin": 11,
+              "date": "20251220",
               "baba": "良",
               "dist": "芝1600"
             }
@@ -1056,350 +2891,1242 @@ window.RACE_DATA = {
         {
           "num": 4,
           "waku": 4,
-          "name": "ロードゴスペル",
-          "horseId": "2023105790",
-          "sexAge": "牡3",
-          "weight": 56.0,
-          "jockey": "山口勲",
-          "trainer": "池田忠好",
+          "name": "チョウギャル",
+          "horseId": "2023102154",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "山下裕貴",
+          "trainer": "九日俊光",
           "horseWeight": null,
-          "odds": 20.3,
+          "odds": 14.1,
           "recent": [
             {
-              "fin": 5,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
+              "fin": 12,
+              "date": "20260606",
+              "baba": "良",
+              "dist": "芝1200"
             },
             {
-              "fin": 4,
-              "date": "20260524",
+              "fin": 12,
+              "date": "20260329",
               "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 7,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1300"
+              "dist": "芝1200"
             },
             {
               "fin": 14,
-              "date": "20260328",
-              "baba": "稍",
-              "dist": "ダ1800"
-            },
-            {
-              "fin": 14,
-              "date": "20260214",
-              "baba": "稍",
-              "dist": "ダ1800"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 97,
-          "style": "先"
-        },
-        {
-          "num": 5,
-          "waku": 5,
-          "name": "アメリカンロマン",
-          "horseId": "2023100801",
-          "sexAge": "牡3",
-          "weight": 56.0,
-          "jockey": "小松丈二",
-          "trainer": "大垣敏夫",
-          "horseWeight": null,
-          "odds": 9.5,
-          "recent": [
-            {
-              "fin": 7,
-              "date": "20260426",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260328",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260314",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 15,
               "date": "20260125",
               "baba": "良",
-              "dist": "ダ1900"
+              "dist": "芝1200"
             },
             {
-              "fin": 14,
-              "date": "20251220",
-              "baba": "良",
-              "dist": "ダ1800"
-            },
-            {
-              "fin": 14,
-              "date": "20251101",
-              "baba": "不",
-              "dist": "ダ1600"
-            },
-            {
-              "fin": 10,
-              "date": "20250915",
+              "fin": 11,
+              "date": "20251011",
               "baba": "良",
               "dist": "ダ1200"
             }
           ]
         },
         {
-          "num": 6,
-          "waku": 6,
-          "name": "トントゥ",
-          "horseId": "2023102962",
-          "sexAge": "牡3",
-          "weight": 55.0,
-          "jockey": "林悠翔",
-          "trainer": "渡辺博文",
+          "num": 5,
+          "waku": 5,
+          "name": "ハミングディスト",
+          "horseId": "2023102924",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "山田義貴",
+          "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 19.7,
+          "odds": 4.9,
           "recent": [
             {
-              "fin": 5,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 3,
-              "date": "20260524",
+              "fin": 15,
+              "date": "20260628",
               "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 8,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 9,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ2000"
+              "dist": "ダ1150"
             },
             {
               "fin": 15,
-              "date": "20260315",
+              "date": "20260426",
               "baba": "良",
-              "dist": "芝2200"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 100,
-          "style": "追"
-        },
-        {
-          "num": 7,
-          "waku": 6,
-          "name": "パワーレイヤー",
-          "horseId": "2023109124",
-          "sexAge": "牡3",
-          "weight": 56.0,
-          "jockey": "田中直人",
-          "trainer": "三小田幸",
-          "horseWeight": null,
-          "odds": 52.6,
-          "recent": [
+              "dist": "ダ1150"
+            },
             {
-              "fin": 7,
-              "date": "20260606",
+              "fin": 11,
+              "date": "20260228",
+              "baba": "重",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 18,
+              "date": "20250810",
               "baba": "稍",
-              "dist": "ダ1300"
+              "dist": "芝1400"
             },
             {
               "fin": 6,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 9,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 11,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 11,
-              "date": "20260412",
+              "date": "20250705",
               "baba": "稍",
-              "dist": "ダ1300"
+              "dist": "芝1800"
             },
             {
               "fin": 9,
-              "date": "20260329",
+              "date": "20250614",
               "baba": "良",
-              "dist": "ダ1300"
+              "dist": "芝1400"
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "waku": 6,
+          "name": "カゼノハゴロモ",
+          "horseId": "2023103073",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "小松丈二",
+          "trainer": "柳井宏之",
+          "horseWeight": null,
+          "odds": 7.8,
+          "recent": [
+            {
+              "fin": 12,
+              "date": "20260628",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 11,
+              "date": "20260207",
+              "baba": "良",
+              "dist": "ダ1000"
+            },
+            {
+              "fin": 10,
+              "date": "20251013",
+              "baba": "良",
+              "dist": "芝1400"
+            },
+            {
+              "fin": 12,
+              "date": "20250921",
+              "baba": "良",
+              "dist": "芝1600"
             },
             {
               "fin": 8,
-              "date": "20260314",
+              "date": "20250726",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 6,
+              "date": "20250706",
+              "baba": "良",
+              "dist": "芝1200"
+            }
+          ]
+        },
+        {
+          "num": 7,
+          "waku": 7,
+          "name": "ビサイレント",
+          "horseId": "2023105704",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "石川慎将",
+          "trainer": "真島元徳",
+          "horseWeight": null,
+          "odds": 6.8,
+          "recent": [
+            {
+              "fin": 15,
+              "date": "20260711",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 16,
+              "date": "20260627",
+              "baba": "重",
+              "dist": "芝1800"
+            },
+            {
+              "fin": 9,
+              "date": "20260425",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 12,
+              "date": "20260412",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 15,
+              "date": "20260201",
+              "baba": "良",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 11,
+              "date": "20251228",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ]
+        },
+        {
+          "num": 8,
+          "waku": 8,
+          "name": "イクヒロ",
+          "horseId": "2023102290",
+          "sexAge": "牡3",
+          "weight": 56.0,
+          "jockey": "田中純",
+          "trainer": "九日俊光",
+          "horseWeight": null,
+          "odds": 6.4,
+          "recent": [
+            {
+              "fin": 12,
+              "date": "20260628",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 14,
+              "date": "20260607",
               "baba": "良",
               "dist": "ダ1400"
             },
             {
-              "fin": 9,
-              "date": "20260228",
-              "baba": "不",
-              "dist": "ダ1400"
-            }
-          ],
-          "spd": 93,
-          "style": "追"
-        },
-        {
-          "num": 8,
-          "waku": 7,
-          "name": "リケアラザニア",
-          "horseId": "2023102103",
-          "sexAge": "牝3",
-          "weight": 54.0,
-          "jockey": "中山蓮王",
-          "trainer": "矢野久美",
-          "horseWeight": null,
-          "odds": 76.1,
-          "recent": [
+              "fin": 11,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "芝1600"
+            },
             {
-              "fin": 6,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1300"
+              "fin": 14,
+              "date": "20260301",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 12,
+              "date": "20251013",
+              "baba": "良",
+              "dist": "芝1400"
             },
             {
               "fin": 9,
+              "date": "20250920",
+              "baba": "良",
+              "dist": "ダ1200"
+            }
+          ]
+        },
+        {
+          "num": 9,
+          "waku": 8,
+          "name": "ブライトライツ",
+          "horseId": "2022103504",
+          "sexAge": "セ4",
+          "weight": 56.0,
+          "jockey": "川島拓",
+          "trainer": "川田孝好",
+          "horseWeight": null,
+          "odds": 8.1,
+          "recent": [
+            {
+              "fin": 12,
+              "date": "20260426",
+              "baba": "良",
+              "dist": "障2910"
+            },
+            {
+              "fin": 17,
+              "date": "20250906",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 15,
+              "date": "20250301",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 6,
+              "date": "20250222",
+              "baba": "良",
+              "dist": "芝1800"
+            },
+            {
+              "fin": 15,
+              "date": "20250201",
+              "baba": "良",
+              "dist": "芝1800"
+            },
+            {
+              "fin": 8,
+              "date": "20241110",
+              "baba": "良",
+              "dist": "芝1800"
+            },
+            {
+              "fin": 10,
+              "date": "20241026",
+              "baba": "良",
+              "dist": "芝2000"
+            }
+          ]
+        }
+      ],
+      "raceId": "202655080806"
+    },
+    {
+      "raceNo": 7,
+      "name": "葉月賞(B)",
+      "distance": 1750,
+      "surface": "ダ",
+      "condition": "−",
+      "startTime": "19:15",
+      "grade": "サラ系一般 B",
+      "meetingInfo": [
+        "8回",
+        "佐賀",
+        "1日目"
+      ],
+      "horses": [
+        {
+          "num": 1,
+          "waku": 1,
+          "name": "セプトラム",
+          "horseId": "2022105811",
+          "sexAge": "セ4",
+          "weight": 56.0,
+          "jockey": "金山昇馬",
+          "trainer": "北村欣也",
+          "horseWeight": null,
+          "odds": 11.9,
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260531",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
               "date": "20260523",
               "baba": "良",
               "dist": "ダ1300"
             },
             {
-              "fin": 10,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1300"
+              "fin": 1,
+              "date": "20260504",
+              "baba": "重",
+              "dist": "ダ1750"
             },
             {
-              "fin": 12,
-              "date": "20260408",
+              "fin": 1,
+              "date": "20260419",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260405",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260321",
               "baba": "稍",
               "dist": "ダ1400"
             },
             {
-              "fin": 10,
-              "date": "20260324",
+              "fin": 4,
+              "date": "20260307",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260222",
               "baba": "良",
-              "dist": "ダ1500"
+              "dist": "ダ1300"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 120,
+          "style": "追"
+        },
+        {
+          "num": 2,
+          "waku": 2,
+          "name": "ジャズダンス",
+          "horseId": "2021100219",
+          "sexAge": "牡5",
+          "weight": 53.0,
+          "jockey": "後藤武蔵",
+          "trainer": "真島元徳",
+          "horseWeight": null,
+          "odds": 20.3,
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260601",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 5,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260504",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260420",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260329",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260301",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260215",
+              "baba": "重",
+              "dist": "ダ1400"
+            }
+          ],
+          "spd": 115,
+          "style": "追"
+        },
+        {
+          "num": 3,
+          "waku": 3,
+          "name": "ミトノドリーム",
+          "horseId": "2022100681",
+          "sexAge": "牝4",
+          "weight": 54.0,
+          "jockey": "川島拓",
+          "trainer": "平山宏秀",
+          "horseWeight": null,
+          "odds": 24.1,
+          "recent": [
+            {
+              "fin": 5,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20250927",
+              "baba": "重",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20250830",
+              "baba": "良",
+              "dist": "ダ1750"
+            },
+            {
+              "fin": 4,
+              "date": "20250809",
+              "baba": "不",
+              "dist": "ダ1750"
+            },
+            {
+              "fin": 2,
+              "date": "20250629",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20250601",
+              "baba": "良",
+              "dist": "ダ2000"
+            },
+            {
+              "fin": 2,
+              "date": "20250504",
+              "baba": "稍",
+              "dist": "ダ1800"
+            }
+          ],
+          "spd": 117,
+          "style": "差"
+        },
+        {
+          "num": 4,
+          "waku": 4,
+          "name": "ブラーブデシジョン",
+          "horseId": "2022103763",
+          "sexAge": "牡4",
+          "weight": 56.0,
+          "jockey": "石川慎将",
+          "trainer": "真島二也",
+          "horseWeight": null,
+          "odds": 5.6,
+          "recent": [
+            {
+              "fin": 1,
+              "date": "20260509",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260312",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260218",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 5,
+              "date": "20260127",
+              "baba": "良",
+              "dist": "ダ1400"
             },
             {
               "fin": 12,
-              "date": "20260310",
+              "date": "20251214",
+              "baba": "稍",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 10,
+              "date": "20251018",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 15,
+              "date": "20251004",
+              "baba": "良",
+              "dist": "ダ1600"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 116,
+          "style": "差"
+        },
+        {
+          "num": 5,
+          "waku": 5,
+          "name": "コスモコンクエスト",
+          "horseId": "2017110108",
+          "sexAge": "牡9",
+          "weight": 56.0,
+          "jockey": "長田進仁",
+          "trainer": "中野博",
+          "horseWeight": null,
+          "odds": 36.1,
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260218",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20250917",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 4,
+              "date": "20250904",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 3,
+              "date": "20250813",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 5,
+              "date": "20250715",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20250611",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20250502",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20250418",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "waku": 6,
+          "name": "グレンノアラシ",
+          "horseId": "2021106804",
+          "sexAge": "牡5",
+          "weight": 53.0,
+          "jockey": "椿聡太",
+          "trainer": "真島元徳",
+          "horseWeight": null,
+          "odds": 52.2,
+          "recent": [
+            {
+              "fin": 8,
+              "date": "20260530",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260517",
               "baba": "良",
               "dist": "ダ1400"
             },
             {
               "fin": 9,
-              "date": "20260302",
-              "baba": "良",
-              "dist": "ダ1500"
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ900"
+            },
+            {
+              "fin": 8,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260404",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1400"
             },
             {
               "fin": 7,
-              "date": "20260212",
-              "baba": "稍",
-              "dist": "ダ1500"
+              "date": "20260306",
+              "baba": "不",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 2,
+              "date": "20260221",
+              "baba": "良",
+              "dist": "ダ1750"
             }
           ],
           "central": true,
           "transfer": false,
-          "spd": 98,
-          "style": "差"
+          "spd": 116,
+          "style": "先"
         },
         {
-          "num": 9,
+          "num": 7,
           "waku": 7,
-          "name": "マコトアタキギリ",
-          "horseId": "2023104032",
-          "sexAge": "牝3",
+          "name": "フランシナテソーロ",
+          "horseId": "2022106913",
+          "sexAge": "牝4",
           "weight": 54.0,
           "jockey": "飛田愛斗",
-          "trainer": "真島二也",
+          "trainer": "鮫島克也",
           "horseWeight": null,
-          "odds": 1.8,
+          "odds": 2.1,
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260531",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260523",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260510",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260404",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260307",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260214",
+              "baba": "稍",
+              "dist": "ダ1300"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 117,
+          "style": "逃"
+        },
+        {
+          "num": 8,
+          "waku": 7,
+          "name": "サヨノハッピー",
+          "horseId": "2019105007",
+          "sexAge": "牡7",
+          "weight": 56.0,
+          "jockey": "長谷川蓮",
+          "trainer": "松島壽",
+          "horseWeight": null,
+          "odds": 29.1,
           "recent": [
             {
               "fin": 8,
               "date": "20260519",
               "baba": "良",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 10,
+              "date": "20260424",
+              "baba": "重",
+              "dist": "ダ2000"
+            },
+            {
+              "fin": 8,
+              "date": "20260407",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260318",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260226",
+              "baba": "重",
               "dist": "ダ1500"
             },
             {
-              "fin": 15,
-              "date": "20260328",
-              "baba": "重",
-              "dist": "ダ1800"
-            },
-            {
-              "fin": 12,
-              "date": "20260308",
+              "fin": 2,
+              "date": "20260211",
               "baba": "稍",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 2,
+              "date": "20260113",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20251231",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ],
+          "spd": 119,
+          "style": "差"
+        },
+        {
+          "num": 9,
+          "waku": 8,
+          "name": "テーオースミス",
+          "horseId": "2020102339",
+          "sexAge": "牡6",
+          "weight": 56.0,
+          "jockey": "加茂飛翔",
+          "trainer": "井樋明正",
+          "horseWeight": null,
+          "odds": 5.9,
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260607",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260517",
+              "baba": "良",
               "dist": "ダ1800"
             },
             {
-              "fin": 11,
-              "date": "20251123",
-              "baba": "良",
+              "fin": 1,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260419",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260406",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260328",
+              "baba": "稍",
               "dist": "ダ1300"
             },
             {
-              "fin": 11,
-              "date": "20251108",
-              "baba": "良",
-              "dist": "芝1400"
+              "fin": 3,
+              "date": "20260301",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260214",
+              "baba": "重",
+              "dist": "ダ1750"
             }
           ],
           "central": true,
-          "transfer": true,
-          "spd": 99,
-          "style": "追"
+          "transfer": false,
+          "spd": 115,
+          "style": "先"
         },
         {
           "num": 10,
           "waku": 8,
-          "name": "ウルトラリオ",
-          "horseId": "2023104306",
+          "name": "イージスバローズ",
+          "horseId": "2020101563",
+          "sexAge": "セ6",
+          "weight": 56.0,
+          "jockey": "山口勲",
+          "trainer": "大島静夫",
+          "horseWeight": null,
+          "odds": 5.8,
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260530",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260322",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20251028",
+              "baba": "稍",
+              "dist": "ダ1500"
+            },
+            {
+              "fin": 3,
+              "date": "20250930",
+              "baba": "良",
+              "dist": "ダ2000"
+            },
+            {
+              "fin": 5,
+              "date": "20250902",
+              "baba": "良",
+              "dist": "ダ1500"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 117,
+          "style": "差"
+        }
+      ],
+      "raceId": "202655080807"
+    },
+    {
+      "raceNo": 8,
+      "name": "SAGAリベンジャーズダッシュ(C2)",
+      "distance": 900,
+      "surface": "ダ",
+      "condition": "−",
+      "startTime": "19:50",
+      "grade": "サラ系一般 C2",
+      "meetingInfo": [
+        "8回",
+        "佐賀",
+        "1日目"
+      ],
+      "horses": [
+        {
+          "num": 1,
+          "waku": 1,
+          "name": "ウィザードオブマリ",
+          "horseId": "2023100805",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "長谷川蓮",
+          "trainer": "東眞市",
+          "horseWeight": null,
+          "odds": 4.0,
+          "recent": [
+            {
+              "fin": 15,
+              "date": "20260510",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260418",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 9,
+              "date": "20260404",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 13,
+              "date": "20260104",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 17,
+              "date": "20251004",
+              "baba": "良",
+              "dist": "芝1400"
+            }
+          ]
+        },
+        {
+          "num": 2,
+          "waku": 2,
+          "name": "ジョーマゴス",
+          "horseId": "2023100286",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "飛田愛斗",
+          "trainer": "手島勝利",
+          "horseWeight": null,
+          "odds": 4.6,
+          "recent": [
+            {
+              "fin": 12,
+              "date": "20260524",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 7,
+              "date": "20260318",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 13,
+              "date": "20251213",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ]
+        },
+        {
+          "num": 3,
+          "waku": 3,
+          "name": "バーニングラン",
+          "horseId": "2023102346",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "田中純",
+          "trainer": "柳井宏之",
+          "horseWeight": null,
+          "odds": 13.0,
+          "recent": [
+            {
+              "fin": 15,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 17,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "芝1400"
+            }
+          ]
+        },
+        {
+          "num": 4,
+          "waku": 4,
+          "name": "ケンブリッジルプス",
+          "horseId": "2023101688",
           "sexAge": "牡3",
           "weight": 53.0,
           "jockey": "椿聡太",
+          "trainer": "手島勝利",
+          "horseWeight": null,
+          "odds": 24.9,
+          "recent": [
+            {
+              "fin": 7,
+              "date": "20260607",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260524",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260510",
+              "baba": "良",
+              "dist": "ダ900"
+            },
+            {
+              "fin": 6,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 15,
+              "date": "20260131",
+              "baba": "良",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 14,
+              "date": "20260111",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 16,
+              "date": "20251130",
+              "baba": "良",
+              "dist": "ダ1600"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 94,
+          "style": "追"
+        },
+        {
+          "num": 5,
+          "waku": 5,
+          "name": "ヴィラフランカ",
+          "horseId": "2023110074",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "石川慎将",
           "trainer": "真島元徳",
           "horseWeight": null,
-          "odds": 79.0,
+          "odds": 9.6,
+          "recent": [
+            {
+              "fin": 13,
+              "date": "20260530",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 11,
+              "date": "20260423",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 18,
+              "date": "20260301",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 12,
+              "date": "20251213",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "waku": 5,
+          "name": "ピコパープル",
+          "horseId": "2023100706",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "山口勲",
+          "trainer": "九日俊光",
+          "horseWeight": null,
+          "odds": 5.1,
+          "recent": [
+            {
+              "fin": 14,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 18,
+              "date": "20260228",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 12,
+              "date": "20251206",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 16,
+              "date": "20250628",
+              "baba": "稍",
+              "dist": "芝1200"
+            }
+          ]
+        },
+        {
+          "num": 7,
+          "waku": 6,
+          "name": "テムホウサク",
+          "horseId": "2023100480",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "中山蓮王",
+          "trainer": "平山宏秀",
+          "horseWeight": null,
+          "odds": 49.3,
           "recent": [
             {
               "fin": 9,
@@ -1408,13 +4135,302 @@ window.RACE_DATA = {
               "dist": "ダ1300"
             },
             {
-              "fin": 8,
-              "date": "20260523",
+              "fin": 9,
+              "date": "20260524",
               "baba": "良",
               "dist": "ダ1300"
             },
             {
+              "fin": 9,
+              "date": "20260425",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 13,
+              "date": "20260301",
+              "baba": "良",
+              "dist": "芝2000"
+            },
+            {
+              "fin": 13,
+              "date": "20251228",
+              "baba": "良",
+              "dist": "芝1800"
+            },
+            {
+              "fin": 17,
+              "date": "20251207",
+              "baba": "良",
+              "dist": "芝1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 118,
+          "style": "差"
+        },
+        {
+          "num": 8,
+          "waku": 6,
+          "name": "メイショウルビー",
+          "horseId": "2023104987",
+          "sexAge": "牝3",
+          "weight": 53.0,
+          "jockey": "青海大樹",
+          "trainer": "中野博",
+          "horseWeight": null,
+          "odds": 20.8,
+          "recent": [
+            {
+              "fin": 16,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 16,
+              "date": "20260404",
+              "baba": "稍",
+              "dist": "ダ1800"
+            }
+          ]
+        },
+        {
+          "num": 9,
+          "waku": 7,
+          "name": "タフバディ",
+          "horseId": "2023100459",
+          "sexAge": "牡3",
+          "weight": 56.0,
+          "jockey": "田中直人",
+          "trainer": "倉富隆一",
+          "horseWeight": null,
+          "odds": 9.9,
+          "recent": [
+            {
+              "fin": 10,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "ダ2100"
+            },
+            {
+              "fin": 10,
+              "date": "20260421",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 13,
+              "date": "20260328",
+              "baba": "重",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 11,
+              "date": "20250810",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 16,
+              "date": "20250719",
+              "baba": "良",
+              "dist": "芝1800"
+            }
+          ]
+        },
+        {
+          "num": 10,
+          "waku": 7,
+          "name": "クラウンプレゼンタ",
+          "horseId": "2023100795",
+          "sexAge": "牡3",
+          "weight": 56.0,
+          "jockey": "加茂飛翔",
+          "trainer": "大島静夫",
+          "horseWeight": null,
+          "odds": 26.6,
+          "recent": [
+            {
               "fin": 8,
+              "date": "20260607",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 7,
+              "date": "20260524",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260510",
+              "baba": "良",
+              "dist": "ダ900"
+            },
+            {
+              "fin": 9,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260412",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260329",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 13,
+              "date": "20260104",
+              "baba": "稍",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 14,
+              "date": "20251214",
+              "baba": "稍",
+              "dist": "ダ1200"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 90,
+          "style": "差"
+        },
+        {
+          "num": 11,
+          "waku": 8,
+          "name": "ケイツースクード",
+          "horseId": "2023104018",
+          "sexAge": "牡3",
+          "weight": 56.0,
+          "jockey": "出水拓人",
+          "trainer": "松島壽",
+          "horseWeight": null,
+          "odds": 12.5,
+          "recent": [
+            {
+              "fin": 16,
+              "date": "20260517",
+              "baba": "良",
+              "dist": "芝1800"
+            },
+            {
+              "fin": 14,
+              "date": "20260503",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 11,
+              "date": "20260425",
+              "baba": "良",
+              "dist": "芝1200"
+            },
+            {
+              "fin": 14,
+              "date": "20260207",
+              "baba": "良",
+              "dist": "芝1600"
+            },
+            {
+              "fin": 10,
+              "date": "20251228",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 6,
+              "date": "20251124",
+              "baba": "良",
+              "dist": "芝1400"
+            }
+          ]
+        },
+        {
+          "num": 12,
+          "waku": 8,
+          "name": "クラックアスマイル",
+          "horseId": "2023103309",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "長田進仁",
+          "trainer": "中野博",
+          "horseWeight": null,
+          "odds": 12.5,
+          "recent": [
+            {
+              "fin": 13,
+              "date": "20260606",
+              "baba": "稍",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 11,
+              "date": "20260412",
+              "baba": "良",
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 16,
+              "date": "20260131",
+              "baba": "良",
+              "dist": "ダ1400"
+            }
+          ]
+        }
+      ],
+      "raceId": "202655080808"
+    },
+    {
+      "raceNo": 9,
+      "name": "クレオメ賞(B)",
+      "distance": 1400,
+      "surface": "ダ",
+      "condition": "−",
+      "startTime": "20:20",
+      "grade": "サラ系一般 B",
+      "meetingInfo": [
+        "8回",
+        "佐賀",
+        "1日目"
+      ],
+      "horses": [
+        {
+          "num": 1,
+          "waku": 1,
+          "name": "アルルカン",
+          "horseId": "2020104478",
+          "sexAge": "牡6",
+          "weight": 56.0,
+          "jockey": "川島拓",
+          "trainer": "中川竜馬",
+          "horseWeight": null,
+          "odds": 311.6,
+          "recent": [
+            {
+              "fin": 4,
+              "date": "20260524",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
               "date": "20260510",
               "baba": "良",
               "dist": "ダ1400"
@@ -1422,398 +4438,36 @@ window.RACE_DATA = {
             {
               "fin": 8,
               "date": "20260426",
-              "baba": "重",
+              "baba": "不",
               "dist": "ダ1400"
             },
             {
-              "fin": 10,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 3,
+              "fin": 12,
               "date": "20260329",
               "baba": "良",
-              "dist": "ダ1300"
+              "dist": "ダ1400"
             },
             {
-              "fin": 5,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 9,
-              "date": "20260301",
+              "fin": 3,
+              "date": "20260308",
               "baba": "重",
-              "dist": "ダ1300"
-            }
-          ],
-          "spd": 93,
-          "style": "差"
-        },
-        {
-          "num": 11,
-          "waku": 8,
-          "name": "ニシノカーロ",
-          "horseId": "2023106262",
-          "sexAge": "牡3",
-          "weight": 56.0,
-          "jockey": "川島拓",
-          "trainer": "土井道隆",
-          "horseWeight": null,
-          "odds": 11.9,
-          "recent": [
-            {
-              "fin": 3,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 6,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 14,
-              "date": "20260419",
-              "baba": "良",
-              "dist": "ダ1800"
-            },
-            {
-              "fin": 15,
-              "date": "20260307",
-              "baba": "稍",
-              "dist": "芝2200"
-            },
-            {
-              "fin": 14,
-              "date": "20251206",
-              "baba": "良",
-              "dist": "芝2000"
-            }
-          ],
-          "central": true,
-          "transfer": true,
-          "spd": 101,
-          "style": "差"
-        }
-      ],
-      "raceId": "202655072004",
-      "oddsUpdatedAt": "17:10",
-      "result": {
-        "order": [
-          9,
-          6,
-          11,
-          3,
-          1,
-          10,
-          4,
-          7,
-          5,
-          8,
-          2
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                9
-              ],
-              "amount": 160
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                9
-              ],
-              "amount": 140
-            },
-            {
-              "comb": [
-                6
-              ],
-              "amount": 380
-            },
-            {
-              "comb": [
-                11
-              ],
-              "amount": 280
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                6,
-                9
-              ],
-              "amount": 1620
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                6,
-                9
-              ],
-              "amount": 590
-            },
-            {
-              "comb": [
-                9,
-                11
-              ],
-              "amount": 260
-            },
-            {
-              "comb": [
-                6,
-                11
-              ],
-              "amount": 1430
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                9,
-                6
-              ],
-              "amount": 2250
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                6,
-                9,
-                11
-              ],
-              "amount": 2090
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                9,
-                6,
-                11
-              ],
-              "amount": 7330
-            }
-          ]
-        }
-      }
-    },
-    {
-      "raceNo": 5,
-      "name": "オーシャン賞",
-      "distance": 1400,
-      "surface": "ダ",
-      "condition": "良",
-      "startTime": "17:55",
-      "grade": "サラ系一般",
-      "meetingInfo": [
-        "7回",
-        "佐賀",
-        "6日目"
-      ],
-      "horses": [
-        {
-          "num": 1,
-          "waku": 1,
-          "name": "フクノブルジュ",
-          "horseId": "2020101465",
-          "sexAge": "牡6",
-          "weight": 55.0,
-          "jockey": "金山昇馬",
-          "trainer": "池田忠好",
-          "horseWeight": null,
-          "odds": 21.5,
-          "recent": [
-            {
-              "fin": 3,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 5,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 3,
-              "date": "20260314",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 11,
-              "date": "20260228",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 5,
-              "date": "20260131",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260111",
-              "baba": "良",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 119,
-          "style": "追"
-        },
-        {
-          "num": 2,
-          "waku": 2,
-          "name": "ミフネ",
-          "horseId": "2020104309",
-          "sexAge": "セ6",
-          "weight": 52.0,
-          "jockey": "後藤武蔵",
-          "trainer": "真島元徳",
-          "horseWeight": null,
-          "odds": 103.2,
-          "recent": [
-            {
-              "fin": 8,
-              "date": "20260531",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260517",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260503",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 7,
-              "date": "20260405",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260328",
-              "baba": "稍",
               "dist": "ダ1400"
             },
             {
               "fin": 8,
-              "date": "20260314",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260228",
-              "baba": "不",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 117,
-          "style": "追"
-        },
-        {
-          "num": 3,
-          "waku": 3,
-          "name": "ケイアイアンタレス",
-          "horseId": "2021106565",
-          "sexAge": "牡5",
-          "weight": 55.0,
-          "jockey": "飛田愛斗",
-          "trainer": "鮫島克也",
-          "horseWeight": null,
-          "odds": 1.1,
-          "recent": [
-            {
-              "fin": 1,
-              "date": "20260531",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260517",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260503",
-              "baba": "不",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 2,
-              "date": "20260418",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260404",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260322",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
               "date": "20260221",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20260207",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260124",
               "baba": "良",
               "dist": "ダ1400"
             }
@@ -1821,2408 +4475,75 @@ window.RACE_DATA = {
           "central": true,
           "transfer": false,
           "spd": 124,
-          "style": "逃"
-        },
-        {
-          "num": 4,
-          "waku": 4,
-          "name": "ファルコンビーク",
-          "horseId": "2017101170",
-          "sexAge": "牡9",
-          "weight": 56.0,
-          "jockey": "小松丈二",
-          "trainer": "九日俊光",
-          "horseWeight": null,
-          "odds": 86.3,
-          "recent": [
-            {
-              "fin": 7,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 12,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1800"
-            },
-            {
-              "fin": 6,
-              "date": "20260426",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 11,
-              "date": "20260411",
-              "baba": "不",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 8,
-              "date": "20251004",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 10,
-              "date": "20250802",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 6,
-              "date": "20250719",
-              "baba": "不",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 132,
-          "style": "追"
-        },
-        {
-          "num": 5,
-          "waku": 5,
-          "name": "エコロファルコン",
-          "horseId": "2018104491",
-          "sexAge": "牡8",
-          "weight": 55.0,
-          "jockey": "山田義貴",
-          "trainer": "真島正徳",
-          "horseWeight": null,
-          "odds": 16.5,
-          "recent": [
-            {
-              "fin": 6,
-              "date": "20260510",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 12,
-              "date": "20260425",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 7,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1600"
-            },
-            {
-              "fin": 1,
-              "date": "20260208",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260125",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260110",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20251221",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20250720",
-              "baba": "不",
-              "dist": "ダ1300"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 122,
-          "style": "先"
-        },
-        {
-          "num": 6,
-          "waku": 6,
-          "name": "ビレッジシングル",
-          "horseId": "2019103347",
-          "sexAge": "牡7",
-          "weight": 55.0,
-          "jockey": "田中純",
-          "trainer": "濱田一夫",
-          "horseWeight": null,
-          "odds": 28.4,
-          "recent": [
-            {
-              "fin": 4,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ900"
-            },
-            {
-              "fin": 6,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260411",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 2,
-              "date": "20260328",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260228",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 8,
-              "date": "20260214",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260201",
-              "baba": "良",
-              "dist": "ダ900"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 122,
-          "style": "先"
-        },
-        {
-          "num": 7,
-          "waku": 7,
-          "name": "テイエムダイタカ",
-          "horseId": "2022103678",
-          "sexAge": "牡4",
-          "weight": 55.0,
-          "jockey": "石川慎将",
-          "trainer": "平山宏秀",
-          "horseWeight": null,
-          "odds": 13.4,
-          "recent": [
-            {
-              "fin": 7,
-              "date": "20260531",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260503",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260418",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260404",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260320",
-              "baba": "稍",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 1,
-              "date": "20260306",
-              "baba": "不",
-              "dist": "ダ1800"
-            },
-            {
-              "fin": 2,
-              "date": "20260222",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260125",
-              "baba": "良",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 122,
-          "style": "先"
-        },
-        {
-          "num": 8,
-          "waku": 7,
-          "name": "ベイデンマリーナ",
-          "horseId": "2021104040",
-          "sexAge": "牝5",
-          "weight": 51.0,
-          "jockey": "椿聡太",
-          "trainer": "池田忠好",
-          "horseWeight": null,
-          "odds": 16.1,
-          "recent": [
-            {
-              "fin": 8,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260426",
-              "baba": "不",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 4,
-              "date": "20260411",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260328",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260228",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260212",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 16,
-              "date": "20260112",
-              "baba": "良",
-              "dist": "ダ1800"
-            }
-          ],
-          "spd": 117,
           "style": "差"
-        },
-        {
-          "num": 9,
-          "waku": 8,
-          "name": "トリオンファーレ",
-          "horseId": "2020102771",
-          "sexAge": "セ6",
-          "weight": 55.0,
-          "jockey": "長谷川蓮",
-          "trainer": "真島元徳",
-          "horseWeight": null,
-          "odds": 50.6,
-          "recent": [
-            {
-              "fin": 6,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 5,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 8,
-              "date": "20260411",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 4,
-              "date": "20260328",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260314",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260301",
-              "baba": "重",
-              "dist": "ダ2000"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 119,
-          "style": "追"
-        },
-        {
-          "num": 10,
-          "waku": 8,
-          "name": "ガルヴァナイズ",
-          "horseId": "2020103303",
-          "sexAge": "牡6",
-          "weight": 55.0,
-          "jockey": "出水拓人",
-          "trainer": "中川竜馬",
-          "horseWeight": null,
-          "odds": 25.8,
-          "recent": [
-            {
-              "fin": 7,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260418",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260405",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260320",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260307",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 7,
-              "date": "20260221",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260208",
-              "baba": "良",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 128,
-          "style": "差"
-        }
-      ],
-      "raceId": "202655072005",
-      "oddsUpdatedAt": "17:50",
-      "result": {
-        "order": [
-          3,
-          7,
-          1,
-          9,
-          6,
-          8,
-          4,
-          5,
-          2,
-          10
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                3
-              ],
-              "amount": 110
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                3
-              ],
-              "amount": 100
-            },
-            {
-              "comb": [
-                7
-              ],
-              "amount": 120
-            },
-            {
-              "comb": [
-                1
-              ],
-              "amount": 170
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                3,
-                7
-              ],
-              "amount": 280
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                3,
-                7
-              ],
-              "amount": 150
-            },
-            {
-              "comb": [
-                1,
-                3
-              ],
-              "amount": 170
-            },
-            {
-              "comb": [
-                1,
-                7
-              ],
-              "amount": 520
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                3,
-                7
-              ],
-              "amount": 370
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                1,
-                3,
-                7
-              ],
-              "amount": 600
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                3,
-                7,
-                1
-              ],
-              "amount": 1140
-            }
-          ]
-        }
-      }
-    },
-    {
-      "raceNo": 6,
-      "name": "C1ー14組",
-      "distance": 1400,
-      "surface": "ダ",
-      "condition": "良",
-      "startTime": "18:25",
-      "grade": "サラ系一般 C1",
-      "meetingInfo": [
-        "7回",
-        "佐賀",
-        "6日目"
-      ],
-      "horses": [
-        {
-          "num": 1,
-          "waku": 1,
-          "name": "ミコノオンガエシ",
-          "horseId": "2022100279",
-          "sexAge": "牝4",
-          "weight": 54.0,
-          "jockey": "中山蓮王",
-          "trainer": "松島壽",
-          "horseWeight": null,
-          "odds": 8.6,
-          "recent": [
-            {
-              "fin": 2,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 2,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260406",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 3,
-              "date": "20260322",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260220",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260204",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260108",
-              "baba": "良",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 111,
-          "style": "逃"
         },
         {
           "num": 2,
           "waku": 2,
-          "name": "アルヒジュル",
-          "horseId": "2021105603",
-          "sexAge": "セ5",
-          "weight": 56.0,
-          "jockey": "田中純",
-          "trainer": "九日俊光",
-          "horseWeight": null,
-          "odds": 11.8,
-          "recent": [
-            {
-              "fin": 10,
-              "date": "20260604",
-              "baba": "稍",
-              "dist": "ダ1500"
-            },
-            {
-              "fin": 8,
-              "date": "20260503",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260419",
-              "baba": "重",
-              "dist": "ダ1600"
-            },
-            {
-              "fin": 11,
-              "date": "20260405",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260317",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 10,
-              "date": "20260310",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 9,
-              "date": "20260223",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 7,
-              "date": "20260217",
-              "baba": "稍",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 114,
-          "style": "差"
-        },
-        {
-          "num": 3,
-          "waku": 3,
-          "name": "フェールアシュバル",
-          "horseId": "2017106105",
-          "sexAge": "牝9",
-          "weight": 54.0,
-          "jockey": "加茂飛翔",
-          "trainer": "大島静夫",
-          "horseWeight": null,
-          "odds": 58.1,
-          "recent": [
-            {
-              "fin": 8,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 9,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 10,
-              "date": "20260426",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260411",
-              "baba": "不",
-              "dist": "ダ900"
-            },
-            {
-              "fin": 10,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260308",
-              "baba": "重",
-              "dist": "ダ900"
-            },
-            {
-              "fin": 2,
-              "date": "20260225",
-              "baba": "不",
-              "dist": "ダ900"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 118,
-          "style": "逃"
-        },
-        {
-          "num": 4,
-          "waku": 4,
-          "name": "フークミャオリー",
-          "horseId": "2022104351",
-          "sexAge": "牝4",
-          "weight": 51.0,
-          "jockey": "椿聡太",
-          "trainer": "手島勝利",
-          "horseWeight": null,
-          "odds": 22.1,
-          "recent": [
-            {
-              "fin": 10,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260505",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 10,
-              "date": "20260414",
-              "baba": "良",
-              "dist": "ダ1230"
-            },
-            {
-              "fin": 4,
-              "date": "20260325",
-              "baba": "稍",
-              "dist": "ダ1230"
-            },
-            {
-              "fin": 1,
-              "date": "20260305",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260217",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 11,
-              "date": "20251113",
-              "baba": "稍",
-              "dist": "ダ1230"
-            },
-            {
-              "fin": 9,
-              "date": "20251022",
-              "baba": "稍",
-              "dist": "ダ1230"
-            }
-          ],
-          "spd": 104,
-          "style": "先"
-        },
-        {
-          "num": 5,
-          "waku": 5,
-          "name": "ビービーシャルム",
-          "horseId": "2022102410",
-          "sexAge": "牝4",
-          "weight": 54.0,
-          "jockey": "川島拓",
-          "trainer": "土井道隆",
-          "horseWeight": null,
-          "odds": 61.1,
-          "recent": [
-            {
-              "fin": 9,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 11,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 8,
-              "date": "20260426",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 11,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 11,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 11,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260301",
-              "baba": "重",
-              "dist": "ダ1400"
-            }
-          ],
-          "spd": 108,
-          "style": "追"
-        },
-        {
-          "num": 6,
-          "waku": 5,
-          "name": "デリングシチー",
-          "horseId": "2021100385",
-          "sexAge": "牡5",
-          "weight": 56.0,
-          "jockey": "小松丈二",
-          "trainer": "柳井宏之",
-          "horseWeight": null,
-          "odds": 44.7,
-          "recent": [
-            {
-              "fin": 10,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 10,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 7,
-              "date": "20260426",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260411",
-              "baba": "不",
-              "dist": "ダ900"
-            },
-            {
-              "fin": 9,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 6,
-              "date": "20260314",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260301",
-              "baba": "重",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 107,
-          "style": "差"
-        },
-        {
-          "num": 7,
-          "waku": 6,
-          "name": "ルミナスフラックス",
-          "horseId": "2019105142",
-          "sexAge": "セ7",
-          "weight": 56.0,
-          "jockey": "山口勲",
-          "trainer": "倉富隆一",
-          "horseWeight": null,
-          "odds": 4.7,
-          "recent": [
-            {
-              "fin": 3,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260518",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 2,
-              "date": "20260504",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260420",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20251214",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20251019",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 2,
-              "date": "20250927",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20250913",
-              "baba": "重",
-              "dist": "ダ1300"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 121,
-          "style": "先"
-        },
-        {
-          "num": 8,
-          "waku": 6,
-          "name": "アルディオール",
-          "horseId": "2021101721",
-          "sexAge": "セ5",
-          "weight": 56.0,
-          "jockey": "石川慎将",
-          "trainer": "九日俊光",
-          "horseWeight": null,
-          "odds": 5.2,
-          "recent": [
-            {
-              "fin": 8,
-              "date": "20260508",
-              "baba": "稍",
-              "dist": "ダ1500"
-            },
-            {
-              "fin": 10,
-              "date": "20260424",
-              "baba": "重",
-              "dist": "ダ1700"
-            },
-            {
-              "fin": 9,
-              "date": "20260413",
-              "baba": "良",
-              "dist": "ダ1500"
-            },
-            {
-              "fin": 10,
-              "date": "20251222",
-              "baba": "重",
-              "dist": "ダ1500"
-            },
-            {
-              "fin": 4,
-              "date": "20251205",
-              "baba": "良",
-              "dist": "ダ1500"
-            },
-            {
-              "fin": 10,
-              "date": "20251121",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20251031",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20251017",
-              "baba": "稍",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 112,
-          "style": "差"
-        },
-        {
-          "num": 9,
-          "waku": 7,
-          "name": "ジェイデン",
-          "horseId": "2019100010",
-          "sexAge": "牡7",
-          "weight": 56.0,
-          "jockey": "出水拓人",
-          "trainer": "頼本盛行",
-          "horseWeight": null,
-          "odds": 23.7,
-          "recent": [
-            {
-              "fin": 3,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 10,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 10,
-              "date": "20260326",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260227",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260205",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260114",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20251223",
-              "baba": "稍",
-              "dist": "ダ1230"
-            },
-            {
-              "fin": 9,
-              "date": "20251210",
-              "baba": "良",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 108,
-          "style": "差"
-        },
-        {
-          "num": 10,
-          "waku": 7,
-          "name": "コノハナサクヤヒメ",
-          "horseId": "2020104789",
-          "sexAge": "牝6",
-          "weight": 54.0,
-          "jockey": "田中直人",
-          "trainer": "川田孝好",
-          "horseWeight": null,
-          "odds": 16.9,
-          "recent": [
-            {
-              "fin": 9,
-              "date": "20260301",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260215",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260201",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20251207",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 11,
-              "date": "20251116",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20251018",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 8,
-              "date": "20250809",
-              "baba": "不",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 8,
-              "date": "20250719",
-              "baba": "不",
-              "dist": "ダ1400"
-            }
-          ]
-        },
-        {
-          "num": 11,
-          "waku": 8,
-          "name": "ベルゲンハート",
-          "horseId": "2021100621",
-          "sexAge": "牡5",
-          "weight": 56.0,
-          "jockey": "金山昇馬",
-          "trainer": "石川浩文",
-          "horseWeight": null,
-          "odds": 59.6,
-          "recent": [
-            {
-              "fin": 6,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 10,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 4,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 11,
-              "date": "20260426",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 9,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260328",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 12,
-              "date": "20260301",
-              "baba": "重",
-              "dist": "ダ1400"
-            }
-          ],
-          "spd": 104,
-          "style": "差"
-        },
-        {
-          "num": 12,
-          "waku": 8,
-          "name": "ジーティージン",
-          "horseId": "2021100119",
-          "sexAge": "牡5",
+          "name": "エムティピース",
+          "horseId": "2022101839",
+          "sexAge": "牡4",
           "weight": 56.0,
           "jockey": "飛田愛斗",
           "trainer": "渡辺博文",
           "horseWeight": null,
-          "odds": 2.3,
+          "odds": 28.7,
           "recent": [
             {
               "fin": 2,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260215",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260131",
+              "date": "20260530",
               "baba": "良",
               "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260110",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20251219",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20251208",
-              "baba": "重",
-              "dist": "ダ1500"
-            },
-            {
-              "fin": 8,
-              "date": "20251124",
-              "baba": "稍",
-              "dist": "ダ1500"
-            },
-            {
-              "fin": 1,
-              "date": "20251110",
-              "baba": "重",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 119,
-          "style": "差"
-        }
-      ],
-      "raceId": "202655072006",
-      "oddsUpdatedAt": "18:20",
-      "result": {
-        "order": [
-          12,
-          8,
-          1,
-          7,
-          4,
-          11,
-          5,
-          2,
-          10,
-          6,
-          9
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                12
-              ],
-              "amount": 150
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                12
-              ],
-              "amount": 180
-            },
-            {
-              "comb": [
-                8
-              ],
-              "amount": 160
-            },
-            {
-              "comb": [
-                1
-              ],
-              "amount": 340
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                8,
-                12
-              ],
-              "amount": 360
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                8,
-                12
-              ],
-              "amount": 180
-            },
-            {
-              "comb": [
-                1,
-                12
-              ],
-              "amount": 250
-            },
-            {
-              "comb": [
-                1,
-                8
-              ],
-              "amount": 780
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                12,
-                8
-              ],
-              "amount": 900
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                1,
-                8,
-                12
-              ],
-              "amount": 950
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                12,
-                8,
-                1
-              ],
-              "amount": 3680
-            }
-          ]
-        }
-      }
-    },
-    {
-      "raceNo": 7,
-      "name": "コーラル賞(C1)",
-      "distance": 1400,
-      "surface": "ダ",
-      "condition": "良",
-      "startTime": "19:00",
-      "grade": "サラ系一般 C1",
-      "meetingInfo": [
-        "7回",
-        "佐賀",
-        "6日目"
-      ],
-      "horses": [
-        {
-          "num": 1,
-          "waku": 1,
-          "name": "メイショウタダカツ",
-          "horseId": "2021101469",
-          "sexAge": "牡5",
-          "weight": 56.0,
-          "jockey": "中山蓮王",
-          "trainer": "松島壽",
-          "horseWeight": null,
-          "odds": 107.6,
-          "recent": [
-            {
-              "fin": 9,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 8,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 9,
-              "date": "20260426",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 10,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 10,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260301",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 11,
-              "date": "20260201",
-              "baba": "良",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 114,
-          "style": "差"
-        },
-        {
-          "num": 2,
-          "waku": 2,
-          "name": "ビーアイブラック",
-          "horseId": "2020104863",
-          "sexAge": "牝6",
-          "weight": 54.0,
-          "jockey": "山田義貴",
-          "trainer": "山田義人",
-          "horseWeight": null,
-          "odds": 14.5,
-          "recent": [
-            {
-              "fin": 7,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260426",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1300"
             },
             {
               "fin": 4,
+              "date": "20260516",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260412",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
               "date": "20260329",
               "baba": "良",
               "dist": "ダ1400"
             },
             {
-              "fin": 3,
-              "date": "20260314",
+              "fin": 8,
+              "date": "20260315",
               "baba": "良",
               "dist": "ダ1400"
             },
             {
-              "fin": 3,
+              "fin": 7,
               "date": "20260301",
               "baba": "重",
               "dist": "ダ1400"
             },
             {
-              "fin": 4,
-              "date": "20260201",
+              "fin": 1,
+              "date": "20260207",
               "baba": "良",
-              "dist": "ダ1750"
+              "dist": "ダ1400"
             }
           ],
-          "central": true,
-          "transfer": false,
-          "spd": 118,
-          "style": "差"
+          "spd": 113,
+          "style": "先"
         },
         {
           "num": 3,
           "waku": 3,
-          "name": "ディーズミソロジー",
-          "horseId": "2021100676",
-          "sexAge": "牝5",
-          "weight": 54.0,
-          "jockey": "小松丈二",
-          "trainer": "柳井宏之",
-          "horseWeight": null,
-          "odds": 34.2,
-          "recent": [
-            {
-              "fin": 3,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260504",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 8,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 5,
-              "date": "20260406",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 5,
-              "date": "20260322",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260308",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 3,
-              "date": "20260225",
-              "baba": "不",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 116,
-          "style": "追"
-        },
-        {
-          "num": 4,
-          "waku": 4,
-          "name": "メイショウムーヴ",
-          "horseId": "2021100994",
-          "sexAge": "牝5",
-          "weight": 54.0,
-          "jockey": "加茂飛翔",
-          "trainer": "大島静夫",
-          "horseWeight": null,
-          "odds": 143.5,
-          "recent": [
-            {
-              "fin": 11,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 11,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 11,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260328",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 9,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260301",
-              "baba": "重",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 107,
-          "style": "追"
-        },
-        {
-          "num": 5,
-          "waku": 5,
-          "name": "ミヤファイター",
-          "horseId": "2022102336",
-          "sexAge": "牝4",
-          "weight": 54.0,
-          "jockey": "山口勲",
-          "trainer": "九日俊光",
-          "horseWeight": null,
-          "odds": 8.2,
-          "recent": [
-            {
-              "fin": 9,
-              "date": "20260531",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260517",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 3,
-              "date": "20260503",
-              "baba": "不",
-              "dist": "ダ1600"
-            },
-            {
-              "fin": 4,
-              "date": "20260419",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 5,
-              "date": "20260405",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260317",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260302",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 2,
-              "date": "20260223",
-              "baba": "良",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 110,
-          "style": "差"
-        },
-        {
-          "num": 6,
-          "waku": 5,
-          "name": "ジーティーノーブル",
-          "horseId": "2021100615",
-          "sexAge": "牝5",
-          "weight": 54.0,
-          "jockey": "長谷川蓮",
-          "trainer": "松島壽",
-          "horseWeight": null,
-          "odds": 10.5,
-          "recent": [
-            {
-              "fin": 5,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 5,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260426",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 7,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 3,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 5,
-              "date": "20260228",
-              "baba": "不",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 4,
-              "date": "20260214",
-              "baba": "稍",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 109,
-          "style": "先"
-        },
-        {
-          "num": 7,
-          "waku": 6,
-          "name": "ガトリンテソーロ",
-          "horseId": "2022102271",
-          "sexAge": "牡4",
-          "weight": 56.0,
-          "jockey": "金山昇馬",
-          "trainer": "渡辺博文",
-          "horseWeight": null,
-          "odds": 12.8,
-          "recent": [
-            {
-              "fin": 9,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 8,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 5,
-              "date": "20260301",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260215",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 9,
-              "date": "20260131",
-              "baba": "良",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 107,
-          "style": "先"
-        },
-        {
-          "num": 8,
-          "waku": 6,
-          "name": "モズオラージュ",
-          "horseId": "2021102149",
-          "sexAge": "牡5",
-          "weight": 55.0,
-          "jockey": "林悠翔",
-          "trainer": "鮫島克也",
-          "horseWeight": null,
-          "odds": 1.3,
-          "recent": [
-            {
-              "fin": 4,
-              "date": "20260528",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260505",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260414",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260326",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260212",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260121",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260103",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20251218",
-              "baba": "良",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 111,
-          "style": "差"
-        },
-        {
-          "num": 9,
-          "waku": 7,
-          "name": "ユヌブリーズ",
-          "horseId": "2021101142",
-          "sexAge": "牝5",
-          "weight": 51.0,
-          "jockey": "椿聡太",
-          "trainer": "中川竜馬",
-          "horseWeight": null,
-          "odds": 22.1,
-          "recent": [
-            {
-              "fin": 4,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 11,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 4,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260328",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260314",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260225",
-              "baba": "不",
-              "dist": "ダ1300"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 117,
-          "style": "先"
-        },
-        {
-          "num": 10,
-          "waku": 7,
-          "name": "イサチルオアシス",
-          "horseId": "2022104542",
-          "sexAge": "牝4",
-          "weight": 54.0,
-          "jockey": "田中純",
-          "trainer": "九日俊光",
-          "horseWeight": null,
-          "odds": 54.8,
-          "recent": [
-            {
-              "fin": 5,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 6,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260405",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 5,
-              "date": "20260321",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260306",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 4,
-              "date": "20250914",
-              "baba": "不",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 108,
-          "style": "差"
-        },
-        {
-          "num": 11,
-          "waku": 8,
-          "name": "スノーサウンド",
-          "horseId": "2022107088",
-          "sexAge": "牝4",
-          "weight": 54.0,
-          "jockey": "出水拓人",
-          "trainer": "中川竜馬",
-          "horseWeight": null,
-          "odds": 36.7,
-          "recent": [
-            {
-              "fin": 11,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 4,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260411",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260321",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260307",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 6,
-              "date": "20260218",
-              "baba": "良",
-              "dist": "ダ800"
-            },
-            {
-              "fin": 5,
-              "date": "20260128",
-              "baba": "良",
-              "dist": "ダ800"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 106,
-          "style": "先"
-        },
-        {
-          "num": 12,
-          "waku": 8,
-          "name": "クリーンスレイト",
-          "horseId": "2018100684",
-          "sexAge": "セ8",
-          "weight": 53.0,
-          "jockey": "後藤武蔵",
-          "trainer": "真島正徳",
-          "horseWeight": null,
-          "odds": 79.3,
-          "recent": [
-            {
-              "fin": 9,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260426",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 5,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260301",
-              "baba": "重",
-              "dist": "ダ1300"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 120,
-          "style": "先"
-        }
-      ],
-      "raceId": "202655072007",
-      "oddsUpdatedAt": "18:50",
-      "result": {
-        "order": [
-          8,
-          6,
-          5
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                8
-              ],
-              "amount": 150
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                8
-              ],
-              "amount": 100
-            },
-            {
-              "comb": [
-                6
-              ],
-              "amount": 130
-            },
-            {
-              "comb": [
-                5
-              ],
-              "amount": 130
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                6,
-                8
-              ],
-              "amount": 650
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                6,
-                8
-              ],
-              "amount": 290
-            },
-            {
-              "comb": [
-                5,
-                8
-              ],
-              "amount": 160
-            },
-            {
-              "comb": [
-                5,
-                6
-              ],
-              "amount": 410
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                8,
-                6
-              ],
-              "amount": 840
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                5,
-                6,
-                8
-              ],
-              "amount": 640
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                8,
-                6,
-                5
-              ],
-              "amount": 2520
-            }
-          ]
-        }
-      }
-    },
-    {
-      "raceNo": 8,
-      "name": "ラグーン賞(B)",
-      "distance": 1400,
-      "surface": "ダ",
-      "condition": "良",
-      "startTime": "19:30",
-      "grade": "サラ系一般 B",
-      "meetingInfo": [
-        "7回",
-        "佐賀",
-        "6日目"
-      ],
-      "horses": [
-        {
-          "num": 1,
-          "waku": 1,
           "name": "セーデルマンランド",
           "horseId": "2022100688",
           "sexAge": "牡4",
@@ -4230,7 +4551,7 @@ window.RACE_DATA = {
           "jockey": "山口勲",
           "trainer": "池田忠好",
           "horseWeight": null,
-          "odds": 7.6,
+          "odds": 1.6,
           "recent": [
             {
               "fin": 1,
@@ -4287,83 +4608,21 @@ window.RACE_DATA = {
           "style": "差"
         },
         {
-          "num": 2,
-          "waku": 2,
-          "name": "アスコットロマン",
-          "horseId": "2022101287",
-          "sexAge": "牡4",
+          "num": 4,
+          "waku": 4,
+          "name": "サムシンググレート",
+          "horseId": "2020106760",
+          "sexAge": "牡6",
           "weight": 56.0,
-          "jockey": "石川慎将",
-          "trainer": "手島勝利",
-          "horseWeight": null,
-          "odds": 10.8,
-          "recent": [
-            {
-              "fin": 1,
-              "date": "20260418",
-              "baba": "重",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 6,
-              "date": "20260404",
-              "baba": "不",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 4,
-              "date": "20260320",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260307",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260214",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 2,
-              "date": "20260118",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 2,
-              "date": "20251228",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20251207",
-              "baba": "良",
-              "dist": "ダ1400"
-            }
-          ]
-        },
-        {
-          "num": 3,
-          "waku": 3,
-          "name": "タケノオーカン",
-          "horseId": "2022102359",
-          "sexAge": "牡4",
-          "weight": 56.0,
-          "jockey": "加茂飛翔",
+          "jockey": "田中純",
           "trainer": "松島壽",
           "horseWeight": null,
-          "odds": 15.5,
+          "odds": 31.5,
           "recent": [
             {
               "fin": 1,
-              "date": "20260530",
-              "baba": "良",
+              "date": "20260606",
+              "baba": "稍",
               "dist": "ダ1400"
             },
             {
@@ -4373,56 +4632,56 @@ window.RACE_DATA = {
               "dist": "ダ1400"
             },
             {
-              "fin": 4,
-              "date": "20260504",
+              "fin": 5,
+              "date": "20260502",
               "baba": "重",
-              "dist": "ダ1300"
+              "dist": "ダ1400"
             },
             {
-              "fin": 5,
-              "date": "20260425",
+              "fin": 2,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260406",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260301",
               "baba": "重",
               "dist": "ダ1400"
             },
             {
               "fin": 3,
-              "date": "20260411",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260328",
-              "baba": "稍",
+              "date": "20260215",
+              "baba": "重",
               "dist": "ダ1300"
             },
             {
               "fin": 1,
-              "date": "20260314",
+              "date": "20260118",
               "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260228",
-              "baba": "不",
               "dist": "ダ1400"
             }
           ],
-          "spd": 115,
-          "style": "先"
+          "spd": 116,
+          "style": "逃"
         },
         {
-          "num": 4,
-          "waku": 4,
+          "num": 5,
+          "waku": 5,
           "name": "ファイナルソード",
           "horseId": "2020106878",
           "sexAge": "牡6",
-          "weight": 53.0,
-          "jockey": "椿聡太",
+          "weight": 56.0,
+          "jockey": "西森将司",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 45.7,
+          "odds": 88.2,
           "recent": [
             {
               "fin": 8,
@@ -4479,1034 +4738,689 @@ window.RACE_DATA = {
           "style": "差"
         },
         {
-          "num": 5,
-          "waku": 5,
-          "name": "ベイリーテソーロ",
-          "horseId": "2022106376",
-          "sexAge": "牡4",
-          "weight": 56.0,
-          "jockey": "長谷川蓮",
-          "trainer": "東眞市",
-          "horseWeight": null,
-          "odds": 5.2,
-          "recent": [
-            {
-              "fin": 1,
-              "date": "20260601",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 2,
-              "date": "20260426",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260406",
-              "baba": "重",
-              "dist": "ダ900"
-            },
-            {
-              "fin": 2,
-              "date": "20260322",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260306",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260221",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260207",
-              "baba": "良",
-              "dist": "ダ1300"
-            }
-          ],
-          "spd": 118,
-          "style": "逃"
-        },
-        {
           "num": 6,
           "waku": 6,
-          "name": "シトリンテソーロ",
-          "horseId": "2023106730",
-          "sexAge": "牝3",
-          "weight": 54.0,
-          "jockey": "田中直人",
-          "trainer": "川田孝好",
+          "name": "ルクスメンデス",
+          "horseId": "2022102037",
+          "sexAge": "牡4",
+          "weight": 56.0,
+          "jockey": "石川慎将",
+          "trainer": "倉富隆一",
           "horseWeight": null,
-          "odds": 2.1,
+          "odds": 2.7,
           "recent": [
             {
-              "fin": 1,
-              "date": "20260601",
+              "fin": 12,
+              "date": "20260112",
               "baba": "良",
-              "dist": "ダ1400"
+              "dist": "ダ1900"
             },
             {
-              "fin": 1,
-              "date": "20260517",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 5,
+              "fin": 14,
               "date": "20251115",
               "baba": "良",
-              "dist": "ダ1400"
+              "dist": "ダ1800"
             },
             {
-              "fin": 16,
-              "date": "20251108",
+              "fin": 11,
+              "date": "20251018",
               "baba": "良",
-              "dist": "芝1800"
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 1,
+              "date": "20250705",
+              "baba": "良",
+              "dist": "ダ1700"
             },
             {
               "fin": 5,
-              "date": "20251018",
+              "date": "20250622",
               "baba": "良",
-              "dist": "芝1800"
+              "dist": "ダ1800"
             },
             {
-              "fin": 4,
-              "date": "20250720",
+              "fin": 3,
+              "date": "20250416",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20250301",
               "baba": "良",
-              "dist": "芝2000"
+              "dist": "ダ1700"
+            },
+            {
+              "fin": 14,
+              "date": "20250105",
+              "baba": "良",
+              "dist": "ダ1800"
             }
-          ],
-          "central": true,
-          "transfer": true,
-          "spd": 108,
-          "style": "差"
+          ]
         },
         {
           "num": 7,
-          "waku": 6,
-          "name": "ポッピンベリー",
-          "horseId": "2021101586",
-          "sexAge": "牝5",
-          "weight": 54.0,
-          "jockey": "山田義貴",
-          "trainer": "山田徹",
+          "waku": 7,
+          "name": "セクシーコマンドー",
+          "horseId": "2020105726",
+          "sexAge": "牡6",
+          "weight": 56.0,
+          "jockey": "竹吉徹",
+          "trainer": "真島正徳",
           "horseWeight": null,
-          "odds": 112.6,
+          "odds": 70.4,
           "recent": [
             {
-              "fin": 7,
-              "date": "20260607",
+              "fin": 2,
+              "date": "20260606",
               "baba": "稍",
               "dist": "ダ1400"
             },
             {
-              "fin": 7,
+              "fin": 3,
               "date": "20260524",
               "baba": "良",
               "dist": "ダ1400"
             },
             {
-              "fin": 7,
+              "fin": 8,
               "date": "20260510",
               "baba": "良",
               "dist": "ダ1400"
             },
             {
               "fin": 7,
-              "date": "20260426",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
               "date": "20260412",
               "baba": "稍",
               "dist": "ダ1400"
             },
             {
-              "fin": 9,
+              "fin": 7,
               "date": "20260329",
               "baba": "良",
               "dist": "ダ1400"
             },
             {
-              "fin": 1,
-              "date": "20260306",
-              "baba": "不",
+              "fin": 11,
+              "date": "20260315",
+              "baba": "良",
               "dist": "ダ1400"
             },
             {
-              "fin": 9,
-              "date": "20260225",
-              "baba": "不",
-              "dist": "ダ1800"
+              "fin": 10,
+              "date": "20251028",
+              "baba": "重",
+              "dist": "ダ2000"
+            },
+            {
+              "fin": 6,
+              "date": "20250527",
+              "baba": "良",
+              "dist": "ダ2000"
             }
           ],
-          "spd": 112,
+          "central": true,
+          "transfer": false,
+          "spd": 118,
           "style": "差"
         },
         {
           "num": 8,
-          "waku": 7,
-          "name": "ナッシングオンユー",
-          "horseId": "2018101365",
-          "sexAge": "牝8",
-          "weight": 53.0,
-          "jockey": "林悠翔",
-          "trainer": "渡辺博文",
+          "waku": 8,
+          "name": "デッドフレイ",
+          "horseId": "2021106158",
+          "sexAge": "牡5",
+          "weight": 56.0,
+          "jockey": "長田進仁",
+          "trainer": "鮫島克也",
           "horseWeight": null,
-          "odds": 32.2,
+          "odds": 9.4,
           "recent": [
             {
-              "fin": 5,
-              "date": "20260530",
-              "baba": "良",
-              "dist": "ダ1750"
+              "fin": 3,
+              "date": "20260606",
+              "baba": "稍",
+              "dist": "ダ1400"
             },
             {
-              "fin": 4,
+              "fin": 1,
               "date": "20260517",
               "baba": "良",
               "dist": "ダ1800"
             },
             {
-              "fin": 6,
-              "date": "20260504",
-              "baba": "重",
-              "dist": "ダ1750"
+              "fin": 1,
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1400"
             },
             {
-              "fin": 9,
+              "fin": 7,
               "date": "20260418",
               "baba": "重",
               "dist": "ダ1750"
             },
             {
-              "fin": 3,
+              "fin": 9,
               "date": "20260404",
               "baba": "不",
               "dist": "ダ1750"
             },
             {
-              "fin": 11,
-              "date": "20260320",
-              "baba": "稍",
+              "fin": 2,
+              "date": "20250914",
+              "baba": "不",
+              "dist": "ダ1750"
+            },
+            {
+              "fin": 3,
+              "date": "20250904",
+              "baba": "良",
               "dist": "ダ1300"
             },
             {
-              "fin": 10,
-              "date": "20260308",
+              "fin": 8,
+              "date": "20250812",
               "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260225",
-              "baba": "不",
-              "dist": "ダ1800"
+              "dist": "ダ1600"
             }
           ],
-          "central": true,
-          "transfer": false,
-          "spd": 117,
-          "style": "追"
+          "spd": 115,
+          "style": "差"
         },
         {
           "num": 9,
-          "waku": 7,
-          "name": "タッセル",
-          "horseId": "2022106801",
-          "sexAge": "牡4",
-          "weight": 56.0,
-          "jockey": "飛田愛斗",
-          "trainer": "真島正徳",
+          "waku": 8,
+          "name": "ミランカ",
+          "horseId": "2021101002",
+          "sexAge": "牝5",
+          "weight": 51.0,
+          "jockey": "椿聡太",
+          "trainer": "真島二也",
           "horseWeight": null,
-          "odds": 4.5,
+          "odds": 13.2,
           "recent": [
             {
+              "fin": 6,
+              "date": "20260607",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
               "fin": 1,
-              "date": "20260530",
+              "date": "20260516",
               "baba": "良",
               "dist": "ダ1400"
             },
             {
-              "fin": 7,
-              "date": "20260506",
+              "fin": 4,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260418",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 10,
+              "date": "20251123",
               "baba": "良",
               "dist": "ダ1600"
             },
             {
-              "fin": 5,
-              "date": "20260330",
-              "baba": "稍",
-              "dist": "ダ1200"
-            },
-            {
-              "fin": 6,
-              "date": "20260311",
-              "baba": "良",
-              "dist": "ダ1200"
-            },
-            {
-              "fin": 3,
-              "date": "20260209",
-              "baba": "良",
-              "dist": "ダ1200"
-            },
-            {
-              "fin": 4,
-              "date": "20260119",
-              "baba": "良",
-              "dist": "ダ1200"
-            },
-            {
-              "fin": 2,
-              "date": "20251210",
-              "baba": "良",
-              "dist": "ダ1200"
-            },
-            {
-              "fin": 4,
-              "date": "20251103",
-              "baba": "稍",
-              "dist": "ダ1200"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 123,
-          "style": "差"
-        },
-        {
-          "num": 10,
-          "waku": 8,
-          "name": "スマートビガー",
-          "horseId": "2023102762",
-          "sexAge": "牡3",
-          "weight": 56.0,
-          "jockey": "金山昇馬",
-          "trainer": "三小田幸",
-          "horseWeight": null,
-          "odds": 74.4,
-          "recent": [
-            {
-              "fin": 8,
-              "date": "20260523",
+              "fin": 12,
+              "date": "20251026",
               "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260509",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 5,
-              "date": "20260425",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 6,
-              "date": "20260411",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 3,
-              "date": "20260301",
-              "baba": "不",
-              "dist": "ダ1400"
+              "dist": "ダ1600"
             },
             {
               "fin": 10,
-              "date": "20260215",
-              "baba": "重",
-              "dist": "ダ1300"
+              "date": "20251011",
+              "baba": "稍",
+              "dist": "ダ1600"
             },
             {
-              "fin": 2,
-              "date": "20260201",
+              "fin": 12,
+              "date": "20250719",
               "baba": "良",
-              "dist": "ダ1400"
+              "dist": "ダ1700"
             }
           ],
           "central": true,
           "transfer": false,
-          "spd": 100,
-          "style": "差"
-        },
-        {
-          "num": 11,
-          "waku": 8,
-          "name": "アルルカン",
-          "horseId": "2020104478",
-          "sexAge": "牡6",
-          "weight": 56.0,
-          "jockey": "川島拓",
-          "trainer": "中川竜馬",
-          "horseWeight": null,
-          "odds": 112.6,
-          "recent": [
-            {
-              "fin": 4,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260426",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 12,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260308",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260221",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 12,
-              "date": "20260207",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 3,
-              "date": "20260124",
-              "baba": "良",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 124,
+          "spd": 111,
           "style": "差"
         }
       ],
-      "raceId": "202655072008",
-      "oddsUpdatedAt": "19:20",
-      "result": {
-        "order": [
-          1,
-          6,
-          9
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                1
-              ],
-              "amount": 690
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                1
-              ],
-              "amount": 130
-            },
-            {
-              "comb": [
-                6
-              ],
-              "amount": 130
-            },
-            {
-              "comb": [
-                9
-              ],
-              "amount": 180
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                1,
-                6
-              ],
-              "amount": 590
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                1,
-                6
-              ],
-              "amount": 320
-            },
-            {
-              "comb": [
-                1,
-                9
-              ],
-              "amount": 560
-            },
-            {
-              "comb": [
-                6,
-                9
-              ],
-              "amount": 360
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                1,
-                6
-              ],
-              "amount": 1890
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                1,
-                6,
-                9
-              ],
-              "amount": 1630
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                1,
-                6,
-                9
-              ],
-              "amount": 9950
-            }
-          ]
-        }
-      }
+      "raceId": "202655080809"
     },
     {
-      "raceNo": 9,
-      "name": "海の日特選(C2)",
+      "raceNo": 10,
+      "name": "一発逆転ファイナルレース×SAGAリベン",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "良",
-      "startTime": "20:05",
-      "grade": "サラ系一般 C2",
+      "condition": "−",
+      "startTime": "20:50",
+      "grade": "サラ系一般",
       "meetingInfo": [
-        "7回",
+        "8回",
         "佐賀",
-        "6日目"
+        "1日目"
       ],
       "horses": [
         {
           "num": 1,
           "waku": 1,
-          "name": "フェリマール",
-          "horseId": "2021104171",
-          "sexAge": "牝5",
-          "weight": 54.0,
+          "name": "ジャスタパーティー",
+          "horseId": "2022104731",
+          "sexAge": "セ4",
+          "weight": 56.0,
           "jockey": "加茂飛翔",
-          "trainer": "松島壽",
+          "trainer": "大島静夫",
           "horseWeight": null,
-          "odds": 79.9,
+          "odds": 11.0,
           "recent": [
             {
-              "fin": 4,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1300"
+              "fin": 9,
+              "date": "20260528",
+              "baba": "良",
+              "dist": "ダ1580"
+            },
+            {
+              "fin": 1,
+              "date": "20260515",
+              "baba": "良",
+              "dist": "ダ1580"
             },
             {
               "fin": 5,
-              "date": "20260523",
+              "date": "20260430",
               "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 11,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 5,
-              "date": "20260426",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 2,
-              "date": "20260411",
-              "baba": "不",
-              "dist": "ダ1400"
+              "dist": "ダ1580"
             },
             {
               "fin": 7,
-              "date": "20260329",
+              "date": "20260417",
               "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 10,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1400"
+              "dist": "ダ1580"
             },
             {
               "fin": 4,
-              "date": "20260301",
-              "baba": "重",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 105,
-          "style": "差"
-        },
-        {
-          "num": 2,
-          "waku": 2,
-          "name": "アテナパルテノス",
-          "horseId": "2022101667",
-          "sexAge": "牝4",
-          "weight": 54.0,
-          "jockey": "長谷川蓮",
-          "trainer": "北村欣也",
-          "horseWeight": null,
-          "odds": 44.5,
-          "recent": [
-            {
-              "fin": 4,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 2,
-              "date": "20260426",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 11,
-              "date": "20260301",
-              "baba": "重",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 109,
-          "style": "先"
-        },
-        {
-          "num": 3,
-          "waku": 3,
-          "name": "ムコリッタ",
-          "horseId": "2022104497",
-          "sexAge": "牝4",
-          "weight": 54.0,
-          "jockey": "飛田愛斗",
-          "trainer": "渡辺博文",
-          "horseWeight": null,
-          "odds": 2.8,
-          "recent": [
-            {
-              "fin": 1,
-              "date": "20260601",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20260504",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20250915",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20250830",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 2,
-              "date": "20250809",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 6,
-              "date": "20250708",
-              "baba": "良",
-              "dist": "芝1700"
-            },
-            {
-              "fin": 7,
-              "date": "20250601",
-              "baba": "稍",
-              "dist": "芝1600"
-            },
-            {
-              "fin": 8,
-              "date": "20250524",
-              "baba": "良",
-              "dist": "芝1600"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 114,
-          "style": "差"
-        },
-        {
-          "num": 4,
-          "waku": 4,
-          "name": "フクライキリシマ",
-          "horseId": "2022107136",
-          "sexAge": "牝4",
-          "weight": 54.0,
-          "jockey": "山田義貴",
-          "trainer": "古賀光範",
-          "horseWeight": null,
-          "odds": 17.0,
-          "recent": [
-            {
-              "fin": 6,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 2,
-              "date": "20260523",
+              "date": "20260403",
               "baba": "良",
               "dist": "ダ1400"
             },
             {
               "fin": 3,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 6,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260411",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 10,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260301",
-              "baba": "重",
-              "dist": "ダ1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 104,
-          "style": "先"
-        },
-        {
-          "num": 5,
-          "waku": 5,
-          "name": "ニシノイッキサス",
-          "horseId": "2022102221",
-          "sexAge": "牡4",
-          "weight": 53.0,
-          "jockey": "椿聡太",
-          "trainer": "真島元徳",
-          "horseWeight": null,
-          "odds": 27.5,
-          "recent": [
-            {
-              "fin": 8,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20260504",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260418",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 7,
-              "date": "20260404",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 8,
               "date": "20260320",
               "baba": "稍",
               "dist": "ダ1400"
             },
             {
-              "fin": 10,
-              "date": "20260306",
-              "baba": "不",
-              "dist": "ダ1300"
+              "fin": 9,
+              "date": "20260304",
+              "baba": "稍",
+              "dist": "ダ1600"
             },
             {
-              "fin": 3,
-              "date": "20260221",
+              "fin": 2,
+              "date": "20260216",
               "baba": "良",
-              "dist": "ダ1400"
+              "dist": "ダ1600"
             }
           ],
           "central": true,
           "transfer": false,
-          "spd": 102,
-          "style": "差"
+          "spd": 114,
+          "style": "先"
         },
         {
-          "num": 6,
-          "waku": 6,
-          "name": "テイエムファルクス",
-          "horseId": "2022103742",
-          "sexAge": "牡4",
-          "weight": 56.0,
-          "jockey": "中山蓮王",
-          "trainer": "平山宏秀",
+          "num": 2,
+          "waku": 2,
+          "name": "ハバナローズ",
+          "horseId": "2022106149",
+          "sexAge": "牝4",
+          "weight": 54.0,
+          "jockey": "井上瑛太",
+          "trainer": "細川忠義",
           "horseWeight": null,
-          "odds": 81.7,
+          "odds": 11.4,
           "recent": [
             {
-              "fin": 4,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260509",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260420",
-              "baba": "重",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 2,
-              "date": "20260405",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 2,
-              "date": "20260321",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
               "fin": 5,
-              "date": "20260307",
-              "baba": "重",
+              "date": "20260530",
+              "baba": "稍",
               "dist": "ダ1300"
             },
             {
-              "fin": 2,
-              "date": "20260221",
+              "fin": 8,
+              "date": "20260516",
               "baba": "良",
               "dist": "ダ1400"
             },
             {
               "fin": 7,
-              "date": "20260208",
+              "date": "20260503",
+              "baba": "不",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 1,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 4,
+              "date": "20260324",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 9,
+              "date": "20260318",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 6,
+              "date": "20260303",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260225",
+              "baba": "不",
+              "dist": "ダ1400"
+            }
+          ],
+          "central": true,
+          "transfer": false,
+          "spd": 108,
+          "style": "先"
+        },
+        {
+          "num": 3,
+          "waku": 3,
+          "name": "ユイアヴェニール",
+          "horseId": "2023109105",
+          "sexAge": "牡3",
+          "weight": 56.0,
+          "jockey": "石川慎将",
+          "trainer": "山田徹",
+          "horseWeight": null,
+          "odds": 10.7,
+          "recent": [
+            {
+              "fin": 2,
+              "date": "20260530",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 1,
+              "date": "20260518",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260504",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260419",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260320",
+              "baba": "稍",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260314",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 1,
+              "date": "20260228",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 7,
+              "date": "20260129",
               "baba": "良",
               "dist": "ダ1400"
             }
           ],
           "central": true,
           "transfer": false,
-          "spd": 103,
-          "style": "逃"
+          "spd": 106,
+          "style": "先"
         },
         {
-          "num": 7,
-          "waku": 6,
-          "name": "ワンダービジブル",
-          "horseId": "2021100753",
-          "sexAge": "牡5",
+          "num": 4,
+          "waku": 4,
+          "name": "スノープリンス",
+          "horseId": "2023105770",
+          "sexAge": "牡3",
           "weight": 56.0,
-          "jockey": "山口勲",
-          "trainer": "九日俊光",
+          "jockey": "岡村卓弥",
+          "trainer": "別府真司",
           "horseWeight": null,
-          "odds": 2.7,
+          "odds": 33.3,
           "recent": [
             {
-              "fin": 2,
-              "date": "20260531",
-              "baba": "良",
+              "fin": 6,
+              "date": "20260606",
+              "baba": "不",
               "dist": "ダ1400"
             },
             {
-              "fin": 16,
-              "date": "20260426",
-              "baba": "稍",
-              "dist": "ダ1600"
-            },
-            {
-              "fin": 13,
-              "date": "20260228",
+              "fin": 10,
+              "date": "20260516",
               "baba": "良",
               "dist": "ダ1800"
             },
             {
-              "fin": 2,
-              "date": "20260111",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20250612",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 1,
-              "date": "20250522",
+              "fin": 12,
+              "date": "20260509",
               "baba": "稍",
               "dist": "ダ1400"
             },
             {
+              "fin": 6,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 8,
+              "date": "20260411",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260323",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 5,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 6,
+              "date": "20260301",
+              "baba": "不",
+              "dist": "ダ1400"
+            }
+          ],
+          "spd": 104,
+          "style": "差"
+        },
+        {
+          "num": 5,
+          "waku": 5,
+          "name": "ローメット",
+          "horseId": "2023106653",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "西森将司",
+          "trainer": "別府真司",
+          "horseWeight": null,
+          "odds": 31.5,
+          "recent": [
+            {
+              "fin": 11,
+              "date": "20260509",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 11,
+              "date": "20260321",
+              "baba": "稍",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 12,
+              "date": "20260118",
+              "baba": "良",
+              "dist": "ダ1200"
+            },
+            {
+              "fin": 4,
+              "date": "20260105",
+              "baba": "良",
+              "dist": "ダ1200"
+            }
+          ]
+        },
+        {
+          "num": 6,
+          "waku": 6,
+          "name": "アデニウム",
+          "horseId": "2022105272",
+          "sexAge": "牝4",
+          "weight": 54.0,
+          "jockey": "川島拓",
+          "trainer": "中川竜馬",
+          "horseWeight": null,
+          "odds": 8.5,
+          "recent": [
+            {
               "fin": 2,
-              "date": "20250505",
+              "date": "20260601",
               "baba": "良",
               "dist": "ダ1400"
             },
             {
               "fin": 3,
-              "date": "20250109",
+              "date": "20260518",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 5,
+              "date": "20260504",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 2,
+              "date": "20260419",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 2,
+              "date": "20260404",
+              "baba": "不",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 3,
+              "date": "20260320",
               "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 3,
+              "date": "20260306",
+              "baba": "不",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 8,
+              "date": "20260221",
+              "baba": "良",
               "dist": "ダ1400"
             }
           ],
           "central": true,
-          "transfer": true,
-          "spd": 105,
+          "transfer": false,
+          "spd": 110,
           "style": "先"
+        },
+        {
+          "num": 7,
+          "waku": 6,
+          "name": "ミッキースワン",
+          "horseId": "2023106279",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "出水拓人",
+          "trainer": "別府真司",
+          "horseWeight": null,
+          "odds": 25.0,
+          "recent": [
+            {
+              "fin": 10,
+              "date": "20260523",
+              "baba": "重",
+              "dist": "ダ1600"
+            },
+            {
+              "fin": 8,
+              "date": "20260509",
+              "baba": "良",
+              "dist": "ダ1300"
+            },
+            {
+              "fin": 11,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "芝1400"
+            },
+            {
+              "fin": 8,
+              "date": "20251221",
+              "baba": "稍",
+              "dist": "芝1400"
+            },
+            {
+              "fin": 8,
+              "date": "20251011",
+              "baba": "良",
+              "dist": "芝1600"
+            }
+          ]
         },
         {
           "num": 8,
@@ -5514,11 +5428,11 @@ window.RACE_DATA = {
           "name": "カイトベルク",
           "horseId": "2022103044",
           "sexAge": "牡4",
-          "weight": 56.0,
-          "jockey": "長田進仁",
+          "weight": 53.0,
+          "jockey": "後藤武蔵",
           "trainer": "井樋明正",
           "horseWeight": null,
-          "odds": 6.2,
+          "odds": 14.6,
           "recent": [
             {
               "fin": 2,
@@ -5577,1006 +5491,187 @@ window.RACE_DATA = {
         {
           "num": 9,
           "waku": 7,
-          "name": "ホスマニエン",
-          "horseId": "2022102590",
-          "sexAge": "セ4",
+          "name": "ダイハッシュウ",
+          "horseId": "2022103177",
+          "sexAge": "牡4",
           "weight": 56.0,
-          "jockey": "田中直人",
-          "trainer": "鮫島克也",
+          "jockey": "長田進仁",
+          "trainer": "中野博",
           "horseWeight": null,
-          "odds": 38.6,
+          "odds": 14.5,
           "recent": [
             {
-              "fin": 5,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
               "fin": 4,
-              "date": "20260523",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 3,
-              "date": "20260509",
+              "date": "20260531",
               "baba": "良",
               "dist": "ダ1400"
             },
             {
               "fin": 4,
-              "date": "20260426",
+              "date": "20260518",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260502",
+              "baba": "重",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 4,
+              "date": "20260420",
+              "baba": "重",
+              "dist": "ダ900"
+            },
+            {
+              "fin": 1,
+              "date": "20260406",
               "baba": "重",
               "dist": "ダ1400"
             },
             {
               "fin": 1,
-              "date": "20260405",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 4,
-              "date": "20260321",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 1,
-              "date": "20260306",
-              "baba": "不",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260221",
+              "date": "20260329",
               "baba": "良",
-              "dist": "ダ1400"
-            }
-          ],
-          "spd": 103,
-          "style": "先"
-        },
-        {
-          "num": 10,
-          "waku": 8,
-          "name": "エコロシャイン",
-          "horseId": "2021100787",
-          "sexAge": "牝5",
-          "weight": 54.0,
-          "jockey": "出水拓人",
-          "trainer": "中川竜馬",
-          "horseWeight": null,
-          "odds": 25.6,
-          "recent": [
-            {
-              "fin": 6,
-              "date": "20260607",
-              "baba": "稍",
               "dist": "ダ1400"
             },
             {
               "fin": 2,
-              "date": "20260523",
+              "date": "20260315",
               "baba": "良",
               "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 5,
-              "date": "20260328",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 7,
-              "date": "20260314",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 10,
-              "date": "20260228",
-              "baba": "不",
-              "dist": "ダ1750"
-            },
-            {
-              "fin": 7,
-              "date": "20260214",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 11,
-              "date": "20250814",
-              "baba": "良",
-              "dist": "ダ1650"
-            }
-          ],
-          "spd": 105,
-          "style": "差"
-        },
-        {
-          "num": 11,
-          "waku": 8,
-          "name": "ノイエムジーク",
-          "horseId": "2022105707",
-          "sexAge": "牡4",
-          "weight": 56.0,
-          "jockey": "川島拓",
-          "trainer": "土井道隆",
-          "horseWeight": null,
-          "odds": 5.9,
-          "recent": [
-            {
-              "fin": 9,
-              "date": "20260525",
-              "baba": "良",
-              "dist": "ダ1500"
-            },
-            {
-              "fin": 9,
-              "date": "20260508",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 5,
-              "date": "20260424",
-              "baba": "重",
-              "dist": "ダ1500"
-            },
-            {
-              "fin": 4,
-              "date": "20260413",
-              "baba": "良",
-              "dist": "ダ1500"
-            },
-            {
-              "fin": 3,
-              "date": "20260326",
-              "baba": "重",
-              "dist": "ダ1500"
-            },
-            {
-              "fin": 6,
-              "date": "20260312",
-              "baba": "良",
-              "dist": "ダ1500"
             },
             {
               "fin": 1,
-              "date": "20260226",
-              "baba": "重",
-              "dist": "ダ1500"
-            },
-            {
-              "fin": 6,
-              "date": "20260211",
-              "baba": "重",
-              "dist": "ダ1500"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 105,
-          "style": "追"
-        }
-      ],
-      "raceId": "202655072009",
-      "oddsUpdatedAt": "20:00",
-      "result": {
-        "order": [
-          5,
-          10,
-          3,
-          4,
-          1,
-          8,
-          11,
-          9,
-          6,
-          2,
-          7
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                5
-              ],
-              "amount": 3500
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                5
-              ],
-              "amount": 500
-            },
-            {
-              "comb": [
-                10
-              ],
-              "amount": 500
-            },
-            {
-              "comb": [
-                3
-              ],
-              "amount": 130
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                5,
-                10
-              ],
-              "amount": 26770
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                5,
-                10
-              ],
-              "amount": 7660
-            },
-            {
-              "comb": [
-                3,
-                5
-              ],
-              "amount": 1130
-            },
-            {
-              "comb": [
-                3,
-                10
-              ],
-              "amount": 1210
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                5,
-                10
-              ],
-              "amount": 54840
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                3,
-                5,
-                10
-              ],
-              "amount": 20560
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                5,
-                10,
-                3
-              ],
-              "amount": 274760
-            }
-          ]
-        }
-      }
-    },
-    {
-      "raceNo": 10,
-      "name": "SAGAリベンジャーズダッシュ(3歳)",
-      "distance": 900,
-      "surface": "ダ",
-      "condition": "良",
-      "startTime": "20:40",
-      "grade": "サラ系３歳 3歳",
-      "meetingInfo": [
-        "7回",
-        "佐賀",
-        "6日目"
-      ],
-      "horses": [
-        {
-          "num": 1,
-          "waku": 1,
-          "name": "アシャカルー",
-          "horseId": "2023104967",
-          "sexAge": "牡3",
-          "weight": 56.0,
-          "jockey": "川島拓",
-          "trainer": "土井道隆",
-          "horseWeight": null,
-          "odds": 27.3,
-          "recent": [
-            {
-              "fin": 13,
               "date": "20260301",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 9,
-              "date": "20260131",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 5,
-              "date": "20260121",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 12,
-              "date": "20251129",
-              "baba": "良",
-              "dist": "ダ1800"
-            }
-          ]
-        },
-        {
-          "num": 2,
-          "waku": 2,
-          "name": "ケンブリッジルプス",
-          "horseId": "2023101688",
-          "sexAge": "牡3",
-          "weight": 53.0,
-          "jockey": "椿聡太",
-          "trainer": "手島勝利",
-          "horseWeight": null,
-          "odds": 28.4,
-          "recent": [
-            {
-              "fin": 7,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 8,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 7,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ900"
-            },
-            {
-              "fin": 6,
-              "date": "20260426",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 9,
-              "date": "20260411",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 15,
-              "date": "20260131",
-              "baba": "良",
-              "dist": "ダ1600"
-            },
-            {
-              "fin": 14,
-              "date": "20260111",
-              "baba": "良",
-              "dist": "ダ1200"
-            },
-            {
-              "fin": 16,
-              "date": "20251130",
-              "baba": "良",
-              "dist": "ダ1600"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 94,
-          "style": "追"
-        },
-        {
-          "num": 3,
-          "waku": 3,
-          "name": "クラリスヒメ",
-          "horseId": "2023101770",
-          "sexAge": "牝3",
-          "weight": 54.0,
-          "jockey": "長谷川蓮",
-          "trainer": "矢野久美",
-          "horseWeight": null,
-          "odds": 33.2,
-          "recent": [
-            {
-              "fin": 10,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 11,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 8,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ900"
-            },
-            {
-              "fin": 8,
-              "date": "20260425",
               "baba": "重",
               "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260321",
-              "baba": "良",
-              "dist": "芝2200"
-            },
-            {
-              "fin": 8,
-              "date": "20250830",
-              "baba": "稍",
-              "dist": "芝1500"
-            },
-            {
-              "fin": 7,
-              "date": "20250810",
-              "baba": "良",
-              "dist": "芝1500"
             }
           ],
           "central": true,
           "transfer": false,
-          "spd": 96,
-          "style": "差"
-        },
-        {
-          "num": 4,
-          "waku": 4,
-          "name": "クラウンプレゼンタ",
-          "horseId": "2023100795",
-          "sexAge": "牡3",
-          "weight": 56.0,
-          "jockey": "加茂飛翔",
-          "trainer": "大島静夫",
-          "horseWeight": null,
-          "odds": 86.1,
-          "recent": [
-            {
-              "fin": 8,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 7,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 6,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ900"
-            },
-            {
-              "fin": 9,
-              "date": "20260426",
-              "baba": "不",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 6,
-              "date": "20260412",
-              "baba": "稍",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 8,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 13,
-              "date": "20260104",
-              "baba": "稍",
-              "dist": "ダ1800"
-            },
-            {
-              "fin": 14,
-              "date": "20251214",
-              "baba": "稍",
-              "dist": "ダ1200"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 90,
-          "style": "差"
-        },
-        {
-          "num": 5,
-          "waku": 5,
-          "name": "ケイツースクード",
-          "horseId": "2023104018",
-          "sexAge": "牡3",
-          "weight": 56.0,
-          "jockey": "山田義貴",
-          "trainer": "松島壽",
-          "horseWeight": null,
-          "odds": 18.3,
-          "recent": [
-            {
-              "fin": 16,
-              "date": "20260517",
-              "baba": "良",
-              "dist": "芝1800"
-            },
-            {
-              "fin": 14,
-              "date": "20260503",
-              "baba": "良",
-              "dist": "芝1600"
-            },
-            {
-              "fin": 11,
-              "date": "20260425",
-              "baba": "良",
-              "dist": "芝1200"
-            },
-            {
-              "fin": 14,
-              "date": "20260207",
-              "baba": "良",
-              "dist": "芝1600"
-            },
-            {
-              "fin": 10,
-              "date": "20251228",
-              "baba": "良",
-              "dist": "ダ1200"
-            },
-            {
-              "fin": 6,
-              "date": "20251124",
-              "baba": "良",
-              "dist": "芝1400"
-            }
-          ]
-        },
-        {
-          "num": 6,
-          "waku": 5,
-          "name": "ピアノアコード",
-          "horseId": "2023104775",
-          "sexAge": "牝3",
-          "weight": 54.0,
-          "jockey": "金山昇馬",
-          "trainer": "池田忠好",
-          "horseWeight": null,
-          "odds": 13.0,
-          "recent": [
-            {
-              "fin": 10,
-              "date": "20260509",
-              "baba": "稍",
-              "dist": "ダ1800"
-            },
-            {
-              "fin": 13,
-              "date": "20260426",
-              "baba": "良",
-              "dist": "芝1800"
-            },
-            {
-              "fin": 13,
-              "date": "20260117",
-              "baba": "良",
-              "dist": "ダ1400"
-            }
-          ]
-        },
-        {
-          "num": 7,
-          "waku": 6,
-          "name": "メイショウルビー",
-          "horseId": "2023104987",
-          "sexAge": "牝3",
-          "weight": 54.0,
-          "jockey": "長田進仁",
-          "trainer": "中野博",
-          "horseWeight": null,
-          "odds": 68.6,
-          "recent": [
-            {
-              "fin": 16,
-              "date": "20260516",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 16,
-              "date": "20260404",
-              "baba": "稍",
-              "dist": "ダ1800"
-            }
-          ]
-        },
-        {
-          "num": 8,
-          "waku": 6,
-          "name": "バーニングラン",
-          "horseId": "2023102346",
-          "sexAge": "牝3",
-          "weight": 54.0,
-          "jockey": "田中純",
-          "trainer": "柳井宏之",
-          "horseWeight": null,
-          "odds": 123.9,
-          "recent": [
-            {
-              "fin": 15,
-              "date": "20260516",
-              "baba": "良",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 12,
-              "date": "20260321",
-              "baba": "稍",
-              "dist": "ダ1200"
-            },
-            {
-              "fin": 17,
-              "date": "20260315",
-              "baba": "良",
-              "dist": "芝1400"
-            }
-          ]
-        },
-        {
-          "num": 9,
-          "waku": 7,
-          "name": "テムホウサク",
-          "horseId": "2023100480",
-          "sexAge": "牝3",
-          "weight": 54.0,
-          "jockey": "中山蓮王",
-          "trainer": "平山宏秀",
-          "horseWeight": null,
-          "odds": 133.7,
-          "recent": [
-            {
-              "fin": 9,
-              "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 9,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 9,
-              "date": "20260425",
-              "baba": "重",
-              "dist": "ダ1400"
-            },
-            {
-              "fin": 10,
-              "date": "20260321",
-              "baba": "稍",
-              "dist": "ダ1800"
-            },
-            {
-              "fin": 13,
-              "date": "20260301",
-              "baba": "良",
-              "dist": "芝2000"
-            },
-            {
-              "fin": 13,
-              "date": "20251228",
-              "baba": "良",
-              "dist": "芝1800"
-            },
-            {
-              "fin": 17,
-              "date": "20251207",
-              "baba": "良",
-              "dist": "芝1400"
-            }
-          ],
-          "central": true,
-          "transfer": false,
-          "spd": 118,
-          "style": "差"
+          "spd": 120,
+          "style": "先"
         },
         {
           "num": 10,
-          "waku": 7,
-          "name": "ダイコクヤタエモン",
-          "horseId": "2023107443",
-          "sexAge": "牡3",
-          "weight": 56.0,
-          "jockey": "飛田愛斗",
-          "trainer": "山田徹",
+          "waku": 8,
+          "name": "ヴァンロゼ",
+          "horseId": "2023102491",
+          "sexAge": "牝3",
+          "weight": 54.0,
+          "jockey": "田中直人",
+          "trainer": "中川竜馬",
           "horseWeight": null,
-          "odds": 1.3,
+          "odds": 4.7,
           "recent": [
             {
-              "fin": 16,
-              "date": "20260516",
+              "fin": 11,
+              "date": "20260607",
               "baba": "良",
-              "dist": "ダ1300"
+              "dist": "ダ1400"
             },
             {
-              "fin": 14,
-              "date": "20260105",
-              "baba": "稍",
-              "dist": "ダ1200"
-            },
-            {
-              "fin": 15,
-              "date": "20251109",
-              "baba": "稍",
-              "dist": "ダ1600"
-            },
-            {
-              "fin": 7,
-              "date": "20250622",
+              "fin": 12,
+              "date": "20260329",
               "baba": "良",
-              "dist": "ダ1200"
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 11,
+              "date": "20260315",
+              "baba": "良",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20260110",
+              "baba": "良",
+              "dist": "ダ1800"
+            },
+            {
+              "fin": 8,
+              "date": "20251227",
+              "baba": "稍",
+              "dist": "ダ1400"
+            },
+            {
+              "fin": 12,
+              "date": "20251004",
+              "baba": "重",
+              "dist": "ダ1400"
             }
           ]
         },
         {
           "num": 11,
           "waku": 8,
-          "name": "ハガクレトップ",
-          "horseId": "2023102301",
-          "sexAge": "牝3",
+          "name": "ナッシングベター",
+          "horseId": "2022105819",
+          "sexAge": "牝4",
           "weight": 54.0,
-          "jockey": "出水拓人",
-          "trainer": "九日俊光",
+          "jockey": "山田義貴",
+          "trainer": "宮川真衣",
           "horseWeight": null,
-          "odds": 24.0,
+          "odds": 2.5,
           "recent": [
             {
-              "fin": 11,
+              "fin": 2,
               "date": "20260607",
-              "baba": "稍",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 10,
-              "date": "20260524",
-              "baba": "良",
-              "dist": "ダ1300"
-            },
-            {
-              "fin": 4,
-              "date": "20260510",
-              "baba": "良",
-              "dist": "ダ900"
-            },
-            {
-              "fin": 7,
-              "date": "20260426",
               "baba": "不",
               "dist": "ダ1300"
             },
             {
-              "fin": 8,
-              "date": "20260412",
-              "baba": "稍",
+              "fin": 4,
+              "date": "20260524",
+              "baba": "不",
               "dist": "ダ1400"
             },
             {
-              "fin": 7,
-              "date": "20260329",
-              "baba": "良",
-              "dist": "ダ1300"
+              "fin": 2,
+              "date": "20260426",
+              "baba": "不",
+              "dist": "ダ1400"
             },
             {
               "fin": 8,
-              "date": "20260301",
+              "date": "20260412",
               "baba": "重",
               "dist": "ダ1300"
             },
             {
               "fin": 6,
-              "date": "20260201",
+              "date": "20260206",
               "baba": "良",
-              "dist": "ダ1300"
-            }
-          ],
-          "spd": 93,
-          "style": "先"
-        },
-        {
-          "num": 12,
-          "waku": 8,
-          "name": "マロ",
-          "horseId": "2023102636",
-          "sexAge": "牡3",
-          "weight": 56.0,
-          "jockey": "石川慎将",
-          "trainer": "真島正徳",
-          "horseWeight": null,
-          "odds": 5.0,
-          "recent": [
-            {
-              "fin": 9,
-              "date": "20260606",
-              "baba": "稍",
-              "dist": "ダ1300"
+              "dist": "ダ1400"
             },
             {
-              "fin": 15,
-              "date": "20260425",
+              "fin": 7,
+              "date": "20260123",
               "baba": "良",
-              "dist": "ダ1150"
-            },
-            {
-              "fin": 15,
-              "date": "20260328",
-              "baba": "稍",
               "dist": "ダ1200"
             },
             {
-              "fin": 9,
-              "date": "20260222",
-              "baba": "良",
+              "fin": 7,
+              "date": "20260101",
+              "baba": "稍",
               "dist": "ダ1400"
+            },
+            {
+              "fin": 9,
+              "date": "20250830",
+              "baba": "稍",
+              "dist": "芝2000"
             }
           ],
           "central": true,
-          "transfer": true,
-          "spd": 85,
+          "transfer": false,
+          "spd": 108,
           "style": "先"
         }
       ],
-      "raceId": "202655072010",
-      "oddsUpdatedAt": "20:30",
-      "result": {
-        "order": [
-          10,
-          6,
-          12,
-          11,
-          1,
-          8,
-          5,
-          7,
-          9,
-          3,
-          4,
-          2
-        ],
-        "payouts": {
-          "tansho": [
-            {
-              "comb": [
-                10
-              ],
-              "amount": 140
-            }
-          ],
-          "fukusho": [
-            {
-              "comb": [
-                10
-              ],
-              "amount": 100
-            },
-            {
-              "comb": [
-                6
-              ],
-              "amount": 140
-            },
-            {
-              "comb": [
-                12
-              ],
-              "amount": 120
-            }
-          ],
-          "umaren": [
-            {
-              "comb": [
-                6,
-                10
-              ],
-              "amount": 380
-            }
-          ],
-          "wide": [
-            {
-              "comb": [
-                6,
-                10
-              ],
-              "amount": 180
-            },
-            {
-              "comb": [
-                10,
-                12
-              ],
-              "amount": 140
-            },
-            {
-              "comb": [
-                6,
-                12
-              ],
-              "amount": 270
-            }
-          ],
-          "umatan": [
-            {
-              "comb": [
-                10,
-                6
-              ],
-              "amount": 520
-            }
-          ],
-          "sanrenpuku": [
-            {
-              "comb": [
-                6,
-                10,
-                12
-              ],
-              "amount": 330
-            }
-          ],
-          "sanrentan": [
-            {
-              "comb": [
-                10,
-                6,
-                12
-              ],
-              "amount": 1170
-            }
-          ]
-        }
-      }
+      "raceId": "202655080810"
     }
-  ],
-  "oddsUpdatedAt": "21:00"
+  ]
 };
