@@ -3569,7 +3569,7 @@ window.RACE_DATA = {
       "name": "くろゆり賞(2歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "20:40",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -3588,7 +3588,7 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 3.3,
+          "odds": 5.7,
           "recent": []
         },
         {
@@ -3601,7 +3601,7 @@ window.RACE_DATA = {
           "jockey": "田知弘久",
           "trainer": "金田一昌",
           "horseWeight": null,
-          "odds": 2.7,
+          "odds": 11.6,
           "recent": []
         },
         {
@@ -3614,7 +3614,7 @@ window.RACE_DATA = {
           "jockey": "加藤翔馬",
           "trainer": "加藤和義",
           "horseWeight": null,
-          "odds": 22.8,
+          "odds": 82.1,
           "recent": [
             {
               "fin": 2,
@@ -3636,7 +3636,7 @@ window.RACE_DATA = {
           "jockey": "鈴木太一",
           "trainer": "加藤和義",
           "horseWeight": null,
-          "odds": 11.5,
+          "odds": 37.4,
           "recent": []
         },
         {
@@ -3671,7 +3671,7 @@ window.RACE_DATA = {
           "jockey": "魚住謙心",
           "trainer": "鋤田誠二",
           "horseWeight": null,
-          "odds": 18.7,
+          "odds": 51.6,
           "recent": []
         },
         {
@@ -3684,7 +3684,7 @@ window.RACE_DATA = {
           "jockey": "平瀬城久",
           "trainer": "鈴木正也",
           "horseWeight": null,
-          "odds": 83.1,
+          "odds": 108.5,
           "recent": [
             {
               "fin": 4,
@@ -3697,8 +3697,9 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202646080908"
+      "raceId": "202646080908",
+      "oddsUpdatedAt": "20:21"
     }
   ],
-  "oddsUpdatedAt": "20:01"
+  "oddsUpdatedAt": "20:21"
 };
