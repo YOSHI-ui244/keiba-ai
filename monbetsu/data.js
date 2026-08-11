@@ -4336,7 +4336,7 @@ window.RACE_DATA = {
           "jockey": "松井伸也",
           "trainer": "桧森邦夫",
           "horseWeight": null,
-          "odds": 46.5,
+          "odds": 98.7,
           "recent": [
             {
               "fin": 6,
@@ -4400,7 +4400,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 8.0,
+          "odds": 5.1,
           "recent": [
             {
               "fin": 4,
@@ -4466,7 +4466,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 22.5,
+          "odds": 24.2,
           "recent": [
             {
               "fin": 5,
@@ -4514,7 +4514,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": 38.3,
+          "odds": 47.6,
           "recent": [
             {
               "fin": 3,
@@ -4580,7 +4580,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 41.7,
+          "odds": 65.2,
           "recent": [
             {
               "fin": 6,
@@ -4644,7 +4644,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 11.8,
+          "odds": 17.9,
           "recent": [
             {
               "fin": 2,
@@ -4710,7 +4710,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "森山雄大",
           "horseWeight": null,
-          "odds": 14.1,
+          "odds": 22.0,
           "recent": [
             {
               "fin": 4,
@@ -4834,7 +4834,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630081109",
-      "oddsUpdatedAt": "18:58"
+      "oddsUpdatedAt": "19:08"
     },
     {
       "raceNo": 10,
@@ -6653,5 +6653,5 @@ window.RACE_DATA = {
       "raceId": "202630081112"
     }
   ],
-  "oddsUpdatedAt": "18:58"
+  "oddsUpdatedAt": "19:08"
 };
