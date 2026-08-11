@@ -4003,7 +4003,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "小久保智",
           "horseWeight": 487,
-          "odds": 1.9,
+          "odds": 1.7,
           "recent": [
             {
               "fin": 1,
@@ -4029,7 +4029,7 @@ window.RACE_DATA = {
           "jockey": "秋元耕成",
           "trainer": "箕輪武",
           "horseWeight": 473,
-          "odds": 11.5,
+          "odds": 13.5,
           "recent": [
             {
               "fin": 10,
@@ -4095,7 +4095,7 @@ window.RACE_DATA = {
           "jockey": "吉留孝司",
           "trainer": "酒井一則",
           "horseWeight": 437,
-          "odds": 85.5,
+          "odds": 94.8,
           "recent": [
             {
               "fin": 11,
@@ -4161,7 +4161,7 @@ window.RACE_DATA = {
           "jockey": "半澤慶実",
           "trainer": "宇野木博",
           "horseWeight": 490,
-          "odds": 15.4,
+          "odds": 16.4,
           "recent": [
             {
               "fin": 3,
@@ -4223,7 +4223,7 @@ window.RACE_DATA = {
           "jockey": "張田昂",
           "trainer": "宇野木博",
           "horseWeight": 495,
-          "odds": 7.7,
+          "odds": 7.9,
           "recent": [
             {
               "fin": 5,
@@ -4287,7 +4287,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "野口寛仁",
           "horseWeight": 410,
-          "odds": 5.7,
+          "odds": 5.9,
           "recent": [
             {
               "fin": 1,
@@ -4333,7 +4333,7 @@ window.RACE_DATA = {
           "jockey": "赤津和希",
           "trainer": "武井和実",
           "horseWeight": 499,
-          "odds": 9.5,
+          "odds": 11.1,
           "recent": [
             {
               "fin": 5,
@@ -4399,7 +4399,7 @@ window.RACE_DATA = {
           "jockey": "藤原幹生",
           "trainer": "平山真希",
           "horseWeight": 516,
-          "odds": 25.7,
+          "odds": 23.8,
           "recent": [
             {
               "fin": 9,
@@ -4461,7 +4461,7 @@ window.RACE_DATA = {
           "jockey": "山中悠希",
           "trainer": "小澤宏次",
           "horseWeight": 503,
-          "odds": 7.5,
+          "odds": 8.4,
           "recent": [
             {
               "fin": 1,
@@ -4481,7 +4481,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202642081107",
-      "oddsUpdatedAt": "16:16"
+      "oddsUpdatedAt": "16:18"
     },
     {
       "raceNo": 8,
@@ -7418,5 +7418,5 @@ window.RACE_DATA = {
       "raceId": "202642081112"
     }
   ],
-  "oddsUpdatedAt": "16:16"
+  "oddsUpdatedAt": "16:18"
 };
