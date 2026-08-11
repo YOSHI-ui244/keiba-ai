@@ -6481,7 +6481,7 @@ window.RACE_DATA = {
           "jockey": "小川悠汰",
           "trainer": "五十嵐冬",
           "horseWeight": null,
-          "odds": 14.5,
+          "odds": 11.5,
           "recent": [
             {
               "fin": 6,
@@ -6529,7 +6529,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 2.6,
+          "odds": 2.5,
           "recent": [
             {
               "fin": 2,
@@ -6593,7 +6593,7 @@ window.RACE_DATA = {
           "jockey": "亀井洋司",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 6.8,
+          "odds": 7.5,
           "recent": [
             {
               "fin": 5,
@@ -6657,7 +6657,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 5.8,
+          "odds": 6.3,
           "recent": [
             {
               "fin": 1,
@@ -6723,7 +6723,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 45.8,
+          "odds": 81.3,
           "recent": [
             {
               "fin": 10,
@@ -6789,7 +6789,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 3.0,
+          "odds": 2.8,
           "recent": []
         },
         {
@@ -6802,7 +6802,7 @@ window.RACE_DATA = {
           "jockey": "渡辺準己",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 11.7,
+          "odds": 14.7,
           "recent": [
             {
               "fin": 5,
@@ -6866,7 +6866,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "柳澤好美",
           "horseWeight": null,
-          "odds": 29.2,
+          "odds": 30.4,
           "recent": [
             {
               "fin": 8,
@@ -6932,7 +6932,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "櫻井拓章",
           "horseWeight": null,
-          "odds": 98.4,
+          "odds": 113.9,
           "recent": [
             {
               "fin": 7,
@@ -6966,8 +6966,8 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630081112",
-      "oddsUpdatedAt": "20:38"
+      "oddsUpdatedAt": "20:48"
     }
   ],
-  "oddsUpdatedAt": "20:38"
+  "oddsUpdatedAt": "20:48"
 };
