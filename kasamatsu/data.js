@@ -1041,7 +1041,103 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202647081302",
-      "oddsUpdatedAt": "11:20"
+      "oddsUpdatedAt": "11:20",
+      "result": {
+        "order": [
+          5,
+          6,
+          7,
+          1,
+          4,
+          2,
+          3
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                5
+              ],
+              "amount": 8130
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                5
+              ],
+              "amount": 820
+            },
+            {
+              "comb": [
+                6
+              ],
+              "amount": 120
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 1640
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 500
+            },
+            {
+              "comb": [
+                5,
+                7
+              ],
+              "amount": 3260
+            },
+            {
+              "comb": [
+                6,
+                7
+              ],
+              "amount": 190
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 16040
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                5,
+                6,
+                7
+              ],
+              "amount": 3470
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                5,
+                6,
+                7
+              ],
+              "amount": 78470
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 3,
@@ -1067,7 +1163,7 @@ window.RACE_DATA = {
           "jockey": "丸野勝虎",
           "trainer": "川嶋弘吉",
           "horseWeight": null,
-          "odds": 35.5,
+          "odds": 37.4,
           "recent": [
             {
               "fin": 5,
@@ -1133,7 +1229,7 @@ window.RACE_DATA = {
           "jockey": "加藤利征",
           "trainer": "水野善太",
           "horseWeight": null,
-          "odds": 36.5,
+          "odds": 22.2,
           "recent": [
             {
               "fin": 10,
@@ -1199,7 +1295,7 @@ window.RACE_DATA = {
           "jockey": "東川慎",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 14.7,
+          "odds": 11.1,
           "recent": [
             {
               "fin": 3,
@@ -1263,7 +1359,7 @@ window.RACE_DATA = {
           "jockey": "加藤聡一",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 1.5,
+          "odds": 1.7,
           "recent": [
             {
               "fin": 12,
@@ -1329,7 +1425,7 @@ window.RACE_DATA = {
           "jockey": "松本一心",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 7.8,
+          "odds": 4.9,
           "recent": [
             {
               "fin": 1,
@@ -1377,7 +1473,7 @@ window.RACE_DATA = {
           "jockey": "馬渕繁治",
           "trainer": "森山英雄",
           "horseWeight": null,
-          "odds": 47.4,
+          "odds": 20.3,
           "recent": [
             {
               "fin": 5,
@@ -1443,7 +1539,7 @@ window.RACE_DATA = {
           "jockey": "筒井勇介",
           "trainer": "田口輝彦",
           "horseWeight": null,
-          "odds": 2.9,
+          "odds": 3.8,
           "recent": [
             {
               "fin": 8,
@@ -1497,7 +1593,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202647081303",
-      "oddsUpdatedAt": "11:30"
+      "oddsUpdatedAt": "11:40"
     },
     {
       "raceNo": 4,
@@ -5590,5 +5686,5 @@ window.RACE_DATA = {
       "raceId": "202647081311"
     }
   ],
-  "oddsUpdatedAt": "11:30"
+  "oddsUpdatedAt": "11:40"
 };
