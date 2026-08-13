@@ -925,7 +925,7 @@ window.RACE_DATA = {
           "jockey": "中村尚平",
           "trainer": "井上弘之",
           "horseWeight": null,
-          "odds": 9.7,
+          "odds": 14.3,
           "recent": []
         },
         {
@@ -938,7 +938,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "穂刈隆志",
           "horseWeight": null,
-          "odds": 34.3,
+          "odds": 44.3,
           "recent": []
         },
         {
@@ -951,7 +951,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "鷹見浩",
           "horseWeight": null,
-          "odds": 5.0,
+          "odds": 6.3,
           "recent": []
         },
         {
@@ -964,7 +964,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "宗形竹見",
           "horseWeight": null,
-          "odds": 3.8,
+          "odds": 3.0,
           "recent": []
         },
         {
@@ -977,7 +977,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌",
           "trainer": "坂井英光",
           "horseWeight": null,
-          "odds": 6.4,
+          "odds": 6.6,
           "recent": []
         },
         {
@@ -990,7 +990,7 @@ window.RACE_DATA = {
           "jockey": "吉井章",
           "trainer": "松浦裕之",
           "horseWeight": null,
-          "odds": 23.9,
+          "odds": 20.5,
           "recent": []
         },
         {
@@ -1003,7 +1003,7 @@ window.RACE_DATA = {
           "jockey": "西優哉",
           "trainer": "澤佳宏",
           "horseWeight": null,
-          "odds": 11.0,
+          "odds": 7.7,
           "recent": []
         },
         {
@@ -1016,7 +1016,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "阪本一栄",
           "horseWeight": null,
-          "odds": 11.8,
+          "odds": 18.3,
           "recent": []
         },
         {
@@ -1029,12 +1029,12 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "福田真広",
           "horseWeight": null,
-          "odds": 3.5,
+          "odds": 3.4,
           "recent": []
         }
       ],
       "raceId": "202644081302",
-      "oddsUpdatedAt": "16:00"
+      "oddsUpdatedAt": "16:10"
     },
     {
       "raceNo": 3,
@@ -7003,5 +7003,5 @@ window.RACE_DATA = {
       "raceId": "202644081310"
     }
   ],
-  "oddsUpdatedAt": "16:00"
+  "oddsUpdatedAt": "16:10"
 };
