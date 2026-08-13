@@ -735,7 +735,7 @@ window.RACE_DATA = {
           "jockey": "吉村智洋",
           "trainer": "岡田利一",
           "horseWeight": 468,
-          "odds": 63.5,
+          "odds": 45.0,
           "recent": [
             {
               "fin": 8,
@@ -801,7 +801,7 @@ window.RACE_DATA = {
           "jockey": "渡瀬和幸",
           "trainer": "吉見真幸",
           "horseWeight": 408,
-          "odds": 1.1,
+          "odds": 1.6,
           "recent": [
             {
               "fin": 6,
@@ -865,7 +865,7 @@ window.RACE_DATA = {
           "jockey": "永井孝典",
           "trainer": "徳本慶一",
           "horseWeight": 508,
-          "odds": 84.3,
+          "odds": 114.4,
           "recent": [
             {
               "fin": 10,
@@ -929,7 +929,7 @@ window.RACE_DATA = {
           "jockey": "大山真吾",
           "trainer": "大塚信次",
           "horseWeight": 442,
-          "odds": 7.9,
+          "odds": 8.6,
           "recent": [
             {
               "fin": 8,
@@ -995,7 +995,7 @@ window.RACE_DATA = {
           "jockey": "小谷哲平",
           "trainer": "溝橋利喜",
           "horseWeight": 416,
-          "odds": 51.0,
+          "odds": 40.8,
           "recent": [
             {
               "fin": 4,
@@ -1061,7 +1061,7 @@ window.RACE_DATA = {
           "jockey": "山本咲希",
           "trainer": "大塚信次",
           "horseWeight": 462,
-          "odds": 19.3,
+          "odds": 21.5,
           "recent": [
             {
               "fin": 9,
@@ -1127,7 +1127,7 @@ window.RACE_DATA = {
           "jockey": "山本屋太",
           "trainer": "南弘樹",
           "horseWeight": 386,
-          "odds": 42.1,
+          "odds": 42.7,
           "recent": [
             {
               "fin": 7,
@@ -1193,7 +1193,7 @@ window.RACE_DATA = {
           "jockey": "竹村達也",
           "trainer": "高馬元紘",
           "horseWeight": 472,
-          "odds": 9.1,
+          "odds": 2.8,
           "recent": [
             {
               "fin": 7,
@@ -1259,7 +1259,7 @@ window.RACE_DATA = {
           "jockey": "田野豊三",
           "trainer": "高本友芳",
           "horseWeight": 454,
-          "odds": 22.5,
+          "odds": 16.9,
           "recent": [
             {
               "fin": 10,
@@ -1317,7 +1317,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202650081302",
-      "oddsUpdatedAt": "10:50"
+      "oddsUpdatedAt": "11:00"
     },
     {
       "raceNo": 3,
@@ -7594,5 +7594,5 @@ window.RACE_DATA = {
       "raceId": "202650081312"
     }
   ],
-  "oddsUpdatedAt": "10:50"
+  "oddsUpdatedAt": "11:00"
 };
