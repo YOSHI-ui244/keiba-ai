@@ -6993,7 +6993,7 @@ window.RACE_DATA = {
       "name": "東京記念トライアル競走(3上)OP",
       "distance": 2400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "20:10",
       "grade": "サラ系３歳以上 3上",
       "meetingInfo": [
@@ -7012,7 +7012,7 @@ window.RACE_DATA = {
           "jockey": "西優哉",
           "trainer": "的場直之",
           "horseWeight": null,
-          "odds": 2.6,
+          "odds": 4.0,
           "recent": [
             {
               "fin": 1,
@@ -7078,7 +7078,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "内田勝義",
           "horseWeight": null,
-          "odds": 2.2,
+          "odds": 1.6,
           "recent": [
             {
               "fin": 2,
@@ -7140,7 +7140,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "宗形竹見",
           "horseWeight": null,
-          "odds": 12.8,
+          "odds": 7.7,
           "recent": [
             {
               "fin": 10,
@@ -7202,7 +7202,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌",
           "trainer": "米田英世",
           "horseWeight": null,
-          "odds": 9.7,
+          "odds": 9.4,
           "recent": [
             {
               "fin": 12,
@@ -7264,7 +7264,7 @@ window.RACE_DATA = {
           "jockey": "鷹見陸",
           "trainer": "藤田輝信",
           "horseWeight": null,
-          "odds": 14.9,
+          "odds": 14.1,
           "recent": [
             {
               "fin": 4,
@@ -7330,7 +7330,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "森下淳平",
           "horseWeight": null,
-          "odds": 24.4,
+          "odds": 17.4,
           "recent": [
             {
               "fin": 9,
@@ -7392,7 +7392,7 @@ window.RACE_DATA = {
           "jockey": "達城龍次",
           "trainer": "堀千亜樹",
           "horseWeight": null,
-          "odds": 8.7,
+          "odds": 22.5,
           "recent": [
             {
               "fin": 8,
@@ -7449,7 +7449,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202644081409"
+      "raceId": "202644081409",
+      "oddsUpdatedAt": "19:50"
     },
     {
       "raceNo": 10,
@@ -8103,5 +8104,5 @@ window.RACE_DATA = {
       "raceId": "202644081410"
     }
   ],
-  "oddsUpdatedAt": "19:40"
+  "oddsUpdatedAt": "19:50"
 };
