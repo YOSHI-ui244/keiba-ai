@@ -5132,7 +5132,7 @@ window.RACE_DATA = {
       "name": "葉月賞競走(B1)",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "18:55",
       "grade": "サラ系一般 B1",
       "meetingInfo": [
@@ -5151,7 +5151,7 @@ window.RACE_DATA = {
           "jockey": "本橋孝太",
           "trainer": "鷹見浩",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 3.0,
           "recent": [
             {
               "fin": 1,
@@ -5215,7 +5215,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "田中正人",
           "horseWeight": null,
-          "odds": 3.5,
+          "odds": 8.0,
           "recent": [
             {
               "fin": 13,
@@ -5279,7 +5279,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "宗形竹見",
           "horseWeight": null,
-          "odds": 9.7,
+          "odds": 15.9,
           "recent": [
             {
               "fin": 5,
@@ -5343,7 +5343,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "立花伸",
           "horseWeight": null,
-          "odds": 8.2,
+          "odds": 12.2,
           "recent": [
             {
               "fin": 4,
@@ -5409,7 +5409,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "鷹見浩",
           "horseWeight": null,
-          "odds": 191.6,
+          "odds": 43.8,
           "recent": [
             {
               "fin": 9,
@@ -5473,7 +5473,7 @@ window.RACE_DATA = {
           "jockey": "高橋昭平",
           "trainer": "立花伸",
           "horseWeight": null,
-          "odds": 22.6,
+          "odds": 5.5,
           "recent": [
             {
               "fin": 9,
@@ -5537,7 +5537,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "藤田輝信",
           "horseWeight": null,
-          "odds": 37.7,
+          "odds": 27.3,
           "recent": [
             {
               "fin": 8,
@@ -5599,7 +5599,7 @@ window.RACE_DATA = {
           "jockey": "安藤洋一",
           "trainer": "米田英世",
           "horseWeight": null,
-          "odds": 4.0,
+          "odds": 2.4,
           "recent": [
             {
               "fin": 1,
@@ -5652,7 +5652,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202644081407"
+      "raceId": "202644081407",
+      "oddsUpdatedAt": "18:30"
     },
     {
       "raceNo": 8,
@@ -7794,5 +7795,5 @@ window.RACE_DATA = {
       "raceId": "202644081410"
     }
   ],
-  "oddsUpdatedAt": "18:20"
+  "oddsUpdatedAt": "18:30"
 };
