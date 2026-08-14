@@ -7568,7 +7568,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "月岡健二",
           "horseWeight": null,
-          "odds": 30.7,
+          "odds": 28.0,
           "recent": [
             {
               "fin": 6,
@@ -7632,7 +7632,7 @@ window.RACE_DATA = {
           "jockey": "東原悠善",
           "trainer": "澤佳宏",
           "horseWeight": null,
-          "odds": 45.0,
+          "odds": 41.5,
           "recent": [
             {
               "fin": 7,
@@ -7824,7 +7824,7 @@ window.RACE_DATA = {
           "jockey": "鷹見陸",
           "trainer": "米田英世",
           "horseWeight": null,
-          "odds": 26.1,
+          "odds": 27.1,
           "recent": [
             {
               "fin": 9,
@@ -7886,7 +7886,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌",
           "trainer": "阪本一栄",
           "horseWeight": null,
-          "odds": 33.1,
+          "odds": 39.6,
           "recent": [
             {
               "fin": 9,
@@ -7950,7 +7950,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "荒山勝徳",
           "horseWeight": null,
-          "odds": 6.5,
+          "odds": 6.3,
           "recent": [
             {
               "fin": 11,
@@ -8012,7 +8012,7 @@ window.RACE_DATA = {
           "jockey": "小野俊斗",
           "trainer": "宗形竹見",
           "horseWeight": null,
-          "odds": 70.2,
+          "odds": 76.6,
           "recent": [
             {
               "fin": 14,
@@ -8078,7 +8078,7 @@ window.RACE_DATA = {
           "jockey": "安藤洋一",
           "trainer": "鈴木啓之",
           "horseWeight": null,
-          "odds": 18.8,
+          "odds": 17.0,
           "recent": [
             {
               "fin": 9,
@@ -8140,7 +8140,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "荒山勝徳",
           "horseWeight": null,
-          "odds": 12.8,
+          "odds": 12.4,
           "recent": [
             {
               "fin": 1,
@@ -8194,8 +8194,8 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202644081410",
-      "oddsUpdatedAt": "20:30"
+      "oddsUpdatedAt": "20:40"
     }
   ],
-  "oddsUpdatedAt": "20:30"
+  "oddsUpdatedAt": "20:40"
 };
