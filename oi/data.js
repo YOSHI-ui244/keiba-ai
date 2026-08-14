@@ -7549,7 +7549,7 @@ window.RACE_DATA = {
       "name": "サマーナイト賞競走(B2)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "20:50",
       "grade": "サラ系一般 B2",
       "meetingInfo": [
@@ -7568,7 +7568,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "月岡健二",
           "horseWeight": null,
-          "odds": 37.2,
+          "odds": 30.7,
           "recent": [
             {
               "fin": 6,
@@ -7632,7 +7632,7 @@ window.RACE_DATA = {
           "jockey": "東原悠善",
           "trainer": "澤佳宏",
           "horseWeight": null,
-          "odds": 48.6,
+          "odds": 45.0,
           "recent": [
             {
               "fin": 7,
@@ -7694,7 +7694,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "鷹見浩",
           "horseWeight": null,
-          "odds": 1.1,
+          "odds": 1.2,
           "recent": [
             {
               "fin": 1,
@@ -7824,7 +7824,7 @@ window.RACE_DATA = {
           "jockey": "鷹見陸",
           "trainer": "米田英世",
           "horseWeight": null,
-          "odds": 33.5,
+          "odds": 26.1,
           "recent": [
             {
               "fin": 9,
@@ -7886,7 +7886,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌",
           "trainer": "阪本一栄",
           "horseWeight": null,
-          "odds": 59.0,
+          "odds": 33.1,
           "recent": [
             {
               "fin": 9,
@@ -7950,7 +7950,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "荒山勝徳",
           "horseWeight": null,
-          "odds": 9.9,
+          "odds": 6.5,
           "recent": [
             {
               "fin": 11,
@@ -8012,7 +8012,7 @@ window.RACE_DATA = {
           "jockey": "小野俊斗",
           "trainer": "宗形竹見",
           "horseWeight": null,
-          "odds": 999.9,
+          "odds": 70.2,
           "recent": [
             {
               "fin": 14,
@@ -8078,7 +8078,7 @@ window.RACE_DATA = {
           "jockey": "安藤洋一",
           "trainer": "鈴木啓之",
           "horseWeight": null,
-          "odds": 17.2,
+          "odds": 18.8,
           "recent": [
             {
               "fin": 9,
@@ -8140,7 +8140,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "荒山勝徳",
           "horseWeight": null,
-          "odds": 16.8,
+          "odds": 12.8,
           "recent": [
             {
               "fin": 1,
@@ -8193,8 +8193,9 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202644081410"
+      "raceId": "202644081410",
+      "oddsUpdatedAt": "20:30"
     }
   ],
-  "oddsUpdatedAt": "20:20"
+  "oddsUpdatedAt": "20:30"
 };
