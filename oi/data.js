@@ -2161,7 +2161,7 @@ window.RACE_DATA = {
       "name": "2歳三四",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "良",
+      "condition": "重",
       "startTime": "17:17",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -2180,7 +2180,7 @@ window.RACE_DATA = {
           "jockey": "西啓太",
           "trainer": "田中正人",
           "horseWeight": null,
-          "odds": 8.3,
+          "odds": 14.7,
           "recent": []
         },
         {
@@ -2193,7 +2193,7 @@ window.RACE_DATA = {
           "jockey": "木澤奨",
           "trainer": "的場直之",
           "horseWeight": null,
-          "odds": 7.2,
+          "odds": 9.1,
           "recent": [
             {
               "fin": 7,
@@ -2221,7 +2221,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "渡部則夫",
           "horseWeight": null,
-          "odds": 3.6,
+          "odds": 3.1,
           "recent": []
         },
         {
@@ -2234,7 +2234,7 @@ window.RACE_DATA = {
           "jockey": "達城龍次",
           "trainer": "堀千亜樹",
           "horseWeight": null,
-          "odds": 12.3,
+          "odds": 10.5,
           "recent": []
         },
         {
@@ -2247,7 +2247,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "高野毅",
           "horseWeight": null,
-          "odds": 4.1,
+          "odds": 3.9,
           "recent": []
         },
         {
@@ -2260,7 +2260,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "宗形竹見",
           "horseWeight": null,
-          "odds": 5.2,
+          "odds": 5.0,
           "recent": []
         },
         {
@@ -2273,11 +2273,12 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "赤嶺亮",
           "horseWeight": null,
-          "odds": 4.9,
+          "odds": 4.8,
           "recent": []
         }
       ],
-      "raceId": "202644081604"
+      "raceId": "202644081604",
+      "oddsUpdatedAt": "16:52"
     },
     {
       "raceNo": 5,
@@ -6654,5 +6655,5 @@ window.RACE_DATA = {
       "raceId": "202644081610"
     }
   ],
-  "oddsUpdatedAt": "16:42"
+  "oddsUpdatedAt": "16:52"
 };
