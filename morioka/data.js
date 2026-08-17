@@ -3601,7 +3601,7 @@ window.RACE_DATA = {
           "jockey": "小林凌",
           "trainer": "小林俊彦",
           "horseWeight": null,
-          "odds": 49.2,
+          "odds": 30.7,
           "recent": [
             {
               "fin": 6,
@@ -3667,7 +3667,7 @@ window.RACE_DATA = {
           "jockey": "高松亮",
           "trainer": "永田幸宏",
           "horseWeight": null,
-          "odds": 1.8,
+          "odds": 1.9,
           "recent": [
             {
               "fin": 8,
@@ -3733,7 +3733,7 @@ window.RACE_DATA = {
           "jockey": "関本玲花",
           "trainer": "佐藤雅彦",
           "horseWeight": null,
-          "odds": 6.0,
+          "odds": 9.0,
           "recent": [
             {
               "fin": 4,
@@ -3799,7 +3799,7 @@ window.RACE_DATA = {
           "jockey": "南郷家全",
           "trainer": "櫻田浩樹",
           "horseWeight": null,
-          "odds": 5.2,
+          "odds": 4.1,
           "recent": [
             {
               "fin": 7,
@@ -3865,7 +3865,7 @@ window.RACE_DATA = {
           "jockey": "村上忍",
           "trainer": "伊藤和",
           "horseWeight": null,
-          "odds": 6.4,
+          "odds": 6.6,
           "recent": [
             {
               "fin": 4,
@@ -3931,7 +3931,7 @@ window.RACE_DATA = {
           "jockey": "高橋悠里",
           "trainer": "及川良春",
           "horseWeight": null,
-          "odds": 31.1,
+          "odds": 22.2,
           "recent": [
             {
               "fin": 3,
@@ -3997,7 +3997,7 @@ window.RACE_DATA = {
           "jockey": "大坪慎",
           "trainer": "佐藤敏彦",
           "horseWeight": null,
-          "odds": 6.6,
+          "odds": 6.4,
           "recent": [
             {
               "fin": 10,
@@ -4055,7 +4055,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202635081706",
-      "oddsUpdatedAt": "14:20"
+      "oddsUpdatedAt": "14:30"
     },
     {
       "raceNo": 7,
@@ -7590,5 +7590,5 @@ window.RACE_DATA = {
       "raceId": "202635081712"
     }
   ],
-  "oddsUpdatedAt": "14:20"
+  "oddsUpdatedAt": "14:30"
 };
