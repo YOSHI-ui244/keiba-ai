@@ -983,7 +983,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "松本隆宏",
           "horseWeight": 440,
-          "odds": 1.1,
+          "odds": 1.3,
           "recent": []
         },
         {
@@ -996,7 +996,7 @@ window.RACE_DATA = {
           "jockey": "金山昇馬",
           "trainer": "桧森邦夫",
           "horseWeight": 416,
-          "odds": 24.3,
+          "odds": 28.1,
           "recent": []
         },
         {
@@ -1009,7 +1009,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "斉藤正弘",
           "horseWeight": 446,
-          "odds": 36.0,
+          "odds": 50.6,
           "recent": [
             {
               "fin": 4,
@@ -1031,7 +1031,7 @@ window.RACE_DATA = {
           "jockey": "小川悠汰",
           "trainer": "小野望",
           "horseWeight": 456,
-          "odds": 33.3,
+          "odds": 51.9,
           "recent": [
             {
               "fin": 10,
@@ -1053,7 +1053,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "田中淳司",
           "horseWeight": 462,
-          "odds": 11.4,
+          "odds": 7.0,
           "recent": []
         },
         {
@@ -1066,7 +1066,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": 398,
-          "odds": 29.5,
+          "odds": 17.0,
           "recent": []
         },
         {
@@ -1079,7 +1079,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "川島雅人",
           "horseWeight": 488,
-          "odds": 45.0,
+          "odds": 82.3,
           "recent": []
         },
         {
@@ -1092,12 +1092,12 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "小国博行",
           "horseWeight": 484,
-          "odds": 6.2,
+          "odds": 4.9,
           "recent": []
         }
       ],
       "raceId": "202630081804",
-      "oddsUpdatedAt": "15:53"
+      "oddsUpdatedAt": "16:03"
     },
     {
       "raceNo": 5,
@@ -6300,5 +6300,5 @@ window.RACE_DATA = {
       "raceId": "202630081812"
     }
   ],
-  "oddsUpdatedAt": "15:53"
+  "oddsUpdatedAt": "16:03"
 };
