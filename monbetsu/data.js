@@ -4013,7 +4013,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "五十嵐冬",
           "horseWeight": null,
-          "odds": 8.6,
+          "odds": 6.6,
           "recent": [
             {
               "fin": 4,
@@ -4077,7 +4077,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 18.1,
+          "odds": 19.8,
           "recent": [
             {
               "fin": 2,
@@ -4141,7 +4141,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "米川昇",
           "horseWeight": null,
-          "odds": 13.7,
+          "odds": 15.8,
           "recent": [
             {
               "fin": 6,
@@ -4207,7 +4207,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "森山雄大",
           "horseWeight": null,
-          "odds": 13.8,
+          "odds": 18.8,
           "recent": [
             {
               "fin": 2,
@@ -4271,7 +4271,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 5.3,
+          "odds": 4.9,
           "recent": [
             {
               "fin": 3,
@@ -4373,7 +4373,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 8.4,
+          "odds": 8.9,
           "recent": [
             {
               "fin": 3,
@@ -4419,7 +4419,7 @@ window.RACE_DATA = {
           "jockey": "井上俊彦",
           "trainer": "櫻井拓章",
           "horseWeight": null,
-          "odds": 18.2,
+          "odds": 25.6,
           "recent": [
             {
               "fin": 7,
@@ -4485,7 +4485,7 @@ window.RACE_DATA = {
           "jockey": "小川悠汰",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 4.6,
+          "odds": 3.9,
           "recent": [
             {
               "fin": 5,
@@ -4551,7 +4551,7 @@ window.RACE_DATA = {
           "jockey": "渡辺準己",
           "trainer": "川島雅人",
           "horseWeight": null,
-          "odds": 7.1,
+          "odds": 9.2,
           "recent": [
             {
               "fin": 5,
@@ -4607,7 +4607,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630081908",
-      "oddsUpdatedAt": "17:41"
+      "oddsUpdatedAt": "17:51"
     },
     {
       "raceNo": 9,
@@ -6844,5 +6844,5 @@ window.RACE_DATA = {
       "raceId": "202630081912"
     }
   ],
-  "oddsUpdatedAt": "17:41"
+  "oddsUpdatedAt": "17:51"
 };
