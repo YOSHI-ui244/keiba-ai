@@ -6455,7 +6455,7 @@ window.RACE_DATA = {
           "jockey": "南部楓馬",
           "trainer": "山口浩幸",
           "horseWeight": 478,
-          "odds": 21.7,
+          "odds": 35.8,
           "recent": [
             {
               "fin": 3,
@@ -6517,7 +6517,7 @@ window.RACE_DATA = {
           "jockey": "土方颯太",
           "trainer": "高馬元紘",
           "horseWeight": 490,
-          "odds": 4.6,
+          "odds": 4.0,
           "recent": [
             {
               "fin": 4,
@@ -6581,7 +6581,7 @@ window.RACE_DATA = {
           "jockey": "小牧太",
           "trainer": "玉垣光章",
           "horseWeight": 470,
-          "odds": 6.0,
+          "odds": 7.8,
           "recent": [
             {
               "fin": 2,
@@ -6647,7 +6647,7 @@ window.RACE_DATA = {
           "jockey": "小谷哲平",
           "trainer": "新子雅司",
           "horseWeight": 446,
-          "odds": 18.1,
+          "odds": 31.9,
           "recent": [
             {
               "fin": 5,
@@ -6711,7 +6711,7 @@ window.RACE_DATA = {
           "jockey": "川原正一",
           "trainer": "田村彰啓",
           "horseWeight": 456,
-          "odds": 6.9,
+          "odds": 7.4,
           "recent": [
             {
               "fin": 4,
@@ -6777,7 +6777,7 @@ window.RACE_DATA = {
           "jockey": "吉村智洋",
           "trainer": "永島太郎",
           "horseWeight": 480,
-          "odds": 3.2,
+          "odds": 2.8,
           "recent": [
             {
               "fin": 3,
@@ -6843,7 +6843,7 @@ window.RACE_DATA = {
           "jockey": "井上幹太",
           "trainer": "大塚信次",
           "horseWeight": 437,
-          "odds": 36.8,
+          "odds": 51.8,
           "recent": [
             {
               "fin": 10,
@@ -6909,7 +6909,7 @@ window.RACE_DATA = {
           "jockey": "廣瀬航",
           "trainer": "飯田良弘",
           "horseWeight": 452,
-          "odds": 7.7,
+          "odds": 11.2,
           "recent": [
             {
               "fin": 2,
@@ -6975,7 +6975,7 @@ window.RACE_DATA = {
           "jockey": "福原杏",
           "trainer": "長倉功",
           "horseWeight": 521,
-          "odds": 6.2,
+          "odds": 4.4,
           "recent": [
             {
               "fin": 13,
@@ -7029,7 +7029,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202650081911",
-      "oddsUpdatedAt": "15:51"
+      "oddsUpdatedAt": "16:01"
     },
     {
       "raceNo": 12,
@@ -7643,5 +7643,5 @@ window.RACE_DATA = {
       "raceId": "202650081912"
     }
   ],
-  "oddsUpdatedAt": "15:51"
+  "oddsUpdatedAt": "16:01"
 };
