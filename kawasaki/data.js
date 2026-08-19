@@ -1191,7 +1191,7 @@ window.RACE_DATA = {
           "jockey": "町田直希",
           "trainer": "長友豊",
           "horseWeight": 420,
-          "odds": 16.4,
+          "odds": 14.4,
           "recent": [
             {
               "fin": 9,
@@ -1255,7 +1255,7 @@ window.RACE_DATA = {
           "jockey": "加藤雄真",
           "trainer": "八木正喜",
           "horseWeight": 474,
-          "odds": 32.7,
+          "odds": 42.9,
           "recent": [
             {
               "fin": 12,
@@ -1319,7 +1319,7 @@ window.RACE_DATA = {
           "jockey": "高橋優",
           "trainer": "村田順一",
           "horseWeight": 434,
-          "odds": 33.2,
+          "odds": 47.3,
           "recent": [
             {
               "fin": 12,
@@ -1383,7 +1383,7 @@ window.RACE_DATA = {
           "jockey": "山林堂信",
           "trainer": "田辺陽一",
           "horseWeight": 423,
-          "odds": 32.7,
+          "odds": 46.4,
           "recent": [
             {
               "fin": 7,
@@ -1445,7 +1445,7 @@ window.RACE_DATA = {
           "jockey": "岡村裕基",
           "trainer": "今井輝和",
           "horseWeight": 397,
-          "odds": 19.8,
+          "odds": 31.0,
           "recent": [
             {
               "fin": 11,
@@ -1509,7 +1509,7 @@ window.RACE_DATA = {
           "jockey": "達城龍次",
           "trainer": "久保勇",
           "horseWeight": 449,
-          "odds": 10.2,
+          "odds": 8.9,
           "recent": [
             {
               "fin": 7,
@@ -1573,7 +1573,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "高橋宏征",
           "horseWeight": 507,
-          "odds": 2.4,
+          "odds": 3.9,
           "recent": [
             {
               "fin": 4,
@@ -1635,7 +1635,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "山崎裕也",
           "horseWeight": 415,
-          "odds": 2.4,
+          "odds": 1.7,
           "recent": [
             {
               "fin": 3,
@@ -1701,7 +1701,7 @@ window.RACE_DATA = {
           "jockey": "池谷匠翔",
           "trainer": "林隆之",
           "horseWeight": 483,
-          "odds": 7.1,
+          "odds": 6.9,
           "recent": [
             {
               "fin": 9,
@@ -1757,7 +1757,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202645081904",
-      "oddsUpdatedAt": "16:01"
+      "oddsUpdatedAt": "16:11"
     },
     {
       "raceNo": 5,
@@ -7879,5 +7879,5 @@ window.RACE_DATA = {
       "raceId": "202645081912"
     }
   ],
-  "oddsUpdatedAt": "16:01"
+  "oddsUpdatedAt": "16:11"
 };
