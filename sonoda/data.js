@@ -3169,7 +3169,7 @@ window.RACE_DATA = {
           "jockey": "田野豊三",
           "trainer": "松浦聡志",
           "horseWeight": null,
-          "odds": 76.4,
+          "odds": 71.6,
           "recent": [
             {
               "fin": 2,
@@ -3235,7 +3235,7 @@ window.RACE_DATA = {
           "jockey": "佐々木世",
           "trainer": "吉見真幸",
           "horseWeight": null,
-          "odds": 66.5,
+          "odds": 49.4,
           "recent": [
             {
               "fin": 5,
@@ -3297,7 +3297,7 @@ window.RACE_DATA = {
           "jockey": "松木大地",
           "trainer": "西川進也",
           "horseWeight": null,
-          "odds": 282.2,
+          "odds": 167.8,
           "recent": [
             {
               "fin": 9,
@@ -3421,7 +3421,7 @@ window.RACE_DATA = {
           "jockey": "笹田知宏",
           "trainer": "田中道夫",
           "horseWeight": null,
-          "odds": 112.1,
+          "odds": 82.3,
           "recent": [
             {
               "fin": 5,
@@ -3487,7 +3487,7 @@ window.RACE_DATA = {
           "jockey": "廣瀬航",
           "trainer": "尾林幸二",
           "horseWeight": null,
-          "odds": 33.1,
+          "odds": 22.4,
           "recent": [
             {
               "fin": 3,
@@ -3551,7 +3551,7 @@ window.RACE_DATA = {
           "jockey": "山本咲希",
           "trainer": "橋本忠明",
           "horseWeight": null,
-          "odds": 115.2,
+          "odds": 93.4,
           "recent": [
             {
               "fin": 7,
@@ -3615,7 +3615,7 @@ window.RACE_DATA = {
           "jockey": "南部楓馬",
           "trainer": "田村彰啓",
           "horseWeight": null,
-          "odds": 55.2,
+          "odds": 39.1,
           "recent": [
             {
               "fin": 2,
@@ -3673,7 +3673,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202650082107",
-      "oddsUpdatedAt": "17:12"
+      "oddsUpdatedAt": "17:22"
     },
     {
       "raceNo": 8,
@@ -6634,5 +6634,5 @@ window.RACE_DATA = {
       "raceId": "202650082112"
     }
   ],
-  "oddsUpdatedAt": "17:12"
+  "oddsUpdatedAt": "17:22"
 };
