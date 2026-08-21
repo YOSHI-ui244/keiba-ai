@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "高畑皓一",
           "trainer": "黒田隆男",
           "horseWeight": null,
-          "odds": 117.5,
+          "odds": 193.7,
           "recent": [
             {
               "fin": 6,
@@ -99,7 +99,7 @@ window.RACE_DATA = {
           "jockey": "南部楓馬",
           "trainer": "山元博徳",
           "horseWeight": null,
-          "odds": 115.7,
+          "odds": 166.7,
           "recent": [
             {
               "fin": 8,
@@ -165,7 +165,7 @@ window.RACE_DATA = {
           "jockey": "永井孝典",
           "trainer": "野田忍",
           "horseWeight": null,
-          "odds": 123.2,
+          "odds": 181.4,
           "recent": [
             {
               "fin": 10,
@@ -227,7 +227,7 @@ window.RACE_DATA = {
           "jockey": "山本咲希",
           "trainer": "大山寿文",
           "horseWeight": null,
-          "odds": 31.1,
+          "odds": 36.4,
           "recent": [
             {
               "fin": 8,
@@ -291,7 +291,7 @@ window.RACE_DATA = {
           "jockey": "土方颯太",
           "trainer": "山元博徳",
           "horseWeight": null,
-          "odds": 89.8,
+          "odds": 140.5,
           "recent": [
             {
               "fin": 8,
@@ -370,7 +370,7 @@ window.RACE_DATA = {
           "jockey": "山本屋太",
           "trainer": "野田忍",
           "horseWeight": null,
-          "odds": 19.1,
+          "odds": 28.5,
           "recent": [
             {
               "fin": 10,
@@ -434,7 +434,7 @@ window.RACE_DATA = {
           "jockey": "佐々木世",
           "trainer": "山元博徳",
           "horseWeight": null,
-          "odds": 27.9,
+          "odds": 32.0,
           "recent": [
             {
               "fin": 10,
@@ -500,7 +500,7 @@ window.RACE_DATA = {
           "jockey": "田野豊三",
           "trainer": "溝橋利喜",
           "horseWeight": null,
-          "odds": 6.0,
+          "odds": 8.2,
           "recent": [
             {
               "fin": 4,
@@ -566,7 +566,7 @@ window.RACE_DATA = {
           "jockey": "塩津璃菜",
           "trainer": "岡田利一",
           "horseWeight": null,
-          "odds": 24.7,
+          "odds": 29.0,
           "recent": [
             {
               "fin": 9,
@@ -620,7 +620,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202650082101",
-      "oddsUpdatedAt": "14:02"
+      "oddsUpdatedAt": "14:12"
     },
     {
       "raceNo": 2,
@@ -6014,5 +6014,5 @@ window.RACE_DATA = {
       "raceId": "202650082112"
     }
   ],
-  "oddsUpdatedAt": "14:02"
+  "oddsUpdatedAt": "14:12"
 };
