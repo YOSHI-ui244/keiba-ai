@@ -390,14 +390,110 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646082302",
-      "oddsUpdatedAt": "17:06"
+      "oddsUpdatedAt": "17:06",
+      "result": {
+        "order": [
+          1,
+          6,
+          5,
+          3,
+          4,
+          7,
+          2
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 2640
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 1010
+            },
+            {
+              "comb": [
+                6
+              ],
+              "amount": 230
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                1,
+                6
+              ],
+              "amount": 1250
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                1,
+                6
+              ],
+              "amount": 450
+            },
+            {
+              "comb": [
+                1,
+                5
+              ],
+              "amount": 530
+            },
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 240
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                1,
+                6
+              ],
+              "amount": 7960
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                5,
+                6
+              ],
+              "amount": 2020
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                1,
+                6,
+                5
+              ],
+              "amount": 25620
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 3,
       "name": "楽天競馬で馬券を買おう!楽天競馬特別(2歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "17:45",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -416,7 +512,7 @@ window.RACE_DATA = {
           "jockey": "松戸政也",
           "trainer": "藤田弘治",
           "horseWeight": null,
-          "odds": 6.3,
+          "odds": 8.0,
           "recent": []
         },
         {
@@ -429,7 +525,7 @@ window.RACE_DATA = {
           "jockey": "平瀬城久",
           "trainer": "鈴木正也",
           "horseWeight": null,
-          "odds": 62.9,
+          "odds": 19.2,
           "recent": [
             {
               "fin": 4,
@@ -451,7 +547,7 @@ window.RACE_DATA = {
           "jockey": "田知弘久",
           "trainer": "金田一昌",
           "horseWeight": null,
-          "odds": 30.4,
+          "odds": 28.5,
           "recent": []
         },
         {
@@ -464,7 +560,7 @@ window.RACE_DATA = {
           "jockey": "鈴木太一",
           "trainer": "加藤和義",
           "horseWeight": null,
-          "odds": 5.6,
+          "odds": 6.1,
           "recent": []
         },
         {
@@ -477,7 +573,7 @@ window.RACE_DATA = {
           "jockey": "吉原寛人",
           "trainer": "藤田弘治",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 2.6,
           "recent": []
         },
         {
@@ -490,7 +586,7 @@ window.RACE_DATA = {
           "jockey": "柴田勇真",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 1.7,
+          "odds": 2.0,
           "recent": [
             {
               "fin": 3,
@@ -503,7 +599,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202646082303"
+      "raceId": "202646082303",
+      "oddsUpdatedAt": "17:26"
     },
     {
       "raceNo": 4,
@@ -3735,5 +3832,5 @@ window.RACE_DATA = {
       "raceId": "202646082308"
     }
   ],
-  "oddsUpdatedAt": "17:06"
+  "oddsUpdatedAt": "17:26"
 };
