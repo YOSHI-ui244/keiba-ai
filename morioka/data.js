@@ -224,7 +224,7 @@ window.RACE_DATA = {
           "jockey": "小林凌",
           "trainer": "佐藤敏彦",
           "horseWeight": null,
-          "odds": 67.3,
+          "odds": 60.9,
           "recent": [
             {
               "fin": 7,
@@ -290,7 +290,7 @@ window.RACE_DATA = {
           "jockey": "佐々木志",
           "trainer": "工藤裕孝",
           "horseWeight": null,
-          "odds": 17.6,
+          "odds": 16.2,
           "recent": [
             {
               "fin": 4,
@@ -356,7 +356,7 @@ window.RACE_DATA = {
           "jockey": "南郷家全",
           "trainer": "櫻田浩樹",
           "horseWeight": null,
-          "odds": 95.4,
+          "odds": 75.2,
           "recent": [
             {
               "fin": 10,
@@ -420,7 +420,7 @@ window.RACE_DATA = {
           "jockey": "鈴木祐",
           "trainer": "櫻田康二",
           "horseWeight": null,
-          "odds": 66.3,
+          "odds": 71.0,
           "recent": [
             {
               "fin": 6,
@@ -550,7 +550,7 @@ window.RACE_DATA = {
           "jockey": "岩本怜",
           "trainer": "三野宮通",
           "horseWeight": null,
-          "odds": 27.5,
+          "odds": 28.4,
           "recent": [
             {
               "fin": 10,
@@ -614,7 +614,7 @@ window.RACE_DATA = {
           "jockey": "菅原辰徳",
           "trainer": "西野直樹",
           "horseWeight": null,
-          "odds": 11.3,
+          "odds": 11.5,
           "recent": [
             {
               "fin": 11,
@@ -676,7 +676,7 @@ window.RACE_DATA = {
           "jockey": "関本玲花",
           "trainer": "永田幸宏",
           "horseWeight": null,
-          "odds": 12.0,
+          "odds": 13.1,
           "recent": [
             {
               "fin": 9,
@@ -732,7 +732,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202635082302",
-      "oddsUpdatedAt": "13:25"
+      "oddsUpdatedAt": "13:26"
     },
     {
       "raceNo": 3,
@@ -6038,5 +6038,5 @@ window.RACE_DATA = {
       "raceId": "202635082311"
     }
   ],
-  "oddsUpdatedAt": "13:25"
+  "oddsUpdatedAt": "13:26"
 };
