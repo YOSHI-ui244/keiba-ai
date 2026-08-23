@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "ファーストステップ 2歳 新馬戦",
       "distance": 1000,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "13:00",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "菅原辰徳",
           "trainer": "瀬戸幸一",
           "horseWeight": null,
-          "odds": 3.7,
+          "odds": 2.2,
           "recent": []
         },
         {
@@ -46,7 +46,7 @@ window.RACE_DATA = {
           "jockey": "高松亮",
           "trainer": "千葉幸喜",
           "horseWeight": null,
-          "odds": 6.4,
+          "odds": 4.9,
           "recent": []
         },
         {
@@ -59,7 +59,7 @@ window.RACE_DATA = {
           "jockey": "山本政聡",
           "trainer": "斉藤雄一",
           "horseWeight": null,
-          "odds": 4.2,
+          "odds": 6.1,
           "recent": []
         },
         {
@@ -72,7 +72,7 @@ window.RACE_DATA = {
           "jockey": "村上忍",
           "trainer": "石川栄",
           "horseWeight": null,
-          "odds": 3.0,
+          "odds": 3.5,
           "recent": []
         },
         {
@@ -85,7 +85,7 @@ window.RACE_DATA = {
           "jockey": "南郷家全",
           "trainer": "櫻田浩樹",
           "horseWeight": null,
-          "odds": 9.7,
+          "odds": 11.1,
           "recent": []
         },
         {
@@ -98,11 +98,12 @@ window.RACE_DATA = {
           "jockey": "大坪慎",
           "trainer": "橘友和",
           "horseWeight": null,
-          "odds": 6.4,
+          "odds": 13.6,
           "recent": []
         }
       ],
-      "raceId": "202635082301"
+      "raceId": "202635082301",
+      "oddsUpdatedAt": "12:35"
     },
     {
       "raceNo": 2,
@@ -5940,5 +5941,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202635082311"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "12:35"
 };
