@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "夢を叶える!ミクチャライバー記念(C2)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "16:05",
       "grade": "サラ系一般 C2",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "山下裕貴",
           "trainer": "九日俊光",
           "horseWeight": null,
-          "odds": 15.4,
+          "odds": 27.0,
           "recent": [
             {
               "fin": 11,
@@ -97,7 +97,7 @@ window.RACE_DATA = {
           "jockey": "椿聡太",
           "trainer": "頼本盛行",
           "horseWeight": null,
-          "odds": 17.1,
+          "odds": 14.4,
           "recent": [
             {
               "fin": 1,
@@ -161,7 +161,7 @@ window.RACE_DATA = {
           "jockey": "田中純",
           "trainer": "九日俊光",
           "horseWeight": null,
-          "odds": 8.5,
+          "odds": 10.5,
           "recent": [
             {
               "fin": 1,
@@ -227,7 +227,7 @@ window.RACE_DATA = {
           "jockey": "石川慎将",
           "trainer": "真島元徳",
           "horseWeight": null,
-          "odds": 19.8,
+          "odds": 7.7,
           "recent": [
             {
               "fin": 8,
@@ -289,7 +289,7 @@ window.RACE_DATA = {
           "jockey": "竹吉徹",
           "trainer": "山田義人",
           "horseWeight": null,
-          "odds": 34.9,
+          "odds": 33.8,
           "recent": [
             {
               "fin": 9,
@@ -351,7 +351,7 @@ window.RACE_DATA = {
           "jockey": "長谷川蓮",
           "trainer": "矢野久美",
           "horseWeight": null,
-          "odds": 9.9,
+          "odds": 19.7,
           "recent": [
             {
               "fin": 12,
@@ -417,7 +417,7 @@ window.RACE_DATA = {
           "jockey": "山口勲",
           "trainer": "井樋明正",
           "horseWeight": null,
-          "odds": 1.4,
+          "odds": 1.3,
           "recent": [
             {
               "fin": 10,
@@ -483,7 +483,7 @@ window.RACE_DATA = {
           "jockey": "出水拓人",
           "trainer": "中川竜馬",
           "horseWeight": null,
-          "odds": 15.6,
+          "odds": 28.9,
           "recent": [
             {
               "fin": 6,
@@ -549,7 +549,7 @@ window.RACE_DATA = {
           "jockey": "小松丈二",
           "trainer": "柳井宏之",
           "horseWeight": null,
-          "odds": 17.3,
+          "odds": 18.8,
           "recent": [
             {
               "fin": 7,
@@ -615,7 +615,7 @@ window.RACE_DATA = {
           "jockey": "青海大樹",
           "trainer": "三小田幸",
           "horseWeight": null,
-          "odds": 105.5,
+          "odds": 40.5,
           "recent": [
             {
               "fin": 9,
@@ -672,7 +672,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202655082301"
+      "raceId": "202655082301",
+      "oddsUpdatedAt": "15:45"
     },
     {
       "raceNo": 2,
@@ -7395,5 +7396,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202655082310"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "15:45"
 };
