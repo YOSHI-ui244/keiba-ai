@@ -4329,8 +4329,106 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646082308",
-      "oddsUpdatedAt": "20:36"
+      "oddsUpdatedAt": "20:36",
+      "result": {
+        "order": [
+          5,
+          10,
+          12
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                5
+              ],
+              "amount": 230
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                5
+              ],
+              "amount": 120
+            },
+            {
+              "comb": [
+                10
+              ],
+              "amount": 120
+            },
+            {
+              "comb": [
+                12
+              ],
+              "amount": 310
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                5,
+                10
+              ],
+              "amount": 240
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                5,
+                10
+              ],
+              "amount": 160
+            },
+            {
+              "comb": [
+                5,
+                12
+              ],
+              "amount": 630
+            },
+            {
+              "comb": [
+                10,
+                12
+              ],
+              "amount": 810
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                5,
+                10
+              ],
+              "amount": 530
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                5,
+                10,
+                12
+              ],
+              "amount": 1640
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                5,
+                10,
+                12
+              ],
+              "amount": 4170
+            }
+          ]
+        }
+      }
     }
   ],
-  "oddsUpdatedAt": "20:36"
+  "oddsUpdatedAt": "20:56"
 };
