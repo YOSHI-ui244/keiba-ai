@@ -2826,7 +2826,7 @@ window.RACE_DATA = {
       "name": "スマホで投票!楽天競馬特別(C2)",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "18:20",
       "grade": "サラ系一般 C2",
       "meetingInfo": [
@@ -2845,7 +2845,7 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "池田敦",
           "horseWeight": null,
-          "odds": 6.8,
+          "odds": 7.3,
           "recent": [
             {
               "fin": 3,
@@ -2907,7 +2907,7 @@ window.RACE_DATA = {
           "jockey": "加藤翔馬",
           "trainer": "鈴木正也",
           "horseWeight": null,
-          "odds": 24.5,
+          "odds": 11.3,
           "recent": [
             {
               "fin": 4,
@@ -2971,7 +2971,7 @@ window.RACE_DATA = {
           "jockey": "吉田晃浩",
           "trainer": "田嶋弘幸",
           "horseWeight": null,
-          "odds": 28.9,
+          "odds": 33.1,
           "recent": [
             {
               "fin": 9,
@@ -3099,7 +3099,7 @@ window.RACE_DATA = {
           "jockey": "鈴木太一",
           "trainer": "井樋一也",
           "horseWeight": null,
-          "odds": 38.8,
+          "odds": 28.7,
           "recent": [
             {
               "fin": 3,
@@ -3165,7 +3165,7 @@ window.RACE_DATA = {
           "jockey": "田知弘久",
           "trainer": "田嶋弘幸",
           "horseWeight": null,
-          "odds": 7.6,
+          "odds": 8.1,
           "recent": [
             {
               "fin": 2,
@@ -3231,7 +3231,7 @@ window.RACE_DATA = {
           "jockey": "服部大地",
           "trainer": "宗綱泰彦",
           "horseWeight": null,
-          "odds": 70.3,
+          "odds": 20.0,
           "recent": [
             {
               "fin": 6,
@@ -3288,7 +3288,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202646082405"
+      "raceId": "202646082405",
+      "oddsUpdatedAt": "18:00"
     },
     {
       "raceNo": 6,
@@ -5553,5 +5554,5 @@ window.RACE_DATA = {
       "raceId": "202646082409"
     }
   ],
-  "oddsUpdatedAt": "17:50"
+  "oddsUpdatedAt": "18:00"
 };
