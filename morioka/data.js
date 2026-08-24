@@ -5045,7 +5045,7 @@ window.RACE_DATA = {
           "jockey": "菅原辰徳",
           "trainer": "高橋純",
           "horseWeight": null,
-          "odds": 6.8,
+          "odds": 2.6,
           "recent": [
             {
               "fin": 5,
@@ -5067,7 +5067,7 @@ window.RACE_DATA = {
           "jockey": "山本聡哉",
           "trainer": "菅原勲",
           "horseWeight": null,
-          "odds": 2.9,
+          "odds": 4.9,
           "recent": []
         },
         {
@@ -5080,7 +5080,7 @@ window.RACE_DATA = {
           "jockey": "南郷家全",
           "trainer": "櫻田浩樹",
           "horseWeight": null,
-          "odds": 36.0,
+          "odds": 43.2,
           "recent": []
         },
         {
@@ -5093,7 +5093,7 @@ window.RACE_DATA = {
           "jockey": "大坪慎",
           "trainer": "工藤裕孝",
           "horseWeight": null,
-          "odds": 9.1,
+          "odds": 15.0,
           "recent": []
         },
         {
@@ -5106,7 +5106,7 @@ window.RACE_DATA = {
           "jockey": "関本玲花",
           "trainer": "木村暁",
           "horseWeight": null,
-          "odds": 9.7,
+          "odds": 12.7,
           "recent": []
         },
         {
@@ -5119,7 +5119,7 @@ window.RACE_DATA = {
           "jockey": "坂井瑛音",
           "trainer": "斉藤雄一",
           "horseWeight": null,
-          "odds": 98.0,
+          "odds": 46.2,
           "recent": [
             {
               "fin": 5,
@@ -5153,7 +5153,7 @@ window.RACE_DATA = {
           "jockey": "山本聡紀",
           "trainer": "板垣吉則",
           "horseWeight": null,
-          "odds": 7.7,
+          "odds": 10.8,
           "recent": [
             {
               "fin": 3,
@@ -5175,11 +5175,12 @@ window.RACE_DATA = {
           "jockey": "山本政聡",
           "trainer": "櫻田康二",
           "horseWeight": null,
-          "odds": 2.6,
+          "odds": 2.5,
           "recent": []
         }
       ],
-      "raceId": "202635082407"
+      "raceId": "202635082407",
+      "oddsUpdatedAt": "15:00"
     },
     {
       "raceNo": 8,
@@ -7986,5 +7987,5 @@ window.RACE_DATA = {
       "raceId": "202635082412"
     }
   ],
-  "oddsUpdatedAt": "14:50"
+  "oddsUpdatedAt": "15:00"
 };
