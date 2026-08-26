@@ -6832,8 +6832,102 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630082612",
-      "oddsUpdatedAt": "20:26"
+      "oddsUpdatedAt": "20:26",
+      "result": {
+        "order": [
+          2,
+          1,
+          4,
+          5,
+          3
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                2
+              ],
+              "amount": 180
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                2
+              ],
+              "amount": 110
+            },
+            {
+              "comb": [
+                1
+              ],
+              "amount": 100
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                1,
+                2
+              ],
+              "amount": 140
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                1,
+                2
+              ],
+              "amount": 100
+            },
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 100
+            },
+            {
+              "comb": [
+                1,
+                4
+              ],
+              "amount": 100
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                2,
+                1
+              ],
+              "amount": 310
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                2,
+                4
+              ],
+              "amount": 110
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                2,
+                1,
+                4
+              ],
+              "amount": 320
+            }
+          ]
+        }
+      }
     }
   ],
-  "oddsUpdatedAt": "20:26"
+  "oddsUpdatedAt": "20:46"
 };
