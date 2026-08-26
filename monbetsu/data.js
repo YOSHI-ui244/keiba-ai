@@ -3519,7 +3519,7 @@ window.RACE_DATA = {
       "name": "インパチェンス特別(C3)",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "18:00",
       "grade": "サラ系一般 C3",
       "meetingInfo": [
@@ -3538,7 +3538,7 @@ window.RACE_DATA = {
           "jockey": "金山昇馬",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 29.2,
+          "odds": 25.5,
           "recent": [
             {
               "fin": 3,
@@ -3602,7 +3602,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "桧森邦夫",
           "horseWeight": null,
-          "odds": 16.8,
+          "odds": 52.3,
           "recent": [
             {
               "fin": 6,
@@ -3668,7 +3668,7 @@ window.RACE_DATA = {
           "jockey": "望月洵輝",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 22.9,
+          "odds": 11.1,
           "recent": [
             {
               "fin": 6,
@@ -3734,7 +3734,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 2.2,
+          "odds": 1.8,
           "recent": [
             {
               "fin": 11,
@@ -3792,7 +3792,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "石本孝博",
           "horseWeight": null,
-          "odds": 128.1,
+          "odds": 81.6,
           "recent": [
             {
               "fin": 9,
@@ -3856,7 +3856,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 3.5,
+          "odds": 3.8,
           "recent": [
             {
               "fin": 3,
@@ -3920,7 +3920,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": 3.3,
+          "odds": 4.1,
           "recent": [
             {
               "fin": 5,
@@ -3986,7 +3986,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 16.3,
+          "odds": 16.0,
           "recent": [
             {
               "fin": 8,
@@ -4043,7 +4043,8 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202630082608"
+      "raceId": "202630082608",
+      "oddsUpdatedAt": "17:36"
     },
     {
       "raceNo": 9,
@@ -6302,5 +6303,5 @@ window.RACE_DATA = {
       "raceId": "202630082612"
     }
   ],
-  "oddsUpdatedAt": "17:26"
+  "oddsUpdatedAt": "17:36"
 };
