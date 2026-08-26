@@ -5872,8 +5872,100 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202647082610",
-      "oddsUpdatedAt": "16:56"
+      "oddsUpdatedAt": "16:56",
+      "result": {
+        "order": [
+          5,
+          6,
+          2
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                5
+              ],
+              "amount": 390
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                5
+              ],
+              "amount": 210
+            },
+            {
+              "comb": [
+                6
+              ],
+              "amount": 410
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 1650
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 420
+            },
+            {
+              "comb": [
+                2,
+                5
+              ],
+              "amount": 300
+            },
+            {
+              "comb": [
+                2,
+                6
+              ],
+              "amount": 440
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 2710
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                2,
+                5,
+                6
+              ],
+              "amount": 1220
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                5,
+                6,
+                2
+              ],
+              "amount": 7100
+            }
+          ]
+        }
+      }
     }
   ],
-  "oddsUpdatedAt": "16:56"
+  "oddsUpdatedAt": "17:26"
 };
