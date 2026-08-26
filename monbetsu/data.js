@@ -6387,14 +6387,121 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630082611",
-      "oddsUpdatedAt": "19:46"
+      "oddsUpdatedAt": "19:46",
+      "result": {
+        "order": [
+          8,
+          11,
+          12,
+          6,
+          10,
+          9,
+          4,
+          1,
+          3,
+          5,
+          2,
+          7
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                8
+              ],
+              "amount": 160
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                8
+              ],
+              "amount": 100
+            },
+            {
+              "comb": [
+                11
+              ],
+              "amount": 110
+            },
+            {
+              "comb": [
+                12
+              ],
+              "amount": 120
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                8,
+                11
+              ],
+              "amount": 270
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                8,
+                11
+              ],
+              "amount": 140
+            },
+            {
+              "comb": [
+                8,
+                12
+              ],
+              "amount": 220
+            },
+            {
+              "comb": [
+                11,
+                12
+              ],
+              "amount": 310
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                8,
+                11
+              ],
+              "amount": 350
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                8,
+                11,
+                12
+              ],
+              "amount": 390
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                8,
+                11,
+                12
+              ],
+              "amount": 1190
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 12,
       "name": "ビアパーティーAiba浦河2特別(A1)",
       "distance": 1700,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "20:30",
       "grade": "サラ系一般 A1",
       "meetingInfo": [
@@ -6413,7 +6520,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "米川昇",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 1.6,
           "recent": [
             {
               "fin": 1,
@@ -6479,7 +6586,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 1.5,
+          "odds": 2.8,
           "recent": [
             {
               "fin": 4,
@@ -6543,7 +6650,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "米川昇",
           "horseWeight": null,
-          "odds": 193.8,
+          "odds": 25.2,
           "recent": [
             {
               "fin": 14,
@@ -6605,7 +6712,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 9.6,
+          "odds": 5.1,
           "recent": [
             {
               "fin": 3,
@@ -6669,7 +6776,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "松本隆宏",
           "horseWeight": null,
-          "odds": 17.6,
+          "odds": 16.7,
           "recent": [
             {
               "fin": 4,
@@ -6724,8 +6831,9 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202630082612"
+      "raceId": "202630082612",
+      "oddsUpdatedAt": "20:06"
     }
   ],
-  "oddsUpdatedAt": "19:46"
+  "oddsUpdatedAt": "20:06"
 };
