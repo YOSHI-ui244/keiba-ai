@@ -1607,7 +1607,7 @@ window.RACE_DATA = {
       "name": "2歳船橋所属未勝利選抜馬",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "16:05",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -1626,7 +1626,7 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "渋谷信博",
           "horseWeight": null,
-          "odds": 37.0,
+          "odds": 105.6,
           "recent": []
         },
         {
@@ -1639,7 +1639,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "山本学",
           "horseWeight": null,
-          "odds": 6.9,
+          "odds": 31.4,
           "recent": []
         },
         {
@@ -1652,7 +1652,7 @@ window.RACE_DATA = {
           "jockey": "山中悠希",
           "trainer": "長谷川剛",
           "horseWeight": null,
-          "odds": 5.0,
+          "odds": 91.3,
           "recent": []
         },
         {
@@ -1665,7 +1665,7 @@ window.RACE_DATA = {
           "jockey": "張田昂",
           "trainer": "張田京",
           "horseWeight": null,
-          "odds": 7.2,
+          "odds": 21.0,
           "recent": []
         },
         {
@@ -1678,7 +1678,7 @@ window.RACE_DATA = {
           "jockey": "笠野雄大",
           "trainer": "渡辺貴光",
           "horseWeight": null,
-          "odds": 14.6,
+          "odds": 47.9,
           "recent": []
         },
         {
@@ -1695,7 +1695,8 @@ window.RACE_DATA = {
           "recent": []
         }
       ],
-      "raceId": "202643082704"
+      "raceId": "202643082704",
+      "oddsUpdatedAt": "15:40"
     },
     {
       "raceNo": 5,
@@ -7078,5 +7079,5 @@ window.RACE_DATA = {
       "raceId": "202643082712"
     }
   ],
-  "oddsUpdatedAt": "15:30"
+  "oddsUpdatedAt": "15:40"
 };
