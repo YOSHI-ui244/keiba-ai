@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "笠松デビュー馬未勝利(2歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "重",
+      "condition": "稍",
       "startTime": "10:55",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "渡辺竜也",
           "trainer": "笹野博司",
           "horseWeight": null,
-          "odds": 5.0,
+          "odds": 3.4,
           "recent": [
             {
               "fin": 6,
@@ -53,7 +53,7 @@ window.RACE_DATA = {
           "jockey": "松本一心",
           "trainer": "川嶋弘吉",
           "horseWeight": null,
-          "odds": 5.6,
+          "odds": 11.1,
           "recent": [
             {
               "fin": 3,
@@ -73,7 +73,7 @@ window.RACE_DATA = {
           "jockey": "加藤聡一",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 19.9,
+          "odds": 35.8,
           "recent": []
         },
         {
@@ -86,7 +86,7 @@ window.RACE_DATA = {
           "jockey": "深澤杏花",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 3.5,
+          "odds": 2.1,
           "recent": [
             {
               "fin": 5,
@@ -106,11 +106,12 @@ window.RACE_DATA = {
           "jockey": "筒井勇介",
           "trainer": "後藤佑耶",
           "horseWeight": null,
-          "odds": 1.9,
+          "odds": 2.6,
           "recent": []
         }
       ],
-      "raceId": "202647082701"
+      "raceId": "202647082701",
+      "oddsUpdatedAt": "10:50"
     },
     {
       "raceNo": 2,
@@ -4571,5 +4572,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202647082712"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "10:50"
 };
