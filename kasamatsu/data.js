@@ -1948,7 +1948,7 @@ window.RACE_DATA = {
       "name": "ムラタミカ還暦記念(3歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "重",
+      "condition": "稍",
       "startTime": "13:25",
       "grade": "サラ系３歳 3歳",
       "meetingInfo": [
@@ -1967,7 +1967,7 @@ window.RACE_DATA = {
           "jockey": "東川慎",
           "trainer": "田口輝彦",
           "horseWeight": null,
-          "odds": 4.8,
+          "odds": 6.6,
           "recent": [
             {
               "fin": 18,
@@ -1999,7 +1999,7 @@ window.RACE_DATA = {
           "jockey": "高木健",
           "trainer": "田口輝彦",
           "horseWeight": null,
-          "odds": 18.9,
+          "odds": 36.6,
           "recent": [
             {
               "fin": 17,
@@ -2061,7 +2061,7 @@ window.RACE_DATA = {
           "jockey": "筒井勇介",
           "trainer": "田口輝彦",
           "horseWeight": null,
-          "odds": 3.0,
+          "odds": 10.7,
           "recent": [
             {
               "fin": 13,
@@ -2091,7 +2091,7 @@ window.RACE_DATA = {
           "jockey": "渡辺竜也",
           "trainer": "後藤佑耶",
           "horseWeight": null,
-          "odds": 2.0,
+          "odds": 1.2,
           "recent": [
             {
               "fin": 6,
@@ -2127,7 +2127,7 @@ window.RACE_DATA = {
           "jockey": "大原浩司",
           "trainer": "森山広大",
           "horseWeight": null,
-          "odds": 59.9,
+          "odds": 42.9,
           "recent": [
             {
               "fin": 14,
@@ -2153,7 +2153,7 @@ window.RACE_DATA = {
           "jockey": "松本一心",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 22.9,
+          "odds": 28.2,
           "recent": [
             {
               "fin": 11,
@@ -2179,7 +2179,7 @@ window.RACE_DATA = {
           "jockey": "丸野勝虎",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 33.6,
+          "odds": 13.7,
           "recent": [
             {
               "fin": 14,
@@ -2217,7 +2217,7 @@ window.RACE_DATA = {
           "jockey": "馬渕繁治",
           "trainer": "森山広大",
           "horseWeight": null,
-          "odds": 17.7,
+          "odds": 26.0,
           "recent": [
             {
               "fin": 12,
@@ -2272,7 +2272,8 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202647082706"
+      "raceId": "202647082706",
+      "oddsUpdatedAt": "13:00"
     },
     {
       "raceNo": 7,
@@ -4972,5 +4973,5 @@ window.RACE_DATA = {
       "raceId": "202647082712"
     }
   ],
-  "oddsUpdatedAt": "12:50"
+  "oddsUpdatedAt": "13:00"
 };
