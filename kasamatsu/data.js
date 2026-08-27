@@ -359,7 +359,7 @@ window.RACE_DATA = {
       "name": "87咲く玄ちゃん記念(3歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "重",
+      "condition": "稍",
       "startTime": "11:55",
       "grade": "サラ系３歳 3歳",
       "meetingInfo": [
@@ -378,7 +378,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 4.8,
+          "odds": 2.1,
           "recent": [
             {
               "fin": 8,
@@ -416,7 +416,7 @@ window.RACE_DATA = {
           "jockey": "丸野勝虎",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 5.8,
+          "odds": 5.2,
           "recent": [
             {
               "fin": 11,
@@ -454,7 +454,7 @@ window.RACE_DATA = {
           "jockey": "細川智史",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 7.0,
+          "odds": 8.2,
           "recent": [
             {
               "fin": 14,
@@ -486,7 +486,7 @@ window.RACE_DATA = {
           "jockey": "加藤聡一",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 6.4,
+          "odds": 12.5,
           "recent": [
             {
               "fin": 15,
@@ -530,7 +530,7 @@ window.RACE_DATA = {
           "jockey": "阿部基嗣",
           "trainer": "笹野博司",
           "horseWeight": null,
-          "odds": 19.1,
+          "odds": 21.3,
           "recent": [
             {
               "fin": 16,
@@ -562,7 +562,7 @@ window.RACE_DATA = {
           "jockey": "渡辺竜也",
           "trainer": "笹野博司",
           "horseWeight": null,
-          "odds": 6.7,
+          "odds": 8.4,
           "recent": [
             {
               "fin": 14,
@@ -606,7 +606,7 @@ window.RACE_DATA = {
           "jockey": "大原浩司",
           "trainer": "森山広大",
           "horseWeight": null,
-          "odds": 6.5,
+          "odds": 5.3,
           "recent": [
             {
               "fin": 11,
@@ -632,7 +632,7 @@ window.RACE_DATA = {
           "jockey": "筒井勇介",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 4.7,
+          "odds": 25.1,
           "recent": [
             {
               "fin": 16,
@@ -655,7 +655,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202647082703"
+      "raceId": "202647082703",
+      "oddsUpdatedAt": "11:30"
     },
     {
       "raceNo": 4,
@@ -4668,5 +4669,5 @@ window.RACE_DATA = {
       "raceId": "202647082712"
     }
   ],
-  "oddsUpdatedAt": "11:20"
+  "oddsUpdatedAt": "11:30"
 };
