@@ -4754,7 +4754,7 @@ window.RACE_DATA = {
       "name": "秋風ジュニア(2歳)OP",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "重",
+      "condition": "不",
       "startTime": "16:20",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -4773,7 +4773,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 1.7,
+          "odds": 1.2,
           "recent": []
         },
         {
@@ -4786,7 +4786,7 @@ window.RACE_DATA = {
           "jockey": "丸野勝虎",
           "trainer": "笹野博司",
           "horseWeight": null,
-          "odds": 5.0,
+          "odds": 7.8,
           "recent": []
         },
         {
@@ -4799,7 +4799,7 @@ window.RACE_DATA = {
           "jockey": "明星晴大",
           "trainer": "後藤佑耶",
           "horseWeight": null,
-          "odds": 11.2,
+          "odds": 16.0,
           "recent": []
         },
         {
@@ -4812,7 +4812,7 @@ window.RACE_DATA = {
           "jockey": "筒井勇介",
           "trainer": "田口輝彦",
           "horseWeight": null,
-          "odds": 24.2,
+          "odds": 49.6,
           "recent": []
         },
         {
@@ -4838,7 +4838,7 @@ window.RACE_DATA = {
           "jockey": "高木健",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 74.7,
+          "odds": 31.5,
           "recent": []
         },
         {
@@ -4851,7 +4851,7 @@ window.RACE_DATA = {
           "jockey": "渡辺竜也",
           "trainer": "笹野博司",
           "horseWeight": null,
-          "odds": 3.0,
+          "odds": 4.8,
           "recent": [
             {
               "fin": 1,
@@ -4871,11 +4871,12 @@ window.RACE_DATA = {
           "jockey": "大原浩司",
           "trainer": "大橋敬永",
           "horseWeight": null,
-          "odds": 268.3,
+          "odds": 57.4,
           "recent": []
         }
       ],
-      "raceId": "202647082711"
+      "raceId": "202647082711",
+      "oddsUpdatedAt": "16:00"
     },
     {
       "raceNo": 12,
@@ -5479,5 +5480,5 @@ window.RACE_DATA = {
       "raceId": "202647082712"
     }
   ],
-  "oddsUpdatedAt": "15:40"
+  "oddsUpdatedAt": "16:00"
 };
