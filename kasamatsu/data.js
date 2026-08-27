@@ -758,7 +758,7 @@ window.RACE_DATA = {
       "name": "第4回よろしく頼む杯(3歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "重",
+      "condition": "稍",
       "startTime": "12:25",
       "grade": "サラ系３歳 3歳",
       "meetingInfo": [
@@ -777,7 +777,7 @@ window.RACE_DATA = {
           "jockey": "井口裕貴",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 214.9,
+          "odds": 59.5,
           "recent": [
             {
               "fin": 7,
@@ -843,7 +843,7 @@ window.RACE_DATA = {
           "jockey": "加藤聡一",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 7.4,
+          "odds": 24.3,
           "recent": [
             {
               "fin": 14,
@@ -869,7 +869,7 @@ window.RACE_DATA = {
           "jockey": "松本一心",
           "trainer": "川嶋弘吉",
           "horseWeight": null,
-          "odds": 17.7,
+          "odds": 6.4,
           "recent": [
             {
               "fin": 5,
@@ -913,7 +913,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "笹野博司",
           "horseWeight": null,
-          "odds": 2.1,
+          "odds": 4.3,
           "recent": [
             {
               "fin": 15,
@@ -957,7 +957,7 @@ window.RACE_DATA = {
           "jockey": "阿部基嗣",
           "trainer": "笹野博司",
           "horseWeight": null,
-          "odds": 8.2,
+          "odds": 10.3,
           "recent": [
             {
               "fin": 16,
@@ -1013,7 +1013,7 @@ window.RACE_DATA = {
           "jockey": "渡辺竜也",
           "trainer": "笹野博司",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 2.0,
           "recent": [
             {
               "fin": 15,
@@ -1051,7 +1051,7 @@ window.RACE_DATA = {
           "jockey": "馬渕繁治",
           "trainer": "森山英雄",
           "horseWeight": null,
-          "odds": 53.9,
+          "odds": 15.3,
           "recent": [
             {
               "fin": 6,
@@ -1085,7 +1085,7 @@ window.RACE_DATA = {
           "jockey": "深澤杏花",
           "trainer": "伊藤勝好",
           "horseWeight": null,
-          "odds": 45.7,
+          "odds": 6.9,
           "recent": [
             {
               "fin": 10,
@@ -1136,7 +1136,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202647082704"
+      "raceId": "202647082704",
+      "oddsUpdatedAt": "12:00"
     },
     {
       "raceNo": 5,
@@ -4764,5 +4765,5 @@ window.RACE_DATA = {
       "raceId": "202647082712"
     }
   ],
-  "oddsUpdatedAt": "11:50"
+  "oddsUpdatedAt": "12:00"
 };
