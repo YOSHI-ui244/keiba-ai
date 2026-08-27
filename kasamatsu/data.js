@@ -118,7 +118,7 @@ window.RACE_DATA = {
       "name": "夏の終わり特別(2歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "重",
+      "condition": "稍",
       "startTime": "11:25",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -137,7 +137,7 @@ window.RACE_DATA = {
           "jockey": "明星晴大",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 50.2,
+          "odds": 36.6,
           "recent": []
         },
         {
@@ -150,7 +150,7 @@ window.RACE_DATA = {
           "jockey": "筒井勇介",
           "trainer": "田口輝彦",
           "horseWeight": null,
-          "odds": 6.8,
+          "odds": 8.8,
           "recent": [
             {
               "fin": 6,
@@ -172,7 +172,7 @@ window.RACE_DATA = {
           "jockey": "東川慎",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 1.9,
+          "odds": 1.4,
           "recent": [
             {
               "fin": 7,
@@ -206,7 +206,7 @@ window.RACE_DATA = {
           "jockey": "深澤杏花",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 4.5,
+          "odds": 5.0,
           "recent": []
         },
         {
@@ -219,7 +219,7 @@ window.RACE_DATA = {
           "jockey": "阿部基嗣",
           "trainer": "伊藤勝好",
           "horseWeight": null,
-          "odds": 15.5,
+          "odds": 30.2,
           "recent": []
         },
         {
@@ -232,7 +232,7 @@ window.RACE_DATA = {
           "jockey": "加藤聡一",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 3.7,
+          "odds": 5.3,
           "recent": [
             {
               "fin": 5,
@@ -257,7 +257,8 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202647082702"
+      "raceId": "202647082702",
+      "oddsUpdatedAt": "11:00"
     },
     {
       "raceNo": 3,
@@ -4573,5 +4574,5 @@ window.RACE_DATA = {
       "raceId": "202647082712"
     }
   ],
-  "oddsUpdatedAt": "10:50"
+  "oddsUpdatedAt": "11:00"
 };
