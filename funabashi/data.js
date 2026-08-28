@@ -172,7 +172,7 @@ window.RACE_DATA = {
       "name": "プルメリアデビュー(2歳)",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "15:15",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -191,7 +191,7 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "林幻",
           "horseWeight": null,
-          "odds": 6.1,
+          "odds": 7.2,
           "recent": []
         },
         {
@@ -204,7 +204,7 @@ window.RACE_DATA = {
           "jockey": "本橋孝太",
           "trainer": "石井勝男",
           "horseWeight": null,
-          "odds": 5.3,
+          "odds": 18.6,
           "recent": []
         },
         {
@@ -217,7 +217,7 @@ window.RACE_DATA = {
           "jockey": "Ｆ．ゴン",
           "trainer": "山下貴之",
           "horseWeight": null,
-          "odds": 3.1,
+          "odds": 2.4,
           "recent": []
         },
         {
@@ -230,7 +230,7 @@ window.RACE_DATA = {
           "jockey": "張田昂",
           "trainer": "張田京",
           "horseWeight": null,
-          "odds": 3.1,
+          "odds": 3.7,
           "recent": []
         },
         {
@@ -243,11 +243,12 @@ window.RACE_DATA = {
           "jockey": "山口達弥",
           "trainer": "林正人",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 2.5,
           "recent": []
         }
       ],
-      "raceId": "202643082802"
+      "raceId": "202643082802",
+      "oddsUpdatedAt": "14:50"
     },
     {
       "raceNo": 3,
@@ -6653,5 +6654,5 @@ window.RACE_DATA = {
       "raceId": "202643082812"
     }
   ],
-  "oddsUpdatedAt": "14:40"
+  "oddsUpdatedAt": "14:50"
 };
