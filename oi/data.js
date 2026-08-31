@@ -8316,7 +8316,7 @@ window.RACE_DATA = {
       "name": "宮益坂賞競走(B3)",
       "distance": 1800,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "20:50",
       "grade": "サラ系一般 B3",
       "meetingInfo": [
@@ -8335,7 +8335,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "嶋田幸晴",
           "horseWeight": null,
-          "odds": 34.3,
+          "odds": 32.2,
           "recent": [
             {
               "fin": 1,
@@ -8401,7 +8401,7 @@ window.RACE_DATA = {
           "jockey": "達城龍次",
           "trainer": "吉井竜一",
           "horseWeight": null,
-          "odds": 13.7,
+          "odds": 31.0,
           "recent": [
             {
               "fin": 5,
@@ -8467,7 +8467,7 @@ window.RACE_DATA = {
           "jockey": "安藤洋一",
           "trainer": "福永敏",
           "horseWeight": null,
-          "odds": 87.7,
+          "odds": 35.9,
           "recent": [
             {
               "fin": 13,
@@ -8529,7 +8529,7 @@ window.RACE_DATA = {
           "jockey": "吉井章",
           "trainer": "的場直之",
           "horseWeight": null,
-          "odds": 14.8,
+          "odds": 14.5,
           "recent": [
             {
               "fin": 1,
@@ -8591,7 +8591,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "納谷和玖",
           "horseWeight": null,
-          "odds": 54.1,
+          "odds": 53.4,
           "recent": [
             {
               "fin": 7,
@@ -8657,7 +8657,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌",
           "trainer": "阪本一栄",
           "horseWeight": null,
-          "odds": 8.6,
+          "odds": 17.8,
           "recent": [
             {
               "fin": 6,
@@ -8723,7 +8723,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "森下淳平",
           "horseWeight": null,
-          "odds": 1.6,
+          "odds": 1.5,
           "recent": [
             {
               "fin": 3,
@@ -8761,7 +8761,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "須田和伸",
           "horseWeight": null,
-          "odds": 55.3,
+          "odds": 50.1,
           "recent": [
             {
               "fin": 16,
@@ -8823,7 +8823,7 @@ window.RACE_DATA = {
           "jockey": "高野誠毅",
           "trainer": "赤嶺亮",
           "horseWeight": null,
-          "odds": 65.3,
+          "odds": 29.4,
           "recent": [
             {
               "fin": 6,
@@ -8885,7 +8885,7 @@ window.RACE_DATA = {
           "jockey": "杉山海波",
           "trainer": "吉井竜一",
           "horseWeight": null,
-          "odds": 522.1,
+          "odds": 102.0,
           "recent": [
             {
               "fin": 8,
@@ -8947,7 +8947,7 @@ window.RACE_DATA = {
           "jockey": "Ｆ．ゴン",
           "trainer": "福永敏",
           "horseWeight": null,
-          "odds": 127.1,
+          "odds": 83.9,
           "recent": [
             {
               "fin": 7,
@@ -9009,7 +9009,7 @@ window.RACE_DATA = {
           "jockey": "東原悠善",
           "trainer": "渡部則夫",
           "horseWeight": null,
-          "odds": 28.8,
+          "odds": 26.8,
           "recent": [
             {
               "fin": 7,
@@ -9075,7 +9075,7 @@ window.RACE_DATA = {
           "jockey": "西優哉",
           "trainer": "田中正人",
           "horseWeight": null,
-          "odds": 17.1,
+          "odds": 8.0,
           "recent": [
             {
               "fin": 7,
@@ -9139,7 +9139,7 @@ window.RACE_DATA = {
           "jockey": "高橋昭平",
           "trainer": "立花伸",
           "horseWeight": null,
-          "odds": 17.9,
+          "odds": 14.3,
           "recent": [
             {
               "fin": 1,
@@ -9265,7 +9265,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "市村誠",
           "horseWeight": null,
-          "odds": 45.1,
+          "odds": 23.3,
           "recent": [
             {
               "fin": 4,
@@ -9322,8 +9322,9 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202644083112"
+      "raceId": "202644083112",
+      "oddsUpdatedAt": "20:30"
     }
   ],
-  "oddsUpdatedAt": "20:10"
+  "oddsUpdatedAt": "20:30"
 };
