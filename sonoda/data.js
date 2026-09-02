@@ -1474,7 +1474,7 @@ window.RACE_DATA = {
       "name": "2歳",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "11:40",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -1493,7 +1493,7 @@ window.RACE_DATA = {
           "jockey": "小谷周平",
           "trainer": "南弘樹",
           "horseWeight": null,
-          "odds": 119.6,
+          "odds": 156.3,
           "recent": []
         },
         {
@@ -1506,7 +1506,7 @@ window.RACE_DATA = {
           "jockey": "佐々木世",
           "trainer": "柏原誠路",
           "horseWeight": null,
-          "odds": 163.4,
+          "odds": 26.7,
           "recent": []
         },
         {
@@ -1519,7 +1519,7 @@ window.RACE_DATA = {
           "jockey": "杉浦健太",
           "trainer": "保利良平",
           "horseWeight": null,
-          "odds": 3.2,
+          "odds": 1.2,
           "recent": []
         },
         {
@@ -1532,7 +1532,7 @@ window.RACE_DATA = {
           "jockey": "永井孝典",
           "trainer": "織田誠",
           "horseWeight": null,
-          "odds": 88.0,
+          "odds": 88.9,
           "recent": []
         },
         {
@@ -1545,7 +1545,7 @@ window.RACE_DATA = {
           "jockey": "松木大地",
           "trainer": "飯田良弘",
           "horseWeight": null,
-          "odds": 27.8,
+          "odds": 36.3,
           "recent": []
         },
         {
@@ -1558,7 +1558,7 @@ window.RACE_DATA = {
           "jockey": "小牧太",
           "trainer": "南弘樹",
           "horseWeight": null,
-          "odds": 1.1,
+          "odds": 2.5,
           "recent": [
             {
               "fin": 1,
@@ -1571,7 +1571,8 @@ window.RACE_DATA = {
           "style": "逃"
         }
       ],
-      "raceId": "202650090203"
+      "raceId": "202650090203",
+      "oddsUpdatedAt": "11:18"
     },
     {
       "raceNo": 4,
@@ -7372,5 +7373,5 @@ window.RACE_DATA = {
       "raceId": "202650090212"
     }
   ],
-  "oddsUpdatedAt": "11:08"
+  "oddsUpdatedAt": "11:18"
 };
