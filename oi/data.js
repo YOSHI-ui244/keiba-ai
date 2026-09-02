@@ -1566,7 +1566,7 @@ window.RACE_DATA = {
       "name": "2歳五六",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "15:54",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -1585,7 +1585,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "鷹見浩",
           "horseWeight": null,
-          "odds": 4.1,
+          "odds": 5.1,
           "recent": []
         },
         {
@@ -1598,7 +1598,7 @@ window.RACE_DATA = {
           "jockey": "西啓太",
           "trainer": "田中正人",
           "horseWeight": null,
-          "odds": 7.9,
+          "odds": 14.8,
           "recent": []
         },
         {
@@ -1611,7 +1611,7 @@ window.RACE_DATA = {
           "jockey": "西優哉",
           "trainer": "納谷和玖",
           "horseWeight": null,
-          "odds": 9.4,
+          "odds": 11.9,
           "recent": []
         },
         {
@@ -1624,7 +1624,7 @@ window.RACE_DATA = {
           "jockey": "御神本訓",
           "trainer": "吉井竜一",
           "horseWeight": null,
-          "odds": 3.3,
+          "odds": 2.8,
           "recent": [
             {
               "fin": 5,
@@ -1646,7 +1646,7 @@ window.RACE_DATA = {
           "jockey": "中村尚平",
           "trainer": "井上弘之",
           "horseWeight": null,
-          "odds": 9.8,
+          "odds": 12.1,
           "recent": []
         },
         {
@@ -1659,7 +1659,7 @@ window.RACE_DATA = {
           "jockey": "吉井章",
           "trainer": "的場直之",
           "horseWeight": null,
-          "odds": 7.8,
+          "odds": 2.3,
           "recent": []
         },
         {
@@ -1672,11 +1672,12 @@ window.RACE_DATA = {
           "jockey": "達城龍次",
           "trainer": "久保杉隆",
           "horseWeight": null,
-          "odds": 4.2,
+          "odds": 19.5,
           "recent": []
         }
       ],
-      "raceId": "202644090203"
+      "raceId": "202644090203",
+      "oddsUpdatedAt": "15:30"
     },
     {
       "raceNo": 4,
@@ -8704,5 +8705,5 @@ window.RACE_DATA = {
       "raceId": "202644090212"
     }
   ],
-  "oddsUpdatedAt": "15:20"
+  "oddsUpdatedAt": "15:30"
 };
