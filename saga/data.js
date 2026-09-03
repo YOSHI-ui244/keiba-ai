@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "ホープフルデビュー 2歳新馬",
       "distance": 900,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "稍",
       "startTime": "14:05",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "飛田愛斗",
           "trainer": "手島勝利",
           "horseWeight": null,
-          "odds": 3.5,
+          "odds": 2.3,
           "recent": []
         },
         {
@@ -46,7 +46,7 @@ window.RACE_DATA = {
           "jockey": "田中純",
           "trainer": "濱田一夫",
           "horseWeight": null,
-          "odds": 6.7,
+          "odds": 39.8,
           "recent": []
         },
         {
@@ -59,7 +59,7 @@ window.RACE_DATA = {
           "jockey": "出水拓人",
           "trainer": "北村欣也",
           "horseWeight": null,
-          "odds": 4.6,
+          "odds": 9.5,
           "recent": []
         },
         {
@@ -72,7 +72,7 @@ window.RACE_DATA = {
           "jockey": "山田義貴",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 4.1,
+          "odds": 2.4,
           "recent": []
         },
         {
@@ -98,11 +98,12 @@ window.RACE_DATA = {
           "jockey": "石川慎将",
           "trainer": "平山宏秀",
           "horseWeight": null,
-          "odds": 5.4,
+          "odds": 3.5,
           "recent": []
         }
       ],
-      "raceId": "202655090301"
+      "raceId": "202655090301",
+      "oddsUpdatedAt": "13:40"
     },
     {
       "raceNo": 2,
@@ -7281,5 +7282,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202655090312"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "13:40"
 };
