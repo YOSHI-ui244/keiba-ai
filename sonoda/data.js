@@ -5060,7 +5060,7 @@ window.RACE_DATA = {
           "jockey": "廣瀬航",
           "trainer": "松浦聡志",
           "horseWeight": null,
-          "odds": 29.6,
+          "odds": 23.0,
           "recent": [
             {
               "fin": 5,
@@ -5122,7 +5122,7 @@ window.RACE_DATA = {
           "jockey": "小谷哲平",
           "trainer": "碇清次郎",
           "horseWeight": null,
-          "odds": 9.4,
+          "odds": 3.0,
           "recent": [
             {
               "fin": 2,
@@ -5186,7 +5186,7 @@ window.RACE_DATA = {
           "jockey": "小牧太",
           "trainer": "田中一巧",
           "horseWeight": null,
-          "odds": 1.1,
+          "odds": 1.4,
           "recent": [
             {
               "fin": 4,
@@ -5252,7 +5252,7 @@ window.RACE_DATA = {
           "jockey": "山本咲希",
           "trainer": "田中道夫",
           "horseWeight": null,
-          "odds": 7.8,
+          "odds": 7.2,
           "recent": [
             {
               "fin": 3,
@@ -5318,7 +5318,7 @@ window.RACE_DATA = {
           "jockey": "南部楓馬",
           "trainer": "岡田利一",
           "horseWeight": null,
-          "odds": 19.3,
+          "odds": 32.0,
           "recent": [
             {
               "fin": 6,
@@ -5384,7 +5384,7 @@ window.RACE_DATA = {
           "jockey": "渡瀬和幸",
           "trainer": "茂崎正善",
           "horseWeight": null,
-          "odds": 81.4,
+          "odds": 106.7,
           "recent": [
             {
               "fin": 4,
@@ -5450,7 +5450,7 @@ window.RACE_DATA = {
           "jockey": "永井孝典",
           "trainer": "橋本忠明",
           "horseWeight": null,
-          "odds": 50.0,
+          "odds": 96.5,
           "recent": [
             {
               "fin": 7,
@@ -5508,7 +5508,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202650090308",
-      "oddsUpdatedAt": "14:10"
+      "oddsUpdatedAt": "14:20"
     },
     {
       "raceNo": 9,
@@ -8144,5 +8144,5 @@ window.RACE_DATA = {
       "raceId": "202650090312"
     }
   ],
-  "oddsUpdatedAt": "14:10"
+  "oddsUpdatedAt": "14:20"
 };
