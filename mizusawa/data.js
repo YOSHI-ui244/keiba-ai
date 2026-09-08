@@ -7927,7 +7927,7 @@ window.RACE_DATA = {
           "jockey": "村上忍",
           "trainer": "畠山信一",
           "horseWeight": null,
-          "odds": 2.9,
+          "odds": 2.0,
           "recent": [
             {
               "fin": 1,
@@ -7993,7 +7993,7 @@ window.RACE_DATA = {
           "jockey": "塚本涼人",
           "trainer": "橘友和",
           "horseWeight": null,
-          "odds": 8.4,
+          "odds": 15.6,
           "recent": [
             {
               "fin": 3,
@@ -8059,7 +8059,7 @@ window.RACE_DATA = {
           "jockey": "菅原辰徳",
           "trainer": "新田守",
           "horseWeight": null,
-          "odds": 20.6,
+          "odds": 35.1,
           "recent": [
             {
               "fin": 1,
@@ -8121,7 +8121,7 @@ window.RACE_DATA = {
           "jockey": "山本聡紀",
           "trainer": "佐藤雅彦",
           "horseWeight": null,
-          "odds": 52.5,
+          "odds": 86.9,
           "recent": [
             {
               "fin": 8,
@@ -8183,7 +8183,7 @@ window.RACE_DATA = {
           "jockey": "山本聡哉",
           "trainer": "木村暁",
           "horseWeight": null,
-          "odds": 6.5,
+          "odds": 12.1,
           "recent": [
             {
               "fin": 3,
@@ -8249,7 +8249,7 @@ window.RACE_DATA = {
           "jockey": "佐々木志",
           "trainer": "佐藤祐司",
           "horseWeight": null,
-          "odds": 8.8,
+          "odds": 7.7,
           "recent": [
             {
               "fin": 3,
@@ -8313,7 +8313,7 @@ window.RACE_DATA = {
           "jockey": "高橋悠里",
           "trainer": "新田守",
           "horseWeight": null,
-          "odds": 3.8,
+          "odds": 3.4,
           "recent": [
             {
               "fin": 3,
@@ -8377,7 +8377,7 @@ window.RACE_DATA = {
           "jockey": "鈴木祐",
           "trainer": "斉藤雄一",
           "horseWeight": null,
-          "odds": 15.7,
+          "odds": 31.7,
           "recent": [
             {
               "fin": 3,
@@ -8443,7 +8443,7 @@ window.RACE_DATA = {
           "jockey": "高松亮",
           "trainer": "櫻田浩樹",
           "horseWeight": null,
-          "odds": 7.4,
+          "odds": 7.1,
           "recent": [
             {
               "fin": 9,
@@ -8499,8 +8499,8 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202636090812",
-      "oddsUpdatedAt": "18:02"
+      "oddsUpdatedAt": "18:12"
     }
   ],
-  "oddsUpdatedAt": "18:02"
+  "oddsUpdatedAt": "18:12"
 };
