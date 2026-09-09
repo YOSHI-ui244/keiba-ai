@@ -828,7 +828,7 @@ window.RACE_DATA = {
       "name": "好きです笠松競馬(3歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "重",
+      "condition": "不",
       "startTime": "13:00",
       "grade": "サラ系３歳 3歳",
       "meetingInfo": [
@@ -847,7 +847,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "後藤佑耶",
           "horseWeight": null,
-          "odds": 9.7,
+          "odds": 11.6,
           "recent": [
             {
               "fin": 2,
@@ -913,7 +913,7 @@ window.RACE_DATA = {
           "jockey": "大原浩司",
           "trainer": "森山英雄",
           "horseWeight": null,
-          "odds": 4.3,
+          "odds": 6.7,
           "recent": [
             {
               "fin": 14,
@@ -963,7 +963,7 @@ window.RACE_DATA = {
           "jockey": "東川慎",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 8.4,
+          "odds": 21.2,
           "recent": [
             {
               "fin": 4,
@@ -1023,7 +1023,7 @@ window.RACE_DATA = {
           "jockey": "藤原幹生",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 64.4,
+          "odds": 44.6,
           "recent": [
             {
               "fin": 10,
@@ -1087,7 +1087,7 @@ window.RACE_DATA = {
           "jockey": "筒井勇介",
           "trainer": "田口輝彦",
           "horseWeight": null,
-          "odds": 13.6,
+          "odds": 17.9,
           "recent": [
             {
               "fin": 8,
@@ -1151,7 +1151,7 @@ window.RACE_DATA = {
           "jockey": "明星晴大",
           "trainer": "後藤佑耶",
           "horseWeight": null,
-          "odds": 6.1,
+          "odds": 2.1,
           "recent": [
             {
               "fin": 1,
@@ -1185,7 +1185,7 @@ window.RACE_DATA = {
           "jockey": "渡辺竜也",
           "trainer": "笹野博司",
           "horseWeight": null,
-          "odds": 2.2,
+          "odds": 3.0,
           "recent": [
             {
               "fin": 1,
@@ -1233,7 +1233,7 @@ window.RACE_DATA = {
           "jockey": "阿部基嗣",
           "trainer": "笹野博司",
           "horseWeight": null,
-          "odds": 8.8,
+          "odds": 10.3,
           "recent": [
             {
               "fin": 11,
@@ -1267,7 +1267,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202647090903",
-      "oddsUpdatedAt": "12:40"
+      "oddsUpdatedAt": "12:50"
     },
     {
       "raceNo": 4,
@@ -4984,5 +4984,5 @@ window.RACE_DATA = {
       "raceId": "202647090910"
     }
   ],
-  "oddsUpdatedAt": "12:40"
+  "oddsUpdatedAt": "12:50"
 };
