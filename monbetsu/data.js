@@ -6672,14 +6672,121 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630090911",
-      "oddsUpdatedAt": "19:50"
+      "oddsUpdatedAt": "19:50",
+      "result": {
+        "order": [
+          10,
+          6,
+          1,
+          2,
+          7,
+          4,
+          11,
+          8,
+          3,
+          12,
+          5,
+          9
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                10
+              ],
+              "amount": 150
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                10
+              ],
+              "amount": 100
+            },
+            {
+              "comb": [
+                6
+              ],
+              "amount": 240
+            },
+            {
+              "comb": [
+                1
+              ],
+              "amount": 240
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                6,
+                10
+              ],
+              "amount": 1290
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                6,
+                10
+              ],
+              "amount": 410
+            },
+            {
+              "comb": [
+                1,
+                10
+              ],
+              "amount": 460
+            },
+            {
+              "comb": [
+                1,
+                6
+              ],
+              "amount": 1900
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                10,
+                6
+              ],
+              "amount": 1710
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                6,
+                10
+              ],
+              "amount": 3450
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                10,
+                6,
+                1
+              ],
+              "amount": 10950
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 12,
       "name": "ヤングジェネレーションカップ(A1)",
       "distance": 1800,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "20:35",
       "grade": "サラ系一般 A1",
       "meetingInfo": [
@@ -6698,7 +6805,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 20.4,
+          "odds": 10.6,
           "recent": [
             {
               "fin": 1,
@@ -6762,7 +6869,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "森山雄大",
           "horseWeight": null,
-          "odds": 56.1,
+          "odds": 9.6,
           "recent": [
             {
               "fin": 4,
@@ -6828,7 +6935,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 1.1,
+          "odds": 1.4,
           "recent": [
             {
               "fin": 1,
@@ -6894,7 +7001,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "山田和久",
           "horseWeight": null,
-          "odds": 118.6,
+          "odds": 37.3,
           "recent": [
             {
               "fin": 7,
@@ -6958,7 +7065,7 @@ window.RACE_DATA = {
           "jockey": "望月洵輝",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 2.8,
           "recent": [
             {
               "fin": 1,
@@ -7013,8 +7120,9 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202630090912"
+      "raceId": "202630090912",
+      "oddsUpdatedAt": "20:10"
     }
   ],
-  "oddsUpdatedAt": "19:50"
+  "oddsUpdatedAt": "20:10"
 };
