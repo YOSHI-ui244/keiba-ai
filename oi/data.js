@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "2歳二三",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "14:15",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "木澤奨",
           "trainer": "的場直之",
           "horseWeight": null,
-          "odds": 33.3,
+          "odds": 35.1,
           "recent": [
             {
               "fin": 7,
@@ -61,7 +61,7 @@ window.RACE_DATA = {
           "jockey": "櫻井光輔",
           "trainer": "高岩孝敏",
           "horseWeight": null,
-          "odds": 20.4,
+          "odds": 10.6,
           "recent": []
         },
         {
@@ -74,7 +74,7 @@ window.RACE_DATA = {
           "jockey": "江里口裕",
           "trainer": "佐々木洋",
           "horseWeight": null,
-          "odds": 9.3,
+          "odds": 17.3,
           "recent": []
         },
         {
@@ -87,7 +87,7 @@ window.RACE_DATA = {
           "jockey": "西優哉",
           "trainer": "小野寺晋",
           "horseWeight": null,
-          "odds": 7.3,
+          "odds": 9.0,
           "recent": []
         },
         {
@@ -100,7 +100,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "嶋田幸晴",
           "horseWeight": null,
-          "odds": 16.4,
+          "odds": 13.4,
           "recent": [
             {
               "fin": 8,
@@ -141,11 +141,12 @@ window.RACE_DATA = {
           "jockey": "杉山海波",
           "trainer": "中道啓二",
           "horseWeight": null,
-          "odds": 1.6,
+          "odds": 1.5,
           "recent": []
         }
       ],
-      "raceId": "202644091601"
+      "raceId": "202644091601",
+      "oddsUpdatedAt": "13:50"
     },
     {
       "raceNo": 2,
@@ -7698,5 +7699,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202644091612"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "13:50"
 };
