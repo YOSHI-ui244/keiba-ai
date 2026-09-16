@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "シトロン賞(3歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "重",
+      "condition": "不",
       "startTime": "14:05",
       "grade": "サラ系３歳 3歳",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "近藤颯羽",
           "trainer": "井上哲",
           "horseWeight": null,
-          "odds": null,
+          "odds": 29.6,
           "recent": [
             {
               "fin": 10,
@@ -99,7 +99,7 @@ window.RACE_DATA = {
           "jockey": "小笠原羚",
           "trainer": "植松則幸",
           "horseWeight": null,
-          "odds": null,
+          "odds": 5.4,
           "recent": [
             {
               "fin": 11,
@@ -143,7 +143,7 @@ window.RACE_DATA = {
           "jockey": "山田祥雄",
           "trainer": "迫田清美",
           "horseWeight": null,
-          "odds": null,
+          "odds": 46.8,
           "recent": [
             {
               "fin": 8,
@@ -209,7 +209,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "戸部尚実",
           "horseWeight": null,
-          "odds": null,
+          "odds": 3.8,
           "recent": [
             {
               "fin": 17,
@@ -247,7 +247,7 @@ window.RACE_DATA = {
           "jockey": "細川智史",
           "trainer": "坂口義幸",
           "horseWeight": null,
-          "odds": null,
+          "odds": 15.1,
           "recent": [
             {
               "fin": 5,
@@ -311,7 +311,7 @@ window.RACE_DATA = {
           "jockey": "阪野学",
           "trainer": "原口次夫",
           "horseWeight": null,
-          "odds": null,
+          "odds": 28.8,
           "recent": [
             {
               "fin": 14,
@@ -367,7 +367,7 @@ window.RACE_DATA = {
           "jockey": "渡辺竜也",
           "trainer": "植松則幸",
           "horseWeight": null,
-          "odds": null,
+          "odds": 23.6,
           "recent": [
             {
               "fin": 15,
@@ -411,7 +411,7 @@ window.RACE_DATA = {
           "jockey": "今井貴大",
           "trainer": "角田輝也",
           "horseWeight": null,
-          "odds": null,
+          "odds": 13.2,
           "recent": [
             {
               "fin": 11,
@@ -471,7 +471,7 @@ window.RACE_DATA = {
           "jockey": "筒井勇介",
           "trainer": "植松則幸",
           "horseWeight": null,
-          "odds": null,
+          "odds": 11.5,
           "recent": [
             {
               "fin": 12,
@@ -509,7 +509,7 @@ window.RACE_DATA = {
           "jockey": "望月洵輝",
           "trainer": "戸部尚実",
           "horseWeight": null,
-          "odds": null,
+          "odds": 2.2,
           "recent": [
             {
               "fin": 14,
@@ -538,7 +538,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202648091601"
+      "raceId": "202648091601",
+      "oddsUpdatedAt": "13:40"
     },
     {
       "raceNo": 2,
@@ -7228,5 +7229,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202648091612"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "13:40"
 };
