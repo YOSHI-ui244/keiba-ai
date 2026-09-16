@@ -602,7 +602,105 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202650091601"
+      "raceId": "202650091601",
+      "result": {
+        "order": [
+          6,
+          5,
+          2
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                6
+              ],
+              "amount": 130
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "comb": [
+                5
+              ],
+              "amount": 120
+            },
+            {
+              "comb": [
+                2
+              ],
+              "amount": 100
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 680
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 140
+            },
+            {
+              "comb": [
+                2,
+                6
+              ],
+              "amount": 100
+            },
+            {
+              "comb": [
+                2,
+                5
+              ],
+              "amount": 180
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                6,
+                5
+              ],
+              "amount": 900
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                2,
+                5,
+                6
+              ],
+              "amount": 230
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                6,
+                5,
+                2
+              ],
+              "amount": 1350
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 2,
@@ -628,7 +726,7 @@ window.RACE_DATA = {
           "jockey": "塩津璃菜",
           "trainer": "三宅直之",
           "horseWeight": null,
-          "odds": null,
+          "odds": 36.9,
           "recent": [
             {
               "fin": 4,
@@ -694,7 +792,7 @@ window.RACE_DATA = {
           "jockey": "田野豊三",
           "trainer": "渡瀬寛彰",
           "horseWeight": null,
-          "odds": null,
+          "odds": 1.5,
           "recent": [
             {
               "fin": 6,
@@ -756,7 +854,7 @@ window.RACE_DATA = {
           "jockey": "山本屋太",
           "trainer": "北野真弘",
           "horseWeight": null,
-          "odds": null,
+          "odds": 52.7,
           "recent": [
             {
               "fin": 3,
@@ -820,7 +918,7 @@ window.RACE_DATA = {
           "jockey": "佐々木世",
           "trainer": "有馬澄男",
           "horseWeight": null,
-          "odds": null,
+          "odds": 13.0,
           "recent": [
             {
               "fin": 8,
@@ -882,7 +980,7 @@ window.RACE_DATA = {
           "jockey": "南部楓馬",
           "trainer": "坂本和也",
           "horseWeight": null,
-          "odds": null,
+          "odds": 56.9,
           "recent": [
             {
               "fin": 4,
@@ -946,7 +1044,7 @@ window.RACE_DATA = {
           "jockey": "小谷哲平",
           "trainer": "玉垣光章",
           "horseWeight": null,
-          "odds": null,
+          "odds": 6.8,
           "recent": [
             {
               "fin": 7,
@@ -1012,7 +1110,7 @@ window.RACE_DATA = {
           "jockey": "廣瀬航",
           "trainer": "徳本慶一",
           "horseWeight": null,
-          "odds": null,
+          "odds": 4.0,
           "recent": [
             {
               "fin": 4,
@@ -1076,7 +1174,7 @@ window.RACE_DATA = {
           "jockey": "下原理",
           "trainer": "石橋満",
           "horseWeight": null,
-          "odds": null,
+          "odds": 19.5,
           "recent": [
             {
               "fin": 5,
@@ -1133,7 +1231,8 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202650091602"
+      "raceId": "202650091602",
+      "oddsUpdatedAt": "10:50"
     },
     {
       "raceNo": 3,
@@ -7168,5 +7267,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202650091612"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "10:50"
 };
