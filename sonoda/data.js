@@ -4035,7 +4035,7 @@ window.RACE_DATA = {
           "jockey": "下原理",
           "trainer": "柏原誠路",
           "horseWeight": 515,
-          "odds": 4.9,
+          "odds": 3.0,
           "recent": [
             {
               "fin": 2,
@@ -4061,7 +4061,7 @@ window.RACE_DATA = {
           "jockey": "杉浦健太",
           "trainer": "田中一巧",
           "horseWeight": 461,
-          "odds": 11.6,
+          "odds": 13.4,
           "recent": [
             {
               "fin": 3,
@@ -4123,7 +4123,7 @@ window.RACE_DATA = {
           "jockey": "大山真吾",
           "trainer": "森澤友貴",
           "horseWeight": 432,
-          "odds": 4.6,
+          "odds": 5.4,
           "recent": [
             {
               "fin": 7,
@@ -4155,7 +4155,7 @@ window.RACE_DATA = {
           "jockey": "小谷哲平",
           "trainer": "田中範雄",
           "horseWeight": 491,
-          "odds": 15.0,
+          "odds": 18.1,
           "recent": [
             {
               "fin": 3,
@@ -4221,7 +4221,7 @@ window.RACE_DATA = {
           "jockey": "渡瀬和幸",
           "trainer": "田中学",
           "horseWeight": 466,
-          "odds": 24.9,
+          "odds": 21.9,
           "recent": [
             {
               "fin": 9,
@@ -4253,7 +4253,7 @@ window.RACE_DATA = {
           "jockey": "吉村智洋",
           "trainer": "橋本忠明",
           "horseWeight": 474,
-          "odds": 3.1,
+          "odds": 3.0,
           "recent": [
             {
               "fin": 4,
@@ -4319,7 +4319,7 @@ window.RACE_DATA = {
           "jockey": "南部楓馬",
           "trainer": "永島太郎",
           "horseWeight": 493,
-          "odds": 7.2,
+          "odds": 9.8,
           "recent": [
             {
               "fin": 14,
@@ -4345,7 +4345,7 @@ window.RACE_DATA = {
           "jockey": "永井孝典",
           "trainer": "大山寿文",
           "horseWeight": 429,
-          "odds": 41.6,
+          "odds": 36.8,
           "recent": [
             {
               "fin": 3,
@@ -4411,7 +4411,7 @@ window.RACE_DATA = {
           "jockey": "田野豊三",
           "trainer": "松平幸秀",
           "horseWeight": 449,
-          "odds": 6.3,
+          "odds": 9.3,
           "recent": [
             {
               "fin": 14,
@@ -4435,7 +4435,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202650091807",
-      "oddsUpdatedAt": "17:13"
+      "oddsUpdatedAt": "17:18"
     },
     {
       "raceNo": 8,
@@ -7773,5 +7773,5 @@ window.RACE_DATA = {
       "raceId": "202650091812"
     }
   ],
-  "oddsUpdatedAt": "17:13"
+  "oddsUpdatedAt": "17:18"
 };
