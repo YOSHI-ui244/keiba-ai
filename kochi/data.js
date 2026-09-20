@@ -2844,7 +2844,7 @@ window.RACE_DATA = {
           "jockey": "永森大智",
           "trainer": "打越勇児",
           "horseWeight": 508,
-          "odds": 5.1,
+          "odds": 4.8,
           "recent": [
             {
               "fin": 1,
@@ -2906,7 +2906,7 @@ window.RACE_DATA = {
           "jockey": "岡村卓弥",
           "trainer": "雑賀正光",
           "horseWeight": 457,
-          "odds": 33.3,
+          "odds": 39.3,
           "recent": [
             {
               "fin": 4,
@@ -2972,7 +2972,7 @@ window.RACE_DATA = {
           "jockey": "濱尚美",
           "trainer": "那俄性哲",
           "horseWeight": 563,
-          "odds": 14.3,
+          "odds": 16.5,
           "recent": [
             {
               "fin": 6,
@@ -3038,7 +3038,7 @@ window.RACE_DATA = {
           "jockey": "郷間勇太",
           "trainer": "西川敏弘",
           "horseWeight": 498,
-          "odds": 34.1,
+          "odds": 34.9,
           "recent": [
             {
               "fin": 3,
@@ -3102,7 +3102,7 @@ window.RACE_DATA = {
           "jockey": "宮川実",
           "trainer": "打越勇児",
           "horseWeight": 474,
-          "odds": 19.6,
+          "odds": 13.6,
           "recent": [
             {
               "fin": 2,
@@ -3168,7 +3168,7 @@ window.RACE_DATA = {
           "jockey": "新庄海誠",
           "trainer": "田中守",
           "horseWeight": 525,
-          "odds": 5.3,
+          "odds": 5.4,
           "recent": [
             {
               "fin": 11,
@@ -3234,7 +3234,7 @@ window.RACE_DATA = {
           "jockey": "木村直輝",
           "trainer": "胡本友晴",
           "horseWeight": 489,
-          "odds": 176.5,
+          "odds": 201.1,
           "recent": [
             {
               "fin": 5,
@@ -3300,7 +3300,7 @@ window.RACE_DATA = {
           "jockey": "多田羅誠",
           "trainer": "宮路洋一",
           "horseWeight": 439,
-          "odds": 21.4,
+          "odds": 17.0,
           "recent": [
             {
               "fin": 9,
@@ -3366,7 +3366,7 @@ window.RACE_DATA = {
           "jockey": "井上瑛太",
           "trainer": "打越勇児",
           "horseWeight": 437,
-          "odds": 1.5,
+          "odds": 1.6,
           "recent": [
             {
               "fin": 2,
@@ -3420,7 +3420,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202654092007",
-      "oddsUpdatedAt": "18:14"
+      "oddsUpdatedAt": "18:16"
     },
     {
       "raceNo": 8,
@@ -6954,5 +6954,5 @@ window.RACE_DATA = {
       "raceId": "202654092012"
     }
   ],
-  "oddsUpdatedAt": "18:14"
+  "oddsUpdatedAt": "18:16"
 };
