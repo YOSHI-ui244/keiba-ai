@@ -3318,7 +3318,7 @@ window.RACE_DATA = {
           "jockey": "椿聡太",
           "trainer": "柳井宏之",
           "horseWeight": null,
-          "odds": 36.1,
+          "odds": 40.5,
           "recent": [
             {
               "fin": 7,
@@ -3384,7 +3384,7 @@ window.RACE_DATA = {
           "jockey": "中山蓮王",
           "trainer": "手島勝利",
           "horseWeight": null,
-          "odds": 38.0,
+          "odds": 37.0,
           "recent": [
             {
               "fin": 7,
@@ -3446,7 +3446,7 @@ window.RACE_DATA = {
           "jockey": "長谷川蓮",
           "trainer": "松島壽",
           "horseWeight": null,
-          "odds": 7.0,
+          "odds": 5.5,
           "recent": [
             {
               "fin": 6,
@@ -3512,7 +3512,7 @@ window.RACE_DATA = {
           "jockey": "山田義貴",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 7.1,
+          "odds": 6.8,
           "recent": [
             {
               "fin": 3,
@@ -3578,7 +3578,7 @@ window.RACE_DATA = {
           "jockey": "小松丈二",
           "trainer": "柳井宏之",
           "horseWeight": null,
-          "odds": 9.2,
+          "odds": 7.6,
           "recent": [
             {
               "fin": 1,
@@ -3644,7 +3644,7 @@ window.RACE_DATA = {
           "jockey": "川島拓",
           "trainer": "土井道隆",
           "horseWeight": null,
-          "odds": 7.9,
+          "odds": 5.6,
           "recent": [
             {
               "fin": 1,
@@ -3710,7 +3710,7 @@ window.RACE_DATA = {
           "jockey": "出水拓人",
           "trainer": "中川竜馬",
           "horseWeight": null,
-          "odds": 4.2,
+          "odds": 5.8,
           "recent": [
             {
               "fin": 2,
@@ -3776,7 +3776,7 @@ window.RACE_DATA = {
           "jockey": "飛田愛斗",
           "trainer": "渡辺博文",
           "horseWeight": null,
-          "odds": 2.5,
+          "odds": 2.8,
           "recent": [
             {
               "fin": 5,
@@ -3842,7 +3842,7 @@ window.RACE_DATA = {
           "jockey": "山下裕貴",
           "trainer": "頼本盛行",
           "horseWeight": null,
-          "odds": 21.2,
+          "odds": 24.2,
           "recent": [
             {
               "fin": 3,
@@ -3900,7 +3900,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202655092006",
-      "oddsUpdatedAt": "18:46"
+      "oddsUpdatedAt": "18:54"
     },
     {
       "raceNo": 7,
@@ -5722,5 +5722,5 @@ window.RACE_DATA = {
       "raceId": "202655092009"
     }
   ],
-  "oddsUpdatedAt": "18:46"
+  "oddsUpdatedAt": "18:54"
 };
