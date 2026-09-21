@@ -930,7 +930,7 @@ window.RACE_DATA = {
           "jockey": "中島龍也",
           "trainer": "佐藤茂",
           "horseWeight": 455,
-          "odds": 5.5,
+          "odds": 5.1,
           "recent": [
             {
               "fin": 6,
@@ -996,7 +996,7 @@ window.RACE_DATA = {
           "jockey": "望月洵輝",
           "trainer": "鋤田誠二",
           "horseWeight": 480,
-          "odds": 16.5,
+          "odds": 18.0,
           "recent": [
             {
               "fin": 9,
@@ -1062,7 +1062,7 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "堀場裕充",
           "horseWeight": 422,
-          "odds": 6.6,
+          "odds": 6.7,
           "recent": [
             {
               "fin": 12,
@@ -1124,7 +1124,7 @@ window.RACE_DATA = {
           "jockey": "松戸政也",
           "trainer": "高橋優子",
           "horseWeight": 512,
-          "odds": 11.9,
+          "odds": 12.5,
           "recent": [
             {
               "fin": 5,
@@ -1188,7 +1188,7 @@ window.RACE_DATA = {
           "jockey": "加藤翔馬",
           "trainer": "高橋優子",
           "horseWeight": 478,
-          "odds": 44.3,
+          "odds": 33.7,
           "recent": [
             {
               "fin": 3,
@@ -1252,7 +1252,7 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "鈴木正也",
           "horseWeight": 482,
-          "odds": 71.6,
+          "odds": 48.0,
           "recent": [
             {
               "fin": 1,
@@ -1318,7 +1318,7 @@ window.RACE_DATA = {
           "jockey": "魚住謙心",
           "trainer": "鋤田誠二",
           "horseWeight": 412,
-          "odds": 7.7,
+          "odds": 8.3,
           "recent": [
             {
               "fin": 3,
@@ -1448,7 +1448,7 @@ window.RACE_DATA = {
           "jockey": "沖静男",
           "trainer": "藤田弘治",
           "horseWeight": 475,
-          "odds": 13.0,
+          "odds": 14.3,
           "recent": [
             {
               "fin": 5,
@@ -1580,7 +1580,7 @@ window.RACE_DATA = {
           "jockey": "服部大地",
           "trainer": "菅原欣也",
           "horseWeight": 460,
-          "odds": 15.0,
+          "odds": 16.2,
           "recent": [
             {
               "fin": 4,
@@ -1638,7 +1638,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646092102",
-      "oddsUpdatedAt": "13:25"
+      "oddsUpdatedAt": "13:26"
     },
     {
       "raceNo": 3,
@@ -4861,5 +4861,5 @@ window.RACE_DATA = {
       "raceId": "202646092110"
     }
   ],
-  "oddsUpdatedAt": "13:25"
+  "oddsUpdatedAt": "13:26"
 };
