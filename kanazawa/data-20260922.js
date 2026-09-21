@@ -1,10 +1,10 @@
 // このファイルは fetch_data.py により自動生成されています
-// 取得日時: 2026-09-21 13:06
+// 取得日時: 2026-09-21 13:07
 window.RACE_DATA = {
   "venue": "金沢競馬場",
   "date": "2026年9月22日(火)",
   "meeting": "第13回 金沢開催 4日目",
-  "fetchedAt": "2026-09-21 13:06",
+  "fetchedAt": "2026-09-21 13:07",
   "source": "netkeiba",
   "isArchive": false,
   "isPreview": true,
