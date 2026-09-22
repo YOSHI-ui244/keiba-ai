@@ -6309,7 +6309,7 @@ window.RACE_DATA = {
           "jockey": "塚本涼人",
           "trainer": "酒井仁",
           "horseWeight": null,
-          "odds": 12.0,
+          "odds": 7.6,
           "recent": [
             {
               "fin": 7,
@@ -6375,7 +6375,7 @@ window.RACE_DATA = {
           "jockey": "高松亮",
           "trainer": "千葉博次",
           "horseWeight": null,
-          "odds": 7.3,
+          "odds": 8.0,
           "recent": [
             {
               "fin": 3,
@@ -6441,7 +6441,7 @@ window.RACE_DATA = {
           "jockey": "小林凌",
           "trainer": "橘友和",
           "horseWeight": null,
-          "odds": 9.9,
+          "odds": 7.7,
           "recent": [
             {
               "fin": 2,
@@ -6507,7 +6507,7 @@ window.RACE_DATA = {
           "jockey": "坂井瑛音",
           "trainer": "千葉博次",
           "horseWeight": null,
-          "odds": 22.3,
+          "odds": 9.5,
           "recent": [
             {
               "fin": 2,
@@ -6573,7 +6573,7 @@ window.RACE_DATA = {
           "jockey": "村上忍",
           "trainer": "千葉幸喜",
           "horseWeight": null,
-          "odds": 1.2,
+          "odds": 1.6,
           "recent": [
             {
               "fin": 3,
@@ -6637,7 +6637,7 @@ window.RACE_DATA = {
           "jockey": "岩本怜",
           "trainer": "陶文峰",
           "horseWeight": null,
-          "odds": 14.2,
+          "odds": 8.4,
           "recent": [
             {
               "fin": 2,
@@ -6703,7 +6703,7 @@ window.RACE_DATA = {
           "jockey": "山本聡紀",
           "trainer": "飯田弘道",
           "horseWeight": null,
-          "odds": 24.1,
+          "odds": 35.3,
           "recent": [
             {
               "fin": 1,
@@ -6759,7 +6759,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202636092210",
-      "oddsUpdatedAt": "16:42"
+      "oddsUpdatedAt": "16:52"
     },
     {
       "raceNo": 11,
@@ -8028,5 +8028,5 @@ window.RACE_DATA = {
       "raceId": "202636092212"
     }
   ],
-  "oddsUpdatedAt": "16:42"
+  "oddsUpdatedAt": "16:52"
 };
