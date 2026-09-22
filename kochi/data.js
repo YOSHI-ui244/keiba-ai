@@ -1784,7 +1784,112 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202654092203",
-      "oddsUpdatedAt": "15:52"
+      "oddsUpdatedAt": "15:52",
+      "result": {
+        "order": [
+          2,
+          5,
+          1,
+          3,
+          7,
+          8,
+          10,
+          6,
+          9,
+          4
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                2
+              ],
+              "amount": 310
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                2
+              ],
+              "amount": 210
+            },
+            {
+              "comb": [
+                5
+              ],
+              "amount": 320
+            },
+            {
+              "comb": [
+                1
+              ],
+              "amount": 400
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                2,
+                5
+              ],
+              "amount": 1300
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                2,
+                5
+              ],
+              "amount": 450
+            },
+            {
+              "comb": [
+                1,
+                2
+              ],
+              "amount": 780
+            },
+            {
+              "comb": [
+                1,
+                5
+              ],
+              "amount": 2440
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                2,
+                5
+              ],
+              "amount": 1860
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                2,
+                5
+              ],
+              "amount": 6100
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                2,
+                5,
+                1
+              ],
+              "amount": 17820
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 4,
@@ -1810,7 +1915,7 @@ window.RACE_DATA = {
           "jockey": "和田陽希",
           "trainer": "平和人",
           "horseWeight": null,
-          "odds": 5.7,
+          "odds": 8.2,
           "recent": [
             {
               "fin": 2,
@@ -1942,7 +2047,7 @@ window.RACE_DATA = {
           "jockey": "新庄海誠",
           "trainer": "西川敏弘",
           "horseWeight": null,
-          "odds": 9.4,
+          "odds": 30.7,
           "recent": [
             {
               "fin": 8,
@@ -2008,7 +2113,7 @@ window.RACE_DATA = {
           "jockey": "城野慈尚",
           "trainer": "工藤真司",
           "horseWeight": null,
-          "odds": 15.0,
+          "odds": 12.8,
           "recent": [
             {
               "fin": 9,
@@ -2074,7 +2179,7 @@ window.RACE_DATA = {
           "jockey": "小谷哲平",
           "trainer": "目迫大輔",
           "horseWeight": null,
-          "odds": 12.5,
+          "odds": 12.2,
           "recent": [
             {
               "fin": 5,
@@ -2140,7 +2245,7 @@ window.RACE_DATA = {
           "jockey": "大久保友",
           "trainer": "田中譲二",
           "horseWeight": null,
-          "odds": 12.5,
+          "odds": 23.9,
           "recent": [
             {
               "fin": 6,
@@ -2204,7 +2309,7 @@ window.RACE_DATA = {
           "jockey": "阿部基嗣",
           "trainer": "雑賀正光",
           "horseWeight": null,
-          "odds": 18.8,
+          "odds": 6.3,
           "recent": [
             {
               "fin": 10,
@@ -2270,7 +2375,7 @@ window.RACE_DATA = {
           "jockey": "小笠原羚",
           "trainer": "宮川真衣",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 5.8,
           "recent": [
             {
               "fin": 13,
@@ -2334,7 +2439,7 @@ window.RACE_DATA = {
           "jockey": "柴田裕一",
           "trainer": "細川忠義",
           "horseWeight": null,
-          "odds": 37.6,
+          "odds": 31.5,
           "recent": [
             {
               "fin": 8,
@@ -2400,7 +2505,7 @@ window.RACE_DATA = {
           "jockey": "田山旺佑",
           "trainer": "田中守",
           "horseWeight": null,
-          "odds": 8.3,
+          "odds": 2.9,
           "recent": [
             {
               "fin": 7,
@@ -2466,7 +2571,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "別府真司",
           "horseWeight": null,
-          "odds": 10.7,
+          "odds": 7.4,
           "recent": [
             {
               "fin": 5,
@@ -2528,7 +2633,7 @@ window.RACE_DATA = {
           "jockey": "森田誠也",
           "trainer": "西山裕貴",
           "horseWeight": null,
-          "odds": 25.0,
+          "odds": 14.9,
           "recent": [
             {
               "fin": 4,
@@ -2583,7 +2688,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202654092204"
+      "raceId": "202654092204",
+      "oddsUpdatedAt": "16:12"
     },
     {
       "raceNo": 5,
@@ -8182,5 +8288,5 @@ window.RACE_DATA = {
       "raceId": "202654092212"
     }
   ],
-  "oddsUpdatedAt": "15:52"
+  "oddsUpdatedAt": "16:12"
 };
