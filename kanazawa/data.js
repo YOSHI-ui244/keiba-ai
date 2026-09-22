@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "甲賀弘隆",
           "trainer": "黒木豊",
           "horseWeight": 435,
-          "odds": 80.8,
+          "odds": 31.3,
           "recent": [
             {
               "fin": 7,
@@ -99,7 +99,7 @@ window.RACE_DATA = {
           "jockey": "沖静男",
           "trainer": "川添明弘",
           "horseWeight": 451,
-          "odds": 85.3,
+          "odds": 51.0,
           "recent": [
             {
               "fin": 7,
@@ -165,7 +165,7 @@ window.RACE_DATA = {
           "jockey": "服部大地",
           "trainer": "田嶋弘幸",
           "horseWeight": 480,
-          "odds": 238.2,
+          "odds": 112.0,
           "recent": [
             {
               "fin": 1,
@@ -293,7 +293,7 @@ window.RACE_DATA = {
           "jockey": "松戸政也",
           "trainer": "菅原欣也",
           "horseWeight": 429,
-          "odds": 47.6,
+          "odds": 24.6,
           "recent": [
             {
               "fin": 6,
@@ -359,7 +359,7 @@ window.RACE_DATA = {
           "jockey": "吉田晃浩",
           "trainer": "田嶋弘幸",
           "horseWeight": 509,
-          "odds": 120.6,
+          "odds": 40.3,
           "recent": [
             {
               "fin": 10,
@@ -425,7 +425,7 @@ window.RACE_DATA = {
           "jockey": "兼子千央",
           "trainer": "川添明弘",
           "horseWeight": 472,
-          "odds": 177.4,
+          "odds": 103.5,
           "recent": [
             {
               "fin": 4,
@@ -489,7 +489,7 @@ window.RACE_DATA = {
           "jockey": "平瀬城久",
           "trainer": "川添明弘",
           "horseWeight": 438,
-          "odds": 232.1,
+          "odds": 118.0,
           "recent": [
             {
               "fin": 6,
@@ -555,7 +555,7 @@ window.RACE_DATA = {
           "jockey": "浅野登生",
           "trainer": "川添明弘",
           "horseWeight": 453,
-          "odds": 377.1,
+          "odds": 159.1,
           "recent": [
             {
               "fin": 7,
@@ -619,7 +619,7 @@ window.RACE_DATA = {
           "jockey": "魚住謙心",
           "trainer": "鈴木正也",
           "horseWeight": 492,
-          "odds": 158.8,
+          "odds": 53.0,
           "recent": [
             {
               "fin": 2,
@@ -677,7 +677,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646092201",
-      "oddsUpdatedAt": "11:42"
+      "oddsUpdatedAt": "11:52"
     },
     {
       "raceNo": 2,
@@ -8725,5 +8725,5 @@ window.RACE_DATA = {
       "raceId": "202646092212"
     }
   ],
-  "oddsUpdatedAt": "11:42"
+  "oddsUpdatedAt": "11:52"
 };
