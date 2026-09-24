@@ -6445,7 +6445,7 @@ window.RACE_DATA = {
           "jockey": "加藤聡一",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 8.4,
+          "odds": 6.1,
           "recent": [
             {
               "fin": 7,
@@ -6511,7 +6511,7 @@ window.RACE_DATA = {
           "jockey": "井口裕貴",
           "trainer": "水野善太",
           "horseWeight": null,
-          "odds": 10.2,
+          "odds": 11.4,
           "recent": [
             {
               "fin": 5,
@@ -6575,7 +6575,7 @@ window.RACE_DATA = {
           "jockey": "阿部基嗣",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 13.8,
+          "odds": 15.3,
           "recent": [
             {
               "fin": 6,
@@ -6707,7 +6707,7 @@ window.RACE_DATA = {
           "jockey": "松本一心",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 20.9,
+          "odds": 23.0,
           "recent": [
             {
               "fin": 6,
@@ -6773,7 +6773,7 @@ window.RACE_DATA = {
           "jockey": "森島貴之",
           "trainer": "水野善太",
           "horseWeight": null,
-          "odds": 33.9,
+          "odds": 34.3,
           "recent": [
             {
               "fin": 7,
@@ -6837,7 +6837,7 @@ window.RACE_DATA = {
           "jockey": "馬渕繁治",
           "trainer": "森山英雄",
           "horseWeight": null,
-          "odds": 24.6,
+          "odds": 25.3,
           "recent": [
             {
               "fin": 7,
@@ -6903,7 +6903,7 @@ window.RACE_DATA = {
           "jockey": "明星晴大",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 8.4,
+          "odds": 8.5,
           "recent": [
             {
               "fin": 3,
@@ -6969,7 +6969,7 @@ window.RACE_DATA = {
           "jockey": "深澤杏花",
           "trainer": "田口輝彦",
           "horseWeight": null,
-          "odds": 13.8,
+          "odds": 15.4,
           "recent": [
             {
               "fin": 6,
@@ -7091,8 +7091,8 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202647092411",
-      "oddsUpdatedAt": "16:32"
+      "oddsUpdatedAt": "16:33"
     }
   ],
-  "oddsUpdatedAt": "16:32"
+  "oddsUpdatedAt": "16:33"
 };
