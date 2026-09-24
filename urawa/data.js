@@ -3655,7 +3655,7 @@ window.RACE_DATA = {
           "jockey": "高橋哲也",
           "trainer": "鹿沼良和",
           "horseWeight": 479,
-          "odds": 81.4,
+          "odds": 79.9,
           "recent": [
             {
               "fin": 8,
@@ -3851,7 +3851,7 @@ window.RACE_DATA = {
           "jockey": "吉留孝司",
           "trainer": "藪口一麻",
           "horseWeight": 484,
-          "odds": 65.6,
+          "odds": 65.9,
           "recent": [
             {
               "fin": 5,
@@ -3915,7 +3915,7 @@ window.RACE_DATA = {
           "jockey": "櫻井光輔",
           "trainer": "海馬澤司",
           "horseWeight": 464,
-          "odds": 25.6,
+          "odds": 25.7,
           "recent": [
             {
               "fin": 7,
@@ -4045,7 +4045,7 @@ window.RACE_DATA = {
           "jockey": "半澤慶実",
           "trainer": "入口由美",
           "horseWeight": 522,
-          "odds": 46.2,
+          "odds": 45.2,
           "recent": [
             {
               "fin": 5,
@@ -4109,7 +4109,7 @@ window.RACE_DATA = {
           "jockey": "新原周馬",
           "trainer": "長谷川忍",
           "horseWeight": 444,
-          "odds": 9.2,
+          "odds": 9.3,
           "recent": [
             {
               "fin": 3,
@@ -4173,7 +4173,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "長谷川忍",
           "horseWeight": 462,
-          "odds": 21.2,
+          "odds": 20.2,
           "recent": [
             {
               "fin": 3,
@@ -4237,7 +4237,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "酒井一則",
           "horseWeight": 501,
-          "odds": 65.6,
+          "odds": 65.9,
           "recent": [
             {
               "fin": 6,
@@ -4293,7 +4293,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202642092407",
-      "oddsUpdatedAt": "16:12"
+      "oddsUpdatedAt": "16:13"
     },
     {
       "raceNo": 8,
@@ -7596,5 +7596,5 @@ window.RACE_DATA = {
       "raceId": "202642092412"
     }
   ],
-  "oddsUpdatedAt": "16:12"
+  "oddsUpdatedAt": "16:13"
 };
