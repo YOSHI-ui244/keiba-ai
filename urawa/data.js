@@ -4421,7 +4421,7 @@ window.RACE_DATA = {
           "jockey": "及川烈",
           "trainer": "川村守男",
           "horseWeight": null,
-          "odds": 39.0,
+          "odds": 39.1,
           "recent": [
             {
               "fin": 6,
@@ -4496,7 +4496,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202642092508",
-      "oddsUpdatedAt": "16:50"
+      "oddsUpdatedAt": "16:52"
     },
     {
       "raceNo": 9,
@@ -7793,5 +7793,5 @@ window.RACE_DATA = {
       "raceId": "202642092512"
     }
   ],
-  "oddsUpdatedAt": "16:50"
+  "oddsUpdatedAt": "16:52"
 };
