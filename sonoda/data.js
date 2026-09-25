@@ -2626,7 +2626,7 @@ window.RACE_DATA = {
           "jockey": "山本屋太",
           "trainer": "田村彰啓",
           "horseWeight": 445,
-          "odds": 5.4,
+          "odds": 3.1,
           "recent": [
             {
               "fin": 4,
@@ -2692,7 +2692,7 @@ window.RACE_DATA = {
           "jockey": "廣瀬航",
           "trainer": "保利良平",
           "horseWeight": 476,
-          "odds": 4.9,
+          "odds": 5.6,
           "recent": [
             {
               "fin": 3,
@@ -2756,7 +2756,7 @@ window.RACE_DATA = {
           "jockey": "杉浦健太",
           "trainer": "尾原強",
           "horseWeight": 502,
-          "odds": 57.0,
+          "odds": 59.5,
           "recent": [
             {
               "fin": 8,
@@ -2822,7 +2822,7 @@ window.RACE_DATA = {
           "jockey": "小牧太",
           "trainer": "盛本信春",
           "horseWeight": 470,
-          "odds": 13.5,
+          "odds": 17.3,
           "recent": [
             {
               "fin": 10,
@@ -2886,7 +2886,7 @@ window.RACE_DATA = {
           "jockey": "塩津璃菜",
           "trainer": "松平幸秀",
           "horseWeight": 417,
-          "odds": 36.6,
+          "odds": 23.9,
           "recent": [
             {
               "fin": 2,
@@ -2952,7 +2952,7 @@ window.RACE_DATA = {
           "jockey": "田野豊三",
           "trainer": "吉見真幸",
           "horseWeight": 491,
-          "odds": 1.7,
+          "odds": 2.4,
           "recent": [
             {
               "fin": 4,
@@ -3014,7 +3014,7 @@ window.RACE_DATA = {
           "jockey": "下原理",
           "trainer": "新子雅司",
           "horseWeight": 483,
-          "odds": 5.4,
+          "odds": 4.3,
           "recent": [
             {
               "fin": 8,
@@ -3068,7 +3068,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202650092505",
-      "oddsUpdatedAt": "16:02"
+      "oddsUpdatedAt": "16:10"
     },
     {
       "raceNo": 6,
@@ -7381,5 +7381,5 @@ window.RACE_DATA = {
       "raceId": "202650092512"
     }
   ],
-  "oddsUpdatedAt": "16:02"
+  "oddsUpdatedAt": "16:10"
 };
