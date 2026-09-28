@@ -6246,7 +6246,7 @@ window.RACE_DATA = {
           "jockey": "塚本涼人",
           "trainer": "酒井仁",
           "horseWeight": 479,
-          "odds": 6.8,
+          "odds": 6.9,
           "recent": [
             {
               "fin": 5,
@@ -6312,7 +6312,7 @@ window.RACE_DATA = {
           "jockey": "山本政聡",
           "trainer": "小林義明",
           "horseWeight": 496,
-          "odds": 8.6,
+          "odds": 8.7,
           "recent": [
             {
               "fin": 8,
@@ -6508,7 +6508,7 @@ window.RACE_DATA = {
           "jockey": "坂井瑛音",
           "trainer": "新田守",
           "horseWeight": 517,
-          "odds": 13.3,
+          "odds": 13.4,
           "recent": [
             {
               "fin": 2,
@@ -6574,7 +6574,7 @@ window.RACE_DATA = {
           "jockey": "岩本怜",
           "trainer": "伊藤和",
           "horseWeight": 465,
-          "odds": 22.8,
+          "odds": 22.9,
           "recent": [
             {
               "fin": 9,
@@ -6640,7 +6640,7 @@ window.RACE_DATA = {
           "jockey": "高橋悠里",
           "trainer": "伊藤和忍",
           "horseWeight": 504,
-          "odds": 9.2,
+          "odds": 9.0,
           "recent": [
             {
               "fin": 3,
@@ -6702,7 +6702,7 @@ window.RACE_DATA = {
           "jockey": "阿部英俊",
           "trainer": "酒井仁",
           "horseWeight": 458,
-          "odds": 52.3,
+          "odds": 52.6,
           "recent": [
             {
               "fin": 5,
@@ -6764,7 +6764,7 @@ window.RACE_DATA = {
           "jockey": "小林凌",
           "trainer": "小林俊彦",
           "horseWeight": 514,
-          "odds": 17.8,
+          "odds": 18.0,
           "recent": [
             {
               "fin": 8,
@@ -6822,7 +6822,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202636092810",
-      "oddsUpdatedAt": "16:46"
+      "oddsUpdatedAt": "16:47"
     },
     {
       "raceNo": 11,
@@ -8355,5 +8355,5 @@ window.RACE_DATA = {
       "raceId": "202636092812"
     }
   ],
-  "oddsUpdatedAt": "16:46"
+  "oddsUpdatedAt": "16:47"
 };
