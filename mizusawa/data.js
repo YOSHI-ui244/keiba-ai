@@ -7095,7 +7095,7 @@ window.RACE_DATA = {
           "jockey": "村上忍",
           "trainer": "櫻田浩樹",
           "horseWeight": 451,
-          "odds": 6.0,
+          "odds": 5.9,
           "recent": [
             {
               "fin": 1,
@@ -7161,7 +7161,7 @@ window.RACE_DATA = {
           "jockey": "高橋悠里",
           "trainer": "伊藤和忍",
           "horseWeight": 429,
-          "odds": 51.9,
+          "odds": 52.0,
           "recent": [
             {
               "fin": 5,
@@ -7557,7 +7557,7 @@ window.RACE_DATA = {
           "jockey": "佐々木志",
           "trainer": "佐藤祐司",
           "horseWeight": 478,
-          "odds": 38.9,
+          "odds": 39.0,
           "recent": [
             {
               "fin": 1,
