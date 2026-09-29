@@ -4670,7 +4670,7 @@ window.RACE_DATA = {
           "jockey": "田中涼",
           "trainer": "加藤誠一",
           "horseWeight": null,
-          "odds": 55.2,
+          "odds": 55.1,
           "recent": [
             {
               "fin": 6,
