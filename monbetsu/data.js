@@ -3639,7 +3639,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "米川昇",
           "horseWeight": 492,
-          "odds": 59.0,
+          "odds": 56.7,
           "recent": [
             {
               "fin": 10,
@@ -3705,7 +3705,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "桧森邦夫",
           "horseWeight": 454,
-          "odds": 18.5,
+          "odds": 18.2,
           "recent": [
             {
               "fin": 8,
@@ -3769,7 +3769,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "森山雄大",
           "horseWeight": 504,
-          "odds": 177.0,
+          "odds": 181.1,
           "recent": [
             {
               "fin": 14,
@@ -3805,7 +3805,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "小野望",
           "horseWeight": 518,
-          "odds": 23.0,
+          "odds": 23.2,
           "recent": [
             {
               "fin": 12,
@@ -3867,7 +3867,7 @@ window.RACE_DATA = {
           "jockey": "渡辺準己",
           "trainer": "村上正和",
           "horseWeight": 568,
-          "odds": 95.5,
+          "odds": 98.7,
           "recent": [
             {
               "fin": 1,
@@ -3933,7 +3933,7 @@ window.RACE_DATA = {
           "jockey": "松井伸也",
           "trainer": "黒川智貴",
           "horseWeight": 540,
-          "odds": 102.2,
+          "odds": 85.4,
           "recent": [
             {
               "fin": 10,
@@ -3971,7 +3971,7 @@ window.RACE_DATA = {
           "jockey": "望月洵輝",
           "trainer": "小国博行",
           "horseWeight": 472,
-          "odds": 5.7,
+          "odds": 5.9,
           "recent": [
             {
               "fin": 13,
@@ -3997,7 +3997,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "田中淳司",
           "horseWeight": 478,
-          "odds": 22.1,
+          "odds": 21.3,
           "recent": [
             {
               "fin": 10,
@@ -4059,7 +4059,7 @@ window.RACE_DATA = {
           "jockey": "山本咲希",
           "trainer": "川島雅人",
           "horseWeight": 508,
-          "odds": 33.4,
+          "odds": 33.6,
           "recent": [
             {
               "fin": 2,
