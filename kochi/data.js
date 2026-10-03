@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "C3ー6",
       "distance": 1600,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "稍",
       "startTime": "14:55",
       "grade": "サラ系一般 C3",
       "meetingInfo": [
@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "城野慈尚",
           "trainer": "平和人",
           "horseWeight": null,
-          "odds": 20.8,
+          "odds": 23.7,
           "recent": [
             {
               "fin": 8,
@@ -99,7 +99,7 @@ window.RACE_DATA = {
           "jockey": "山崎雅由",
           "trainer": "宮川浩一",
           "horseWeight": null,
-          "odds": 16.1,
+          "odds": 22.4,
           "recent": [
             {
               "fin": 12,
@@ -161,7 +161,7 @@ window.RACE_DATA = {
           "jockey": "多田羅誠",
           "trainer": "国澤輝幸",
           "horseWeight": null,
-          "odds": 55.7,
+          "odds": 40.9,
           "recent": [
             {
               "fin": 2,
@@ -225,7 +225,7 @@ window.RACE_DATA = {
           "jockey": "濱尚美",
           "trainer": "那俄性哲",
           "horseWeight": null,
-          "odds": 25.6,
+          "odds": 17.3,
           "recent": [
             {
               "fin": 9,
@@ -291,7 +291,7 @@ window.RACE_DATA = {
           "jockey": "石本純也",
           "trainer": "平和人",
           "horseWeight": null,
-          "odds": 103.6,
+          "odds": 48.2,
           "recent": [
             {
               "fin": 8,
@@ -355,7 +355,7 @@ window.RACE_DATA = {
           "jockey": "井上瑛太",
           "trainer": "国澤輝幸",
           "horseWeight": null,
-          "odds": 13.5,
+          "odds": 19.5,
           "recent": [
             {
               "fin": 6,
@@ -481,7 +481,7 @@ window.RACE_DATA = {
           "jockey": "新庄海誠",
           "trainer": "国澤輝幸",
           "horseWeight": null,
-          "odds": 54.9,
+          "odds": 47.8,
           "recent": [
             {
               "fin": 5,
@@ -538,7 +538,8 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202654100301"
+      "raceId": "202654100301",
+      "oddsUpdatedAt": "14:45"
     },
     {
       "raceNo": 2,
@@ -7607,5 +7608,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202654100312"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "14:45"
 };
