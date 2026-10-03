@@ -1819,7 +1819,7 @@ window.RACE_DATA = {
           "jockey": "畑中信司",
           "trainer": "東原己俊",
           "horseWeight": null,
-          "odds": 22.8,
+          "odds": 22.9,
           "recent": [
             {
               "fin": 9,
