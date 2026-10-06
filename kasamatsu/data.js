@@ -1546,7 +1546,7 @@ window.RACE_DATA = {
       "name": "令和8年熊本地震被災地支援レース(C)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "12:30",
       "grade": "サラ系一般 C",
       "meetingInfo": [
@@ -1565,7 +1565,7 @@ window.RACE_DATA = {
           "jockey": "東川慎",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 4.5,
+          "odds": 7.3,
           "recent": [
             {
               "fin": 3,
@@ -1609,7 +1609,7 @@ window.RACE_DATA = {
           "jockey": "細川智史",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 9.0,
+          "odds": 9.1,
           "recent": [
             {
               "fin": 14,
@@ -1641,7 +1641,7 @@ window.RACE_DATA = {
           "jockey": "高木健",
           "trainer": "田口輝彦",
           "horseWeight": null,
-          "odds": 7.9,
+          "odds": 8.3,
           "recent": [
             {
               "fin": 8,
@@ -1679,7 +1679,7 @@ window.RACE_DATA = {
           "jockey": "森島貴之",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 33.8,
+          "odds": 9.9,
           "recent": [
             {
               "fin": 9,
@@ -1743,7 +1743,7 @@ window.RACE_DATA = {
           "jockey": "渡辺竜也",
           "trainer": "後藤佑耶",
           "horseWeight": null,
-          "odds": 1.7,
+          "odds": 1.6,
           "recent": [
             {
               "fin": 12,
@@ -1763,7 +1763,7 @@ window.RACE_DATA = {
           "jockey": "深澤杏花",
           "trainer": "伊藤勝好",
           "horseWeight": null,
-          "odds": 83.9,
+          "odds": 14.4,
           "recent": [
             {
               "fin": 10,
@@ -1823,7 +1823,7 @@ window.RACE_DATA = {
           "jockey": "赤津和希",
           "trainer": "後藤正義",
           "horseWeight": null,
-          "odds": 248.1,
+          "odds": 47.1,
           "recent": [
             {
               "fin": 7,
@@ -1889,7 +1889,7 @@ window.RACE_DATA = {
           "jockey": "大原浩司",
           "trainer": "森山広大",
           "horseWeight": null,
-          "odds": 5.9,
+          "odds": 9.4,
           "recent": [
             {
               "fin": 16,
@@ -1912,7 +1912,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202647100604"
+      "raceId": "202647100604",
+      "oddsUpdatedAt": "12:05"
     },
     {
       "raceNo": 5,
@@ -5292,5 +5293,5 @@ window.RACE_DATA = {
       "raceId": "202647100611"
     }
   ],
-  "oddsUpdatedAt": "11:55"
+  "oddsUpdatedAt": "12:05"
 };
