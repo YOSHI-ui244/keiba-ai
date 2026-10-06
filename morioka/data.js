@@ -6035,7 +6035,7 @@ window.RACE_DATA = {
           "jockey": "山本聡紀",
           "trainer": "菅原右吉",
           "horseWeight": null,
-          "odds": 15.8,
+          "odds": 14.0,
           "recent": [
             {
               "fin": 5,
@@ -6099,7 +6099,7 @@ window.RACE_DATA = {
           "jockey": "高松亮",
           "trainer": "小林俊彦",
           "horseWeight": null,
-          "odds": 4.6,
+          "odds": 4.3,
           "recent": [
             {
               "fin": 3,
@@ -6165,7 +6165,7 @@ window.RACE_DATA = {
           "jockey": "佐々木志",
           "trainer": "佐藤祐司",
           "horseWeight": null,
-          "odds": 7.7,
+          "odds": 6.4,
           "recent": [
             {
               "fin": 9,
@@ -6229,7 +6229,7 @@ window.RACE_DATA = {
           "jockey": "鈴木祐",
           "trainer": "佐々木由",
           "horseWeight": null,
-          "odds": 14.7,
+          "odds": 5.4,
           "recent": [
             {
               "fin": 1,
@@ -6295,7 +6295,7 @@ window.RACE_DATA = {
           "jockey": "塚本涼人",
           "trainer": "小林俊彦",
           "horseWeight": null,
-          "odds": 9.8,
+          "odds": 11.4,
           "recent": [
             {
               "fin": 7,
@@ -6361,7 +6361,7 @@ window.RACE_DATA = {
           "jockey": "村上忍",
           "trainer": "村上実",
           "horseWeight": null,
-          "odds": 28.0,
+          "odds": 26.3,
           "recent": [
             {
               "fin": 6,
@@ -6427,7 +6427,7 @@ window.RACE_DATA = {
           "jockey": "斉藤友香",
           "trainer": "橘友和",
           "horseWeight": null,
-          "odds": 6.1,
+          "odds": 6.6,
           "recent": [
             {
               "fin": 3,
@@ -6493,7 +6493,7 @@ window.RACE_DATA = {
           "jockey": "高橋悠里",
           "trainer": "伊藤和忍",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 3.6,
           "recent": [
             {
               "fin": 2,
@@ -6557,7 +6557,7 @@ window.RACE_DATA = {
           "jockey": "菅原辰徳",
           "trainer": "菅原右吉",
           "horseWeight": null,
-          "odds": 16.0,
+          "odds": 16.7,
           "recent": [
             {
               "fin": 8,
@@ -6613,7 +6613,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202635100609",
-      "oddsUpdatedAt": "16:00"
+      "oddsUpdatedAt": "16:10"
     },
     {
       "raceNo": 10,
@@ -8541,5 +8541,5 @@ window.RACE_DATA = {
       "raceId": "202635100612"
     }
   ],
-  "oddsUpdatedAt": "16:00"
+  "oddsUpdatedAt": "16:10"
 };
