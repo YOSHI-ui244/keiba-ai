@@ -7328,7 +7328,7 @@ window.RACE_DATA = {
       "name": "楽天ポイントが貯まる!楽天競馬賞(B2)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "18:45",
       "grade": "サラ系一般 B2",
       "meetingInfo": [
@@ -7347,7 +7347,7 @@ window.RACE_DATA = {
           "jockey": "田知弘久",
           "trainer": "田嶋弘幸",
           "horseWeight": null,
-          "odds": 25.3,
+          "odds": 65.9,
           "recent": [
             {
               "fin": 6,
@@ -7413,7 +7413,7 @@ window.RACE_DATA = {
           "jockey": "松戸政也",
           "trainer": "菅原欣也",
           "horseWeight": null,
-          "odds": 10.8,
+          "odds": 13.0,
           "recent": [
             {
               "fin": 1,
@@ -7531,7 +7531,7 @@ window.RACE_DATA = {
           "jockey": "望月洵輝",
           "trainer": "鋤田誠二",
           "horseWeight": null,
-          "odds": 8.4,
+          "odds": 23.8,
           "recent": [
             {
               "fin": 8,
@@ -7597,7 +7597,7 @@ window.RACE_DATA = {
           "jockey": "柴田勇真",
           "trainer": "井樋一也",
           "horseWeight": null,
-          "odds": 14.8,
+          "odds": 45.6,
           "recent": [
             {
               "fin": 9,
@@ -7663,7 +7663,7 @@ window.RACE_DATA = {
           "jockey": "加藤翔馬",
           "trainer": "鋤田誠二",
           "horseWeight": null,
-          "odds": 7.4,
+          "odds": 38.2,
           "recent": [
             {
               "fin": 4,
@@ -7729,7 +7729,7 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "鈴木正也",
           "horseWeight": null,
-          "odds": 9.1,
+          "odds": 37.0,
           "recent": [
             {
               "fin": 4,
@@ -7793,7 +7793,7 @@ window.RACE_DATA = {
           "jockey": "吉田晃浩",
           "trainer": "佐藤茂",
           "horseWeight": null,
-          "odds": 9.5,
+          "odds": 19.9,
           "recent": [
             {
               "fin": 1,
@@ -7855,7 +7855,7 @@ window.RACE_DATA = {
           "jockey": "沖静男",
           "trainer": "川添明弘",
           "horseWeight": null,
-          "odds": 16.6,
+          "odds": 36.8,
           "recent": [
             {
               "fin": 3,
@@ -7912,8 +7912,9 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202646100611"
+      "raceId": "202646100611",
+      "oddsUpdatedAt": "18:20"
     }
   ],
-  "oddsUpdatedAt": "18:10"
+  "oddsUpdatedAt": "18:20"
 };
