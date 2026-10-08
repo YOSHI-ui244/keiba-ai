@@ -4894,14 +4894,110 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630100810",
-      "oddsUpdatedAt": "19:13"
+      "oddsUpdatedAt": "19:13",
+      "result": {
+        "order": [
+          5,
+          8,
+          6,
+          4,
+          7,
+          2,
+          3
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                5
+              ],
+              "amount": 210
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                5
+              ],
+              "amount": 130
+            },
+            {
+              "comb": [
+                8
+              ],
+              "amount": 210
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                5,
+                8
+              ],
+              "amount": 570
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                5,
+                8
+              ],
+              "amount": 220
+            },
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 460
+            },
+            {
+              "comb": [
+                6,
+                8
+              ],
+              "amount": 870
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                5,
+                8
+              ],
+              "amount": 890
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                5,
+                6,
+                8
+              ],
+              "amount": 1660
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                5,
+                8,
+                6
+              ],
+              "amount": 5510
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 11,
       "name": "ザ・ロイヤルファミリー記念特別(A1)",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "19:55",
       "grade": "サラ系一般 A1",
       "meetingInfo": [
@@ -4920,7 +5016,7 @@ window.RACE_DATA = {
           "jockey": "金山昇馬",
           "trainer": "川島雅人",
           "horseWeight": null,
-          "odds": 64.2,
+          "odds": 6.3,
           "recent": [
             {
               "fin": 4,
@@ -5050,7 +5146,7 @@ window.RACE_DATA = {
           "jockey": "小川悠汰",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 50.3,
+          "odds": 6.9,
           "recent": [
             {
               "fin": 4,
@@ -5114,7 +5210,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 31.6,
+          "odds": 2.4,
           "recent": [
             {
               "fin": 3,
@@ -5178,7 +5274,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 105.1,
+          "odds": 6.3,
           "recent": [
             {
               "fin": 5,
@@ -5240,7 +5336,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 3.8,
+          "odds": 2.5,
           "recent": [
             {
               "fin": 11,
@@ -5293,7 +5389,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202630100811"
+      "raceId": "202630100811",
+      "oddsUpdatedAt": "19:31"
     },
     {
       "raceNo": 12,
@@ -6071,5 +6168,5 @@ window.RACE_DATA = {
       "raceId": "202630100812"
     }
   ],
-  "oddsUpdatedAt": "19:13"
+  "oddsUpdatedAt": "19:31"
 };
