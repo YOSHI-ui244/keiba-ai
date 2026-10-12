@@ -8361,7 +8361,7 @@ window.RACE_DATA = {
           "jockey": "菅原辰徳",
           "trainer": "橘友和",
           "horseWeight": 472,
-          "odds": 13.9,
+          "odds": 14.4,
           "recent": [
             {
               "fin": 5,
@@ -8425,7 +8425,7 @@ window.RACE_DATA = {
           "jockey": "望月洵輝",
           "trainer": "千葉幸喜",
           "horseWeight": 511,
-          "odds": 3.8,
+          "odds": 4.3,
           "recent": [
             {
               "fin": 4,
@@ -8491,7 +8491,7 @@ window.RACE_DATA = {
           "jockey": "山本聡哉",
           "trainer": "佐々木由",
           "horseWeight": 471,
-          "odds": 3.0,
+          "odds": 2.8,
           "recent": [
             {
               "fin": 1,
@@ -8541,7 +8541,7 @@ window.RACE_DATA = {
           "jockey": "山本政聡",
           "trainer": "菅原勲",
           "horseWeight": 480,
-          "odds": 14.8,
+          "odds": 15.4,
           "recent": [
             {
               "fin": 10,
@@ -8591,7 +8591,7 @@ window.RACE_DATA = {
           "jockey": "村上忍",
           "trainer": "千葉幸喜",
           "horseWeight": 455,
-          "odds": 7.6,
+          "odds": 6.1,
           "recent": [
             {
               "fin": 7,
@@ -8629,7 +8629,7 @@ window.RACE_DATA = {
           "jockey": "大坪慎",
           "trainer": "三野宮通",
           "horseWeight": 434,
-          "odds": 32.8,
+          "odds": 35.2,
           "recent": [
             {
               "fin": 3,
@@ -8741,7 +8741,7 @@ window.RACE_DATA = {
           "jockey": "高松亮",
           "trainer": "伊藤和忍",
           "horseWeight": 480,
-          "odds": 7.2,
+          "odds": 8.9,
           "recent": [
             {
               "fin": 4,
@@ -8797,7 +8797,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202635101211",
-      "oddsUpdatedAt": "17:11"
+      "oddsUpdatedAt": "17:18"
     },
     {
       "raceNo": 12,
@@ -9515,5 +9515,5 @@ window.RACE_DATA = {
       "raceId": "202635101212"
     }
   ],
-  "oddsUpdatedAt": "17:11"
+  "oddsUpdatedAt": "17:18"
 };
