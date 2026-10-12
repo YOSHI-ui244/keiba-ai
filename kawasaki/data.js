@@ -728,7 +728,114 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202645101201"
+      "raceId": "202645101201",
+      "result": {
+        "order": [
+          1,
+          5,
+          6,
+          4,
+          10,
+          12,
+          9,
+          3,
+          2,
+          8,
+          11,
+          7
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 230
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 100
+            },
+            {
+              "comb": [
+                5
+              ],
+              "amount": 110
+            },
+            {
+              "comb": [
+                6
+              ],
+              "amount": 140
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                1,
+                5
+              ],
+              "amount": 270
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                1,
+                5
+              ],
+              "amount": 140
+            },
+            {
+              "comb": [
+                1,
+                6
+              ],
+              "amount": 240
+            },
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 270
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                1,
+                5
+              ],
+              "amount": 530
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                5,
+                6
+              ],
+              "amount": 530
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                1,
+                5,
+                6
+              ],
+              "amount": 1760
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 2,
@@ -1451,7 +1558,114 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202645101202"
+      "raceId": "202645101202",
+      "result": {
+        "order": [
+          1,
+          2,
+          7,
+          11,
+          6,
+          4,
+          12,
+          10,
+          8,
+          5,
+          3,
+          9
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 2270
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 430
+            },
+            {
+              "comb": [
+                2
+              ],
+              "amount": 1060
+            },
+            {
+              "comb": [
+                7
+              ],
+              "amount": 450
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                1,
+                2
+              ],
+              "amount": 25190
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                1,
+                2
+              ],
+              "amount": 5070
+            },
+            {
+              "comb": [
+                1,
+                7
+              ],
+              "amount": 2660
+            },
+            {
+              "comb": [
+                2,
+                7
+              ],
+              "amount": 4380
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                1,
+                2
+              ],
+              "amount": 38510
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                2,
+                7
+              ],
+              "amount": 69790
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                1,
+                2,
+                7
+              ],
+              "amount": 437520
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 3,
@@ -1580,7 +1794,103 @@ window.RACE_DATA = {
           "recent": []
         }
       ],
-      "raceId": "202645101203"
+      "raceId": "202645101203",
+      "result": {
+        "order": [
+          3,
+          4,
+          5,
+          7,
+          6,
+          2,
+          1
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                3
+              ],
+              "amount": 990
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                3
+              ],
+              "amount": 380
+            },
+            {
+              "comb": [
+                4
+              ],
+              "amount": 580
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                3,
+                4
+              ],
+              "amount": 3830
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                3,
+                4
+              ],
+              "amount": 610
+            },
+            {
+              "comb": [
+                3,
+                5
+              ],
+              "amount": 250
+            },
+            {
+              "comb": [
+                4,
+                5
+              ],
+              "amount": 290
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                3,
+                4
+              ],
+              "amount": 5180
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                3,
+                4,
+                5
+              ],
+              "amount": 1280
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                3,
+                4,
+                5
+              ],
+              "amount": 20070
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 4,
@@ -1745,7 +2055,110 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202645101204"
+      "raceId": "202645101204",
+      "result": {
+        "order": [
+          3,
+          1,
+          2,
+          6,
+          4,
+          5,
+          8,
+          7
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                3
+              ],
+              "amount": 190
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                3
+              ],
+              "amount": 100
+            },
+            {
+              "comb": [
+                1
+              ],
+              "amount": 150
+            },
+            {
+              "comb": [
+                2
+              ],
+              "amount": 110
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                1,
+                3
+              ],
+              "amount": 860
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                1,
+                3
+              ],
+              "amount": 320
+            },
+            {
+              "comb": [
+                2,
+                3
+              ],
+              "amount": 170
+            },
+            {
+              "comb": [
+                1,
+                2
+              ],
+              "amount": 310
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                3,
+                1
+              ],
+              "amount": 850
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                2,
+                3
+              ],
+              "amount": 460
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                3,
+                1,
+                2
+              ],
+              "amount": 2280
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 5,
@@ -6183,5 +6596,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202645101212"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "17:01"
 };
