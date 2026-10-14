@@ -794,7 +794,114 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202645101401"
+      "raceId": "202645101401",
+      "result": {
+        "order": [
+          6,
+          5,
+          10,
+          9,
+          12,
+          1,
+          2,
+          3,
+          8,
+          7,
+          4,
+          11
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                6
+              ],
+              "amount": 570
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                6
+              ],
+              "amount": 160
+            },
+            {
+              "comb": [
+                5
+              ],
+              "amount": 250
+            },
+            {
+              "comb": [
+                10
+              ],
+              "amount": 130
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 2770
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                5,
+                6
+              ],
+              "amount": 1100
+            },
+            {
+              "comb": [
+                6,
+                10
+              ],
+              "amount": 420
+            },
+            {
+              "comb": [
+                5,
+                10
+              ],
+              "amount": 770
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                6,
+                5
+              ],
+              "amount": 5280
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                5,
+                6,
+                10
+              ],
+              "amount": 2730
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                6,
+                5,
+                10
+              ],
+              "amount": 19680
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 2,
@@ -1255,7 +1362,112 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202645101402"
+      "raceId": "202645101402",
+      "result": {
+        "order": [
+          8,
+          7,
+          5,
+          4,
+          9,
+          1,
+          6,
+          3,
+          2,
+          10
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                8
+              ],
+              "amount": 160
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                8
+              ],
+              "amount": 120
+            },
+            {
+              "comb": [
+                7
+              ],
+              "amount": 190
+            },
+            {
+              "comb": [
+                5
+              ],
+              "amount": 830
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                7,
+                8
+              ],
+              "amount": 700
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                7,
+                8
+              ],
+              "amount": 280
+            },
+            {
+              "comb": [
+                5,
+                8
+              ],
+              "amount": 1970
+            },
+            {
+              "comb": [
+                5,
+                7
+              ],
+              "amount": 6610
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                8,
+                7
+              ],
+              "amount": 1040
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                5,
+                7,
+                8
+              ],
+              "amount": 10580
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                8,
+                7,
+                5
+              ],
+              "amount": 29600
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 3,
@@ -1386,7 +1598,103 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202645101403"
+      "raceId": "202645101403",
+      "result": {
+        "order": [
+          4,
+          2,
+          6,
+          3,
+          1,
+          5,
+          7
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 130
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 120
+            },
+            {
+              "comb": [
+                2
+              ],
+              "amount": 220
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 370
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 190
+            },
+            {
+              "comb": [
+                4,
+                6
+              ],
+              "amount": 380
+            },
+            {
+              "comb": [
+                2,
+                6
+              ],
+              "amount": 790
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                4,
+                2
+              ],
+              "amount": 500
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                2,
+                4,
+                6
+              ],
+              "amount": 1180
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                4,
+                2,
+                6
+              ],
+              "amount": 2900
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 4,
@@ -2011,7 +2319,114 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202645101404"
+      "raceId": "202645101404",
+      "result": {
+        "order": [
+          4,
+          10,
+          1,
+          2,
+          3,
+          6,
+          9,
+          12,
+          7,
+          5,
+          8,
+          11
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 270
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 120
+            },
+            {
+              "comb": [
+                10
+              ],
+              "amount": 170
+            },
+            {
+              "comb": [
+                1
+              ],
+              "amount": 180
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                4,
+                10
+              ],
+              "amount": 700
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                4,
+                10
+              ],
+              "amount": 330
+            },
+            {
+              "comb": [
+                1,
+                4
+              ],
+              "amount": 350
+            },
+            {
+              "comb": [
+                1,
+                10
+              ],
+              "amount": 620
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                4,
+                10
+              ],
+              "amount": 1220
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                4,
+                10
+              ],
+              "amount": 1060
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                4,
+                10,
+                1
+              ],
+              "amount": 3910
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 5,
@@ -2722,7 +3137,114 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202645101405"
+      "raceId": "202645101405",
+      "result": {
+        "order": [
+          1,
+          4,
+          10,
+          5,
+          2,
+          6,
+          7,
+          11,
+          3,
+          8,
+          12,
+          9
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 200
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 130
+            },
+            {
+              "comb": [
+                4
+              ],
+              "amount": 300
+            },
+            {
+              "comb": [
+                10
+              ],
+              "amount": 220
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                1,
+                4
+              ],
+              "amount": 1520
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                1,
+                4
+              ],
+              "amount": 520
+            },
+            {
+              "comb": [
+                1,
+                10
+              ],
+              "amount": 560
+            },
+            {
+              "comb": [
+                4,
+                10
+              ],
+              "amount": 1930
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                1,
+                4
+              ],
+              "amount": 1900
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                4,
+                10
+              ],
+              "amount": 4170
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                1,
+                4,
+                10
+              ],
+              "amount": 12010
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 6,
@@ -3257,7 +3779,111 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202645101406"
+      "raceId": "202645101406",
+      "result": {
+        "order": [
+          7,
+          2,
+          9,
+          6,
+          1,
+          5,
+          8,
+          3,
+          4
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                7
+              ],
+              "amount": 260
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                7
+              ],
+              "amount": 120
+            },
+            {
+              "comb": [
+                2
+              ],
+              "amount": 100
+            },
+            {
+              "comb": [
+                9
+              ],
+              "amount": 140
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                2,
+                7
+              ],
+              "amount": 210
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                2,
+                7
+              ],
+              "amount": 150
+            },
+            {
+              "comb": [
+                7,
+                9
+              ],
+              "amount": 340
+            },
+            {
+              "comb": [
+                2,
+                9
+              ],
+              "amount": 290
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                7,
+                2
+              ],
+              "amount": 550
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                2,
+                7,
+                9
+              ],
+              "amount": 520
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                7,
+                2,
+                9
+              ],
+              "amount": 2000
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 7,
@@ -3936,7 +4562,114 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202645101407"
+      "raceId": "202645101407",
+      "result": {
+        "order": [
+          2,
+          4,
+          11,
+          12,
+          3,
+          1,
+          10,
+          6,
+          9,
+          7,
+          5,
+          8
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                2
+              ],
+              "amount": 220
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                2
+              ],
+              "amount": 130
+            },
+            {
+              "comb": [
+                4
+              ],
+              "amount": 110
+            },
+            {
+              "comb": [
+                11
+              ],
+              "amount": 150
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 330
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 200
+            },
+            {
+              "comb": [
+                2,
+                11
+              ],
+              "amount": 270
+            },
+            {
+              "comb": [
+                4,
+                11
+              ],
+              "amount": 360
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                2,
+                4
+              ],
+              "amount": 630
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                2,
+                4,
+                11
+              ],
+              "amount": 680
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                2,
+                4,
+                11
+              ],
+              "amount": 2240
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 8,
@@ -4679,7 +5412,114 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202645101408"
+      "raceId": "202645101408",
+      "result": {
+        "order": [
+          1,
+          2,
+          11,
+          3,
+          4,
+          5,
+          12,
+          6,
+          7,
+          9,
+          10,
+          8
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 370
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 170
+            },
+            {
+              "comb": [
+                2
+              ],
+              "amount": 140
+            },
+            {
+              "comb": [
+                11
+              ],
+              "amount": 260
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                1,
+                2
+              ],
+              "amount": 520
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                1,
+                2
+              ],
+              "amount": 300
+            },
+            {
+              "comb": [
+                1,
+                11
+              ],
+              "amount": 1050
+            },
+            {
+              "comb": [
+                2,
+                11
+              ],
+              "amount": 770
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                1,
+                2
+              ],
+              "amount": 1010
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                2,
+                11
+              ],
+              "amount": 2630
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                1,
+                2,
+                11
+              ],
+              "amount": 9380
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 9,
@@ -4705,7 +5545,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "加藤誠一",
           "horseWeight": 465,
-          "odds": 4.0,
+          "odds": 4.8,
           "recent": [
             {
               "fin": 1,
@@ -4749,7 +5589,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "高月賢一",
           "horseWeight": 522,
-          "odds": 86.1,
+          "odds": 100.6,
           "recent": [
             {
               "fin": 12,
@@ -4811,7 +5651,7 @@ window.RACE_DATA = {
           "jockey": "椿聡太",
           "trainer": "岩崎真樹",
           "horseWeight": 463,
-          "odds": 121.8,
+          "odds": 148.7,
           "recent": [
             {
               "fin": 10,
@@ -4877,7 +5717,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "山崎尋美",
           "horseWeight": 466,
-          "odds": 76.7,
+          "odds": 93.2,
           "recent": [
             {
               "fin": 11,
@@ -4943,7 +5783,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌",
           "trainer": "八木正喜",
           "horseWeight": 521,
-          "odds": 1.8,
+          "odds": 1.6,
           "recent": [
             {
               "fin": 14,
@@ -5005,7 +5845,7 @@ window.RACE_DATA = {
           "jockey": "西啓太",
           "trainer": "鈴木義久",
           "horseWeight": 477,
-          "odds": 23.3,
+          "odds": 25.7,
           "recent": [
             {
               "fin": 3,
@@ -5069,7 +5909,7 @@ window.RACE_DATA = {
           "jockey": "鷹見陸",
           "trainer": "久保秀男",
           "horseWeight": 476,
-          "odds": 33.8,
+          "odds": 38.9,
           "recent": [
             {
               "fin": 5,
@@ -5133,7 +5973,7 @@ window.RACE_DATA = {
           "jockey": "新原周馬",
           "trainer": "佐々木仁",
           "horseWeight": 417,
-          "odds": 26.3,
+          "odds": 29.6,
           "recent": [
             {
               "fin": 1,
@@ -5183,7 +6023,7 @@ window.RACE_DATA = {
           "jockey": "所蛍",
           "trainer": "山下貴之",
           "horseWeight": 502,
-          "odds": 18.8,
+          "odds": 22.3,
           "recent": [
             {
               "fin": 6,
@@ -5245,7 +6085,7 @@ window.RACE_DATA = {
           "jockey": "山口達弥",
           "trainer": "渡辺貴光",
           "horseWeight": 450,
-          "odds": 89.8,
+          "odds": 110.8,
           "recent": [
             {
               "fin": 9,
@@ -5309,7 +6149,7 @@ window.RACE_DATA = {
           "jockey": "Ｆ．ゴン",
           "trainer": "高月賢一",
           "horseWeight": 459,
-          "odds": 24.4,
+          "odds": 27.4,
           "recent": [
             {
               "fin": 3,
@@ -5373,7 +6213,7 @@ window.RACE_DATA = {
           "jockey": "濱田達也",
           "trainer": "矢内博",
           "horseWeight": 489,
-          "odds": 70.3,
+          "odds": 82.9,
           "recent": [
             {
               "fin": 6,
@@ -5437,7 +6277,7 @@ window.RACE_DATA = {
           "jockey": "増田充宏",
           "trainer": "佐々木仁",
           "horseWeight": 524,
-          "odds": 54.6,
+          "odds": 67.1,
           "recent": [
             {
               "fin": 10,
@@ -5499,7 +6339,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "高月賢一",
           "horseWeight": 467,
-          "odds": 5.4,
+          "odds": 5.7,
           "recent": [
             {
               "fin": 13,
@@ -5546,7 +6386,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202645101409"
+      "raceId": "202645101409",
+      "oddsUpdatedAt": "18:40"
     },
     {
       "raceNo": 10,
@@ -7378,5 +8219,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202645101412"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "18:40"
 };
