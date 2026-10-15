@@ -5648,7 +5648,7 @@ window.RACE_DATA = {
           "jockey": "渡辺準己",
           "trainer": "森山雄大",
           "horseWeight": null,
-          "odds": 18.0,
+          "odds": 15.1,
           "recent": [
             {
               "fin": 4,
@@ -5714,7 +5714,7 @@ window.RACE_DATA = {
           "jockey": "金山昇馬",
           "trainer": "佐藤英明",
           "horseWeight": null,
-          "odds": 20.2,
+          "odds": 24.1,
           "recent": [
             {
               "fin": 5,
@@ -5780,7 +5780,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 14.4,
+          "odds": 18.4,
           "recent": [
             {
               "fin": 10,
@@ -5842,7 +5842,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 8.6,
+          "odds": 4.4,
           "recent": [
             {
               "fin": 3,
@@ -5906,7 +5906,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 1.2,
+          "odds": 1.4,
           "recent": []
         },
         {
@@ -5919,7 +5919,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 12.1,
+          "odds": 12.3,
           "recent": [
             {
               "fin": 5,
@@ -5967,7 +5967,7 @@ window.RACE_DATA = {
           "jockey": "亀井洋司",
           "trainer": "柳澤好美",
           "horseWeight": null,
-          "odds": 29.6,
+          "odds": 31.5,
           "recent": [
             {
               "fin": 8,
@@ -6031,7 +6031,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "廣森久雄",
           "horseWeight": null,
-          "odds": 29.2,
+          "odds": 28.2,
           "recent": [
             {
               "fin": 2,
@@ -6095,7 +6095,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "柳澤好美",
           "horseWeight": null,
-          "odds": 54.6,
+          "odds": 85.3,
           "recent": [
             {
               "fin": 6,
@@ -6151,7 +6151,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630101511",
-      "oddsUpdatedAt": "19:39"
+      "oddsUpdatedAt": "19:49"
     },
     {
       "raceNo": 12,
@@ -6885,5 +6885,5 @@ window.RACE_DATA = {
       "raceId": "202630101512"
     }
   ],
-  "oddsUpdatedAt": "19:39"
+  "oddsUpdatedAt": "19:49"
 };
