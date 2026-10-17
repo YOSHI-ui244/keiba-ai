@@ -383,7 +383,7 @@ window.RACE_DATA = {
       "name": "C2ー5組",
       "distance": 1300,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "16:25",
       "grade": "サラ系一般 C2",
       "meetingInfo": [
@@ -402,7 +402,7 @@ window.RACE_DATA = {
           "jockey": "出水拓人",
           "trainer": "中川竜馬",
           "horseWeight": null,
-          "odds": null,
+          "odds": 3.8,
           "recent": [
             {
               "fin": 9,
@@ -468,7 +468,7 @@ window.RACE_DATA = {
           "jockey": "長谷川蓮",
           "trainer": "松島壽",
           "horseWeight": null,
-          "odds": null,
+          "odds": 2.8,
           "recent": [
             {
               "fin": 4,
@@ -534,7 +534,7 @@ window.RACE_DATA = {
           "jockey": "田中純",
           "trainer": "矢野久美",
           "horseWeight": null,
-          "odds": null,
+          "odds": 20.9,
           "recent": [
             {
               "fin": 5,
@@ -600,7 +600,7 @@ window.RACE_DATA = {
           "jockey": "長田進仁",
           "trainer": "柳井宏之",
           "horseWeight": null,
-          "odds": null,
+          "odds": 29.1,
           "recent": [
             {
               "fin": 6,
@@ -666,7 +666,7 @@ window.RACE_DATA = {
           "jockey": "田中直人",
           "trainer": "三小田幸",
           "horseWeight": null,
-          "odds": null,
+          "odds": 20.1,
           "recent": [
             {
               "fin": 7,
@@ -732,7 +732,7 @@ window.RACE_DATA = {
           "jockey": "青海大樹",
           "trainer": "中川竜馬",
           "horseWeight": null,
-          "odds": null,
+          "odds": 52.4,
           "recent": [
             {
               "fin": 11,
@@ -794,7 +794,7 @@ window.RACE_DATA = {
           "jockey": "川島拓",
           "trainer": "中川竜馬",
           "horseWeight": null,
-          "odds": null,
+          "odds": 2.1,
           "recent": [
             {
               "fin": 1,
@@ -860,7 +860,7 @@ window.RACE_DATA = {
           "jockey": "小松丈二",
           "trainer": "柳井宏之",
           "horseWeight": null,
-          "odds": null,
+          "odds": 30.8,
           "recent": [
             {
               "fin": 3,
@@ -917,7 +917,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202655101703"
+      "raceId": "202655101703",
+      "oddsUpdatedAt": "16:00"
     },
     {
       "raceNo": 4,
@@ -6870,5 +6871,5 @@ window.RACE_DATA = {
       "raceId": "202655101711"
     }
   ],
-  "oddsUpdatedAt": "15:50"
+  "oddsUpdatedAt": "16:00"
 };
