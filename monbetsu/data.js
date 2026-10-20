@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 1.6,
+          "odds": 2.0,
           "recent": [
             {
               "fin": 5,
@@ -55,7 +55,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 58.8,
+          "odds": 14.8,
           "recent": [
             {
               "fin": 5,
@@ -75,7 +75,7 @@ window.RACE_DATA = {
           "jockey": "小川悠汰",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 80.2,
+          "odds": 89.4,
           "recent": []
         },
         {
@@ -88,7 +88,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": 26.9,
+          "odds": 12.7,
           "recent": []
         },
         {
@@ -101,7 +101,7 @@ window.RACE_DATA = {
           "jockey": "亀井洋司",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 44.6,
+          "odds": 23.8,
           "recent": []
         },
         {
@@ -114,7 +114,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "米川昇",
           "horseWeight": null,
-          "odds": 3.3,
+          "odds": 3.2,
           "recent": [
             {
               "fin": 6,
@@ -136,7 +136,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 31.2,
+          "odds": 28.4,
           "recent": [
             {
               "fin": 6,
@@ -171,12 +171,12 @@ window.RACE_DATA = {
           "jockey": "金山昇馬",
           "trainer": "川島雅人",
           "horseWeight": null,
-          "odds": 80.2,
+          "odds": 92.8,
           "recent": []
         }
       ],
       "raceId": "202630102001",
-      "oddsUpdatedAt": "14:20"
+      "oddsUpdatedAt": "14:27"
     },
     {
       "raceNo": 2,
@@ -6431,5 +6431,5 @@ window.RACE_DATA = {
       "raceId": "202630102012"
     }
   ],
-  "oddsUpdatedAt": "14:20"
+  "oddsUpdatedAt": "14:27"
 };
