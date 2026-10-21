@@ -5159,7 +5159,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": 13.7,
+          "odds": 15.7,
           "recent": [
             {
               "fin": 3,
@@ -5223,7 +5223,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 9.3,
+          "odds": 11.3,
           "recent": [
             {
               "fin": 4,
@@ -5287,7 +5287,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 9.5,
+          "odds": 8.5,
           "recent": [
             {
               "fin": 2,
@@ -5353,7 +5353,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": 3.2,
+          "odds": 3.3,
           "recent": [
             {
               "fin": 3,
@@ -5419,7 +5419,7 @@ window.RACE_DATA = {
           "jockey": "松井伸也",
           "trainer": "黒川智貴",
           "horseWeight": null,
-          "odds": 38.3,
+          "odds": 61.6,
           "recent": [
             {
               "fin": 5,
@@ -5483,7 +5483,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 15.3,
+          "odds": 13.7,
           "recent": [
             {
               "fin": 2,
@@ -5549,7 +5549,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 1.7,
+          "odds": 1.6,
           "recent": [
             {
               "fin": 2,
@@ -5605,7 +5605,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630102111",
-      "oddsUpdatedAt": "19:50"
+      "oddsUpdatedAt": "20:00"
     },
     {
       "raceNo": 12,
@@ -5947,5 +5947,5 @@ window.RACE_DATA = {
       "raceId": "202630102112"
     }
   ],
-  "oddsUpdatedAt": "19:50"
+  "oddsUpdatedAt": "20:00"
 };
