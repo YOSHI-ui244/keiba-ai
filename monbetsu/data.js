@@ -4069,7 +4069,7 @@ window.RACE_DATA = {
       "name": "JRA認定競走ウィナーズチャレンジ9競走(2歳)OP",
       "distance": 1000,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "18:35",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -4088,7 +4088,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": null,
+          "odds": 3.4,
           "recent": []
         },
         {
@@ -4101,7 +4101,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": null,
+          "odds": 7.3,
           "recent": [
             {
               "fin": 5,
@@ -4123,7 +4123,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": null,
+          "odds": 2.4,
           "recent": []
         },
         {
@@ -4136,7 +4136,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "松本隆宏",
           "horseWeight": null,
-          "odds": null,
+          "odds": 4.6,
           "recent": [
             {
               "fin": 7,
@@ -4164,7 +4164,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "松本隆宏",
           "horseWeight": null,
-          "odds": null,
+          "odds": 17.4,
           "recent": [
             {
               "fin": 2,
@@ -4198,7 +4198,7 @@ window.RACE_DATA = {
           "jockey": "金山昇馬",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": null,
+          "odds": 21.7,
           "recent": []
         },
         {
@@ -4211,11 +4211,12 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": null,
+          "odds": 11.2,
           "recent": []
         }
       ],
-      "raceId": "202630102108"
+      "raceId": "202630102108",
+      "oddsUpdatedAt": "18:10"
     },
     {
       "raceNo": 9,
@@ -5535,5 +5536,5 @@ window.RACE_DATA = {
       "raceId": "202630102112"
     }
   ],
-  "oddsUpdatedAt": "18:00"
+  "oddsUpdatedAt": "18:10"
 };
