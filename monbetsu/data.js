@@ -5605,14 +5605,110 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630102111",
-      "oddsUpdatedAt": "20:10"
+      "oddsUpdatedAt": "20:10",
+      "result": {
+        "order": [
+          4,
+          3,
+          7,
+          1,
+          6,
+          5,
+          2
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 310
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 180
+            },
+            {
+              "comb": [
+                3
+              ],
+              "amount": 370
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                3,
+                4
+              ],
+              "amount": 1880
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                3,
+                4
+              ],
+              "amount": 300
+            },
+            {
+              "comb": [
+                4,
+                7
+              ],
+              "amount": 130
+            },
+            {
+              "comb": [
+                3,
+                7
+              ],
+              "amount": 200
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                4,
+                3
+              ],
+              "amount": 2680
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                3,
+                4,
+                7
+              ],
+              "amount": 370
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                4,
+                3,
+                7
+              ],
+              "amount": 3860
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 12,
       "name": "マスタリー賞(A1)",
       "distance": 1700,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "20:50",
       "grade": "サラ系一般 A1",
       "meetingInfo": [
@@ -5631,7 +5727,7 @@ window.RACE_DATA = {
           "jockey": "服部茂史",
           "trainer": "川島雅人",
           "horseWeight": null,
-          "odds": null,
+          "odds": 1.8,
           "recent": [
             {
               "fin": 14,
@@ -5695,7 +5791,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": null,
+          "odds": 4.9,
           "recent": [
             {
               "fin": 2,
@@ -5759,7 +5855,7 @@ window.RACE_DATA = {
           "jockey": "松井伸也",
           "trainer": "千葉津代",
           "horseWeight": null,
-          "odds": null,
+          "odds": 17.8,
           "recent": [
             {
               "fin": 8,
@@ -5825,7 +5921,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "松本隆宏",
           "horseWeight": null,
-          "odds": null,
+          "odds": 14.0,
           "recent": [
             {
               "fin": 1,
@@ -5889,7 +5985,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "佐々木国",
           "horseWeight": null,
-          "odds": null,
+          "odds": 2.6,
           "recent": [
             {
               "fin": 3,
@@ -5944,8 +6040,9 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202630102112"
+      "raceId": "202630102112",
+      "oddsUpdatedAt": "20:30"
     }
   ],
-  "oddsUpdatedAt": "20:10"
+  "oddsUpdatedAt": "20:30"
 };
