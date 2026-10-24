@@ -374,7 +374,7 @@ window.RACE_DATA = {
           "jockey": "青海大樹",
           "trainer": "頼本盛行",
           "horseWeight": null,
-          "odds": 56.9,
+          "odds": 57.4,
           "recent": [
             {
               "fin": 8,
@@ -440,7 +440,7 @@ window.RACE_DATA = {
           "jockey": "田中直人",
           "trainer": "土井道隆",
           "horseWeight": null,
-          "odds": 54.6,
+          "odds": 55.1,
           "recent": [
             {
               "fin": 6,
@@ -504,7 +504,7 @@ window.RACE_DATA = {
           "jockey": "小松丈二",
           "trainer": "柳井宏之",
           "horseWeight": null,
-          "odds": 21.3,
+          "odds": 21.5,
           "recent": [
             {
               "fin": 8,
@@ -570,7 +570,7 @@ window.RACE_DATA = {
           "jockey": "山口勲",
           "trainer": "真島元徳",
           "horseWeight": null,
-          "odds": 1.7,
+          "odds": 1.8,
           "recent": [
             {
               "fin": 9,
@@ -640,7 +640,7 @@ window.RACE_DATA = {
           "jockey": "山下裕貴",
           "trainer": "大垣敏夫",
           "horseWeight": null,
-          "odds": 68.3,
+          "odds": 68.9,
           "recent": [
             {
               "fin": 15,
@@ -666,7 +666,7 @@ window.RACE_DATA = {
           "jockey": "川島拓",
           "trainer": "三小田幸",
           "horseWeight": null,
-          "odds": 29.7,
+          "odds": 25.5,
           "recent": [
             {
               "fin": 11,
@@ -728,7 +728,7 @@ window.RACE_DATA = {
           "jockey": "出水拓人",
           "trainer": "中川竜馬",
           "horseWeight": null,
-          "odds": 37.9,
+          "odds": 37.2,
           "recent": [
             {
               "fin": 10,
@@ -794,7 +794,7 @@ window.RACE_DATA = {
           "jockey": "長田進仁",
           "trainer": "中野博",
           "horseWeight": null,
-          "odds": 91.0,
+          "odds": 91.9,
           "recent": [
             {
               "fin": 8,
@@ -860,7 +860,7 @@ window.RACE_DATA = {
           "jockey": "田中純",
           "trainer": "手島勝利",
           "horseWeight": null,
-          "odds": 56.9,
+          "odds": 45.9,
           "recent": [
             {
               "fin": 3,
@@ -918,7 +918,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202655102402",
-      "oddsUpdatedAt": "15:09"
+      "oddsUpdatedAt": "15:10"
     },
     {
       "raceNo": 3,
@@ -7405,5 +7405,5 @@ window.RACE_DATA = {
       "raceId": "202655102412"
     }
   ],
-  "oddsUpdatedAt": "15:09"
+  "oddsUpdatedAt": "15:10"
 };
