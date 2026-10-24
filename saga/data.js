@@ -201,7 +201,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202655102401",
-      "oddsUpdatedAt": "14:29"
+      "oddsUpdatedAt": "14:30"
     },
     {
       "raceNo": 2,
@@ -7301,5 +7301,5 @@ window.RACE_DATA = {
       "raceId": "202655102412"
     }
   ],
-  "oddsUpdatedAt": "14:29"
+  "oddsUpdatedAt": "14:30"
 };
