@@ -5503,7 +5503,7 @@ window.RACE_DATA = {
           "jockey": "竹吉徹",
           "trainer": "中野博",
           "horseWeight": 537,
-          "odds": 47.3,
+          "odds": 61.8,
           "recent": [
             {
               "fin": 8,
@@ -5565,7 +5565,7 @@ window.RACE_DATA = {
           "jockey": "長谷川蓮",
           "trainer": "東眞市",
           "horseWeight": 487,
-          "odds": 8.9,
+          "odds": 6.2,
           "recent": [
             {
               "fin": 3,
@@ -5631,7 +5631,7 @@ window.RACE_DATA = {
           "jockey": "出水拓人",
           "trainer": "真島二也",
           "horseWeight": 492,
-          "odds": 11.9,
+          "odds": 18.4,
           "recent": [
             {
               "fin": 5,
@@ -5697,7 +5697,7 @@ window.RACE_DATA = {
           "jockey": "山口勲",
           "trainer": "北村欣也",
           "horseWeight": 457,
-          "odds": 2.0,
+          "odds": 1.7,
           "recent": [
             {
               "fin": 1,
@@ -5763,7 +5763,7 @@ window.RACE_DATA = {
           "jockey": "山下裕貴",
           "trainer": "鮫島克也",
           "horseWeight": 467,
-          "odds": 7.2,
+          "odds": 6.8,
           "recent": [
             {
               "fin": 6,
@@ -5829,7 +5829,7 @@ window.RACE_DATA = {
           "jockey": "石川慎将",
           "trainer": "真島元徳",
           "horseWeight": 464,
-          "odds": 27.1,
+          "odds": 29.2,
           "recent": [
             {
               "fin": 8,
@@ -5893,7 +5893,7 @@ window.RACE_DATA = {
           "jockey": "長田進仁",
           "trainer": "鮫島克也",
           "horseWeight": 470,
-          "odds": 2.7,
+          "odds": 3.9,
           "recent": [
             {
               "fin": 3,
@@ -5949,7 +5949,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202655102509",
-      "oddsUpdatedAt": "19:54"
+      "oddsUpdatedAt": "20:04"
     },
     {
       "raceNo": 10,
@@ -6681,5 +6681,5 @@ window.RACE_DATA = {
       "raceId": "202655102510"
     }
   ],
-  "oddsUpdatedAt": "19:54"
+  "oddsUpdatedAt": "20:04"
 };
