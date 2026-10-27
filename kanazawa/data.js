@@ -639,7 +639,7 @@ window.RACE_DATA = {
           "jockey": "中島龍也",
           "trainer": "井樋一也",
           "horseWeight": null,
-          "odds": 8.7,
+          "odds": 8.4,
           "recent": [
             {
               "fin": 12,
@@ -683,7 +683,7 @@ window.RACE_DATA = {
           "jockey": "吉原寛人",
           "trainer": "金田一昌",
           "horseWeight": null,
-          "odds": 2.7,
+          "odds": 2.6,
           "recent": [
             {
               "fin": 15,
@@ -715,7 +715,7 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "堀場裕充",
           "horseWeight": null,
-          "odds": 1.9,
+          "odds": 1.8,
           "recent": [
             {
               "fin": 8,
@@ -759,7 +759,7 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "菅原欣也",
           "horseWeight": null,
-          "odds": 53.0,
+          "odds": 60.3,
           "recent": [
             {
               "fin": 7,
@@ -823,7 +823,7 @@ window.RACE_DATA = {
           "jockey": "浅野登生",
           "trainer": "高橋優子",
           "horseWeight": null,
-          "odds": 41.6,
+          "odds": 47.4,
           "recent": [
             {
               "fin": 7,
@@ -889,7 +889,7 @@ window.RACE_DATA = {
           "jockey": "松戸政也",
           "trainer": "吉井一良",
           "horseWeight": null,
-          "odds": 11.2,
+          "odds": 12.7,
           "recent": [
             {
               "fin": 10,
@@ -955,7 +955,7 @@ window.RACE_DATA = {
           "jockey": "兼子千央",
           "trainer": "川添明弘",
           "horseWeight": null,
-          "odds": 30.6,
+          "odds": 34.9,
           "recent": [
             {
               "fin": 10,
@@ -1057,7 +1057,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646102702",
-      "oddsUpdatedAt": "12:50"
+      "oddsUpdatedAt": "12:51"
     },
     {
       "raceNo": 3,
@@ -5973,5 +5973,5 @@ window.RACE_DATA = {
       "raceId": "202646102711"
     }
   ],
-  "oddsUpdatedAt": "12:50"
+  "oddsUpdatedAt": "12:51"
 };
