@@ -3708,7 +3708,7 @@ window.RACE_DATA = {
           "jockey": "遠藤汰月",
           "trainer": "宗形竹見",
           "horseWeight": null,
-          "odds": 6.9,
+          "odds": 6.7,
           "recent": [
             {
               "fin": 14,
@@ -3752,7 +3752,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "高野毅",
           "horseWeight": null,
-          "odds": 25.7,
+          "odds": 37.1,
           "recent": [
             {
               "fin": 3,
@@ -3816,7 +3816,7 @@ window.RACE_DATA = {
           "jockey": "小野俊斗",
           "trainer": "渡辺和雄",
           "horseWeight": null,
-          "odds": 33.3,
+          "odds": 34.5,
           "recent": [
             {
               "fin": 6,
@@ -3878,7 +3878,7 @@ window.RACE_DATA = {
           "jockey": "杉山海波",
           "trainer": "佐野謙二",
           "horseWeight": null,
-          "odds": 10.0,
+          "odds": 11.3,
           "recent": [
             {
               "fin": 5,
@@ -3928,7 +3928,7 @@ window.RACE_DATA = {
           "jockey": "谷内貫太",
           "trainer": "渡辺和雄",
           "horseWeight": null,
-          "odds": 47.6,
+          "odds": 44.9,
           "recent": [
             {
               "fin": 11,
@@ -3990,7 +3990,7 @@ window.RACE_DATA = {
           "jockey": "小林美駒",
           "trainer": "渡辺和雄",
           "horseWeight": null,
-          "odds": 7.1,
+          "odds": 10.4,
           "recent": [
             {
               "fin": 15,
@@ -4054,7 +4054,7 @@ window.RACE_DATA = {
           "jockey": "土田真翔",
           "trainer": "高野毅",
           "horseWeight": null,
-          "odds": 9.0,
+          "odds": 8.0,
           "recent": [
             {
               "fin": 1,
@@ -4118,7 +4118,7 @@ window.RACE_DATA = {
           "jockey": "上里直汰",
           "trainer": "遠藤茂",
           "horseWeight": null,
-          "odds": 14.6,
+          "odds": 16.4,
           "recent": [
             {
               "fin": 8,
@@ -4180,7 +4180,7 @@ window.RACE_DATA = {
           "jockey": "高橋優",
           "trainer": "渡辺和雄",
           "horseWeight": null,
-          "odds": 11.1,
+          "odds": 13.3,
           "recent": [
             {
               "fin": 3,
@@ -4244,7 +4244,7 @@ window.RACE_DATA = {
           "jockey": "佐藤翔馬",
           "trainer": "鷹見浩",
           "horseWeight": null,
-          "odds": 6.1,
+          "odds": 5.2,
           "recent": [
             {
               "fin": 2,
@@ -4310,7 +4310,7 @@ window.RACE_DATA = {
           "jockey": "所蛍",
           "trainer": "月岡健二",
           "horseWeight": null,
-          "odds": 5.0,
+          "odds": 4.0,
           "recent": [
             {
               "fin": 6,
@@ -4376,7 +4376,7 @@ window.RACE_DATA = {
           "jockey": "水沼元輝",
           "trainer": "市村誠",
           "horseWeight": null,
-          "odds": 24.9,
+          "odds": 27.0,
           "recent": [
             {
               "fin": 11,
@@ -4440,7 +4440,7 @@ window.RACE_DATA = {
           "jockey": "渡辺準己",
           "trainer": "市村誠",
           "horseWeight": null,
-          "odds": 69.1,
+          "odds": 94.3,
           "recent": [
             {
               "fin": 11,
@@ -4502,7 +4502,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "栗田裕光",
           "horseWeight": null,
-          "odds": 10.6,
+          "odds": 10.8,
           "recent": [
             {
               "fin": 7,
@@ -4550,7 +4550,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202644102708",
-      "oddsUpdatedAt": "18:10"
+      "oddsUpdatedAt": "18:20"
     },
     {
       "raceNo": 9,
@@ -7873,5 +7873,5 @@ window.RACE_DATA = {
       "raceId": "202644102712"
     }
   ],
-  "oddsUpdatedAt": "18:10"
+  "oddsUpdatedAt": "18:20"
 };
