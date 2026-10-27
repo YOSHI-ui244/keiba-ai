@@ -557,7 +557,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 8.2,
+          "odds": 21.3,
           "recent": []
         },
         {
@@ -570,7 +570,7 @@ window.RACE_DATA = {
           "jockey": "松井伸也",
           "trainer": "山田和久",
           "horseWeight": null,
-          "odds": 43.4,
+          "odds": 34.7,
           "recent": []
         },
         {
@@ -583,7 +583,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "千葉津代",
           "horseWeight": null,
-          "odds": 9.5,
+          "odds": 12.9,
           "recent": []
         },
         {
@@ -596,7 +596,7 @@ window.RACE_DATA = {
           "jockey": "亀井洋司",
           "trainer": "櫻井拓章",
           "horseWeight": null,
-          "odds": 21.7,
+          "odds": 16.9,
           "recent": []
         },
         {
@@ -609,7 +609,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 18.4,
+          "odds": 48.8,
           "recent": []
         },
         {
@@ -622,7 +622,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "米川昇",
           "horseWeight": null,
-          "odds": 1.8,
+          "odds": 1.5,
           "recent": [
             {
               "fin": 2,
@@ -656,7 +656,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "川島雅人",
           "horseWeight": null,
-          "odds": 9.8,
+          "odds": 7.0,
           "recent": []
         },
         {
@@ -669,12 +669,12 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "松本隆宏",
           "horseWeight": null,
-          "odds": 4.1,
+          "odds": 4.4,
           "recent": []
         }
       ],
       "raceId": "202630102703",
-      "oddsUpdatedAt": "15:10"
+      "oddsUpdatedAt": "15:20"
     },
     {
       "raceNo": 4,
@@ -6020,5 +6020,5 @@ window.RACE_DATA = {
       "raceId": "202630102712"
     }
   ],
-  "oddsUpdatedAt": "15:10"
+  "oddsUpdatedAt": "15:20"
 };
