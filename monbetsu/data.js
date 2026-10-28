@@ -4096,7 +4096,7 @@ window.RACE_DATA = {
           "jockey": "桑村真明",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 51.8,
+          "odds": 35.7,
           "recent": [
             {
               "fin": 7,
@@ -4160,7 +4160,7 @@ window.RACE_DATA = {
           "jockey": "黒澤愛斗",
           "trainer": "森山雄大",
           "horseWeight": null,
-          "odds": 81.2,
+          "odds": 72.3,
           "recent": [
             {
               "fin": 12,
@@ -4222,7 +4222,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌駕",
           "trainer": "秋田大助",
           "horseWeight": null,
-          "odds": 147.4,
+          "odds": 107.9,
           "recent": [
             {
               "fin": 9,
@@ -4286,7 +4286,7 @@ window.RACE_DATA = {
           "jockey": "小川悠汰",
           "trainer": "松本隆宏",
           "horseWeight": null,
-          "odds": 57.1,
+          "odds": 45.1,
           "recent": [
             {
               "fin": 16,
@@ -4348,7 +4348,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "米川昇",
           "horseWeight": null,
-          "odds": 19.5,
+          "odds": 11.0,
           "recent": [
             {
               "fin": 6,
@@ -4414,7 +4414,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "川島洋人",
           "horseWeight": null,
-          "odds": 61.5,
+          "odds": 40.1,
           "recent": [
             {
               "fin": 4,
@@ -4530,7 +4530,7 @@ window.RACE_DATA = {
           "jockey": "松井伸也",
           "trainer": "櫻井拓章",
           "horseWeight": null,
-          "odds": 53.8,
+          "odds": 47.0,
           "recent": [
             {
               "fin": 9,
@@ -4594,7 +4594,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "小野望",
           "horseWeight": null,
-          "odds": 11.6,
+          "odds": 8.9,
           "recent": []
         },
         {
@@ -4607,7 +4607,7 @@ window.RACE_DATA = {
           "jockey": "岩橋勇二",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 101.8,
+          "odds": 74.8,
           "recent": [
             {
               "fin": 11,
@@ -4661,7 +4661,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630102809",
-      "oddsUpdatedAt": "18:20"
+      "oddsUpdatedAt": "18:30"
     },
     {
       "raceNo": 10,
@@ -6759,5 +6759,5 @@ window.RACE_DATA = {
       "raceId": "202630102812"
     }
   ],
-  "oddsUpdatedAt": "18:20"
+  "oddsUpdatedAt": "18:30"
 };
