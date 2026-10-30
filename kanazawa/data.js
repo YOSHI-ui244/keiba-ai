@@ -3332,7 +3332,7 @@ window.RACE_DATA = {
           "jockey": "浅野登生",
           "trainer": "宗綱泰彦",
           "horseWeight": null,
-          "odds": 78.4,
+          "odds": 130.9,
           "recent": [
             {
               "fin": 10,
@@ -3398,7 +3398,7 @@ window.RACE_DATA = {
           "jockey": "魚住謙心",
           "trainer": "堀場裕充",
           "horseWeight": null,
-          "odds": 32.1,
+          "odds": 49.1,
           "recent": [
             {
               "fin": 5,
@@ -3464,7 +3464,7 @@ window.RACE_DATA = {
           "jockey": "平瀬城久",
           "trainer": "池田敦",
           "horseWeight": null,
-          "odds": 22.7,
+          "odds": 56.1,
           "recent": [
             {
               "fin": 6,
@@ -3530,7 +3530,7 @@ window.RACE_DATA = {
           "jockey": "吉田晃浩",
           "trainer": "佐藤茂",
           "horseWeight": null,
-          "odds": 64.2,
+          "odds": 114.5,
           "recent": [
             {
               "fin": 13,
@@ -3594,7 +3594,7 @@ window.RACE_DATA = {
           "jockey": "服部大地",
           "trainer": "川添明弘",
           "horseWeight": null,
-          "odds": 100.9,
+          "odds": 171.8,
           "recent": [
             {
               "fin": 7,
@@ -3720,7 +3720,7 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "堀場裕充",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 5.5,
           "recent": [
             {
               "fin": 9,
@@ -3780,7 +3780,7 @@ window.RACE_DATA = {
           "jockey": "柴田勇真",
           "trainer": "田嶋弘幸",
           "horseWeight": null,
-          "odds": 28.2,
+          "odds": 67.0,
           "recent": [
             {
               "fin": 1,
@@ -3838,7 +3838,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646103006",
-      "oddsUpdatedAt": "15:12"
+      "oddsUpdatedAt": "15:20"
     },
     {
       "raceNo": 7,
@@ -6566,5 +6566,5 @@ window.RACE_DATA = {
       "raceId": "202646103011"
     }
   ],
-  "oddsUpdatedAt": "15:12"
+  "oddsUpdatedAt": "15:20"
 };
