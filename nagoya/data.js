@@ -4536,7 +4536,105 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202648103006",
-      "oddsUpdatedAt": "15:10"
+      "oddsUpdatedAt": "15:10",
+      "result": {
+        "order": [
+          10,
+          3,
+          6
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                10
+              ],
+              "amount": 220
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                10
+              ],
+              "amount": 130
+            },
+            {
+              "comb": [
+                3
+              ],
+              "amount": 140
+            },
+            {
+              "comb": [
+                6
+              ],
+              "amount": 170
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                3,
+                10
+              ],
+              "amount": 390
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                3,
+                10
+              ],
+              "amount": 220
+            },
+            {
+              "comb": [
+                6,
+                10
+              ],
+              "amount": 370
+            },
+            {
+              "comb": [
+                3,
+                6
+              ],
+              "amount": 620
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                10,
+                3
+              ],
+              "amount": 730
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                3,
+                6,
+                10
+              ],
+              "amount": 1530
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                10,
+                3,
+                6
+              ],
+              "amount": 4820
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 7,
@@ -4562,7 +4660,7 @@ window.RACE_DATA = {
           "jockey": "小笠原羚",
           "trainer": "井上哲",
           "horseWeight": null,
-          "odds": 41.0,
+          "odds": 43.1,
           "recent": [
             {
               "fin": 9,
@@ -4628,7 +4726,7 @@ window.RACE_DATA = {
           "jockey": "今井貴大",
           "trainer": "宇都英樹",
           "horseWeight": null,
-          "odds": 2.5,
+          "odds": 2.2,
           "recent": [
             {
               "fin": 1,
@@ -4694,7 +4792,7 @@ window.RACE_DATA = {
           "jockey": "明星晴大",
           "trainer": "迫田清美",
           "horseWeight": null,
-          "odds": 47.7,
+          "odds": 48.0,
           "recent": [
             {
               "fin": 5,
@@ -4760,7 +4858,7 @@ window.RACE_DATA = {
           "jockey": "細川智史",
           "trainer": "角田輝也",
           "horseWeight": null,
-          "odds": 5.5,
+          "odds": 5.2,
           "recent": [
             {
               "fin": 18,
@@ -4886,7 +4984,7 @@ window.RACE_DATA = {
           "jockey": "大畑雅章",
           "trainer": "角田輝也",
           "horseWeight": null,
-          "odds": 14.6,
+          "odds": 14.3,
           "recent": [
             {
               "fin": 6,
@@ -4952,7 +5050,7 @@ window.RACE_DATA = {
           "jockey": "木之前葵",
           "trainer": "植松則幸",
           "horseWeight": null,
-          "odds": 16.0,
+          "odds": 18.0,
           "recent": [
             {
               "fin": 3,
@@ -5018,7 +5116,7 @@ window.RACE_DATA = {
           "jockey": "村上弘樹",
           "trainer": "藤ヶ崎一",
           "horseWeight": null,
-          "odds": 1.9,
+          "odds": 2.2,
           "recent": [
             {
               "fin": 1,
@@ -5072,7 +5170,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202648103007",
-      "oddsUpdatedAt": "15:20"
+      "oddsUpdatedAt": "15:22"
     },
     {
       "raceNo": 8,
@@ -8406,5 +8504,5 @@ window.RACE_DATA = {
       "raceId": "202648103012"
     }
   ],
-  "oddsUpdatedAt": "15:20"
+  "oddsUpdatedAt": "15:22"
 };
