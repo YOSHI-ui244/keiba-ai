@@ -2080,7 +2080,7 @@ window.RACE_DATA = {
       "name": "ねり丸15周年記念賞(2歳)",
       "distance": 1200,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "16:07",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -2099,7 +2099,7 @@ window.RACE_DATA = {
           "jockey": "安藤洋一",
           "trainer": "小野寺晋",
           "horseWeight": null,
-          "odds": 9.4,
+          "odds": 13.4,
           "recent": [
             {
               "fin": 2,
@@ -2121,7 +2121,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "栗田泰昌",
           "horseWeight": null,
-          "odds": 14.9,
+          "odds": 42.7,
           "recent": []
         },
         {
@@ -2134,7 +2134,7 @@ window.RACE_DATA = {
           "jockey": "鷹見陸",
           "trainer": "村上頼章",
           "horseWeight": null,
-          "odds": 21.5,
+          "odds": 17.2,
           "recent": []
         },
         {
@@ -2147,7 +2147,7 @@ window.RACE_DATA = {
           "jockey": "藤本現暉",
           "trainer": "鷹見浩",
           "horseWeight": null,
-          "odds": 3.1,
+          "odds": 13.5,
           "recent": []
         },
         {
@@ -2160,7 +2160,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "栗田泰昌",
           "horseWeight": null,
-          "odds": 22.2,
+          "odds": 27.2,
           "recent": []
         },
         {
@@ -2173,7 +2173,7 @@ window.RACE_DATA = {
           "jockey": "藤田凌",
           "trainer": "中道啓二",
           "horseWeight": null,
-          "odds": 4.3,
+          "odds": 17.3,
           "recent": [
             {
               "fin": 3,
@@ -2195,7 +2195,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "荒山勝徳",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 1.1,
           "recent": [
             {
               "fin": 1,
@@ -2215,7 +2215,7 @@ window.RACE_DATA = {
           "jockey": "櫻井光輔",
           "trainer": "高岩孝敏",
           "horseWeight": null,
-          "odds": 175.0,
+          "odds": 42.0,
           "recent": []
         },
         {
@@ -2228,11 +2228,12 @@ window.RACE_DATA = {
           "jockey": "吉井章",
           "trainer": "荒井朋弘",
           "horseWeight": null,
-          "odds": 56.8,
+          "odds": 37.1,
           "recent": []
         }
       ],
-      "raceId": "202644103004"
+      "raceId": "202644103004",
+      "oddsUpdatedAt": "15:42"
     },
     {
       "raceNo": 5,
@@ -7943,5 +7944,5 @@ window.RACE_DATA = {
       "raceId": "202644103012"
     }
   ],
-  "oddsUpdatedAt": "15:32"
+  "oddsUpdatedAt": "15:42"
 };
