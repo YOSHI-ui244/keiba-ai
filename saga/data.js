@@ -2172,7 +2172,7 @@ window.RACE_DATA = {
           "jockey": "石川慎将",
           "trainer": "真島二也",
           "horseWeight": null,
-          "odds": 16.3,
+          "odds": 14.0,
           "recent": [
             {
               "fin": 3,
@@ -2236,7 +2236,7 @@ window.RACE_DATA = {
           "jockey": "竹吉徹",
           "trainer": "池田忠好",
           "horseWeight": null,
-          "odds": 38.1,
+          "odds": 30.5,
           "recent": [
             {
               "fin": 4,
@@ -2302,7 +2302,7 @@ window.RACE_DATA = {
           "jockey": "山下裕貴",
           "trainer": "東眞市",
           "horseWeight": null,
-          "odds": 9.0,
+          "odds": 7.3,
           "recent": [
             {
               "fin": 10,
@@ -2364,7 +2364,7 @@ window.RACE_DATA = {
           "jockey": "飛田愛斗",
           "trainer": "池田忠好",
           "horseWeight": null,
-          "odds": 11.9,
+          "odds": 12.8,
           "recent": [
             {
               "fin": 7,
@@ -2430,7 +2430,7 @@ window.RACE_DATA = {
           "jockey": "中山蓮王",
           "trainer": "平山宏秀",
           "horseWeight": null,
-          "odds": 51.2,
+          "odds": 52.9,
           "recent": [
             {
               "fin": 5,
@@ -2496,7 +2496,7 @@ window.RACE_DATA = {
           "jockey": "長谷川蓮",
           "trainer": "真島元徳",
           "horseWeight": null,
-          "odds": 1.2,
+          "odds": 1.3,
           "recent": [
             {
               "fin": 2,
@@ -2562,7 +2562,7 @@ window.RACE_DATA = {
           "jockey": "山口勲",
           "trainer": "東眞市",
           "horseWeight": null,
-          "odds": 6.1,
+          "odds": 5.5,
           "recent": [
             {
               "fin": 4,
@@ -2620,7 +2620,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202655103105",
-      "oddsUpdatedAt": "16:40"
+      "oddsUpdatedAt": "16:50"
     },
     {
       "raceNo": 6,
@@ -7874,5 +7874,5 @@ window.RACE_DATA = {
       "raceId": "202655103112"
     }
   ],
-  "oddsUpdatedAt": "16:40"
+  "oddsUpdatedAt": "16:50"
 };
