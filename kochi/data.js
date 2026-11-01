@@ -234,7 +234,7 @@ window.RACE_DATA = {
           "jockey": "木村直輝",
           "trainer": "国澤輝幸",
           "horseWeight": null,
-          "odds": 16.9,
+          "odds": 15.1,
           "recent": []
         },
         {
@@ -247,7 +247,7 @@ window.RACE_DATA = {
           "jockey": "郷間勇太",
           "trainer": "宮川浩一",
           "horseWeight": null,
-          "odds": 2.9,
+          "odds": 3.1,
           "recent": []
         },
         {
@@ -260,7 +260,7 @@ window.RACE_DATA = {
           "jockey": "多田羅誠",
           "trainer": "工藤真司",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 3.7,
           "recent": []
         },
         {
@@ -273,7 +273,7 @@ window.RACE_DATA = {
           "jockey": "山崎雅由",
           "trainer": "西山裕貴",
           "horseWeight": null,
-          "odds": 26.1,
+          "odds": 22.0,
           "recent": []
         },
         {
@@ -286,7 +286,7 @@ window.RACE_DATA = {
           "jockey": "岡遼太郎",
           "trainer": "中西達也",
           "horseWeight": null,
-          "odds": 7.3,
+          "odds": 4.4,
           "recent": []
         },
         {
@@ -299,7 +299,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "宮川浩一",
           "horseWeight": null,
-          "odds": 2.8,
+          "odds": 4.4,
           "recent": []
         },
         {
@@ -312,7 +312,7 @@ window.RACE_DATA = {
           "jockey": "井上瑛太",
           "trainer": "別府真司",
           "horseWeight": null,
-          "odds": 18.9,
+          "odds": 14.4,
           "recent": []
         },
         {
@@ -325,12 +325,12 @@ window.RACE_DATA = {
           "jockey": "上田将司",
           "trainer": "田中伸一",
           "horseWeight": null,
-          "odds": 44.7,
+          "odds": 29.4,
           "recent": []
         }
       ],
       "raceId": "202654110102",
-      "oddsUpdatedAt": "15:10"
+      "oddsUpdatedAt": "15:20"
     },
     {
       "raceNo": 3,
@@ -6879,5 +6879,5 @@ window.RACE_DATA = {
       "raceId": "202654110112"
     }
   ],
-  "oddsUpdatedAt": "15:10"
+  "oddsUpdatedAt": "15:20"
 };
