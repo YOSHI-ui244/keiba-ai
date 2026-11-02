@@ -550,7 +550,7 @@ window.RACE_DATA = {
       "name": "船橋デビュー馬限定未勝利選抜馬(2歳)",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "15:45",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -569,7 +569,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "山本学",
           "horseWeight": null,
-          "odds": 2.8,
+          "odds": 5.3,
           "recent": []
         },
         {
@@ -582,7 +582,7 @@ window.RACE_DATA = {
           "jockey": "山中悠希",
           "trainer": "田中力",
           "horseWeight": null,
-          "odds": 4.2,
+          "odds": 10.4,
           "recent": []
         },
         {
@@ -595,7 +595,7 @@ window.RACE_DATA = {
           "jockey": "野畑凌",
           "trainer": "山中尊徳",
           "horseWeight": null,
-          "odds": 9.2,
+          "odds": 25.4,
           "recent": []
         },
         {
@@ -608,7 +608,7 @@ window.RACE_DATA = {
           "jockey": "庄司大輔",
           "trainer": "阿井正雄",
           "horseWeight": null,
-          "odds": 67.9,
+          "odds": 44.5,
           "recent": [
             {
               "fin": 7,
@@ -636,7 +636,7 @@ window.RACE_DATA = {
           "jockey": "木間塚龍",
           "trainer": "大津剛",
           "horseWeight": null,
-          "odds": 5.2,
+          "odds": 1.3,
           "recent": [
             {
               "fin": 4,
@@ -664,7 +664,7 @@ window.RACE_DATA = {
           "jockey": "西村栄喜",
           "trainer": "渋谷信博",
           "horseWeight": null,
-          "odds": 4.1,
+          "odds": 7.6,
           "recent": []
         },
         {
@@ -677,11 +677,12 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "矢野義幸",
           "horseWeight": null,
-          "odds": 9.7,
+          "odds": 21.8,
           "recent": []
         }
       ],
-      "raceId": "202643110203"
+      "raceId": "202643110203",
+      "oddsUpdatedAt": "15:20"
     },
     {
       "raceNo": 4,
@@ -6515,5 +6516,5 @@ window.RACE_DATA = {
       "raceId": "202643110212"
     }
   ],
-  "oddsUpdatedAt": "15:10"
+  "oddsUpdatedAt": "15:20"
 };
