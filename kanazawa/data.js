@@ -3379,7 +3379,7 @@ window.RACE_DATA = {
       "name": "輪島塗漆芸の聖地プロジェクトスタート賞(B2)",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "重",
+      "condition": "稍",
       "startTime": "13:10",
       "grade": "サラ系一般 B2",
       "meetingInfo": [
@@ -3398,7 +3398,7 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "鈴木正也",
           "horseWeight": null,
-          "odds": 10.1,
+          "odds": 12.8,
           "recent": [
             {
               "fin": 2,
@@ -3460,7 +3460,7 @@ window.RACE_DATA = {
           "jockey": "柴田勇真",
           "trainer": "金田一昌",
           "horseWeight": null,
-          "odds": 7.9,
+          "odds": 6.1,
           "recent": [
             {
               "fin": 4,
@@ -3522,7 +3522,7 @@ window.RACE_DATA = {
           "jockey": "沖静男",
           "trainer": "加藤和宏",
           "horseWeight": null,
-          "odds": 76.6,
+          "odds": 68.9,
           "recent": [
             {
               "fin": 10,
@@ -3588,7 +3588,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "佐藤茂",
           "horseWeight": null,
-          "odds": 6.3,
+          "odds": 6.8,
           "recent": [
             {
               "fin": 5,
@@ -3652,7 +3652,7 @@ window.RACE_DATA = {
           "jockey": "米倉知",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 2.8,
+          "odds": 2.9,
           "recent": [
             {
               "fin": 11,
@@ -3714,7 +3714,7 @@ window.RACE_DATA = {
           "jockey": "甲賀弘隆",
           "trainer": "加藤和義",
           "horseWeight": null,
-          "odds": 21.8,
+          "odds": 24.2,
           "recent": [
             {
               "fin": 8,
@@ -3776,7 +3776,7 @@ window.RACE_DATA = {
           "jockey": "筒井勇介",
           "trainer": "佐藤茂",
           "horseWeight": null,
-          "odds": 30.9,
+          "odds": 40.8,
           "recent": [
             {
               "fin": 1,
@@ -3842,7 +3842,7 @@ window.RACE_DATA = {
           "jockey": "望月洵輝",
           "trainer": "井樋一也",
           "horseWeight": null,
-          "odds": 19.9,
+          "odds": 17.5,
           "recent": [
             {
               "fin": 3,
@@ -3908,7 +3908,7 @@ window.RACE_DATA = {
           "jockey": "吉田晃浩",
           "trainer": "佐藤茂",
           "horseWeight": null,
-          "odds": 10.1,
+          "odds": 12.0,
           "recent": [
             {
               "fin": 10,
@@ -3958,7 +3958,7 @@ window.RACE_DATA = {
           "jockey": "加藤翔馬",
           "trainer": "金田一昌",
           "horseWeight": null,
-          "odds": 3.6,
+          "odds": 3.3,
           "recent": [
             {
               "fin": 8,
@@ -4006,7 +4006,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646110305",
-      "oddsUpdatedAt": "12:50"
+      "oddsUpdatedAt": "13:00"
     },
     {
       "raceNo": 6,
@@ -8844,5 +8844,5 @@ window.RACE_DATA = {
       "raceId": "202646110312"
     }
   ],
-  "oddsUpdatedAt": "12:50"
+  "oddsUpdatedAt": "13:00"
 };
