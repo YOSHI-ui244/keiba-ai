@@ -1348,7 +1348,7 @@ window.RACE_DATA = {
           "jockey": "小野楓馬",
           "trainer": "斉藤正弘",
           "horseWeight": null,
-          "odds": 2.6,
+          "odds": 2.9,
           "recent": [
             {
               "fin": 13,
@@ -1410,7 +1410,7 @@ window.RACE_DATA = {
           "jockey": "落合玄太",
           "trainer": "田中淳司",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 2.8,
           "recent": []
         },
         {
@@ -1423,7 +1423,7 @@ window.RACE_DATA = {
           "jockey": "松井伸也",
           "trainer": "黒川智貴",
           "horseWeight": null,
-          "odds": 15.6,
+          "odds": 9.7,
           "recent": [
             {
               "fin": 8,
@@ -1487,7 +1487,7 @@ window.RACE_DATA = {
           "jockey": "亀井洋司",
           "trainer": "柳澤好美",
           "horseWeight": null,
-          "odds": 13.8,
+          "odds": 21.8,
           "recent": [
             {
               "fin": 11,
@@ -1553,7 +1553,7 @@ window.RACE_DATA = {
           "jockey": "坂下秀樹",
           "trainer": "岡島玉一",
           "horseWeight": null,
-          "odds": 63.0,
+          "odds": 127.9,
           "recent": [
             {
               "fin": 8,
@@ -1617,7 +1617,7 @@ window.RACE_DATA = {
           "jockey": "阿部龍",
           "trainer": "角川秀樹",
           "horseWeight": null,
-          "odds": 11.7,
+          "odds": 13.2,
           "recent": [
             {
               "fin": 2,
@@ -1745,7 +1745,7 @@ window.RACE_DATA = {
           "jockey": "石川倭",
           "trainer": "小国博行",
           "horseWeight": null,
-          "odds": 6.6,
+          "odds": 6.9,
           "recent": [
             {
               "fin": 2,
@@ -1809,7 +1809,7 @@ window.RACE_DATA = {
           "jockey": "金山昇馬",
           "trainer": "桧森邦夫",
           "horseWeight": null,
-          "odds": 29.3,
+          "odds": 35.8,
           "recent": [
             {
               "fin": 8,
@@ -1873,7 +1873,7 @@ window.RACE_DATA = {
           "jockey": "宮内勇樹",
           "trainer": "村上正和",
           "horseWeight": null,
-          "odds": 7.1,
+          "odds": 10.0,
           "recent": [
             {
               "fin": 5,
@@ -1929,7 +1929,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630110304",
-      "oddsUpdatedAt": "12:00"
+      "oddsUpdatedAt": "12:10"
     },
     {
       "raceNo": 5,
@@ -6576,5 +6576,5 @@ window.RACE_DATA = {
       "raceId": "202630110312"
     }
   ],
-  "oddsUpdatedAt": "12:00"
+  "oddsUpdatedAt": "12:10"
 };
