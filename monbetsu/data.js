@@ -5372,7 +5372,22 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202630110309",
-      "oddsUpdatedAt": "15:30"
+      "oddsUpdatedAt": "15:30",
+      "result": {
+        "order": [
+          1
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 250
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 10,
@@ -7077,5 +7092,5 @@ window.RACE_DATA = {
       "raceId": "202630110312"
     }
   ],
-  "oddsUpdatedAt": "15:30"
+  "oddsUpdatedAt": "15:50"
 };
