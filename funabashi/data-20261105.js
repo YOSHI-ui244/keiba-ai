@@ -1,10 +1,10 @@
 // このファイルは fetch_data.py により自動生成されています
-// 取得日時: 2026-11-04 20:57
+// 取得日時: 2026-11-04 20:58
 window.RACE_DATA = {
   "venue": "船橋競馬場",
   "date": "2026年11月5日(木)",
   "meeting": "第8回 船橋開催 4日目",
-  "fetchedAt": "2026-11-04 20:57",
+  "fetchedAt": "2026-11-04 20:58",
   "source": "netkeiba",
   "isArchive": false,
   "isPreview": true,

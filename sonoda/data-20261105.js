@@ -1,10 +1,10 @@
 // このファイルは fetch_data.py により自動生成されています
-// 取得日時: 2026-11-04 20:58
+// 取得日時: 2026-11-04 20:59
 window.RACE_DATA = {
   "venue": "園田競馬場",
   "date": "2026年11月5日(木)",
   "meeting": "第17回 園田開催 5日目",
-  "fetchedAt": "2026-11-04 20:58",
+  "fetchedAt": "2026-11-04 20:59",
   "source": "netkeiba",
   "isArchive": false,
   "isPreview": true,
