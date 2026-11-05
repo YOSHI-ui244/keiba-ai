@@ -1362,7 +1362,7 @@ window.RACE_DATA = {
       "name": "ユーカリデビュー(2歳)",
       "distance": 1500,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "不",
       "startTime": "15:45",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -1394,7 +1394,7 @@ window.RACE_DATA = {
           "jockey": "Ｆ．ゴン",
           "trainer": "山下貴之",
           "horseWeight": null,
-          "odds": 5.2,
+          "odds": 6.9,
           "recent": []
         },
         {
@@ -1407,7 +1407,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "佐藤裕太",
           "horseWeight": null,
-          "odds": 4.5,
+          "odds": 1.6,
           "recent": []
         },
         {
@@ -1420,7 +1420,7 @@ window.RACE_DATA = {
           "jockey": "張田昂",
           "trainer": "林正人",
           "horseWeight": null,
-          "odds": 5.5,
+          "odds": 6.5,
           "recent": []
         },
         {
@@ -1433,7 +1433,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "岩崎真樹",
           "horseWeight": null,
-          "odds": 3.7,
+          "odds": 5.7,
           "recent": []
         },
         {
@@ -1446,11 +1446,12 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "山中尊徳",
           "horseWeight": null,
-          "odds": 3.9,
+          "odds": 5.6,
           "recent": []
         }
       ],
-      "raceId": "202643110503"
+      "raceId": "202643110503",
+      "oddsUpdatedAt": "15:20"
     },
     {
       "raceNo": 4,
@@ -7994,5 +7995,5 @@ window.RACE_DATA = {
       "raceId": "202643110512"
     }
   ],
-  "oddsUpdatedAt": "15:10"
+  "oddsUpdatedAt": "15:20"
 };
