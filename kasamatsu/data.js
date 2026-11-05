@@ -4775,7 +4775,7 @@ window.RACE_DATA = {
       "name": "英国発笠松行スプリント(2歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "14:35",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -4794,7 +4794,7 @@ window.RACE_DATA = {
           "jockey": "深澤杏花",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 7.3,
+          "odds": 7.8,
           "recent": [
             {
               "fin": 5,
@@ -4814,7 +4814,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 8.5,
+          "odds": 8.0,
           "recent": []
         },
         {
@@ -4827,7 +4827,7 @@ window.RACE_DATA = {
           "jockey": "筒井勇介",
           "trainer": "後藤佑耶",
           "horseWeight": null,
-          "odds": 3.4,
+          "odds": 2.2,
           "recent": []
         },
         {
@@ -4840,7 +4840,7 @@ window.RACE_DATA = {
           "jockey": "丸野勝虎",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 5.7,
+          "odds": 18.7,
           "recent": [
             {
               "fin": 12,
@@ -4866,7 +4866,7 @@ window.RACE_DATA = {
           "jockey": "加藤聡一",
           "trainer": "後藤佑耶",
           "horseWeight": null,
-          "odds": 7.7,
+          "odds": 5.1,
           "recent": [
             {
               "fin": 4,
@@ -4886,7 +4886,7 @@ window.RACE_DATA = {
           "jockey": "細川智史",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 5.2,
+          "odds": 4.7,
           "recent": []
         },
         {
@@ -4899,7 +4899,7 @@ window.RACE_DATA = {
           "jockey": "高木健",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 26.6,
+          "odds": 28.7,
           "recent": []
         },
         {
@@ -4912,7 +4912,7 @@ window.RACE_DATA = {
           "jockey": "明星晴大",
           "trainer": "後藤佑耶",
           "horseWeight": null,
-          "odds": 6.0,
+          "odds": 18.3,
           "recent": [
             {
               "fin": 8,
@@ -4925,7 +4925,8 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202647110509"
+      "raceId": "202647110509",
+      "oddsUpdatedAt": "14:10"
     },
     {
       "raceNo": 10,
@@ -6185,5 +6186,5 @@ window.RACE_DATA = {
       "raceId": "202647110512"
     }
   ],
-  "oddsUpdatedAt": "14:00"
+  "oddsUpdatedAt": "14:10"
 };
