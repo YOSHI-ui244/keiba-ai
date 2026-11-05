@@ -1075,7 +1075,7 @@ window.RACE_DATA = {
       "name": "加藤真人事務局長就任記念(C)",
       "distance": 1580,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "11:55",
       "grade": "サラ系一般 C",
       "meetingInfo": [
@@ -1094,7 +1094,7 @@ window.RACE_DATA = {
           "jockey": "藤原幹生",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 5.7,
+          "odds": 14.9,
           "recent": [
             {
               "fin": 2,
@@ -1154,7 +1154,7 @@ window.RACE_DATA = {
           "jockey": "大原浩司",
           "trainer": "森山英雄",
           "horseWeight": null,
-          "odds": 6.3,
+          "odds": 11.1,
           "recent": [
             {
               "fin": 9,
@@ -1208,7 +1208,7 @@ window.RACE_DATA = {
           "jockey": "阿部基嗣",
           "trainer": "栗本陽一",
           "horseWeight": null,
-          "odds": 121.1,
+          "odds": 5.7,
           "recent": [
             {
               "fin": 7,
@@ -1274,7 +1274,7 @@ window.RACE_DATA = {
           "jockey": "深澤杏花",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 41.2,
+          "odds": 26.7,
           "recent": [
             {
               "fin": 5,
@@ -1336,7 +1336,7 @@ window.RACE_DATA = {
           "jockey": "東川慎",
           "trainer": "柴田高志",
           "horseWeight": null,
-          "odds": 14.5,
+          "odds": 9.4,
           "recent": [
             {
               "fin": 1,
@@ -1398,7 +1398,7 @@ window.RACE_DATA = {
           "jockey": "筒井勇介",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 37.5,
+          "odds": 51.2,
           "recent": [
             {
               "fin": 7,
@@ -1464,7 +1464,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "後藤佑耶",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 1.9,
           "recent": [
             {
               "fin": 8,
@@ -1500,7 +1500,7 @@ window.RACE_DATA = {
           "jockey": "井口裕貴",
           "trainer": "水野善太",
           "horseWeight": null,
-          "odds": 64.4,
+          "odds": 47.2,
           "recent": [
             {
               "fin": 9,
@@ -1564,7 +1564,7 @@ window.RACE_DATA = {
           "jockey": "加藤聡一",
           "trainer": "笹野博司",
           "horseWeight": null,
-          "odds": 2.9,
+          "odds": 4.6,
           "recent": [
             {
               "fin": 14,
@@ -1611,7 +1611,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202647110504"
+      "raceId": "202647110504",
+      "oddsUpdatedAt": "11:30"
     },
     {
       "raceNo": 5,
@@ -5690,5 +5691,5 @@ window.RACE_DATA = {
       "raceId": "202647110512"
     }
   ],
-  "oddsUpdatedAt": "11:20"
+  "oddsUpdatedAt": "11:30"
 };
