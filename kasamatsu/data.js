@@ -14,7 +14,7 @@ window.RACE_DATA = {
       "name": "笠松デビュー馬未勝利(2歳)",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "10:25",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -46,7 +46,7 @@ window.RACE_DATA = {
           "jockey": "明星晴大",
           "trainer": "後藤佑耶",
           "horseWeight": null,
-          "odds": 16.5,
+          "odds": 32.1,
           "recent": []
         },
         {
@@ -72,7 +72,7 @@ window.RACE_DATA = {
           "jockey": "井口裕貴",
           "trainer": "笹野博司",
           "horseWeight": null,
-          "odds": 7.8,
+          "odds": 38.5,
           "recent": [
             {
               "fin": 6,
@@ -92,7 +92,7 @@ window.RACE_DATA = {
           "jockey": "横川怜央",
           "trainer": "栗本陽一",
           "horseWeight": null,
-          "odds": 15.4,
+          "odds": 32.1,
           "recent": []
         },
         {
@@ -105,7 +105,7 @@ window.RACE_DATA = {
           "jockey": "藤原幹生",
           "trainer": "大橋敬永",
           "horseWeight": null,
-          "odds": 11.1,
+          "odds": 13.7,
           "recent": []
         },
         {
@@ -118,7 +118,7 @@ window.RACE_DATA = {
           "jockey": "細川智史",
           "trainer": "後藤佑耶",
           "horseWeight": null,
-          "odds": 6.7,
+          "odds": 21.4,
           "recent": []
         },
         {
@@ -131,7 +131,7 @@ window.RACE_DATA = {
           "jockey": "加藤聡一",
           "trainer": "伊藤強一",
           "horseWeight": null,
-          "odds": 41.7,
+          "odds": 48.2,
           "recent": []
         },
         {
@@ -144,7 +144,7 @@ window.RACE_DATA = {
           "jockey": "赤津和希",
           "trainer": "藤田正治",
           "horseWeight": null,
-          "odds": 55.6,
+          "odds": 64.2,
           "recent": []
         },
         {
@@ -157,11 +157,12 @@ window.RACE_DATA = {
           "jockey": "丸野勝虎",
           "trainer": "加藤幸保",
           "horseWeight": null,
-          "odds": 35.5,
+          "odds": 48.2,
           "recent": []
         }
       ],
-      "raceId": "202647110501"
+      "raceId": "202647110501",
+      "oddsUpdatedAt": "10:06"
     },
     {
       "raceNo": 2,
@@ -5490,5 +5491,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202647110512"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "10:06"
 };
