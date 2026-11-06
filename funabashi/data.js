@@ -426,7 +426,7 @@ window.RACE_DATA = {
       "name": "ユーカリデビュー(2歳)",
       "distance": 1000,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "15:45",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -445,7 +445,7 @@ window.RACE_DATA = {
           "jockey": "御神本訓",
           "trainer": "森泰斗",
           "horseWeight": null,
-          "odds": 3.5,
+          "odds": 12.2,
           "recent": []
         },
         {
@@ -458,7 +458,7 @@ window.RACE_DATA = {
           "jockey": "臼井健太",
           "trainer": "岩崎真樹",
           "horseWeight": null,
-          "odds": 12.7,
+          "odds": 199.6,
           "recent": []
         },
         {
@@ -471,7 +471,7 @@ window.RACE_DATA = {
           "jockey": "沖響主",
           "trainer": "伊藤滋規",
           "horseWeight": null,
-          "odds": 7.4,
+          "odds": 17.7,
           "recent": []
         },
         {
@@ -484,7 +484,7 @@ window.RACE_DATA = {
           "jockey": "野澤憲彦",
           "trainer": "斉藤敏",
           "horseWeight": null,
-          "odds": 13.8,
+          "odds": 89.8,
           "recent": []
         },
         {
@@ -497,7 +497,7 @@ window.RACE_DATA = {
           "jockey": "岡村健司",
           "trainer": "石井勝男",
           "horseWeight": null,
-          "odds": 9.7,
+          "odds": 15.2,
           "recent": []
         },
         {
@@ -510,7 +510,7 @@ window.RACE_DATA = {
           "jockey": "張田昂",
           "trainer": "米谷康秀",
           "horseWeight": null,
-          "odds": 5.4,
+          "odds": 7.6,
           "recent": []
         },
         {
@@ -523,7 +523,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "川島正一",
           "horseWeight": null,
-          "odds": 5.6,
+          "odds": 1.1,
           "recent": []
         },
         {
@@ -536,7 +536,7 @@ window.RACE_DATA = {
           "jockey": "山口達弥",
           "trainer": "林正人",
           "horseWeight": null,
-          "odds": 7.0,
+          "odds": 67.8,
           "recent": []
         },
         {
@@ -549,11 +549,12 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "玉井昇",
           "horseWeight": null,
-          "odds": 14.6,
+          "odds": 78.1,
           "recent": []
         }
       ],
-      "raceId": "202643110603"
+      "raceId": "202643110603",
+      "oddsUpdatedAt": "15:20"
     },
     {
       "raceNo": 4,
@@ -6971,5 +6972,5 @@ window.RACE_DATA = {
       "raceId": "202643110612"
     }
   ],
-  "oddsUpdatedAt": "15:10"
+  "oddsUpdatedAt": "15:20"
 };
