@@ -6096,14 +6096,112 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202643110610",
-      "oddsUpdatedAt": "19:30"
+      "oddsUpdatedAt": "19:30",
+      "result": {
+        "order": [
+          1,
+          11,
+          10
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 2020
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                1
+              ],
+              "amount": 310
+            },
+            {
+              "comb": [
+                11
+              ],
+              "amount": 120
+            },
+            {
+              "comb": [
+                10
+              ],
+              "amount": 210
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                1,
+                11
+              ],
+              "amount": 1260
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                1,
+                11
+              ],
+              "amount": 590
+            },
+            {
+              "comb": [
+                1,
+                10
+              ],
+              "amount": 1440
+            },
+            {
+              "comb": [
+                10,
+                11
+              ],
+              "amount": 400
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                1,
+                11
+              ],
+              "amount": 5550
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                1,
+                10,
+                11
+              ],
+              "amount": 3710
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                1,
+                11,
+                10
+              ],
+              "amount": 40630
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 11,
       "name": "大福山特別(A2B1)",
       "distance": 1800,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "20:15",
       "grade": "サラ系一般 A2B1",
       "meetingInfo": [
@@ -6122,7 +6220,7 @@ window.RACE_DATA = {
           "jockey": "小杉亮",
           "trainer": "渋谷信博",
           "horseWeight": null,
-          "odds": 271.0,
+          "odds": 157.8,
           "recent": [
             {
               "fin": 12,
@@ -6186,7 +6284,7 @@ window.RACE_DATA = {
           "jockey": "矢野貴之",
           "trainer": "川島正一",
           "horseWeight": null,
-          "odds": 8.2,
+          "odds": 1.9,
           "recent": [
             {
               "fin": 5,
@@ -6242,7 +6340,7 @@ window.RACE_DATA = {
           "jockey": "山口達弥",
           "trainer": "石崎駿",
           "horseWeight": null,
-          "odds": 199.1,
+          "odds": 230.9,
           "recent": [
             {
               "fin": 7,
@@ -6304,7 +6402,7 @@ window.RACE_DATA = {
           "jockey": "本田正重",
           "trainer": "山下貴之",
           "horseWeight": null,
-          "odds": 6.1,
+          "odds": 9.4,
           "recent": [
             {
               "fin": 12,
@@ -6366,7 +6464,7 @@ window.RACE_DATA = {
           "jockey": "和田譲治",
           "trainer": "林幻",
           "horseWeight": null,
-          "odds": 5.8,
+          "odds": 5.3,
           "recent": [
             {
               "fin": 9,
@@ -6428,7 +6526,7 @@ window.RACE_DATA = {
           "jockey": "木間塚龍",
           "trainer": "斉藤敏",
           "horseWeight": null,
-          "odds": 31.0,
+          "odds": 84.3,
           "recent": [
             {
               "fin": 2,
@@ -6494,7 +6592,7 @@ window.RACE_DATA = {
           "jockey": "張田昂",
           "trainer": "林正人",
           "horseWeight": null,
-          "odds": 12.7,
+          "odds": 11.2,
           "recent": [
             {
               "fin": 3,
@@ -6556,7 +6654,7 @@ window.RACE_DATA = {
           "jockey": "澤田龍哉",
           "trainer": "山下貴之",
           "horseWeight": null,
-          "odds": 26.3,
+          "odds": 40.6,
           "recent": [
             {
               "fin": 7,
@@ -6622,7 +6720,7 @@ window.RACE_DATA = {
           "jockey": "笹川翼",
           "trainer": "森泰斗",
           "horseWeight": null,
-          "odds": 2.4,
+          "odds": 7.5,
           "recent": [
             {
               "fin": 5,
@@ -6684,7 +6782,7 @@ window.RACE_DATA = {
           "jockey": "所蛍",
           "trainer": "佐々木清",
           "horseWeight": null,
-          "odds": 47.9,
+          "odds": 33.2,
           "recent": [
             {
               "fin": 6,
@@ -6748,7 +6846,7 @@ window.RACE_DATA = {
           "jockey": "庄司大輔",
           "trainer": "玉井勝",
           "horseWeight": null,
-          "odds": 692.7,
+          "odds": 171.4,
           "recent": [
             {
               "fin": 9,
@@ -6814,7 +6912,7 @@ window.RACE_DATA = {
           "jockey": "御神本訓",
           "trainer": "坂本昇",
           "horseWeight": null,
-          "odds": 6.8,
+          "odds": 8.6,
           "recent": [
             {
               "fin": 1,
@@ -6876,7 +6974,7 @@ window.RACE_DATA = {
           "jockey": "中山遥人",
           "trainer": "福永敏",
           "horseWeight": null,
-          "odds": 40.6,
+          "odds": 58.3,
           "recent": [
             {
               "fin": 10,
@@ -6942,7 +7040,7 @@ window.RACE_DATA = {
           "jockey": "山中悠希",
           "trainer": "佐藤裕太",
           "horseWeight": null,
-          "odds": 57.5,
+          "odds": 92.5,
           "recent": [
             {
               "fin": 8,
@@ -6995,7 +7093,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202643110611"
+      "raceId": "202643110611",
+      "oddsUpdatedAt": "19:50"
     },
     {
       "raceNo": 12,
@@ -7791,5 +7890,5 @@ window.RACE_DATA = {
       "raceId": "202643110612"
     }
   ],
-  "oddsUpdatedAt": "19:30"
+  "oddsUpdatedAt": "19:50"
 };
