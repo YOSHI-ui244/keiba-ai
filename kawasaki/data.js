@@ -348,14 +348,112 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202645110901",
-      "oddsUpdatedAt": "14:50"
+      "oddsUpdatedAt": "14:50",
+      "result": {
+        "order": [
+          4,
+          5,
+          8
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 190
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                4
+              ],
+              "amount": 110
+            },
+            {
+              "comb": [
+                5
+              ],
+              "amount": 100
+            },
+            {
+              "comb": [
+                8
+              ],
+              "amount": 160
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                4,
+                5
+              ],
+              "amount": 330
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                4,
+                5
+              ],
+              "amount": 230
+            },
+            {
+              "comb": [
+                4,
+                8
+              ],
+              "amount": 340
+            },
+            {
+              "comb": [
+                5,
+                8
+              ],
+              "amount": 620
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                4,
+                5
+              ],
+              "amount": 640
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                4,
+                5,
+                8
+              ],
+              "amount": 970
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                4,
+                5,
+                8
+              ],
+              "amount": 2830
+            }
+          ]
+        }
+      }
     },
     {
       "raceNo": 2,
       "name": "みずほ賞(2歳)",
       "distance": 900,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "15:30",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -387,7 +485,7 @@ window.RACE_DATA = {
           "jockey": "古岡勇樹",
           "trainer": "田辺陽一",
           "horseWeight": null,
-          "odds": 3.0,
+          "odds": 4.0,
           "recent": []
         },
         {
@@ -400,7 +498,7 @@ window.RACE_DATA = {
           "jockey": "本田紀忠",
           "trainer": "平田正一",
           "horseWeight": null,
-          "odds": 187.4,
+          "odds": 48.8,
           "recent": []
         },
         {
@@ -413,7 +511,7 @@ window.RACE_DATA = {
           "jockey": "池谷匠翔",
           "trainer": "古澤悟",
           "horseWeight": null,
-          "odds": 12.6,
+          "odds": 8.9,
           "recent": [
             {
               "fin": 2,
@@ -433,7 +531,7 @@ window.RACE_DATA = {
           "jockey": "櫻井光輔",
           "trainer": "吉橋淳一",
           "horseWeight": null,
-          "odds": 13.5,
+          "odds": 8.8,
           "recent": [
             {
               "fin": 5,
@@ -455,7 +553,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "鈴木義久",
           "horseWeight": null,
-          "odds": 48.9,
+          "odds": 30.5,
           "recent": [
             {
               "fin": 3,
@@ -475,7 +573,7 @@ window.RACE_DATA = {
           "jockey": "中山遥人",
           "trainer": "今井輝和",
           "horseWeight": null,
-          "odds": 5.4,
+          "odds": 5.6,
           "recent": [
             {
               "fin": 7,
@@ -486,7 +584,8 @@ window.RACE_DATA = {
           ]
         }
       ],
-      "raceId": "202645110902"
+      "raceId": "202645110902",
+      "oddsUpdatedAt": "15:10"
     },
     {
       "raceNo": 3,
@@ -6792,5 +6891,5 @@ window.RACE_DATA = {
       "raceId": "202645110912"
     }
   ],
-  "oddsUpdatedAt": "14:50"
+  "oddsUpdatedAt": "15:10"
 };
