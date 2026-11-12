@@ -756,7 +756,7 @@ window.RACE_DATA = {
       "name": "2歳6",
       "distance": 1400,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "重",
       "startTime": "15:15",
       "grade": "サラ系２歳 2歳",
       "meetingInfo": [
@@ -788,7 +788,7 @@ window.RACE_DATA = {
           "jockey": "古岡勇樹",
           "trainer": "加藤誠一",
           "horseWeight": null,
-          "odds": 1.6,
+          "odds": 1.4,
           "recent": []
         },
         {
@@ -801,7 +801,7 @@ window.RACE_DATA = {
           "jockey": "藤江渉",
           "trainer": "平田正一",
           "horseWeight": null,
-          "odds": 21.4,
+          "odds": 25.8,
           "recent": []
         },
         {
@@ -814,7 +814,7 @@ window.RACE_DATA = {
           "jockey": "佐野遥久",
           "trainer": "古澤悟",
           "horseWeight": null,
-          "odds": 11.5,
+          "odds": 10.8,
           "recent": []
         },
         {
@@ -840,7 +840,7 @@ window.RACE_DATA = {
           "jockey": "櫻井光輔",
           "trainer": "八木正喜",
           "horseWeight": null,
-          "odds": 18.2,
+          "odds": 18.0,
           "recent": []
         },
         {
@@ -853,11 +853,12 @@ window.RACE_DATA = {
           "jockey": "町田直希",
           "trainer": "古澤悟",
           "horseWeight": null,
-          "odds": 9.9,
+          "odds": 7.2,
           "recent": []
         }
       ],
-      "raceId": "202645111202"
+      "raceId": "202645111202",
+      "oddsUpdatedAt": "14:50"
     },
     {
       "raceNo": 3,
@@ -7552,5 +7553,5 @@ window.RACE_DATA = {
       "raceId": "202645111212"
     }
   ],
-  "oddsUpdatedAt": "14:40"
+  "oddsUpdatedAt": "14:50"
 };
