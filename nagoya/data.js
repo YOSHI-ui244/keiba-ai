@@ -6971,7 +6971,7 @@ window.RACE_DATA = {
       "name": "白菊大空昇竜戦(A)",
       "distance": 2000,
       "surface": "ダ",
-      "condition": "−",
+      "condition": "良",
       "startTime": "17:25",
       "grade": "サラ系一般 A",
       "meetingInfo": [
@@ -6990,7 +6990,7 @@ window.RACE_DATA = {
           "jockey": "近藤颯羽",
           "trainer": "坂口義幸",
           "horseWeight": null,
-          "odds": null,
+          "odds": 10.8,
           "recent": [
             {
               "fin": 5,
@@ -7056,7 +7056,7 @@ window.RACE_DATA = {
           "jockey": "丸野勝虎",
           "trainer": "今津博之",
           "horseWeight": null,
-          "odds": null,
+          "odds": 11.7,
           "recent": [
             {
               "fin": 1,
@@ -7118,7 +7118,7 @@ window.RACE_DATA = {
           "jockey": "柿原翔",
           "trainer": "竹下直人",
           "horseWeight": null,
-          "odds": null,
+          "odds": 17.1,
           "recent": [
             {
               "fin": 15,
@@ -7182,7 +7182,7 @@ window.RACE_DATA = {
           "jockey": "望月洵輝",
           "trainer": "戸部尚実",
           "horseWeight": null,
-          "odds": null,
+          "odds": 3.4,
           "recent": [
             {
               "fin": 16,
@@ -7244,7 +7244,7 @@ window.RACE_DATA = {
           "jockey": "今井貴大",
           "trainer": "川西毅",
           "horseWeight": null,
-          "odds": null,
+          "odds": 2.2,
           "recent": [
             {
               "fin": 6,
@@ -7308,7 +7308,7 @@ window.RACE_DATA = {
           "jockey": "塚本征吾",
           "trainer": "井上哲",
           "horseWeight": null,
-          "odds": null,
+          "odds": 3.7,
           "recent": [
             {
               "fin": 5,
@@ -7365,7 +7365,8 @@ window.RACE_DATA = {
           "style": "差"
         }
       ],
-      "raceId": "202648111210"
+      "raceId": "202648111210",
+      "oddsUpdatedAt": "17:00"
     },
     {
       "raceNo": 11,
@@ -8748,5 +8749,5 @@ window.RACE_DATA = {
       "raceId": "202648111212"
     }
   ],
-  "oddsUpdatedAt": "16:50"
+  "oddsUpdatedAt": "17:00"
 };
