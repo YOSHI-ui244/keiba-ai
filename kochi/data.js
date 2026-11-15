@@ -627,7 +627,7 @@ window.RACE_DATA = {
           "jockey": "新庄海誠",
           "trainer": "国澤輝幸",
           "horseWeight": null,
-          "odds": null,
+          "odds": 6.1,
           "recent": [
             {
               "fin": 3,
@@ -691,7 +691,7 @@ window.RACE_DATA = {
           "jockey": "多田羅誠",
           "trainer": "工藤真司",
           "horseWeight": null,
-          "odds": null,
+          "odds": 38.3,
           "recent": [
             {
               "fin": 5,
@@ -757,7 +757,7 @@ window.RACE_DATA = {
           "jockey": "城野慈尚",
           "trainer": "胡本友晴",
           "horseWeight": null,
-          "odds": null,
+          "odds": 130.2,
           "recent": [
             {
               "fin": 11,
@@ -823,7 +823,7 @@ window.RACE_DATA = {
           "jockey": "山中悠希",
           "trainer": "雑賀正光",
           "horseWeight": null,
-          "odds": null,
+          "odds": 1.5,
           "recent": [
             {
               "fin": 9,
@@ -885,7 +885,7 @@ window.RACE_DATA = {
           "jockey": "上田将司",
           "trainer": "目迫大輔",
           "horseWeight": null,
-          "odds": null,
+          "odds": 9.3,
           "recent": [
             {
               "fin": 2,
@@ -951,7 +951,7 @@ window.RACE_DATA = {
           "jockey": "加藤翔馬",
           "trainer": "倉兼育康",
           "horseWeight": null,
-          "odds": null,
+          "odds": 14.1,
           "recent": [
             {
               "fin": 9,
@@ -1013,7 +1013,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "宮川浩一",
           "horseWeight": null,
-          "odds": null,
+          "odds": 5.2,
           "recent": [
             {
               "fin": 7,
@@ -1077,7 +1077,7 @@ window.RACE_DATA = {
           "jockey": "岡遼太郎",
           "trainer": "宮川浩一",
           "horseWeight": null,
-          "odds": null,
+          "odds": 108.5,
           "recent": [
             {
               "fin": 9,
@@ -1143,7 +1143,7 @@ window.RACE_DATA = {
           "jockey": "畑中信司",
           "trainer": "西山裕貴",
           "horseWeight": null,
-          "odds": null,
+          "odds": 81.4,
           "recent": [
             {
               "fin": 4,
@@ -1198,7 +1198,8 @@ window.RACE_DATA = {
           "style": "先"
         }
       ],
-      "raceId": "202654111504"
+      "raceId": "202654111504",
+      "oddsUpdatedAt": "16:10"
     },
     {
       "raceNo": 5,
@@ -7085,5 +7086,5 @@ window.RACE_DATA = {
       "raceId": "202654111512"
     }
   ],
-  "oddsUpdatedAt": "15:50"
+  "oddsUpdatedAt": "16:10"
 };
