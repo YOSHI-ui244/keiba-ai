@@ -2908,7 +2908,7 @@ window.RACE_DATA = {
           "jockey": "米倉知",
           "trainer": "井樋一也",
           "horseWeight": null,
-          "odds": 49.5,
+          "odds": 69.8,
           "recent": [
             {
               "fin": 7,
@@ -2974,7 +2974,7 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "堀場裕充",
           "horseWeight": null,
-          "odds": 6.5,
+          "odds": 7.4,
           "recent": [
             {
               "fin": 9,
@@ -3034,7 +3034,7 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "鈴木正也",
           "horseWeight": null,
-          "odds": 6.7,
+          "odds": 14.4,
           "recent": [
             {
               "fin": 9,
@@ -3100,7 +3100,7 @@ window.RACE_DATA = {
           "jockey": "平瀬城久",
           "trainer": "黒木豊",
           "horseWeight": null,
-          "odds": 49.5,
+          "odds": 73.1,
           "recent": [
             {
               "fin": 4,
@@ -3166,7 +3166,7 @@ window.RACE_DATA = {
           "jockey": "沖静男",
           "trainer": "藤田弘治",
           "horseWeight": null,
-          "odds": 82.5,
+          "odds": 192.1,
           "recent": [
             {
               "fin": 9,
@@ -3288,7 +3288,7 @@ window.RACE_DATA = {
           "jockey": "甲賀弘隆",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 20.6,
+          "odds": 56.9,
           "recent": [
             {
               "fin": 4,
@@ -3350,7 +3350,7 @@ window.RACE_DATA = {
           "jockey": "松戸政也",
           "trainer": "菅原欣也",
           "horseWeight": null,
-          "odds": 13.0,
+          "odds": 32.0,
           "recent": [
             {
               "fin": 7,
@@ -3406,7 +3406,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646111605",
-      "oddsUpdatedAt": "14:10"
+      "oddsUpdatedAt": "14:20"
     },
     {
       "raceNo": 6,
@@ -7340,5 +7340,5 @@ window.RACE_DATA = {
       "raceId": "202646111612"
     }
   ],
-  "oddsUpdatedAt": "14:10"
+  "oddsUpdatedAt": "14:20"
 };
