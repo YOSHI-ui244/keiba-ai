@@ -10016,8 +10016,118 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202644111712",
-      "oddsUpdatedAt": "20:40"
+      "oddsUpdatedAt": "20:40",
+      "result": {
+        "order": [
+          13,
+          8,
+          9,
+          3,
+          10,
+          7,
+          5,
+          15,
+          2,
+          12,
+          1,
+          11,
+          4,
+          6,
+          14
+        ],
+        "payouts": {
+          "tansho": [
+            {
+              "comb": [
+                13
+              ],
+              "amount": 300
+            }
+          ],
+          "fukusho": [
+            {
+              "comb": [
+                13
+              ],
+              "amount": 160
+            },
+            {
+              "comb": [
+                8
+              ],
+              "amount": 780
+            },
+            {
+              "comb": [
+                9
+              ],
+              "amount": 210
+            }
+          ],
+          "umaren": [
+            {
+              "comb": [
+                8,
+                13
+              ],
+              "amount": 4850
+            }
+          ],
+          "wide": [
+            {
+              "comb": [
+                8,
+                13
+              ],
+              "amount": 1340
+            },
+            {
+              "comb": [
+                9,
+                13
+              ],
+              "amount": 380
+            },
+            {
+              "comb": [
+                8,
+                9
+              ],
+              "amount": 1520
+            }
+          ],
+          "umatan": [
+            {
+              "comb": [
+                13,
+                8
+              ],
+              "amount": 5840
+            }
+          ],
+          "sanrenpuku": [
+            {
+              "comb": [
+                8,
+                9,
+                13
+              ],
+              "amount": 4870
+            }
+          ],
+          "sanrentan": [
+            {
+              "comb": [
+                13,
+                8,
+                9
+              ],
+              "amount": 21410
+            }
+          ]
+        }
+      }
     }
   ],
-  "oddsUpdatedAt": "20:50"
+  "oddsUpdatedAt": "21:20"
 };
