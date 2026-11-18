@@ -714,7 +714,7 @@ window.RACE_DATA = {
           "jockey": "高畑皓一",
           "trainer": "三宅直之",
           "horseWeight": null,
-          "odds": 28.4,
+          "odds": 41.0,
           "recent": [
             {
               "fin": 9,
@@ -780,7 +780,7 @@ window.RACE_DATA = {
           "jockey": "南部楓馬",
           "trainer": "織田誠",
           "horseWeight": null,
-          "odds": 30.2,
+          "odds": 35.3,
           "recent": [
             {
               "fin": 11,
@@ -842,7 +842,7 @@ window.RACE_DATA = {
           "jockey": "土方颯太",
           "trainer": "徳本慶一",
           "horseWeight": null,
-          "odds": 37.5,
+          "odds": 33.0,
           "recent": [
             {
               "fin": 9,
@@ -906,7 +906,7 @@ window.RACE_DATA = {
           "jockey": "長尾翼玖",
           "trainer": "山元博徳",
           "horseWeight": null,
-          "odds": 30.2,
+          "odds": 31.6,
           "recent": [
             {
               "fin": 8,
@@ -972,7 +972,7 @@ window.RACE_DATA = {
           "jockey": "大山真吾",
           "trainer": "吉見真幸",
           "horseWeight": null,
-          "odds": 2.0,
+          "odds": 1.9,
           "recent": [
             {
               "fin": 2,
@@ -1034,7 +1034,7 @@ window.RACE_DATA = {
           "jockey": "廣瀬航",
           "trainer": "諏訪貴正",
           "horseWeight": null,
-          "odds": 2.2,
+          "odds": 2.1,
           "recent": [
             {
               "fin": 5,
@@ -1098,7 +1098,7 @@ window.RACE_DATA = {
           "jockey": "杉浦健太",
           "trainer": "小村正也",
           "horseWeight": null,
-          "odds": 10.0,
+          "odds": 9.8,
           "recent": [
             {
               "fin": 8,
@@ -1164,7 +1164,7 @@ window.RACE_DATA = {
           "jockey": "山本屋太",
           "trainer": "大山寿文",
           "horseWeight": null,
-          "odds": 26.8,
+          "odds": 29.2,
           "recent": [
             {
               "fin": 8,
@@ -1228,7 +1228,7 @@ window.RACE_DATA = {
           "jockey": "笹田知宏",
           "trainer": "田中道夫",
           "horseWeight": null,
-          "odds": 24.0,
+          "odds": 25.1,
           "recent": [
             {
               "fin": 10,
@@ -1286,7 +1286,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202650111802",
-      "oddsUpdatedAt": "10:50"
+      "oddsUpdatedAt": "11:00"
     },
     {
       "raceNo": 3,
@@ -7473,5 +7473,5 @@ window.RACE_DATA = {
       "raceId": "202650111812"
     }
   ],
-  "oddsUpdatedAt": "10:50"
+  "oddsUpdatedAt": "11:00"
 };
