@@ -33,7 +33,7 @@ window.RACE_DATA = {
           "jockey": "岡村卓弥",
           "trainer": "田中譲二",
           "horseWeight": null,
-          "odds": null,
+          "odds": 36.3,
           "recent": [
             {
               "fin": 10,
@@ -77,7 +77,7 @@ window.RACE_DATA = {
           "jockey": "大澤誠志",
           "trainer": "那俄性哲",
           "horseWeight": null,
-          "odds": null,
+          "odds": 20.5,
           "recent": [
             {
               "fin": 7,
@@ -115,7 +115,7 @@ window.RACE_DATA = {
           "jockey": "濱尚美",
           "trainer": "胡本友晴",
           "horseWeight": null,
-          "odds": null,
+          "odds": 50.4,
           "recent": [
             {
               "fin": 10,
@@ -181,7 +181,7 @@ window.RACE_DATA = {
           "jockey": "近藤翔月",
           "trainer": "目迫大輔",
           "horseWeight": null,
-          "odds": null,
+          "odds": 71.8,
           "recent": [
             {
               "fin": 4,
@@ -241,7 +241,7 @@ window.RACE_DATA = {
           "jockey": "岡遼太郎",
           "trainer": "中西達也",
           "horseWeight": null,
-          "odds": null,
+          "odds": 75.6,
           "recent": [
             {
               "fin": 14,
@@ -291,7 +291,7 @@ window.RACE_DATA = {
           "jockey": "木村直輝",
           "trainer": "胡本友晴",
           "horseWeight": null,
-          "odds": null,
+          "odds": 71.8,
           "recent": [
             {
               "fin": 8,
@@ -357,7 +357,7 @@ window.RACE_DATA = {
           "jockey": "郷間勇太",
           "trainer": "宮川真衣",
           "horseWeight": null,
-          "odds": null,
+          "odds": 18.4,
           "recent": [
             {
               "fin": 3,
@@ -413,7 +413,7 @@ window.RACE_DATA = {
           "jockey": "山崎雅由",
           "trainer": "嬉勝則",
           "horseWeight": null,
-          "odds": null,
+          "odds": 8.0,
           "recent": [
             {
               "fin": 5,
@@ -501,7 +501,7 @@ window.RACE_DATA = {
           "jockey": "城野慈尚",
           "trainer": "胡本友晴",
           "horseWeight": null,
-          "odds": null,
+          "odds": 66.8,
           "recent": [
             {
               "fin": 14,
@@ -558,7 +558,8 @@ window.RACE_DATA = {
           "style": "追"
         }
       ],
-      "raceId": "202654112201"
+      "raceId": "202654112201",
+      "oddsUpdatedAt": "15:10"
     },
     {
       "raceNo": 2,
@@ -6467,5 +6468,6 @@ window.RACE_DATA = {
       ],
       "raceId": "202654112211"
     }
-  ]
+  ],
+  "oddsUpdatedAt": "15:10"
 };
