@@ -1,1 +1,1 @@
-window.TODAY_VENUES = {"date": "20261123", "venues": {"mizusawa": "水沢", "kanazawa": "金沢"}};
+window.TODAY_VENUES = {"date": "20261123", "venues": {"mizusawa": "水沢", "kanazawa": "金沢", "saga": "佐賀"}};
