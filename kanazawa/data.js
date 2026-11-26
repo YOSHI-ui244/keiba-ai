@@ -4177,7 +4177,7 @@ window.RACE_DATA = {
           "jockey": "平瀬城久",
           "trainer": "加藤和義",
           "horseWeight": null,
-          "odds": 11.4,
+          "odds": 4.7,
           "recent": [
             {
               "fin": 11,
@@ -4203,7 +4203,7 @@ window.RACE_DATA = {
           "jockey": "青柳正義",
           "trainer": "堀場裕充",
           "horseWeight": null,
-          "odds": 13.8,
+          "odds": 11.0,
           "recent": [
             {
               "fin": 3,
@@ -4269,7 +4269,7 @@ window.RACE_DATA = {
           "jockey": "米倉知",
           "trainer": "中川雅之",
           "horseWeight": null,
-          "odds": 41.6,
+          "odds": 15.4,
           "recent": [
             {
               "fin": 14,
@@ -4319,7 +4319,7 @@ window.RACE_DATA = {
           "jockey": "中島龍也",
           "trainer": "加藤和宏",
           "horseWeight": null,
-          "odds": 27.5,
+          "odds": 17.3,
           "recent": [
             {
               "fin": 11,
@@ -4381,7 +4381,7 @@ window.RACE_DATA = {
           "jockey": "栗原大河",
           "trainer": "菅原欣也",
           "horseWeight": null,
-          "odds": 68.1,
+          "odds": 40.6,
           "recent": [
             {
               "fin": 2,
@@ -4445,7 +4445,7 @@ window.RACE_DATA = {
           "jockey": "魚住謙心",
           "trainer": "鋤田誠二",
           "horseWeight": null,
-          "odds": 125.8,
+          "odds": 70.6,
           "recent": [
             {
               "fin": 7,
@@ -4509,7 +4509,7 @@ window.RACE_DATA = {
           "jockey": "松戸政也",
           "trainer": "川添明弘",
           "horseWeight": null,
-          "odds": 2.1,
+          "odds": 1.2,
           "recent": [
             {
               "fin": 14,
@@ -4527,7 +4527,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202646112608",
-      "oddsUpdatedAt": "18:00"
+      "oddsUpdatedAt": "18:10"
     },
     {
       "raceNo": 9,
@@ -7036,5 +7036,5 @@ window.RACE_DATA = {
       "raceId": "202646112612"
     }
   ],
-  "oddsUpdatedAt": "18:00"
+  "oddsUpdatedAt": "18:10"
 };
