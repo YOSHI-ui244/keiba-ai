@@ -2238,7 +2238,7 @@ window.RACE_DATA = {
           "jockey": "出水拓人",
           "trainer": "倉富隆一",
           "horseWeight": null,
-          "odds": 7.5,
+          "odds": 8.5,
           "recent": [
             {
               "fin": 13,
@@ -2302,7 +2302,7 @@ window.RACE_DATA = {
           "jockey": "山下裕貴",
           "trainer": "東眞市",
           "horseWeight": null,
-          "odds": 11.5,
+          "odds": 16.9,
           "recent": [
             {
               "fin": 10,
@@ -2364,7 +2364,7 @@ window.RACE_DATA = {
           "jockey": "中山蓮王",
           "trainer": "平山宏秀",
           "horseWeight": null,
-          "odds": 67.7,
+          "odds": 54.8,
           "recent": [
             {
               "fin": 1,
@@ -2430,7 +2430,7 @@ window.RACE_DATA = {
           "jockey": "竹吉徹",
           "trainer": "山田徹",
           "horseWeight": null,
-          "odds": 40.5,
+          "odds": 34.7,
           "recent": [
             {
               "fin": 7,
@@ -2494,7 +2494,7 @@ window.RACE_DATA = {
           "jockey": "飛田愛斗",
           "trainer": "池田忠好",
           "horseWeight": null,
-          "odds": 1.8,
+          "odds": 2.3,
           "recent": [
             {
               "fin": 1,
@@ -2560,7 +2560,7 @@ window.RACE_DATA = {
           "jockey": "山口勲",
           "trainer": "東眞市",
           "horseWeight": null,
-          "odds": 3.8,
+          "odds": 3.0,
           "recent": [
             {
               "fin": 4,
@@ -2626,7 +2626,7 @@ window.RACE_DATA = {
           "jockey": "金山昇馬",
           "trainer": "池田忠好",
           "horseWeight": null,
-          "odds": 5.0,
+          "odds": 3.6,
           "recent": [
             {
               "fin": 7,
@@ -2684,7 +2684,7 @@ window.RACE_DATA = {
         }
       ],
       "raceId": "202655112805",
-      "oddsUpdatedAt": "16:40"
+      "oddsUpdatedAt": "16:50"
     },
     {
       "raceNo": 6,
@@ -7676,5 +7676,5 @@ window.RACE_DATA = {
       "raceId": "202655112812"
     }
   ],
-  "oddsUpdatedAt": "16:40"
+  "oddsUpdatedAt": "16:50"
 };
